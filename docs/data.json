@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T10:01:53+00:00",
+ "generated_at": "2026-10-29T13:12:43+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
-   "snapshots": 8,
-   "distinct_stories": 132,
-   "avg_score": 260.1,
+   "snapshots": 9,
+   "distinct_stories": 146,
+   "avg_score": 261.1,
    "avg_comments": 146.1
   }
  ],
@@ -13,8 +13,8 @@
   {
    "domain": "github.com",
    "stories": 6,
-   "avg_peak_score": 199.7,
-   "total_comments": 550
+   "avg_peak_score": 201.3,
+   "total_comments": 564
   },
   {
    "domain": "wired.com",
@@ -25,32 +25,32 @@
   {
    "domain": "apple.com",
    "stories": 3,
-   "avg_peak_score": 460.3,
-   "total_comments": 2066
+   "avg_peak_score": 469.7,
+   "total_comments": 2102
+  },
+  {
+   "domain": "spectrum.ieee.org",
+   "stories": 3,
+   "avg_peak_score": 189.3,
+   "total_comments": 281
   },
   {
    "domain": "reuters.com",
    "stories": 3,
-   "avg_peak_score": 131.3,
-   "total_comments": 147
+   "avg_peak_score": 135.7,
+   "total_comments": 152
   },
   {
    "domain": "blog.google",
    "stories": 2,
-   "avg_peak_score": 500.5,
-   "total_comments": 807
+   "avg_peak_score": 516.0,
+   "total_comments": 829
   },
   {
    "domain": "arstechnica.com",
    "stories": 2,
-   "avg_peak_score": 353.5,
+   "avg_peak_score": 356.0,
    "total_comments": 297
-  },
-  {
-   "domain": "spectrum.ieee.org",
-   "stories": 2,
-   "avg_peak_score": 276.5,
-   "total_comments": 278
   },
   {
    "domain": "bbc.com",
@@ -61,66 +61,66 @@
   {
    "domain": "anthropic.com",
    "stories": 2,
-   "avg_peak_score": 186.0,
+   "avg_peak_score": 187.0,
    "total_comments": 372
-  },
-  {
-   "domain": "en.wikipedia.org",
-   "stories": 2,
-   "avg_peak_score": 24.0,
-   "total_comments": 5
   },
   {
    "domain": "nature.com",
    "stories": 2,
-   "avg_peak_score": 19.0,
-   "total_comments": 3
+   "avg_peak_score": 31.0,
+   "total_comments": 6
   },
   {
-   "domain": "ghostty.org",
-   "stories": 1,
-   "avg_peak_score": 1319.0,
-   "total_comments": 418
+   "domain": "en.wikipedia.org",
+   "stories": 2,
+   "avg_peak_score": 26.0,
+   "total_comments": 6
   },
   {
    "domain": "nullpt.rs",
    "stories": 1,
-   "avg_peak_score": 1227.0,
-   "total_comments": 232
+   "avg_peak_score": 1369.0,
+   "total_comments": 253
   },
   {
-   "domain": "openai.com",
+   "domain": "ghostty.org",
    "stories": 1,
-   "avg_peak_score": 1150.0,
-   "total_comments": 696
+   "avg_peak_score": 1327.0,
+   "total_comments": 422
   },
   {
    "domain": "emudhra.we-have-a-problem.com",
    "stories": 1,
-   "avg_peak_score": 1135.0,
-   "total_comments": 396
+   "avg_peak_score": 1155.0,
+   "total_comments": 399
+  },
+  {
+   "domain": "openai.com",
+   "stories": 1,
+   "avg_peak_score": 1152.0,
+   "total_comments": 697
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 4,
-   "avg_peak_score": 140.8
+   "stories": 5,
+   "avg_peak_score": 135.8
   },
   {
    "posted_hour_utc": 1,
    "stories": 5,
-   "avg_peak_score": 149.4
+   "avg_peak_score": 151.0
   },
   {
    "posted_hour_utc": 2,
    "stories": 2,
-   "avg_peak_score": 84.5
+   "avg_peak_score": 86.0
   },
   {
    "posted_hour_utc": 3,
    "stories": 6,
-   "avg_peak_score": 101.0
+   "avg_peak_score": 117.5
   },
   {
    "posted_hour_utc": 4,
@@ -130,12 +130,12 @@
   {
    "posted_hour_utc": 6,
    "stories": 4,
-   "avg_peak_score": 149.8
+   "avg_peak_score": 170.8
   },
   {
    "posted_hour_utc": 7,
    "stories": 5,
-   "avg_peak_score": 85.2
+   "avg_peak_score": 114.2
   },
   {
    "posted_hour_utc": 8,
@@ -144,375 +144,380 @@
   },
   {
    "posted_hour_utc": 9,
-   "stories": 1,
-   "avg_peak_score": 61.0
+   "stories": 2,
+   "avg_peak_score": 72.5
+  },
+  {
+   "posted_hour_utc": 10,
+   "stories": 3,
+   "avg_peak_score": 44.7
   },
   {
    "posted_hour_utc": 11,
-   "stories": 8,
-   "avg_peak_score": 332.4
+   "stories": 12,
+   "avg_peak_score": 240.3
   },
   {
    "posted_hour_utc": 12,
-   "stories": 6,
-   "avg_peak_score": 265.0
+   "stories": 10,
+   "avg_peak_score": 176.0
   },
   {
    "posted_hour_utc": 13,
    "stories": 13,
-   "avg_peak_score": 231.2
+   "avg_peak_score": 245.1
   },
   {
    "posted_hour_utc": 14,
    "stories": 9,
-   "avg_peak_score": 241.3
+   "avg_peak_score": 251.3
   },
   {
    "posted_hour_utc": 15,
    "stories": 8,
-   "avg_peak_score": 325.8
+   "avg_peak_score": 331.5
   },
   {
    "posted_hour_utc": 16,
    "stories": 9,
-   "avg_peak_score": 399.7
+   "avg_peak_score": 402.1
   },
   {
    "posted_hour_utc": 17,
    "stories": 11,
-   "avg_peak_score": 310.3
+   "avg_peak_score": 329.4
   },
   {
    "posted_hour_utc": 18,
    "stories": 4,
-   "avg_peak_score": 185.5
+   "avg_peak_score": 190.5
   },
   {
    "posted_hour_utc": 19,
    "stories": 5,
-   "avg_peak_score": 225.2
+   "avg_peak_score": 226.0
   },
   {
    "posted_hour_utc": 20,
    "stories": 8,
-   "avg_peak_score": 174.8
+   "avg_peak_score": 177.1
   },
   {
    "posted_hour_utc": 21,
-   "stories": 9,
-   "avg_peak_score": 435.7
+   "stories": 10,
+   "avg_peak_score": 410.0
   },
   {
    "posted_hour_utc": 22,
    "stories": 4,
-   "avg_peak_score": 73.0
+   "avg_peak_score": 74.5
   },
   {
    "posted_hour_utc": 23,
    "stories": 7,
-   "avg_peak_score": 121.1
+   "avg_peak_score": 143.1
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50282838,
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "domain": "divagr.com",
-   "score": 463,
-   "comments": 97,
-   "author": "csmantle",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287775,
+   "title": "If IPv4 Were Land",
+   "domain": "iptrust.co",
+   "score": 83,
+   "comments": 50,
+   "author": "rokostik",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 2,
-   "story_id": 50276998,
-   "title": "Why is this fingerprinting script creating bioweapons?",
-   "domain": "nullpt.rs",
-   "score": 1227,
-   "comments": 232,
-   "author": "hazebooth",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287599,
+   "title": "NetBSD adds a new beginner-friendly text editor called atto",
+   "domain": "mastodon.sdf.org",
+   "score": 25,
+   "comments": 17,
+   "author": "luke8086",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 3,
-   "story_id": 50243757,
-   "title": "Getting debug access on a Brother printer over Telnet",
-   "domain": "inventor7777.github.io",
-   "score": 42,
-   "comments": 10,
-   "author": "inventor7777",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287448,
+   "title": "Google determines the names for bodies of water in Google Earth (2008)",
+   "domain": "publicpolicy.googleblog.com",
+   "score": 36,
+   "comments": 11,
+   "author": "terminalbraid",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 4,
-   "story_id": 50285452,
-   "title": "Zero click, silent, remote Android DoS",
-   "domain": "smsofdeath.com",
-   "score": 55,
-   "comments": 28,
-   "author": "MarkBlah",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287919,
+   "title": "DoorDash to Acquire Instacart",
+   "domain": "ir.doordash.com",
+   "score": 32,
+   "comments": 14,
+   "author": "WalterSobchak",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 5,
-   "story_id": 50285319,
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "domain": "blog.orange.tw",
-   "score": 52,
-   "comments": 10,
-   "author": "austinallegro",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50282838,
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "domain": "divagr.com",
+   "score": 572,
+   "comments": 116,
+   "author": "csmantle",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 6,
-   "story_id": 50282454,
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "domain": "data.stackexchange.com",
-   "score": 450,
-   "comments": 374,
-   "author": "babelfish",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50276998,
+   "title": "Why is this fingerprinting script creating bioweapons?",
+   "domain": "nullpt.rs",
+   "score": 1369,
+   "comments": 253,
+   "author": "hazebooth",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 7,
-   "story_id": 50251200,
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "domain": "the-decoder.com",
-   "score": 149,
-   "comments": 59,
-   "author": "limbicsystem",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287001,
+   "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+   "domain": "electrek.co",
+   "score": 109,
+   "comments": 65,
+   "author": "ljf",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 8,
-   "story_id": 50280974,
-   "title": "A Health Update",
-   "domain": "furbo.org",
-   "score": 256,
-   "comments": 41,
-   "author": "frizlab",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50243757,
+   "title": "Getting debug access on a Brother printer over Telnet",
+   "domain": "inventor7777.github.io",
+   "score": 96,
+   "comments": 30,
+   "author": "inventor7777",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 9,
-   "story_id": 50256409,
-   "title": "A new faster algorithm to compute 64-bit signed floor division",
-   "domain": "benjoffe.com",
-   "score": 61,
-   "comments": 5,
-   "author": "benjoffe",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287255,
+   "title": "Show HN: UK Farming Simulator",
+   "domain": "butterbean.farm",
+   "score": 16,
+   "comments": 18,
+   "author": "pattle",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 10,
-   "story_id": 50282544,
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "domain": "alpinelinux.org",
-   "score": 179,
-   "comments": 84,
-   "author": "sashk",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50285452,
+   "title": "Zero click, silent, remote Android DoS",
+   "domain": "smsofdeath.com",
+   "score": 170,
+   "comments": 103,
+   "author": "MarkBlah",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 11,
-   "story_id": 50274409,
-   "title": "CNC Stone Carving",
-   "domain": "carmelitegothic.com",
-   "score": 471,
-   "comments": 130,
-   "author": "bschne",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50288019,
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "domain": "artificialanalysis.ai",
+   "score": 5,
+   "comments": 0,
+   "author": "theHocineSaad",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 12,
-   "story_id": 50284255,
-   "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-   "domain": "gist.github.com",
-   "score": 368,
-   "comments": 124,
-   "author": "NikZaal",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50287898,
+   "title": "Hackers expose the identities of more than 40k DHS employees",
+   "domain": "text.npr.org",
+   "score": 38,
+   "comments": 9,
+   "author": "firefax",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 13,
-   "story_id": 50259697,
-   "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-   "domain": "dmux.github.io",
-   "score": 10,
-   "comments": 0,
-   "author": "kermatt",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50285319,
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "domain": "blog.orange.tw",
+   "score": 134,
+   "comments": 25,
+   "author": "austinallegro",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 14,
-   "story_id": 50285714,
-   "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-   "domain": "timeanddate.com",
-   "score": 56,
-   "comments": 103,
-   "author": "n_plus_1_acc",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50286987,
+   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+   "domain": "dreamgroup.com",
+   "score": 14,
+   "comments": 2,
+   "author": "882542F3884314B",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 15,
-   "story_id": 50281044,
-   "title": "Formlabs Studio 1 $699 Resin Printer",
-   "domain": "formlabs.com",
-   "score": 185,
-   "comments": 120,
-   "author": "mhb",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50259697,
+   "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
+   "domain": "dmux.github.io",
+   "score": 50,
+   "comments": 6,
+   "author": "kermatt",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 16,
-   "story_id": 50243060,
-   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-   "domain": "circuithub.com",
-   "score": 500,
-   "comments": 227,
-   "author": "seddona",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50241195,
+   "title": "Requests, Please",
+   "domain": "morronel.github.io",
+   "score": 40,
+   "comments": 5,
+   "author": "sysoleg",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 17,
-   "story_id": 50276792,
-   "title": "Gemini 4 Carbon",
-   "domain": "blog.google",
-   "score": 935,
-   "comments": 751,
-   "author": "acossta",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50286738,
+   "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+   "domain": "spectrum.ieee.org",
+   "score": 11,
+   "comments": 3,
+   "author": "pseudolus",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 18,
-   "story_id": 50253150,
-   "title": "Show HN: Live speech-to-text on an ESP32-P4 microcontroller, no cloud",
-   "domain": "github.com",
-   "score": 4,
-   "comments": 1,
-   "author": "boumedinebillal",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50253100,
+   "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
+   "domain": "phys.org",
+   "score": 7,
+   "comments": 0,
+   "author": "wglb",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 19,
-   "story_id": 50241949,
-   "title": "Treap (Cartesian Tree)",
-   "domain": "cp-algorithms.com",
-   "score": 25,
-   "comments": 3,
-   "author": "vismit2000",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50282454,
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "domain": "data.stackexchange.com",
+   "score": 574,
+   "comments": 483,
+   "author": "babelfish",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 20,
-   "story_id": 50220975,
-   "title": "Why birds can fly over Mount Everest (2020)",
-   "domain": "lede-v2.nautil.us",
-   "score": 156,
-   "comments": 34,
-   "author": "andsoitis",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50251200,
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "domain": "the-decoder.com",
+   "score": 249,
+   "comments": 178,
+   "author": "limbicsystem",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 21,
-   "story_id": 50242873,
-   "title": "Human-enhanced tsunami hazard in large lakes",
-   "domain": "nature.com",
-   "score": 34,
-   "comments": 3,
-   "author": "gumby",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50251085,
+   "title": "Muhammad Aqeel: Undo for Postgres, without losing the rest of your day",
+   "domain": "pgedge.com",
+   "score": 18,
+   "comments": 5,
+   "author": "hnisjafx40",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 22,
-   "story_id": 50276940,
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "domain": "apple.com",
-   "score": 578,
-   "comments": 977,
-   "author": "etothet",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50280974,
+   "title": "A Health Update",
+   "domain": "furbo.org",
+   "score": 297,
+   "comments": 46,
+   "author": "frizlab",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 23,
-   "story_id": 50244929,
-   "title": "Nixpkgs for the Front End Impaired",
-   "domain": "fzakaria.com",
-   "score": 62,
-   "comments": 12,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50274409,
+   "title": "CNC Stone Carving",
+   "domain": "carmelitegothic.com",
+   "score": 492,
+   "comments": 137,
+   "author": "bschne",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 24,
-   "story_id": 50274251,
-   "title": "AlpineBSD",
-   "domain": "wiki.alpinebsd.org",
-   "score": 216,
-   "comments": 204,
-   "author": "bradley_taunt",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50282544,
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "domain": "alpinelinux.org",
+   "score": 202,
+   "comments": 96,
+   "author": "sashk",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 25,
-   "story_id": 50271640,
-   "title": "Apple's git still trusts the compromised eMudhra certificates",
-   "domain": "emudhra.we-have-a-problem.com",
-   "score": 1135,
-   "comments": 396,
-   "author": "galadran",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50256409,
+   "title": "A new faster algorithm to compute 64-bit signed floor division",
+   "domain": "benjoffe.com",
+   "score": 105,
+   "comments": 7,
+   "author": "benjoffe",
+   "snapshot_at": "2026-10-29T13:12:35"
+  },
+  {
+   "rank": 26,
+   "story_id": 50243060,
+   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+   "domain": "circuithub.com",
+   "score": 525,
+   "comments": 233,
+   "author": "seddona",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 27,
-   "story_id": 50286197,
-   "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
-   "domain": "bbc.com",
-   "score": 4,
-   "comments": 0,
-   "author": "ZeljkoS",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50284255,
+   "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+   "domain": "gist.github.com",
+   "score": 456,
+   "comments": 185,
+   "author": "NikZaal",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 28,
-   "story_id": 50277755,
-   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-   "domain": "quantamagazine.org",
-   "score": 64,
-   "comments": 6,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50241949,
+   "title": "Treap (Cartesian Tree)",
+   "domain": "cp-algorithms.com",
+   "score": 42,
+   "comments": 8,
+   "author": "vismit2000",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 29,
-   "story_id": 50275626,
-   "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-   "domain": "surgehq.ai",
-   "score": 232,
-   "comments": 151,
-   "author": "landonxi",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50276792,
+   "title": "Gemini 4 Carbon",
+   "domain": "blog.google",
+   "score": 963,
+   "comments": 771,
+   "author": "acossta",
+   "snapshot_at": "2026-10-29T13:12:35"
   },
   {
    "rank": 30,
-   "story_id": 50273731,
-   "title": "The Agent SDK",
-   "domain": "cursor.com",
-   "score": 127,
-   "comments": 124,
-   "author": "torutofu",
-   "snapshot_at": "2026-10-29T10:01:46"
-  },
-  {
-   "rank": 31,
-   "story_id": 50278253,
-   "title": "Scaling Hierarchical Networks",
-   "domain": "cartesia.ai",
-   "score": 67,
-   "comments": 4,
-   "author": "guybedo",
-   "snapshot_at": "2026-10-29T10:01:46"
+   "story_id": 50220975,
+   "title": "Why birds can fly over Mount Everest (2020)",
+   "domain": "lede-v2.nautil.us",
+   "score": 201,
+   "comments": 35,
+   "author": "andsoitis",
+   "snapshot_at": "2026-10-29T13:12:35"
   }
  ]
 }
