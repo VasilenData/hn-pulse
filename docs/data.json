@@ -1,98 +1,98 @@
 {
- "generated_at": "2026-10-29T03:58:49+00:00",
+ "generated_at": "2026-10-29T07:12:48+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
-   "snapshots": 6,
-   "distinct_stories": 116,
-   "avg_score": 253.3,
-   "avg_comments": 141.3
+   "snapshots": 7,
+   "distinct_stories": 123,
+   "avg_score": 256.7,
+   "avg_comments": 143.8
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 5,
-   "avg_peak_score": 220.0,
-   "total_comments": 426
+   "avg_peak_score": 233.6,
+   "total_comments": 504
   },
   {
    "domain": "wired.com",
    "stories": 3,
-   "avg_peak_score": 829.3,
-   "total_comments": 1519
+   "avg_peak_score": 833.7,
+   "total_comments": 1524
   },
   {
    "domain": "apple.com",
    "stories": 3,
-   "avg_peak_score": 439.7,
-   "total_comments": 1989
+   "avg_peak_score": 451.3,
+   "total_comments": 2031
+  },
+  {
+   "domain": "reuters.com",
+   "stories": 3,
+   "avg_peak_score": 126.7,
+   "total_comments": 143
   },
   {
    "domain": "blog.google",
    "stories": 2,
-   "avg_peak_score": 445.0,
-   "total_comments": 744
+   "avg_peak_score": 474.0,
+   "total_comments": 783
   },
   {
    "domain": "arstechnica.com",
    "stories": 2,
-   "avg_peak_score": 349.5,
-   "total_comments": 293
+   "avg_peak_score": 352.0,
+   "total_comments": 297
   },
   {
    "domain": "spectrum.ieee.org",
    "stories": 2,
-   "avg_peak_score": 273.0,
+   "avg_peak_score": 274.0,
    "total_comments": 278
   },
   {
    "domain": "anthropic.com",
    "stories": 2,
    "avg_peak_score": 185.0,
-   "total_comments": 370
-  },
-  {
-   "domain": "reuters.com",
-   "stories": 2,
-   "avg_peak_score": 166.5,
-   "total_comments": 123
+   "total_comments": 371
   },
   {
    "domain": "en.wikipedia.org",
    "stories": 2,
-   "avg_peak_score": 22.0,
-   "total_comments": 3
+   "avg_peak_score": 23.0,
+   "total_comments": 4
   },
   {
    "domain": "ghostty.org",
    "stories": 1,
-   "avg_peak_score": 1307.0,
-   "total_comments": 416
+   "avg_peak_score": 1316.0,
+   "total_comments": 417
   },
   {
    "domain": "openai.com",
    "stories": 1,
-   "avg_peak_score": 1149.0,
-   "total_comments": 695
+   "avg_peak_score": 1150.0,
+   "total_comments": 696
   },
   {
    "domain": "emudhra.we-have-a-problem.com",
    "stories": 1,
-   "avg_peak_score": 1070.0,
-   "total_comments": 381
-  },
-  {
-   "domain": "deepmind.google",
-   "stories": 1,
-   "avg_peak_score": 1022.0,
-   "total_comments": 581
+   "avg_peak_score": 1102.0,
+   "total_comments": 390
   },
   {
    "domain": "nullpt.rs",
    "stories": 1,
-   "avg_peak_score": 934.0,
-   "total_comments": 199
+   "avg_peak_score": 1066.0,
+   "total_comments": 216
+  },
+  {
+   "domain": "deepmind.google",
+   "stories": 1,
+   "avg_peak_score": 1027.0,
+   "total_comments": 582
   },
   {
    "domain": "danluu.com",
@@ -105,12 +105,12 @@
   {
    "posted_hour_utc": 0,
    "stories": 3,
-   "avg_peak_score": 93.7
+   "avg_peak_score": 140.3
   },
   {
    "posted_hour_utc": 1,
    "stories": 5,
-   "avg_peak_score": 145.6
+   "avg_peak_score": 149.2
   },
   {
    "posted_hour_utc": 2,
@@ -119,8 +119,8 @@
   },
   {
    "posted_hour_utc": 3,
-   "stories": 5,
-   "avg_peak_score": 26.8
+   "stories": 6,
+   "avg_peak_score": 81.7
   },
   {
    "posted_hour_utc": 4,
@@ -129,13 +129,13 @@
   },
   {
    "posted_hour_utc": 6,
-   "stories": 1,
-   "avg_peak_score": 476.0
+   "stories": 2,
+   "avg_peak_score": 246.5
   },
   {
    "posted_hour_utc": 7,
    "stories": 2,
-   "avg_peak_score": 154.0
+   "avg_peak_score": 154.5
   },
   {
    "posted_hour_utc": 8,
@@ -143,69 +143,74 @@
    "avg_peak_score": 96.0
   },
   {
+   "posted_hour_utc": 9,
+   "stories": 1,
+   "avg_peak_score": 27.0
+  },
+  {
    "posted_hour_utc": 11,
-   "stories": 6,
-   "avg_peak_score": 421.2
+   "stories": 8,
+   "avg_peak_score": 323.5
   },
   {
    "posted_hour_utc": 12,
    "stories": 6,
-   "avg_peak_score": 256.7
+   "avg_peak_score": 260.0
   },
   {
    "posted_hour_utc": 13,
    "stories": 12,
-   "avg_peak_score": 231.3
+   "avg_peak_score": 240.8
   },
   {
    "posted_hour_utc": 14,
    "stories": 8,
-   "avg_peak_score": 256.1
+   "avg_peak_score": 263.4
   },
   {
    "posted_hour_utc": 15,
-   "stories": 7,
-   "avg_peak_score": 284.4
+   "stories": 8,
+   "avg_peak_score": 321.3
   },
   {
    "posted_hour_utc": 16,
    "stories": 9,
-   "avg_peak_score": 386.3
+   "avg_peak_score": 395.9
   },
   {
    "posted_hour_utc": 17,
    "stories": 11,
-   "avg_peak_score": 267.4
+   "avg_peak_score": 288.3
   },
   {
    "posted_hour_utc": 18,
    "stories": 4,
-   "avg_peak_score": 175.5
+   "avg_peak_score": 181.3
   },
   {
    "posted_hour_utc": 19,
    "stories": 5,
-   "avg_peak_score": 220.8
+   "avg_peak_score": 224.0
   },
   {
    "posted_hour_utc": 20,
    "stories": 8,
-   "avg_peak_score": 167.8
+   "avg_peak_score": 172.9
   },
   {
    "posted_hour_utc": 21,
-   "stories": 8,
-   "avg_peak_score": 451.8
+   "stories": 9,
+   "avg_peak_score": 418.0
   },
   {
    "posted_hour_utc": 22,
    "stories": 4,
-   "avg_peak_score": 62.3
+   "avg_peak_score": 67.5
   },
   {
    "posted_hour_utc": 23,
    "stories": 7,
-   "avg_peak_score": 69.4
+   "avg_peak_score": 95.1
   }
  ],
  "mart_front_page_now": [
@@ -214,300 +219,300 @@
    "story_id": 50282838,
    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
    "domain": "divagr.com",
-   "score": 185,
-   "comments": 42,
+   "score": 325,
+   "comments": 76,
    "author": "csmantle",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 2,
    "story_id": 50276998,
    "title": "Why is this fingerprinting script creating bioweapons?",
    "domain": "nullpt.rs",
-   "score": 934,
-   "comments": 199,
+   "score": 1066,
+   "comments": 216,
    "author": "hazebooth",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 3,
-   "story_id": 50282544,
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "domain": "alpinelinux.org",
-   "score": 110,
-   "comments": 44,
-   "author": "sashk",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50285177,
+   "title": "Bernstein \u2013 open-source governance layer for AI agents",
+   "domain": "bernstein.run",
+   "score": 14,
+   "comments": 1,
+   "author": "ankitg12",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 4,
-   "story_id": 50280974,
-   "title": "A Health Update",
-   "domain": "furbo.org",
-   "score": 142,
-   "comments": 19,
-   "author": "frizlab",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50256409,
+   "title": "A new faster algorithm to compute 64-bit signed floor division",
+   "domain": "benjoffe.com",
+   "score": 27,
+   "comments": 2,
+   "author": "benjoffe",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 5,
-   "story_id": 50274409,
-   "title": "CNC Stone Carving",
-   "domain": "carmelitegothic.com",
-   "score": 426,
-   "comments": 122,
-   "author": "bschne",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50282544,
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "domain": "alpinelinux.org",
+   "score": 149,
+   "comments": 65,
+   "author": "sashk",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 6,
-   "story_id": 50282454,
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "domain": "data.stackexchange.com",
-   "score": 181,
-   "comments": 179,
-   "author": "babelfish",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50284255,
+   "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+   "domain": "gist.github.com",
+   "score": 266,
+   "comments": 81,
+   "author": "NikZaal",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 7,
-   "story_id": 50276792,
-   "title": "Gemini 4 Carbon",
-   "domain": "blog.google",
-   "score": 840,
-   "comments": 699,
-   "author": "acossta",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50280974,
+   "title": "A Health Update",
+   "domain": "furbo.org",
+   "score": 196,
+   "comments": 32,
+   "author": "frizlab",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 8,
-   "story_id": 50242873,
-   "title": "Human-enhanced tsunami hazard in large lakes",
-   "domain": "nature.com",
-   "score": 14,
-   "comments": 1,
-   "author": "gumby",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50282454,
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "domain": "data.stackexchange.com",
+   "score": 307,
+   "comments": 267,
+   "author": "babelfish",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 9,
-   "story_id": 50281044,
-   "title": "Formlabs Studio 1 $699 Resin Printer",
-   "domain": "formlabs.com",
-   "score": 144,
-   "comments": 96,
-   "author": "mhb",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50274409,
+   "title": "CNC Stone Carving",
+   "domain": "carmelitegothic.com",
+   "score": 453,
+   "comments": 125,
+   "author": "bschne",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 10,
-   "story_id": 50284089,
-   "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
-   "domain": "oxfam.org",
-   "score": 53,
-   "comments": 8,
-   "author": "botanical",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50251200,
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "domain": "the-decoder.com",
+   "score": 70,
+   "comments": 18,
+   "author": "limbicsystem",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 11,
-   "story_id": 50243060,
-   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-   "domain": "circuithub.com",
-   "score": 456,
-   "comments": 209,
-   "author": "seddona",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50276792,
+   "title": "Gemini 4 Carbon",
+   "domain": "blog.google",
+   "score": 887,
+   "comments": 733,
+   "author": "acossta",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 12,
-   "story_id": 50233059,
-   "title": "The 'else' keyword is probably a literal translation from German (2020)",
-   "domain": "github.com",
-   "score": 18,
-   "comments": 4,
-   "author": "theanonymousone",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50281044,
+   "title": "Formlabs Studio 1 $699 Resin Printer",
+   "domain": "formlabs.com",
+   "score": 166,
+   "comments": 107,
+   "author": "mhb",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 13,
-   "story_id": 50276940,
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "domain": "apple.com",
-   "score": 523,
-   "comments": 902,
-   "author": "etothet",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50243060,
+   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+   "domain": "circuithub.com",
+   "score": 487,
+   "comments": 217,
+   "author": "seddona",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 14,
-   "story_id": 50244929,
-   "title": "Nixpkgs for the Front End Impaired",
-   "domain": "fzakaria.com",
-   "score": 22,
-   "comments": 4,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50242873,
+   "title": "Human-enhanced tsunami hazard in large lakes",
+   "domain": "nature.com",
+   "score": 29,
+   "comments": 2,
+   "author": "gumby",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 15,
-   "story_id": 50220975,
-   "title": "Why birds can fly over Mount Everest (2020)",
-   "domain": "lede-v2.nautil.us",
-   "score": 99,
-   "comments": 15,
-   "author": "andsoitis",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50241949,
+   "title": "Treap (Cartesian Tree)",
+   "domain": "cp-algorithms.com",
+   "score": 12,
+   "comments": 1,
+   "author": "vismit2000",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 16,
-   "story_id": 50233948,
-   "title": "How we made our MMDB files a 33% smaller",
-   "domain": "ipinfo.io",
-   "score": 20,
-   "comments": 3,
-   "author": "mmaia",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50271756,
+   "title": "TLP Is Not a Suggestion",
+   "domain": "akamai.com",
+   "score": 6,
+   "comments": 0,
+   "author": "sneela",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 17,
-   "story_id": 50280722,
-   "title": "The case of the 9 bit AES key",
-   "domain": "v12.sh",
-   "score": 96,
-   "comments": 45,
-   "author": "ledoge",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50220975,
+   "title": "Why birds can fly over Mount Everest (2020)",
+   "domain": "lede-v2.nautil.us",
+   "score": 124,
+   "comments": 17,
+   "author": "andsoitis",
+   "snapshot_at": "2026-10-29T07:12:43"
+  },
+  {
+   "rank": 18,
+   "story_id": 50276940,
+   "title": "MacBook Pro with PROLED XDR Display and Touch",
+   "domain": "apple.com",
+   "score": 556,
+   "comments": 943,
+   "author": "etothet",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 19,
-   "story_id": 50274251,
-   "title": "AlpineBSD",
-   "domain": "wiki.alpinebsd.org",
-   "score": 186,
-   "comments": 175,
-   "author": "bradley_taunt",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50244929,
+   "title": "Nixpkgs for the Front End Impaired",
+   "domain": "fzakaria.com",
+   "score": 44,
+   "comments": 9,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 20,
-   "story_id": 50275626,
-   "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-   "domain": "surgehq.ai",
-   "score": 215,
-   "comments": 139,
-   "author": "landonxi",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50233059,
+   "title": "The 'else' keyword is probably a literal translation from German (2020)",
+   "domain": "github.com",
+   "score": 86,
+   "comments": 79,
+   "author": "theanonymousone",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 21,
-   "story_id": 50284255,
-   "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
-   "domain": "gist.github.com",
-   "score": 15,
-   "comments": 0,
-   "author": "NikZaal",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50274251,
+   "title": "AlpineBSD",
+   "domain": "wiki.alpinebsd.org",
+   "score": 197,
+   "comments": 187,
+   "author": "bradley_taunt",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 22,
-   "story_id": 50271640,
-   "title": "Apple's git still trusts the compromised eMudhra certificates",
-   "domain": "emudhra.we-have-a-problem.com",
-   "score": 1070,
-   "comments": 381,
-   "author": "galadran",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50284342,
+   "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+   "domain": "reuters.com",
+   "score": 32,
+   "comments": 9,
+   "author": "WaitWaitWha",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 23,
-   "story_id": 50282538,
-   "title": "The first wired XR glasses powered by Android XR",
-   "domain": "blog.google",
-   "score": 50,
-   "comments": 45,
-   "author": "yincrash",
-   "snapshot_at": "2026-10-29T03:58:41"
-  },
-  {
-   "rank": 24,
-   "story_id": 50277755,
-   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-   "domain": "quantamagazine.org",
-   "score": 53,
-   "comments": 5,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50271640,
+   "title": "Apple's git still trusts the compromised eMudhra certificates",
+   "domain": "emudhra.we-have-a-problem.com",
+   "score": 1102,
+   "comments": 390,
+   "author": "galadran",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 25,
-   "story_id": 50250609,
-   "title": "Image generation has come a long way since August 2022",
-   "domain": "hbrooks.com",
-   "score": 42,
-   "comments": 15,
-   "author": "hunterbrooks",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50275626,
+   "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+   "domain": "surgehq.ai",
+   "score": 224,
+   "comments": 145,
+   "author": "landonxi",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 26,
    "story_id": 50278253,
    "title": "Scaling Hierarchical Networks",
    "domain": "cartesia.ai",
-   "score": 45,
-   "comments": 1,
+   "score": 58,
+   "comments": 2,
    "author": "guybedo",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 27,
-   "story_id": 50273171,
-   "title": "Emacs Turns 50",
-   "domain": "technologyreview.com",
-   "score": 442,
-   "comments": 184,
-   "author": "internet_points",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50277755,
+   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+   "domain": "quantamagazine.org",
+   "score": 58,
+   "comments": 6,
+   "author": "ibobev",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 28,
-   "story_id": 50283488,
-   "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
-   "domain": "designboom.com",
-   "score": 20,
-   "comments": 0,
-   "author": "thunderbong",
-   "snapshot_at": "2026-10-29T03:58:41"
-  },
-  {
-   "rank": 29,
    "story_id": 50284329,
    "title": "The Milwaukee Brewers win the first World Series title in franchise history",
    "domain": "cnn.com",
-   "score": 3,
-   "comments": 0,
+   "score": 75,
+   "comments": 41,
    "author": "skeptrune",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "snapshot_at": "2026-10-29T07:12:43"
+  },
+  {
+   "rank": 29,
+   "story_id": 50233948,
+   "title": "How we made our MMDB files a 33% smaller",
+   "domain": "ipinfo.io",
+   "score": 26,
+   "comments": 4,
+   "author": "mmaia",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 30,
-   "story_id": 50273731,
-   "title": "The Agent SDK",
-   "domain": "cursor.com",
+   "story_id": 50280722,
+   "title": "The case of the 9 bit AES key",
+   "domain": "v12.sh",
    "score": 105,
-   "comments": 115,
-   "author": "torutofu",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "comments": 53,
+   "author": "ledoge",
+   "snapshot_at": "2026-10-29T07:12:43"
   },
   {
    "rank": 31,
-   "story_id": 50280662,
-   "title": "Leak website releases data on DHS employees",
-   "domain": "reuters.com",
-   "score": 107,
-   "comments": 22,
-   "author": "wondersky",
-   "snapshot_at": "2026-10-29T03:58:41"
+   "story_id": 50273171,
+   "title": "Emacs Turns 50",
+   "domain": "technologyreview.com",
+   "score": 473,
+   "comments": 200,
+   "author": "internet_points",
+   "snapshot_at": "2026-10-29T07:12:43"
   }
  ]
 }
