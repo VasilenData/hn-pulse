@@ -1,32 +1,32 @@
 {
- "generated_at": "2026-10-29T16:06:15+00:00",
+ "generated_at": "2026-10-29T19:05:02+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
-   "snapshots": 10,
-   "distinct_stories": 164,
-   "avg_score": 260.5,
-   "avg_comments": 145.5
+   "snapshots": 11,
+   "distinct_stories": 200,
+   "avg_score": 255.7,
+   "avg_comments": 142.3
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 7,
-   "avg_peak_score": 175.4,
-   "total_comments": 570
+   "stories": 10,
+   "avg_peak_score": 136.3,
+   "total_comments": 616
   },
   {
    "domain": "wired.com",
-   "stories": 3,
-   "avg_peak_score": 839.3,
-   "total_comments": 1539
+   "stories": 5,
+   "avg_peak_score": 527.4,
+   "total_comments": 1667
   },
   {
    "domain": "apple.com",
    "stories": 3,
-   "avg_peak_score": 471.3,
-   "total_comments": 2141
+   "avg_peak_score": 472.7,
+   "total_comments": 2157
   },
   {
    "domain": "arstechnica.com",
@@ -37,8 +37,8 @@
   {
    "domain": "spectrum.ieee.org",
    "stories": 3,
-   "avg_peak_score": 198.7,
-   "total_comments": 302
+   "avg_peak_score": 201.0,
+   "total_comments": 304
   },
   {
    "domain": "reuters.com",
@@ -47,16 +47,22 @@
    "total_comments": 155
   },
   {
+   "domain": "nature.com",
+   "stories": 3,
+   "avg_peak_score": 23.3,
+   "total_comments": 7
+  },
+  {
    "domain": "blog.google",
    "stories": 2,
-   "avg_peak_score": 528.5,
-   "total_comments": 844
+   "avg_peak_score": 540.0,
+   "total_comments": 859
   },
   {
    "domain": "bbc.com",
    "stories": 2,
-   "avg_peak_score": 271.0,
-   "total_comments": 779
+   "avg_peak_score": 309.0,
+   "total_comments": 922
   },
   {
    "domain": "anthropic.com",
@@ -65,10 +71,10 @@
    "total_comments": 372
   },
   {
-   "domain": "nature.com",
+   "domain": "martinfowler.com",
    "stories": 2,
-   "avg_peak_score": 33.0,
-   "total_comments": 6
+   "avg_peak_score": 113.0,
+   "total_comments": 192
   },
   {
    "domain": "en.wikipedia.org",
@@ -83,34 +89,28 @@
    "total_comments": 2
   },
   {
-   "domain": "nullpt.rs",
-   "stories": 1,
-   "avg_peak_score": 1473.0,
-   "total_comments": 273
+   "domain": "hunio.org",
+   "stories": 2,
+   "avg_peak_score": 10.0,
+   "total_comments": 2
   },
   {
-   "domain": "ghostty.org",
-   "stories": 1,
-   "avg_peak_score": 1334.0,
-   "total_comments": 426
-  },
-  {
-   "domain": "emudhra.we-have-a-problem.com",
-   "stories": 1,
-   "avg_peak_score": 1167.0,
-   "total_comments": 401
+   "domain": "nytimes.com",
+   "stories": 2,
+   "avg_peak_score": 8.5,
+   "total_comments": 0
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 5,
-   "avg_peak_score": 153.8
+   "avg_peak_score": 161.2
   },
   {
    "posted_hour_utc": 1,
    "stories": 5,
-   "avg_peak_score": 152.8
+   "avg_peak_score": 153.0
   },
   {
    "posted_hour_utc": 2,
@@ -120,7 +120,7 @@
   {
    "posted_hour_utc": 3,
    "stories": 6,
-   "avg_peak_score": 130.2
+   "avg_peak_score": 133.7
   },
   {
    "posted_hour_utc": 4,
@@ -128,74 +128,79 @@
    "avg_peak_score": 112.0
   },
   {
+   "posted_hour_utc": 5,
+   "stories": 1,
+   "avg_peak_score": 8.0
+  },
+  {
    "posted_hour_utc": 6,
    "stories": 4,
-   "avg_peak_score": 186.0
+   "avg_peak_score": 206.0
   },
   {
    "posted_hour_utc": 7,
    "stories": 5,
-   "avg_peak_score": 131.8
+   "avg_peak_score": 140.4
   },
   {
    "posted_hour_utc": 8,
    "stories": 2,
-   "avg_peak_score": 50.0
+   "avg_peak_score": 88.0
   },
   {
    "posted_hour_utc": 9,
    "stories": 3,
-   "avg_peak_score": 71.3
+   "avg_peak_score": 76.0
   },
   {
    "posted_hour_utc": 10,
-   "stories": 4,
-   "avg_peak_score": 95.0
+   "stories": 5,
+   "avg_peak_score": 100.2
   },
   {
    "posted_hour_utc": 11,
    "stories": 12,
-   "avg_peak_score": 259.0
+   "avg_peak_score": 267.1
   },
   {
    "posted_hour_utc": 12,
    "stories": 11,
-   "avg_peak_score": 215.9
+   "avg_peak_score": 244.1
   },
   {
    "posted_hour_utc": 13,
    "stories": 16,
-   "avg_peak_score": 228.4
+   "avg_peak_score": 238.1
   },
   {
    "posted_hour_utc": 14,
-   "stories": 15,
-   "avg_peak_score": 201.2
+   "stories": 16,
+   "avg_peak_score": 224.6
   },
   {
    "posted_hour_utc": 15,
-   "stories": 13,
-   "avg_peak_score": 209.5
+   "stories": 18,
+   "avg_peak_score": 182.9
   },
   {
    "posted_hour_utc": 16,
-   "stories": 10,
-   "avg_peak_score": 364.0
+   "stories": 21,
+   "avg_peak_score": 201.7
   },
   {
    "posted_hour_utc": 17,
-   "stories": 11,
-   "avg_peak_score": 341.9
+   "stories": 19,
+   "avg_peak_score": 205.5
   },
   {
    "posted_hour_utc": 18,
-   "stories": 4,
-   "avg_peak_score": 193.3
+   "stories": 13,
+   "avg_peak_score": 69.8
   },
   {
    "posted_hour_utc": 19,
    "stories": 5,
-   "avg_peak_score": 227.4
+   "avg_peak_score": 227.8
   },
   {
    "posted_hour_utc": 20,
@@ -205,7 +210,7 @@
   {
    "posted_hour_utc": 21,
    "stories": 10,
-   "avg_peak_score": 422.4
+   "avg_peak_score": 434.6
   },
   {
    "posted_hour_utc": 22,
@@ -215,309 +220,309 @@
   {
    "posted_hour_utc": 23,
    "stories": 7,
-   "avg_peak_score": 164.3
+   "avg_peak_score": 174.7
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
    "story_id": 50289418,
-   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+   "title": "We're releasing the weights of Mistral Large 4",
    "domain": "mistral.ai",
-   "score": 431,
-   "comments": 101,
+   "score": 793,
+   "comments": 211,
    "author": "kuberwastaken",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 2,
-   "story_id": 50288019,
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "domain": "artificialanalysis.ai",
-   "score": 258,
-   "comments": 198,
-   "author": "theHocineSaad",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50291054,
+   "title": "H.264 Is Magic (2016)",
+   "domain": "sidbala.com",
+   "score": 164,
+   "comments": 87,
+   "author": "ea016",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 3,
-   "story_id": 50288867,
-   "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-   "domain": "vox.com",
-   "score": 324,
-   "comments": 202,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50290177,
+   "title": "LLM Voice",
+   "domain": "martinfowler.com",
+   "score": 154,
+   "comments": 88,
+   "author": "ibobev",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 4,
-   "story_id": 50290283,
-   "title": "Only 40% of AI-cited statistics trace back to a study",
-   "domain": "trakkr.ai",
-   "score": 35,
-   "comments": 6,
-   "author": "mektrik",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50287919,
+   "title": "DoorDash to acquire Instacart",
+   "domain": "about.doordash.com",
+   "score": 277,
+   "comments": 495,
+   "author": "WalterSobchak",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 5,
-   "story_id": 50289859,
-   "title": "DoorDash is acquiring Instacart for $17B",
-   "domain": "about.doordash.com",
-   "score": 118,
-   "comments": 97,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50290912,
+   "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+   "domain": "skypilot.ai",
+   "score": 85,
+   "comments": 7,
+   "author": "wondersky",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 6,
-   "story_id": 50286987,
-   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-   "domain": "dreamgroup.com",
-   "score": 121,
-   "comments": 57,
-   "author": "882542F3884314B",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50290283,
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "domain": "trakkr.ai",
+   "score": 94,
+   "comments": 46,
+   "author": "mektrik",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 7,
-   "story_id": 50291116,
-   "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
-   "domain": "news.ycombinator.com",
-   "score": 5,
-   "comments": 1,
-   "author": "shong0504",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50292233,
+   "title": "Tom\u00e1\u0161 Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+   "domain": "vut.cz",
+   "score": 97,
+   "comments": 9,
+   "author": "armcat",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 8,
-   "story_id": 50291054,
-   "title": "H.264 Is Magic",
-   "domain": "sidbala.com",
-   "score": 8,
-   "comments": 1,
-   "author": "ea016",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50291927,
+   "title": "Toxic experts (2017)",
+   "domain": "nedbatchelder.com",
+   "score": 48,
+   "comments": 27,
+   "author": "luu",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 9,
-   "story_id": 50282838,
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "domain": "divagr.com",
-   "score": 638,
-   "comments": 135,
-   "author": "csmantle",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50286987,
+   "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+   "domain": "dreamgroup.com",
+   "score": 190,
+   "comments": 91,
+   "author": "882542F3884314B",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 10,
-   "story_id": 50242509,
-   "title": "Java's new AOT cache feature is in a rough state",
-   "domain": "xpipe.io",
-   "score": 45,
-   "comments": 16,
-   "author": "theanonymousone",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50291421,
+   "title": "16colo.rs \u2013 ANSI/ASCII art archive",
+   "domain": "16colo.rs",
+   "score": 38,
+   "comments": 4,
+   "author": "memalign",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 11,
-   "story_id": 50287448,
-   "title": "Google determines the names for bodies of water in Google Earth (2008)",
-   "domain": "publicpolicy.googleblog.com",
-   "score": 149,
-   "comments": 117,
-   "author": "terminalbraid",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50291116,
+   "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+   "domain": "news.ycombinator.com",
+   "score": 22,
+   "comments": 10,
+   "author": "shong0504",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 12,
-   "story_id": 50285452,
-   "title": "Zero click, silent, remote Android DoS",
-   "domain": "smsofdeath.com",
-   "score": 250,
-   "comments": 127,
-   "author": "MarkBlah",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50291945,
+   "title": "Google Search is now less than half of Alphabet\u2019s revenue",
+   "domain": "kadoa.com",
+   "score": 315,
+   "comments": 259,
+   "author": "hubraumhugo",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 13,
-   "story_id": 50276998,
-   "title": "Why is this fingerprinting script creating bioweapons?",
-   "domain": "nullpt.rs",
-   "score": 1473,
-   "comments": 273,
-   "author": "hazebooth",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50293023,
+   "title": "After 28 years walking across the globe, he's almost home",
+   "domain": "nytimes.com",
+   "score": 6,
+   "comments": 0,
+   "author": "rafaelc",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 14,
-   "story_id": 50289162,
-   "title": "Why are good developers so wary of agentic development?",
-   "domain": "martinfowler.com",
-   "score": 17,
-   "comments": 11,
-   "author": "torutofu",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50287775,
+   "title": "If IPv4 were land",
+   "domain": "iptrust.co",
+   "score": 169,
+   "comments": 178,
+   "author": "rokostik",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 15,
-   "story_id": 50289590,
-   "title": "Keplearn: Extract Equations from Data in Seconds",
-   "domain": "github.com",
-   "score": 16,
-   "comments": 1,
-   "author": "owls-on-wires",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50290668,
+   "title": "I went to Mexico to test-drive the cars Americans can\u2019t buy",
+   "domain": "washingtonpost.com",
+   "score": 201,
+   "comments": 202,
+   "author": "bookofjoe",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 16,
-   "story_id": 50243757,
-   "title": "Getting debug access on a Brother printer over Telnet",
-   "domain": "inventor7777.github.io",
-   "score": 143,
-   "comments": 43,
-   "author": "inventor7777",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50255161,
+   "title": "Edit an SQLite database in your browser",
+   "domain": "editsqlite.com",
+   "score": 8,
+   "comments": 2,
+   "author": "chmaynard",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 17,
-   "story_id": 50290170,
-   "title": "Finland investigate Google over destruction of 250k trees",
-   "domain": "yle.fi",
-   "score": 81,
-   "comments": 51,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50278645,
+   "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
+   "domain": "github.com",
+   "score": 41,
+   "comments": 22,
+   "author": "g0xA52A2A",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 18,
-   "story_id": 50287001,
-   "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-   "domain": "electrek.co",
-   "score": 214,
-   "comments": 139,
-   "author": "ljf",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50287599,
+   "title": "NetBSD adds a new text editor called atto",
+   "domain": "mastodon.sdf.org",
+   "score": 128,
+   "comments": 102,
+   "author": "luke8086",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 19,
-   "story_id": 50287898,
-   "title": "Hackers expose the identities of more than 40k DHS employees",
-   "domain": "text.npr.org",
-   "score": 174,
-   "comments": 36,
-   "author": "firefax",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50286197,
+   "title": "What we know so far about Spain train crash",
+   "domain": "bbc.com",
+   "score": 80,
+   "comments": 143,
+   "author": "ZeljkoS",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 20,
-   "story_id": 50287599,
-   "title": "NetBSD adds a new beginner-friendly text editor called atto",
-   "domain": "mastodon.sdf.org",
-   "score": 90,
-   "comments": 71,
-   "author": "luke8086",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50247342,
+   "title": "The tragedy of losing your Wikipedia page",
+   "domain": "wired.com",
+   "score": 30,
+   "comments": 46,
+   "author": "tptacek",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 21,
-   "story_id": 50285319,
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "domain": "blog.orange.tw",
-   "score": 192,
-   "comments": 35,
-   "author": "austinallegro",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50289590,
+   "title": "Keplearn: Extract Equations from Data in Seconds",
+   "domain": "github.com",
+   "score": 61,
+   "comments": 3,
+   "author": "owls-on-wires",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 22,
-   "story_id": 50253100,
-   "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
-   "domain": "phys.org",
-   "score": 31,
-   "comments": 6,
-   "author": "wglb",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50287448,
+   "title": "How Google determines the names for bodies of water in Google Earth (2008)",
+   "domain": "publicpolicy.googleblog.com",
+   "score": 198,
+   "comments": 161,
+   "author": "terminalbraid",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 23,
-   "story_id": 50251200,
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "domain": "the-decoder.com",
-   "score": 327,
-   "comments": 221,
-   "author": "limbicsystem",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50285154,
+   "title": "We won't \"just hang out\"",
+   "domain": "borretti.me",
+   "score": 104,
+   "comments": 177,
+   "author": "barry-cotter",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 24,
-   "story_id": 50259697,
-   "title": "MiniLake Is a Local Databricks API Emulator with SQL, Delta Lake and Spark",
-   "domain": "dmux.github.io",
-   "score": 82,
-   "comments": 17,
-   "author": "kermatt",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50233059,
+   "title": "If-then-else had to be invented (2020)",
+   "domain": "github.com",
+   "score": 141,
+   "comments": 147,
+   "author": "theanonymousone",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 25,
-   "story_id": 50261373,
-   "title": "Two RTX 5090 hosts sharing a KV cache over Ethernet",
-   "domain": "viiwork.pulu.app",
-   "score": 4,
-   "comments": 0,
-   "author": "velmu",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50293361,
+   "title": "Show HN: phpClaw \u2013 AI agent runtime for PHP with tools, memory and guards",
+   "domain": "github.com",
+   "score": 6,
+   "comments": 3,
+   "author": "akashpatel7204",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 26,
-   "story_id": 50282454,
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "domain": "data.stackexchange.com",
-   "score": 686,
-   "comments": 581,
-   "author": "babelfish",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50242509,
+   "title": "Java's new AOT cache feature is in a rough state",
+   "domain": "xpipe.io",
+   "score": 75,
+   "comments": 25,
+   "author": "theanonymousone",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 27,
-   "story_id": 50280974,
-   "title": "A Health Update",
-   "domain": "furbo.org",
-   "score": 331,
-   "comments": 52,
-   "author": "frizlab",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50282538,
+   "title": "The first wired XR glasses powered by Android XR",
+   "domain": "blog.google",
+   "score": 88,
+   "comments": 67,
+   "author": "yincrash",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 28,
-   "story_id": 50290668,
-   "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
-   "domain": "washingtonpost.com",
-   "score": 11,
-   "comments": 2,
-   "author": "bookofjoe",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50262608,
+   "title": "Blanets and Weird Worlds",
+   "domain": "antipope.org",
+   "score": 12,
+   "comments": 1,
+   "author": "pavel_lishin",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 29,
-   "story_id": 50282544,
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "domain": "alpinelinux.org",
-   "score": 235,
-   "comments": 109,
-   "author": "sashk",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50293308,
+   "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
+   "domain": "github.com",
+   "score": 21,
+   "comments": 9,
+   "author": "ka1s",
+   "snapshot_at": "2026-10-29T19:04:55"
   },
   {
    "rank": 30,
-   "story_id": 50274409,
-   "title": "CNC Stone Carving",
-   "domain": "carmelitegothic.com",
-   "score": 512,
-   "comments": 141,
-   "author": "bschne",
-   "snapshot_at": "2026-10-29T16:06:06"
+   "story_id": 50280722,
+   "title": "The case of the 9 bit AES key",
+   "domain": "v12.sh",
+   "score": 119,
+   "comments": 65,
+   "author": "ledoge",
+   "snapshot_at": "2026-10-29T19:04:55"
   }
  ]
 }
