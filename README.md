@@ -60,4 +60,4 @@ docs/                 static dashboard (GitHub Pages)
 Swap DuckDB for a cloud warehouse (BigQuery or Snowflake) by changing the dbt profile, and add story-level trend features.
 
 ---
-Built by [Vasilen Kanchev](https://vasilendata.github.io) · [LinkedIn](https://www.linkedin.com/in/vasilen-kanchev-030878290/)
+Built by [Vasilen Kanchev](https://vasilendata.github.io) · [LinkedIn](https://www.linkedin.com/in/vasilenkanchev/)
