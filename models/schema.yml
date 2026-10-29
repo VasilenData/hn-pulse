@@ -1,0 +1,34 @@
+version: 2
+models:
+  - name: stg_snapshots
+    columns:
+      - name: story_id
+        tests: [not_null]
+      - name: snapshot_at
+        tests: [not_null]
+      - name: rank
+        tests:
+          - not_null
+          - rank_in_window
+      - name: score
+        tests: [not_null]
+      - name: domain
+        tests: [not_null]
+  - name: fct_stories
+    columns:
+      - name: story_id
+        tests: [unique, not_null]
+      - name: peak_score
+        tests: [not_null]
+  - name: mart_top_domains
+    columns:
+      - name: domain
+        tests: [unique, not_null]
+  - name: mart_hourly_activity
+    columns:
+      - name: posted_hour_utc
+        tests: [unique, not_null]
+  - name: mart_front_page_now
+    columns:
+      - name: rank
+        tests: [unique, not_null]
