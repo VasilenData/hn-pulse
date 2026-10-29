@@ -1,0 +1,199 @@
+snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
+2026-10-29T00:09:37+00:00,1,50276998,Why is this fingerprinting script creating bioweapons?,https://nullpt.rs/fingerprinting-bioweapons,hazebooth,738,169,2026-10-28T17:13:29+00:00
+2026-10-29T00:09:37+00:00,2,50282544,GitLab Security Incident: Attempted Exploitation of CVE-2026-97229,https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html,sashk,15,0,2026-10-28T23:45:46+00:00
+2026-10-29T00:09:37+00:00,3,50274409,CNC Stone Carving,https://carmelitegothic.com/cnc-stone-carving/,bschne,389,112,2026-10-28T14:38:22+00:00
+2026-10-29T00:09:37+00:00,4,50276792,Gemini 4 Carbon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/,acossta,768,626,2026-10-28T17:01:23+00:00
+2026-10-29T00:09:37+00:00,5,50280974,A Health Update,https://furbo.org/2026/10/28/a-health-update/,frizlab,48,3,2026-10-28T21:13:21+00:00
+2026-10-29T00:09:37+00:00,6,50280722,The case of the 9 bit AES key,https://v12.sh/blog/the-case-of-the-9bit-aes-key,ledoge,62,31,2026-10-28T20:51:44+00:00
+2026-10-29T00:09:37+00:00,7,50281044,Formlabs Studio 1 $699 Resin Printer,https://formlabs.com/products/form-studio-1-basic-founders-edition/,mhb,90,73,2026-10-28T21:19:30+00:00
+2026-10-29T00:09:37+00:00,8,50276940,MacBook Pro with PROLED XDR Display and Touch,https://www.apple.com/macbook-pro/proled-xdr-display/,etothet,476,827,2026-10-28T17:10:37+00:00
+2026-10-29T00:09:37+00:00,9,50220975,Why Birds Can Fly over Mount Everest,https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864,andsoitis,43,9,2026-10-24T13:17:59+00:00
+2026-10-29T00:09:37+00:00,10,50243060,"The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",https://www.circuithub.com/post/unveiling-the-grid,seddona,400,194,2026-10-26T13:13:31+00:00
+2026-10-29T00:09:37+00:00,11,50208960,Start Doing Graph Theory,https://vertex.degree/,ibobev,563,123,2026-10-23T13:49:50+00:00
+2026-10-29T00:09:37+00:00,13,50275626,Dayjob: Tax – evaluating AI agents on 50 professional tax assignments,https://surgehq.ai/blog/dayjob-tax,landonxi,191,117,2026-10-28T15:46:30+00:00
+2026-10-29T00:09:37+00:00,14,50274251,AlpineBSD,https://wiki.alpinebsd.org,bradley_taunt,169,154,2026-10-28T14:30:26+00:00
+2026-10-29T00:09:37+00:00,15,50277755,Spiders Spin 'Silk Dope' into Nature's Toughest Material,https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/,ibobev,44,3,2026-10-28T17:45:24+00:00
+2026-10-29T00:09:37+00:00,16,50271640,Apple's git still trusts the compromised eMudhra certificates,https://emudhra.we-have-a-problem.com/apple.html,galadran,1024,375,2026-10-28T11:03:40+00:00
+2026-10-29T00:09:37+00:00,17,50209269,Gaussian Splats part 3: There's always a bigger scene,https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene,ibobev,98,20,2026-10-23T14:07:21+00:00
+2026-10-29T00:09:37+00:00,18,50273731,The Agent SDK,https://cursor.com/blog/agent-sdk,torutofu,90,107,2026-10-28T14:02:20+00:00
+2026-10-29T00:09:37+00:00,19,50276883,Show HN: SlideBySide – Present slides without sharing your screen,https://slidebyside.com/,denismenace,53,21,2026-10-28T17:07:09+00:00
+2026-10-29T00:09:37+00:00,20,50273171,Emacs Turns 50,https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/,internet_points,394,168,2026-10-28T13:25:11+00:00
+2026-10-29T00:09:37+00:00,21,50280662,Leak website releases data on DHS employees,https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/,wondersky,51,8,2026-10-28T20:46:52+00:00
+2026-10-29T00:09:37+00:00,22,50250609,Image generation has come a long way since August 2022,https://www.hbrooks.com/writing/image-generation-has-come-a-long-way,hunterbrooks,23,6,2026-10-26T20:40:36+00:00
+2026-10-29T00:09:37+00:00,23,50238637,Oseberg Tapestry Fragments,https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments,benbreen,15,0,2026-10-26T03:14:49+00:00
+2026-10-29T00:09:37+00:00,24,50273396,Kentucky man becomes the first humanist granted religious exemption from AI,https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/,danso,413,458,2026-10-28T13:41:30+00:00
+2026-10-29T00:09:37+00:00,25,50278253,Scaling Hierarchical Networks,https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1,guybedo,21,0,2026-10-28T18:07:41+00:00
+2026-10-29T00:09:37+00:00,26,50275373,Archive.today links going forward,https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/,consumer451,185,117,2026-10-28T15:31:58+00:00
+2026-10-29T00:09:37+00:00,27,50268478,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),https://arxiv.org/abs/2610.36341,abrax3141,17,0,2026-10-28T02:01:51+00:00
+2026-10-29T00:09:37+00:00,28,50261998,Ghostty 1.4,https://ghostty.org/docs/install/release-notes/1-4-0,deaux,1291,412,2026-10-27T16:51:22+00:00
+2026-10-29T00:09:37+00:00,29,50275128,Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages,https://huggingface.co/blog/nvidia/nemotron-transcribe-granary,wondersky,106,17,2026-10-28T15:17:53+00:00
+2026-10-29T00:09:37+00:00,30,50261319,Genie 4,https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/,acossta,1019,576,2026-10-27T16:06:01+00:00
+2026-10-29T00:09:37+00:00,31,50272145,US agency approves Amazon Leo’s $11.5B acquisition of Globalstar,https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/,noptd,222,100,2026-10-28T11:54:23+00:00
+2026-10-29T00:09:37+00:00,32,50227400,MacOS Extensions Pack for the Apple Network Server v1.0,http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html,classichasclass,117,2,2026-10-25T01:39:51+00:00
+2026-10-29T00:09:37+00:00,33,50280864,"Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/,Aboutplants,256,114,2026-10-28T21:03:24+00:00
+2026-10-29T00:09:37+00:00,34,50272479,Sleep framework: A new way for LLMs to retain knowledge in continual learning,https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/,acossta,29,3,2026-10-28T12:24:25+00:00
+2026-10-29T00:09:37+00:00,35,50268380,Git for the US Code,https://lexifina.com/blog/git-for-the-us-code,alansaber,425,252,2026-10-28T01:47:50+00:00
+2026-10-29T00:09:37+00:00,36,50234796,Ink droplets in motion snag top prize in Nikon Small World contest,https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/,_Microft,388,69,2026-10-25T18:49:48+00:00
+2026-10-29T00:09:37+00:00,37,50281015,"Alien 3 Is Getting a Second Chance on the Amiga CD32, More Than 30 Years Later",https://handheldhideout.neocities.org/articles/alien-3-cd32-second-chance-amiga,doener,9,0,2026-10-28T21:17:09+00:00
+2026-10-29T00:09:37+00:00,38,50279722,"GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",https://thenewstack.io/github-7-4b-commits-september/,theanonymousone,20,4,2026-10-28T19:41:13+00:00
+2026-10-29T00:09:37+00:00,39,50265594,Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees,https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/,sthlmb,213,137,2026-10-27T20:48:49+00:00
+2026-10-29T00:09:37+00:00,40,50264853,Survival LLM: AI assistant and emergency library that runs on your own computer,https://www.brangus.io/survival-llm,Luc,516,193,2026-10-27T19:55:06+00:00
+2026-10-29T00:09:37+00:00,41,50272596,"Two high-speed trains collide near Toledo, Spain",https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash,evilmonkey19,179,199,2026-10-28T12:35:41+00:00
+2026-10-29T00:09:37+00:00,42,50265128,Four Months of Zig,https://gracefulliberty.com/articles/four-months-of-zig/,ibobev,176,137,2026-10-27T20:13:27+00:00
+2026-10-29T00:09:37+00:00,43,50279386,Mecca Defence Alliance,https://en.wikipedia.org/wiki/Mecca_Defence_Alliance,handfuloflight,20,0,2026-10-28T19:20:36+00:00
+2026-10-29T00:09:37+00:00,44,50219275,A Love Letter to the Super Dimension Fortress,https://brennan.day/a-love-letter-to-the-super-dimension-fortress/,jruohonen,92,17,2026-10-24T08:30:32+00:00
+2026-10-29T00:09:37+00:00,45,50271685,About the compromised eMudhra intermediate CAs,https://support.apple.com/en-us/149555,birdculture,151,73,2026-10-28T11:08:49+00:00
+2026-10-29T00:09:37+00:00,46,50218199,The Colors of a Soap Film,https://aseemrb.me/blog/colors-of-a-soap-film/,gregsadetsky,43,7,2026-10-24T03:46:00+00:00
+2026-10-29T00:09:37+00:00,47,50273753,The October inflection point for vibe game development,https://simonwillison.net/2026/Oct/28/vibe-game-development/,simonw,26,33,2026-10-28T14:03:31+00:00
+2026-10-29T00:09:37+00:00,48,50223739,Decompiling Fast Food Tycoon 2: Drawing the World,https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world,healeycodes,191,41,2026-10-24T18:17:57+00:00
+2026-10-29T00:09:37+00:00,49,50242688,Jokes for the ZX81,https://spelk.press/gb/products/81-jokes-for-the-zx81,robin_reala,120,18,2026-10-26T12:45:16+00:00
+2026-10-29T00:09:37+00:00,50,50273416,Decompiling Games with AI: Virtueel Zoetermeer,https://bou.ke/blog/zoetermeer/,bouk,12,1,2026-10-28T13:43:32+00:00
+2026-10-29T00:09:37+00:00,51,50267569,"Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",https://github.com/maharmstone/moxnox,SockThief,89,30,2026-10-27T23:53:41+00:00
+2026-10-29T00:09:37+00:00,52,50264857,Tailscale SSH: Investigation and remediation update,https://tailscale.com/ssh-investigation-update,figmert,377,189,2026-10-27T19:55:21+00:00
+2026-10-29T00:09:37+00:00,53,50274300,Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days,https://yavashark.dev/blog/announcing-yavashark/,sharktheone,18,2,2026-10-28T14:32:29+00:00
+2026-10-29T00:09:37+00:00,54,50272749,Evidence of a spying operation by ICE against left-wing social movements,https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/,zzzeek,1086,898,2026-10-28T12:49:45+00:00
+2026-10-29T00:09:37+00:00,55,50251344,"Three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,jonluca,1145,692,2026-10-26T21:35:28+00:00
+2026-10-29T00:09:37+00:00,56,50265609,Early progress on accelerating drug development with Claude,https://www.anthropic.com/research/early-progress-drug-development,dataking,321,331,2026-10-27T20:50:42+00:00
+2026-10-29T00:09:37+00:00,57,50262229,Introducing LFM3: Every Modality for Specialized Intelligence,https://www.liquid.ai/blog/lfm3,Philpax,167,63,2026-10-27T17:04:50+00:00
+2026-10-29T00:09:37+00:00,58,50257419,Python's experimental JIT to be removed,https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/,f311a,562,325,2026-10-27T11:17:57+00:00
+2026-10-29T00:09:37+00:00,59,50262982,Radio-tagged Monarch butterflies,https://news.vt.edu/articles/2026/10/cmi-monarchs.html,rdmuser,72,25,2026-10-27T17:48:15+00:00
+2026-10-29T00:09:37+00:00,60,50271968,Show HN: Squishy 3D helpers powered by Three.js,https://prathje.github.io/plushies/,prathje,10,4,2026-10-28T11:38:56+00:00
+2026-10-29T00:09:37+00:00,61,50237014,Counting Sand Dunes in the Simpson Desert,https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes,bryanrasmussen,17,2,2026-10-25T23:18:18+00:00
+2026-10-29T00:09:37+00:00,62,50243153,Land Value Capture in Practice: Ethiopia's Urban Land Lease System,https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections,surprisetalk,75,24,2026-10-26T13:20:04+00:00
+2026-10-29T00:09:37+00:00,63,50230896,Assembly Nights (2021),https://ratfactor.com/assembly-nights,andsoitis,69,22,2026-10-25T12:35:37+00:00
+2026-10-29T00:09:37+00:00,64,50265413,Hex Raises $100M,https://hex.tech/blog/hex-new-era/,tomwphillips,77,60,2026-10-27T20:36:38+00:00
+2026-10-29T00:09:37+00:00,65,50258868,Here be monsters: What do you still need to know when agents do the work?,https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work,adrq,196,102,2026-10-27T13:23:22+00:00
+2026-10-29T00:09:37+00:00,66,50231649,Regent's Ground-Effect Vehicle Reimagines Coastal Travel,https://spectrum.ieee.org/ground-effect-vehicle,rbanffy,46,40,2026-10-25T13:56:07+00:00
+2026-10-29T00:09:37+00:00,67,50257326,Wikipedia's Cleanup of AI-Generated Content,https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup,rbanffy,497,235,2026-10-27T11:08:15+00:00
+2026-10-29T00:09:37+00:00,68,50261352,New 14‑inch MacBook Pro with M6,https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/,beex,421,602,2026-10-27T16:08:32+00:00
+2026-10-29T00:09:37+00:00,69,50273201,Show HN: Nasscad – local-first 3D CAD for browser and Windows,https://www.nasscad.com/NASSCAD_V4_7_0.htm,Nasser-13,24,19,2026-10-28T13:28:32+00:00
+2026-10-29T00:09:37+00:00,70,50266880,"I've used WordPress for 20 years, and I've stopped recommending it",https://hatamoto.dev/post/wordpress-20-years-why-we-built-hatamoto,zenincognito,50,31,2026-10-27T22:40:37+00:00
+2026-10-29T00:09:37+00:00,71,50258538,New iMac with M6,https://www.apple.com/imac/,notfried,371,481,2026-10-27T13:02:02+00:00
+2026-10-29T00:09:37+00:00,72,50255298,The Mythical Man-Month in the Age of AI,https://j11g.com/the-mythical-man-month-in-the-age-of-ai,ilreb,475,352,2026-10-27T06:25:37+00:00
+2026-10-29T00:09:37+00:00,73,50277498,Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac,https://videocardz.com/newz/nintendos-worst-nightmare-begins-as-switch-2-exclusive-games-start-running-on-pcs-and-macs,ada-h00k,15,5,2026-10-28T17:34:17+00:00
+2026-10-29T00:09:37+00:00,74,50239214,SS United States to be sunk as largest artificial reef,https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november,geox,198,164,2026-10-26T04:41:15+00:00
+2026-10-29T00:09:37+00:00,75,50232101,OpenLDK: Bringing the Java World into Common Lisp,https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/,atgreen,107,15,2026-10-25T14:45:13+00:00
+2026-10-29T00:09:37+00:00,76,50272515,"Show HN: Popkern – open-source CAD kernel with G2 corner blends, browser IDE",https://popkern.dev/,geedy,11,3,2026-10-28T12:26:27+00:00
+2026-10-29T00:09:37+00:00,77,50260814,Anthropic trained Claude on illegally obtained Stanford professors' books,https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/,car,568,287,2026-10-27T15:28:26+00:00
+2026-10-29T00:09:37+00:00,78,50239122,Closing the Sea: Lessons from Ancient Mediterranean Blockades,https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades,gumby,26,4,2026-10-26T04:28:49+00:00
+2026-10-29T00:09:37+00:00,79,50261589,Amazon Is Gutting Its AI Division After Sustained Failure,https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova,dpflan,366,283,2026-10-27T16:25:30+00:00
+2026-10-29T00:09:37+00:00,80,50253939,I still teach OpenGL ES 3.0,https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html,majorchord,149,89,2026-10-27T02:15:10+00:00
+2026-10-29T00:09:37+00:00,81,50265393,Code-execution flaw in UEFI firmware threatens most servers on planet Earth,https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/,DamnInteresting,303,220,2026-10-27T20:35:09+00:00
+2026-10-29T00:09:37+00:00,82,50225695,We should be more ambitious with the software we build,https://danluu.com/ambitious/,ltratt,903,774,2026-10-24T21:47:31+00:00
+2026-10-29T00:09:37+00:00,83,50261647,Classification of Finite Simple Groups Formalized in Lean,https://cfsg.axiommath.ai/,pfdietz,236,74,2026-10-27T16:29:02+00:00
+2026-10-29T00:09:37+00:00,84,50275375,Scanning 7.25M Public Repositories on China's Largest Git Platform for Secrets,https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets,kernelrocks,27,6,2026-10-28T15:31:59+00:00
+2026-10-29T00:09:37+00:00,85,50266701,Expanding our partnership with GSA to bring Claude to all levels of government,https://www.anthropic.com/news/expanding-partnership-gsa,matthieu_bl,48,32,2026-10-27T22:23:37+00:00
+2026-10-29T00:09:37+00:00,86,50266719,Hunger beats tenure: Advice for junior engineers,https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/,akavi,115,94,2026-10-27T22:25:23+00:00
+2026-10-29T00:09:37+00:00,87,50236073,Nvidia and Micron Make Up 34% of America's Earnings Boom,https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53,JumpCrisscross,170,42,2026-10-25T21:07:38+00:00
+2026-10-29T00:09:37+00:00,88,50251661,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,vok,794,297,2026-10-26T21:59:15+00:00
+2026-10-29T00:09:37+00:00,89,50263701,Three TLS Bugs in GoAhead,https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead,owenshen24,69,15,2026-10-27T18:33:48+00:00
+2026-10-29T00:09:37+00:00,90,50245138,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,sgiannopoulos,842,115,2026-10-26T15:11:59+00:00
+2026-10-29T00:09:37+00:00,91,50276280,NTFS3 Hardened in Linux 7.4 Against Corrupted Maliciously-Crafted NTFS Volumes,https://www.phoronix.com/news/Linux-7.4-NTFS3,Bender,12,0,2026-10-28T16:26:42+00:00
+2026-10-29T00:09:37+00:00,92,50218975,Show HN: Encarta 95 Web,https://benwinding.github.io/encarta_95_web/#/article/Art,gitgud,148,63,2026-10-24T07:18:37+00:00
+2026-10-29T00:09:37+00:00,93,50276235,Major Memory Vendor: We're Basically Sold Out Through 2029,https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029,Vaslo,20,7,2026-10-28T16:23:24+00:00
+2026-10-29T00:09:37+00:00,94,50259604,US Government is hiding a secret court ruling about how it spies on Americans,https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/,helterskelter2,1069,429,2026-10-27T14:06:42+00:00
+2026-10-29T00:09:37+00:00,95,50261583,"PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/,bigfish2026,65,13,2026-10-27T16:25:12+00:00
+2026-10-29T00:09:37+00:00,96,50247928,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,aray07,231,99,2026-10-26T17:49:55+00:00
+2026-10-29T00:09:37+00:00,97,50253529,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,doener,147,34,2026-10-27T01:15:04+00:00
+2026-10-29T00:09:37+00:00,98,50240465,How to grow a cacao tree at home (2024),https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/,felipevb,160,47,2026-10-26T07:50:17+00:00
+2026-10-29T00:09:37+00:00,99,50224079,An examination of lost firefly species of the US and Canada,https://journaloflostspecies.org/index.php/jls/article/view/37/33,bryanrasmussen,145,66,2026-10-24T19:04:42+00:00
+2026-10-29T00:09:37+00:00,100,50277764,Particle-1,https://particle.ai/blog/introducing-particle-1,meetpateltech,14,3,2026-10-28T17:45:39+00:00
+2026-10-29T00:10:01+00:00,1,50276998,Why is this fingerprinting script creating bioweapons?,https://nullpt.rs/fingerprinting-bioweapons,hazebooth,740,169,2026-10-28T17:13:29+00:00
+2026-10-29T00:10:01+00:00,2,50282544,GitLab Security Incident: Attempted Exploitation of CVE-2026-97229,https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html,sashk,15,0,2026-10-28T23:45:46+00:00
+2026-10-29T00:10:01+00:00,3,50274409,CNC Stone Carving,https://carmelitegothic.com/cnc-stone-carving/,bschne,389,112,2026-10-28T14:38:22+00:00
+2026-10-29T00:10:01+00:00,4,50276792,Gemini 4 Carbon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/,acossta,768,626,2026-10-28T17:01:23+00:00
+2026-10-29T00:10:01+00:00,5,50280974,A Health Update,https://furbo.org/2026/10/28/a-health-update/,frizlab,48,3,2026-10-28T21:13:21+00:00
+2026-10-29T00:10:01+00:00,6,50280722,The case of the 9 bit AES key,https://v12.sh/blog/the-case-of-the-9bit-aes-key,ledoge,62,31,2026-10-28T20:51:44+00:00
+2026-10-29T00:10:01+00:00,7,50281044,Formlabs Studio 1 $699 Resin Printer,https://formlabs.com/products/form-studio-1-basic-founders-edition/,mhb,90,73,2026-10-28T21:19:30+00:00
+2026-10-29T00:10:01+00:00,8,50276940,MacBook Pro with PROLED XDR Display and Touch,https://www.apple.com/macbook-pro/proled-xdr-display/,etothet,476,827,2026-10-28T17:10:37+00:00
+2026-10-29T00:10:01+00:00,9,50220975,Why Birds Can Fly over Mount Everest,https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864,andsoitis,43,9,2026-10-24T13:17:59+00:00
+2026-10-29T00:10:01+00:00,10,50243060,"The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",https://www.circuithub.com/post/unveiling-the-grid,seddona,400,194,2026-10-26T13:13:31+00:00
+2026-10-29T00:10:01+00:00,11,50208960,Start Doing Graph Theory,https://vertex.degree/,ibobev,563,124,2026-10-23T13:49:50+00:00
+2026-10-29T00:10:01+00:00,13,50275626,Dayjob: Tax – evaluating AI agents on 50 professional tax assignments,https://surgehq.ai/blog/dayjob-tax,landonxi,191,117,2026-10-28T15:46:30+00:00
+2026-10-29T00:10:01+00:00,14,50274251,AlpineBSD,https://wiki.alpinebsd.org,bradley_taunt,169,154,2026-10-28T14:30:26+00:00
+2026-10-29T00:10:01+00:00,15,50277755,Spiders Spin 'Silk Dope' into Nature's Toughest Material,https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/,ibobev,44,3,2026-10-28T17:45:24+00:00
+2026-10-29T00:10:01+00:00,16,50271640,Apple's git still trusts the compromised eMudhra certificates,https://emudhra.we-have-a-problem.com/apple.html,galadran,1025,375,2026-10-28T11:03:40+00:00
+2026-10-29T00:10:01+00:00,17,50209269,Gaussian Splats part 3: There's always a bigger scene,https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene,ibobev,98,20,2026-10-23T14:07:21+00:00
+2026-10-29T00:10:01+00:00,18,50273731,The Agent SDK,https://cursor.com/blog/agent-sdk,torutofu,90,107,2026-10-28T14:02:20+00:00
+2026-10-29T00:10:01+00:00,19,50276883,Show HN: SlideBySide – Present slides without sharing your screen,https://slidebyside.com/,denismenace,53,21,2026-10-28T17:07:09+00:00
+2026-10-29T00:10:01+00:00,20,50273171,Emacs Turns 50,https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/,internet_points,394,168,2026-10-28T13:25:11+00:00
+2026-10-29T00:10:01+00:00,21,50280662,Leak website releases data on DHS employees,https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/,wondersky,51,8,2026-10-28T20:46:52+00:00
+2026-10-29T00:10:01+00:00,22,50250609,Image generation has come a long way since August 2022,https://www.hbrooks.com/writing/image-generation-has-come-a-long-way,hunterbrooks,23,6,2026-10-26T20:40:36+00:00
+2026-10-29T00:10:01+00:00,23,50238637,Oseberg Tapestry Fragments,https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments,benbreen,15,0,2026-10-26T03:14:49+00:00
+2026-10-29T00:10:01+00:00,24,50273396,Kentucky man becomes the first humanist granted religious exemption from AI,https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/,danso,413,458,2026-10-28T13:41:30+00:00
+2026-10-29T00:10:01+00:00,25,50278253,Scaling Hierarchical Networks,https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1,guybedo,21,0,2026-10-28T18:07:41+00:00
+2026-10-29T00:10:01+00:00,26,50275373,Archive.today links going forward,https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/,consumer451,185,118,2026-10-28T15:31:58+00:00
+2026-10-29T00:10:01+00:00,27,50268478,Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984),https://arxiv.org/abs/2610.36341,abrax3141,17,0,2026-10-28T02:01:51+00:00
+2026-10-29T00:10:01+00:00,28,50261998,Ghostty 1.4,https://ghostty.org/docs/install/release-notes/1-4-0,deaux,1291,412,2026-10-27T16:51:22+00:00
+2026-10-29T00:10:01+00:00,29,50275128,Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages,https://huggingface.co/blog/nvidia/nemotron-transcribe-granary,wondersky,106,17,2026-10-28T15:17:53+00:00
+2026-10-29T00:10:01+00:00,30,50261319,Genie 4,https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/,acossta,1019,576,2026-10-27T16:06:01+00:00
+2026-10-29T00:10:01+00:00,31,50272145,US agency approves Amazon Leo’s $11.5B acquisition of Globalstar,https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/,noptd,222,100,2026-10-28T11:54:23+00:00
+2026-10-29T00:10:01+00:00,32,50227400,MacOS Extensions Pack for the Apple Network Server v1.0,http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html,classichasclass,117,2,2026-10-25T01:39:51+00:00
+2026-10-29T00:10:01+00:00,33,50280864,"Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/,Aboutplants,256,114,2026-10-28T21:03:24+00:00
+2026-10-29T00:10:01+00:00,34,50272479,Sleep framework: A new way for LLMs to retain knowledge in continual learning,https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/,acossta,29,3,2026-10-28T12:24:25+00:00
+2026-10-29T00:10:01+00:00,35,50268380,Git for the US Code,https://lexifina.com/blog/git-for-the-us-code,alansaber,425,252,2026-10-28T01:47:50+00:00
+2026-10-29T00:10:01+00:00,36,50234796,Ink droplets in motion snag top prize in Nikon Small World contest,https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/,_Microft,388,69,2026-10-25T18:49:48+00:00
+2026-10-29T00:10:01+00:00,37,50281015,"Alien 3 Is Getting a Second Chance on the Amiga CD32, More Than 30 Years Later",https://handheldhideout.neocities.org/articles/alien-3-cd32-second-chance-amiga,doener,9,0,2026-10-28T21:17:09+00:00
+2026-10-29T00:10:01+00:00,38,50279722,"GitHub saw 7.4B commits in Sep., adding 4M CPU cores+160 PB storage to keep up",https://thenewstack.io/github-7-4b-commits-september/,theanonymousone,20,4,2026-10-28T19:41:13+00:00
+2026-10-29T00:10:01+00:00,39,50265594,Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees,https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/,sthlmb,213,137,2026-10-27T20:48:49+00:00
+2026-10-29T00:10:01+00:00,40,50264853,Survival LLM: AI assistant and emergency library that runs on your own computer,https://www.brangus.io/survival-llm,Luc,516,193,2026-10-27T19:55:06+00:00
+2026-10-29T00:10:01+00:00,41,50272596,"Two high-speed trains collide near Toledo, Spain",https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash,evilmonkey19,179,199,2026-10-28T12:35:41+00:00
+2026-10-29T00:10:01+00:00,42,50265128,Four Months of Zig,https://gracefulliberty.com/articles/four-months-of-zig/,ibobev,176,137,2026-10-27T20:13:27+00:00
+2026-10-29T00:10:01+00:00,43,50279386,Mecca Defence Alliance,https://en.wikipedia.org/wiki/Mecca_Defence_Alliance,handfuloflight,20,0,2026-10-28T19:20:36+00:00
+2026-10-29T00:10:01+00:00,44,50219275,A Love Letter to the Super Dimension Fortress,https://brennan.day/a-love-letter-to-the-super-dimension-fortress/,jruohonen,92,17,2026-10-24T08:30:32+00:00
+2026-10-29T00:10:01+00:00,45,50271685,About the compromised eMudhra intermediate CAs,https://support.apple.com/en-us/149555,birdculture,151,73,2026-10-28T11:08:49+00:00
+2026-10-29T00:10:01+00:00,46,50218199,The Colors of a Soap Film,https://aseemrb.me/blog/colors-of-a-soap-film/,gregsadetsky,43,7,2026-10-24T03:46:00+00:00
+2026-10-29T00:10:01+00:00,47,50273753,The October inflection point for vibe game development,https://simonwillison.net/2026/Oct/28/vibe-game-development/,simonw,26,33,2026-10-28T14:03:31+00:00
+2026-10-29T00:10:01+00:00,48,50223739,Decompiling Fast Food Tycoon 2: Drawing the World,https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world,healeycodes,191,41,2026-10-24T18:17:57+00:00
+2026-10-29T00:10:01+00:00,49,50242688,Jokes for the ZX81,https://spelk.press/gb/products/81-jokes-for-the-zx81,robin_reala,120,18,2026-10-26T12:45:16+00:00
+2026-10-29T00:10:01+00:00,50,50273416,Decompiling Games with AI: Virtueel Zoetermeer,https://bou.ke/blog/zoetermeer/,bouk,12,1,2026-10-28T13:43:32+00:00
+2026-10-29T00:10:01+00:00,51,50267569,"Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",https://github.com/maharmstone/moxnox,SockThief,89,30,2026-10-27T23:53:41+00:00
+2026-10-29T00:10:01+00:00,52,50264857,Tailscale SSH: Investigation and remediation update,https://tailscale.com/ssh-investigation-update,figmert,377,189,2026-10-27T19:55:21+00:00
+2026-10-29T00:10:01+00:00,53,50274300,Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days,https://yavashark.dev/blog/announcing-yavashark/,sharktheone,18,2,2026-10-28T14:32:29+00:00
+2026-10-29T00:10:01+00:00,54,50272749,Evidence of a spying operation by ICE against left-wing social movements,https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/,zzzeek,1086,898,2026-10-28T12:49:45+00:00
+2026-10-29T00:10:01+00:00,55,50251344,"Three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,jonluca,1145,692,2026-10-26T21:35:28+00:00
+2026-10-29T00:10:01+00:00,56,50265609,Early progress on accelerating drug development with Claude,https://www.anthropic.com/research/early-progress-drug-development,dataking,321,331,2026-10-27T20:50:42+00:00
+2026-10-29T00:10:01+00:00,57,50262229,Introducing LFM3: Every Modality for Specialized Intelligence,https://www.liquid.ai/blog/lfm3,Philpax,167,63,2026-10-27T17:04:50+00:00
+2026-10-29T00:10:01+00:00,58,50257419,Python's experimental JIT to be removed,https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/,f311a,562,325,2026-10-27T11:17:57+00:00
+2026-10-29T00:10:01+00:00,59,50262982,Radio-tagged Monarch butterflies,https://news.vt.edu/articles/2026/10/cmi-monarchs.html,rdmuser,72,25,2026-10-27T17:48:15+00:00
+2026-10-29T00:10:01+00:00,60,50271968,Show HN: Squishy 3D helpers powered by Three.js,https://prathje.github.io/plushies/,prathje,10,4,2026-10-28T11:38:56+00:00
+2026-10-29T00:10:01+00:00,61,50237014,Counting Sand Dunes in the Simpson Desert,https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes,bryanrasmussen,17,2,2026-10-25T23:18:18+00:00
+2026-10-29T00:10:01+00:00,62,50243153,Land Value Capture in Practice: Ethiopia's Urban Land Lease System,https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections,surprisetalk,75,24,2026-10-26T13:20:04+00:00
+2026-10-29T00:10:01+00:00,63,50230896,Assembly Nights (2021),https://ratfactor.com/assembly-nights,andsoitis,69,22,2026-10-25T12:35:37+00:00
+2026-10-29T00:10:01+00:00,64,50265413,Hex Raises $100M,https://hex.tech/blog/hex-new-era/,tomwphillips,77,60,2026-10-27T20:36:38+00:00
+2026-10-29T00:10:01+00:00,65,50258868,Here be monsters: What do you still need to know when agents do the work?,https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work,adrq,196,102,2026-10-27T13:23:22+00:00
+2026-10-29T00:10:01+00:00,66,50231649,Regent's Ground-Effect Vehicle Reimagines Coastal Travel,https://spectrum.ieee.org/ground-effect-vehicle,rbanffy,46,40,2026-10-25T13:56:07+00:00
+2026-10-29T00:10:01+00:00,67,50257326,Wikipedia's Cleanup of AI-Generated Content,https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup,rbanffy,497,235,2026-10-27T11:08:15+00:00
+2026-10-29T00:10:01+00:00,68,50261352,New 14‑inch MacBook Pro with M6,https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/,beex,421,602,2026-10-27T16:08:32+00:00
+2026-10-29T00:10:01+00:00,69,50273201,Show HN: Nasscad – local-first 3D CAD for browser and Windows,https://www.nasscad.com/NASSCAD_V4_7_0.htm,Nasser-13,24,19,2026-10-28T13:28:32+00:00
+2026-10-29T00:10:01+00:00,70,50266880,"I've used WordPress for 20 years, and I've stopped recommending it",https://hatamoto.dev/post/wordpress-20-years-why-we-built-hatamoto,zenincognito,50,31,2026-10-27T22:40:37+00:00
+2026-10-29T00:10:01+00:00,71,50258538,New iMac with M6,https://www.apple.com/imac/,notfried,371,481,2026-10-27T13:02:02+00:00
+2026-10-29T00:10:01+00:00,72,50255298,The Mythical Man-Month in the Age of AI,https://j11g.com/the-mythical-man-month-in-the-age-of-ai,ilreb,475,352,2026-10-27T06:25:37+00:00
+2026-10-29T00:10:01+00:00,73,50239214,SS United States to be sunk as largest artificial reef,https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november,geox,198,164,2026-10-26T04:41:15+00:00
+2026-10-29T00:10:01+00:00,74,50277498,Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac,https://videocardz.com/newz/nintendos-worst-nightmare-begins-as-switch-2-exclusive-games-start-running-on-pcs-and-macs,ada-h00k,15,5,2026-10-28T17:34:17+00:00
+2026-10-29T00:10:01+00:00,75,50232101,OpenLDK: Bringing the Java World into Common Lisp,https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/,atgreen,107,15,2026-10-25T14:45:13+00:00
+2026-10-29T00:10:01+00:00,76,50272515,"Show HN: Popkern – open-source CAD kernel with G2 corner blends, browser IDE",https://popkern.dev/,geedy,11,3,2026-10-28T12:26:27+00:00
+2026-10-29T00:10:01+00:00,77,50260814,Anthropic trained Claude on illegally obtained Stanford professors' books,https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/,car,568,287,2026-10-27T15:28:26+00:00
+2026-10-29T00:10:01+00:00,78,50261589,Amazon Is Gutting Its AI Division After Sustained Failure,https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova,dpflan,366,283,2026-10-27T16:25:30+00:00
+2026-10-29T00:10:01+00:00,79,50239122,Closing the Sea: Lessons from Ancient Mediterranean Blockades,https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades,gumby,26,4,2026-10-26T04:28:49+00:00
+2026-10-29T00:10:01+00:00,80,50253939,I still teach OpenGL ES 3.0,https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html,majorchord,149,89,2026-10-27T02:15:10+00:00
+2026-10-29T00:10:01+00:00,81,50265393,Code-execution flaw in UEFI firmware threatens most servers on planet Earth,https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/,DamnInteresting,303,220,2026-10-27T20:35:09+00:00
+2026-10-29T00:10:01+00:00,82,50225695,We should be more ambitious with the software we build,https://danluu.com/ambitious/,ltratt,903,774,2026-10-24T21:47:31+00:00
+2026-10-29T00:10:01+00:00,83,50261647,Classification of Finite Simple Groups Formalized in Lean,https://cfsg.axiommath.ai/,pfdietz,236,74,2026-10-27T16:29:02+00:00
+2026-10-29T00:10:01+00:00,84,50275375,Scanning 7.25M Public Repositories on China's Largest Git Platform for Secrets,https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets,kernelrocks,27,6,2026-10-28T15:31:59+00:00
+2026-10-29T00:10:01+00:00,85,50266701,Expanding our partnership with GSA to bring Claude to all levels of government,https://www.anthropic.com/news/expanding-partnership-gsa,matthieu_bl,48,32,2026-10-27T22:23:37+00:00
+2026-10-29T00:10:01+00:00,86,50266719,Hunger beats tenure: Advice for junior engineers,https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/,akavi,115,94,2026-10-27T22:25:23+00:00
+2026-10-29T00:10:01+00:00,87,50236073,Nvidia and Micron Make Up 34% of America's Earnings Boom,https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53,JumpCrisscross,170,42,2026-10-25T21:07:38+00:00
+2026-10-29T00:10:01+00:00,88,50251661,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,vok,794,297,2026-10-26T21:59:15+00:00
+2026-10-29T00:10:01+00:00,89,50263701,Three TLS Bugs in GoAhead,https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead,owenshen24,69,15,2026-10-27T18:33:48+00:00
+2026-10-29T00:10:01+00:00,90,50245138,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,sgiannopoulos,842,115,2026-10-26T15:11:59+00:00
+2026-10-29T00:10:01+00:00,91,50276280,NTFS3 Hardened in Linux 7.4 Against Corrupted Maliciously-Crafted NTFS Volumes,https://www.phoronix.com/news/Linux-7.4-NTFS3,Bender,12,0,2026-10-28T16:26:42+00:00
+2026-10-29T00:10:01+00:00,92,50218975,Show HN: Encarta 95 Web,https://benwinding.github.io/encarta_95_web/#/article/Art,gitgud,148,63,2026-10-24T07:18:37+00:00
+2026-10-29T00:10:01+00:00,93,50276235,Major Memory Vendor: We're Basically Sold Out Through 2029,https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029,Vaslo,20,7,2026-10-28T16:23:24+00:00
+2026-10-29T00:10:01+00:00,94,50259604,US Government is hiding a secret court ruling about how it spies on Americans,https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/,helterskelter2,1069,429,2026-10-27T14:06:42+00:00
+2026-10-29T00:10:01+00:00,95,50261583,"PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/,bigfish2026,65,13,2026-10-27T16:25:12+00:00
+2026-10-29T00:10:01+00:00,96,50247928,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,aray07,231,99,2026-10-26T17:49:55+00:00
+2026-10-29T00:10:01+00:00,97,50253529,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,doener,147,34,2026-10-27T01:15:04+00:00
+2026-10-29T00:10:01+00:00,98,50240465,How to grow a cacao tree at home (2024),https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/,felipevb,160,47,2026-10-26T07:50:17+00:00
+2026-10-29T00:10:01+00:00,99,50224079,An examination of lost firefly species of the US and Canada,https://journaloflostspecies.org/index.php/jls/article/view/37/33,bryanrasmussen,145,66,2026-10-24T19:04:42+00:00
+2026-10-29T00:10:01+00:00,100,50277764,Particle-1,https://particle.ai/blog/introducing-particle-1,meetpateltech,14,3,2026-10-28T17:45:39+00:00
