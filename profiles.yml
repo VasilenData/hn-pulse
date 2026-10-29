@@ -1,0 +1,7 @@
+hn_pulse:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: target/hn_pulse.duckdb
+      threads: 4

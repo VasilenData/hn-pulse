@@ -1,0 +1,11 @@
+name: hn_pulse
+version: "1.0.0"
+config-version: 2
+profile: hn_pulse
+model-paths: ["models"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+models:
+  hn_pulse:
+    +materialized: table
+test-paths: ["tests"]
