@@ -1,86 +1,92 @@
 {
- "generated_at": "2026-10-29T00:19:23+00:00",
+ "generated_at": "2026-10-29T01:22:38+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
-   "snapshots": 4,
-   "distinct_stories": 101,
-   "avg_score": 253.7,
-   "avg_comments": 140.7
+   "snapshots": 5,
+   "distinct_stories": 108,
+   "avg_score": 251.9,
+   "avg_comments": 140.3
   }
  ],
  "mart_top_domains": [
   {
+   "domain": "github.com",
+   "stories": 4,
+   "avg_peak_score": 260.8,
+   "total_comments": 372
+  },
+  {
    "domain": "wired.com",
    "stories": 3,
-   "avg_peak_score": 804.7,
-   "total_comments": 1443
+   "avg_peak_score": 812.7,
+   "total_comments": 1470
   },
   {
    "domain": "apple.com",
    "stories": 3,
-   "avg_peak_score": 424.0,
-   "total_comments": 1913
+   "avg_peak_score": 430.3,
+   "total_comments": 1929
   },
   {
-   "domain": "github.com",
-   "stories": 3,
-   "avg_peak_score": 343.3,
-   "total_comments": 361
+   "domain": "blog.google",
+   "stories": 2,
+   "avg_peak_score": 407.0,
+   "total_comments": 666
   },
   {
    "domain": "arstechnica.com",
    "stories": 2,
-   "avg_peak_score": 345.5,
-   "total_comments": 289
+   "avg_peak_score": 346.5,
+   "total_comments": 291
   },
   {
    "domain": "spectrum.ieee.org",
    "stories": 2,
-   "avg_peak_score": 271.5,
-   "total_comments": 275
+   "avg_peak_score": 273.0,
+   "total_comments": 276
   },
   {
    "domain": "anthropic.com",
    "stories": 2,
-   "avg_peak_score": 184.5,
-   "total_comments": 363
+   "avg_peak_score": 185.0,
+   "total_comments": 364
   },
   {
    "domain": "reuters.com",
    "stories": 2,
-   "avg_peak_score": 138.5,
-   "total_comments": 109
+   "avg_peak_score": 146.5,
+   "total_comments": 114
   },
   {
    "domain": "en.wikipedia.org",
    "stories": 2,
-   "avg_peak_score": 17.5,
-   "total_comments": 0
+   "avg_peak_score": 18.5,
+   "total_comments": 1
   },
   {
    "domain": "ghostty.org",
    "stories": 1,
-   "avg_peak_score": 1292.0,
-   "total_comments": 412
+   "avg_peak_score": 1299.0,
+   "total_comments": 413
   },
   {
    "domain": "openai.com",
    "stories": 1,
-   "avg_peak_score": 1145.0,
+   "avg_peak_score": 1147.0,
    "total_comments": 692
   },
   {
    "domain": "emudhra.we-have-a-problem.com",
    "stories": 1,
-   "avg_peak_score": 1026.0,
-   "total_comments": 376
+   "avg_peak_score": 1037.0,
+   "total_comments": 378
   },
   {
    "domain": "deepmind.google",
    "stories": 1,
-   "avg_peak_score": 1019.0,
-   "total_comments": 576
+   "avg_peak_score": 1021.0,
+   "total_comments": 578
   },
   {
    "domain": "danluu.com",
@@ -93,29 +99,28 @@
    "stories": 1,
    "avg_peak_score": 842.0,
    "total_comments": 115
-  },
-  {
-   "domain": "blog.google",
-   "stories": 1,
-   "avg_peak_score": 772.0,
-   "total_comments": 629
   }
  ],
  "mart_hourly_activity": [
   {
+   "posted_hour_utc": 0,
+   "stories": 3,
+   "avg_peak_score": 18.3
+  },
+  {
    "posted_hour_utc": 1,
    "stories": 3,
-   "avg_peak_score": 229.7
+   "avg_peak_score": 230.7
   },
   {
    "posted_hour_utc": 2,
    "stories": 2,
-   "avg_peak_score": 83.0
+   "avg_peak_score": 84.0
   },
   {
    "posted_hour_utc": 3,
    "stories": 2,
-   "avg_peak_score": 29.0
+   "avg_peak_score": 29.5
   },
   {
    "posted_hour_utc": 4,
@@ -135,374 +140,374 @@
   {
    "posted_hour_utc": 8,
    "stories": 1,
-   "avg_peak_score": 92.0
+   "avg_peak_score": 94.0
   },
   {
    "posted_hour_utc": 11,
    "stories": 6,
-   "avg_peak_score": 411.3
+   "avg_peak_score": 414.3
   },
   {
    "posted_hour_utc": 12,
    "stories": 6,
-   "avg_peak_score": 249.7
+   "avg_peak_score": 252.0
   },
   {
    "posted_hour_utc": 13,
    "stories": 11,
-   "avg_peak_score": 231.5
+   "avg_peak_score": 238.6
   },
   {
    "posted_hour_utc": 14,
    "stories": 8,
-   "avg_peak_score": 245.8
+   "avg_peak_score": 248.9
   },
   {
    "posted_hour_utc": 15,
    "stories": 6,
-   "avg_peak_score": 320.2
+   "avg_peak_score": 324.7
   },
   {
    "posted_hour_utc": 16,
    "stories": 8,
-   "avg_peak_score": 429.0
+   "avg_peak_score": 430.3
   },
   {
    "posted_hour_utc": 17,
-   "stories": 10,
-   "avg_peak_score": 260.2
+   "stories": 11,
+   "avg_peak_score": 249.9
   },
   {
    "posted_hour_utc": 18,
    "stories": 4,
-   "avg_peak_score": 167.3
+   "avg_peak_score": 170.0
   },
   {
    "posted_hour_utc": 19,
    "stories": 5,
-   "avg_peak_score": 215.6
+   "avg_peak_score": 216.6
   },
   {
    "posted_hour_utc": 20,
    "stories": 8,
-   "avg_peak_score": 154.1
+   "avg_peak_score": 159.4
   },
   {
    "posted_hour_utc": 21,
    "stories": 8,
-   "avg_peak_score": 427.8
+   "avg_peak_score": 437.1
   },
   {
    "posted_hour_utc": 22,
    "stories": 4,
-   "avg_peak_score": 54.5
+   "avg_peak_score": 56.8
   },
   {
    "posted_hour_utc": 23,
-   "stories": 4,
-   "avg_peak_score": 36.0
+   "stories": 7,
+   "avg_peak_score": 42.6
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50276998,
-   "title": "Why is this fingerprinting script creating bioweapons?",
-   "domain": "nullpt.rs",
-   "score": 752,
-   "comments": 175,
-   "author": "hazebooth",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50282838,
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "domain": "divagr.com",
+   "score": 25,
+   "comments": 1,
+   "author": "csmantle",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 2,
-   "story_id": 50282544,
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "domain": "alpinelinux.org",
-   "score": 30,
-   "comments": 1,
-   "author": "sashk",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50276998,
+   "title": "Why is this fingerprinting script creating bioweapons?",
+   "domain": "nullpt.rs",
+   "score": 836,
+   "comments": 184,
+   "author": "hazebooth",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 3,
-   "story_id": 50274409,
-   "title": "CNC Stone Carving",
-   "domain": "carmelitegothic.com",
-   "score": 389,
-   "comments": 114,
-   "author": "bschne",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50282544,
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "domain": "alpinelinux.org",
+   "score": 64,
+   "comments": 17,
+   "author": "sashk",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 4,
-   "story_id": 50276792,
-   "title": "Gemini 4 Carbon",
-   "domain": "blog.google",
-   "score": 772,
-   "comments": 629,
-   "author": "acossta",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50282766,
+   "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+   "domain": "niemanlab.org",
+   "score": 19,
+   "comments": 16,
+   "author": "ilamont",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 5,
    "story_id": 50280974,
    "title": "A Health Update",
    "domain": "furbo.org",
-   "score": 51,
-   "comments": 4,
+   "score": 92,
+   "comments": 8,
    "author": "frizlab",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 6,
-   "story_id": 50280722,
-   "title": "The case of the 9 bit AES key",
-   "domain": "v12.sh",
-   "score": 64,
-   "comments": 31,
-   "author": "ledoge",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50274409,
+   "title": "CNC Stone Carving",
+   "domain": "carmelitegothic.com",
+   "score": 399,
+   "comments": 118,
+   "author": "bschne",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 7,
-   "story_id": 50281044,
-   "title": "Formlabs Studio 1 $699 Resin Printer",
-   "domain": "formlabs.com",
-   "score": 92,
-   "comments": 73,
-   "author": "mhb",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50276792,
+   "title": "Gemini 4 Carbon",
+   "domain": "blog.google",
+   "score": 799,
+   "comments": 655,
+   "author": "acossta",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 8,
-   "story_id": 50282454,
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "domain": "data.stackexchange.com",
-   "score": 8,
-   "comments": 5,
-   "author": "babelfish",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50282538,
+   "title": "The first wired XR glasses powered by Android XR",
+   "domain": "blog.google",
+   "score": 15,
+   "comments": 11,
+   "author": "yincrash",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 9,
-   "story_id": 50276940,
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "domain": "apple.com",
-   "score": 480,
-   "comments": 830,
-   "author": "etothet",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50282865,
+   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+   "domain": "github.com",
+   "score": 11,
+   "comments": 11,
+   "author": "paaloeye",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 10,
-   "story_id": 50220975,
-   "title": "Why Birds Can Fly over Mount Everest",
-   "domain": "lede-v2.nautil.us",
-   "score": 45,
-   "comments": 9,
-   "author": "andsoitis",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50282454,
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "domain": "data.stackexchange.com",
+   "score": 83,
+   "comments": 85,
+   "author": "babelfish",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 11,
-   "story_id": 50243060,
-   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-   "domain": "circuithub.com",
-   "score": 401,
-   "comments": 194,
-   "author": "seddona",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50276940,
+   "title": "MacBook Pro with PROLED XDR Display and Touch",
+   "domain": "apple.com",
+   "score": 497,
+   "comments": 845,
+   "author": "etothet",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 12,
-   "story_id": 50275626,
-   "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-   "domain": "surgehq.ai",
-   "score": 192,
-   "comments": 118,
-   "author": "landonxi",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50243060,
+   "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+   "domain": "circuithub.com",
+   "score": 412,
+   "comments": 199,
+   "author": "seddona",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
-   "rank": 14,
+   "rank": 13,
    "story_id": 50208960,
    "title": "Start Doing Graph Theory",
    "domain": "vertex.degree",
-   "score": 564,
-   "comments": 124,
+   "score": 582,
+   "comments": 126,
    "author": "ibobev",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
-   "rank": 15,
-   "story_id": 50274251,
-   "title": "AlpineBSD",
-   "domain": "wiki.alpinebsd.org",
-   "score": 169,
-   "comments": 154,
-   "author": "bradley_taunt",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "rank": 14,
+   "story_id": 50281044,
+   "title": "Formlabs Studio 1 $699 Resin Printer",
+   "domain": "formlabs.com",
+   "score": 108,
+   "comments": 80,
+   "author": "mhb",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 16,
-   "story_id": 50277755,
-   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-   "domain": "quantamagazine.org",
-   "score": 44,
-   "comments": 3,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50233948,
+   "title": "How we made our MMDB files a 33% smaller",
+   "domain": "ipinfo.io",
+   "score": 12,
+   "comments": 1,
+   "author": "mmaia",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 17,
-   "story_id": 50271640,
-   "title": "Apple's git still trusts the compromised eMudhra certificates",
-   "domain": "emudhra.we-have-a-problem.com",
-   "score": 1026,
-   "comments": 376,
-   "author": "galadran",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50275626,
+   "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+   "domain": "surgehq.ai",
+   "score": 201,
+   "comments": 125,
+   "author": "landonxi",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 18,
-   "story_id": 50209269,
-   "title": "Gaussian Splats part 3: There's always a bigger scene",
-   "domain": "magnopus.com",
-   "score": 98,
-   "comments": 20,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50280722,
+   "title": "The case of the 9 bit AES key",
+   "domain": "v12.sh",
+   "score": 76,
+   "comments": 40,
+   "author": "ledoge",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 19,
-   "story_id": 50273731,
-   "title": "The Agent SDK",
-   "domain": "cursor.com",
-   "score": 90,
-   "comments": 107,
-   "author": "torutofu",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50220975,
+   "title": "Why Birds Can Fly over Mount Everest",
+   "domain": "lede-v2.nautil.us",
+   "score": 62,
+   "comments": 10,
+   "author": "andsoitis",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 20,
-   "story_id": 50276883,
-   "title": "Show HN: SlideBySide \u2013 Present slides without sharing your screen",
-   "domain": "slidebyside.com",
-   "score": 54,
-   "comments": 21,
-   "author": "denismenace",
-   "snapshot_at": "2026-10-29T00:19:16"
-  },
-  {
-   "rank": 21,
-   "story_id": 50280662,
-   "title": "Leak website releases data on DHS employees",
-   "domain": "reuters.com",
-   "score": 55,
-   "comments": 9,
-   "author": "wondersky",
-   "snapshot_at": "2026-10-29T00:19:16"
-  },
-  {
-   "rank": 22,
-   "story_id": 50273171,
-   "title": "Emacs Turns 50",
-   "domain": "technologyreview.com",
-   "score": 396,
-   "comments": 170,
-   "author": "internet_points",
-   "snapshot_at": "2026-10-29T00:19:16"
-  },
-  {
-   "rank": 23,
-   "story_id": 50238637,
-   "title": "Oseberg Tapestry Fragments",
-   "domain": "en.wikipedia.org",
-   "score": 15,
-   "comments": 0,
-   "author": "benbreen",
-   "snapshot_at": "2026-10-29T00:19:16"
-  },
-  {
-   "rank": 24,
    "story_id": 50250609,
    "title": "Image generation has come a long way since August 2022",
    "domain": "hbrooks.com",
-   "score": 24,
-   "comments": 5,
+   "score": 35,
+   "comments": 8,
    "author": "hunterbrooks",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "snapshot_at": "2026-10-29T01:22:30"
+  },
+  {
+   "rank": 21,
+   "story_id": 50274251,
+   "title": "AlpineBSD",
+   "domain": "wiki.alpinebsd.org",
+   "score": 175,
+   "comments": 161,
+   "author": "bradley_taunt",
+   "snapshot_at": "2026-10-29T01:22:30"
+  },
+  {
+   "rank": 22,
+   "story_id": 50277755,
+   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+   "domain": "quantamagazine.org",
+   "score": 47,
+   "comments": 3,
+   "author": "ibobev",
+   "snapshot_at": "2026-10-29T01:22:30"
+  },
+  {
+   "rank": 23,
+   "story_id": 50271640,
+   "title": "Apple's git still trusts the compromised eMudhra certificates",
+   "domain": "emudhra.we-have-a-problem.com",
+   "score": 1037,
+   "comments": 378,
+   "author": "galadran",
+   "snapshot_at": "2026-10-29T01:22:30"
+  },
+  {
+   "rank": 24,
+   "story_id": 50209269,
+   "title": "Gaussian Splats part 3: There's always a bigger scene",
+   "domain": "magnopus.com",
+   "score": 101,
+   "comments": 21,
+   "author": "ibobev",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 25,
-   "story_id": 50273396,
-   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "domain": "religionnews.com",
-   "score": 417,
-   "comments": 459,
-   "author": "danso",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50273731,
+   "title": "The Agent SDK",
+   "domain": "cursor.com",
+   "score": 93,
+   "comments": 111,
+   "author": "torutofu",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 26,
    "story_id": 50278253,
    "title": "Scaling Hierarchical Networks",
    "domain": "cartesia.ai",
-   "score": 21,
-   "comments": 0,
+   "score": 30,
+   "comments": 1,
    "author": "guybedo",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 27,
-   "story_id": 50275373,
-   "title": "Archive.today links going forward",
-   "domain": "reddit.com",
-   "score": 186,
-   "comments": 120,
-   "author": "consumer451",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50276883,
+   "title": "Show HN: SlideBySide \u2013 Present slides without sharing your screen",
+   "domain": "slidebyside.com",
+   "score": 55,
+   "comments": 24,
+   "author": "denismenace",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 28,
-   "story_id": 50268478,
-   "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-   "domain": "arxiv.org",
-   "score": 17,
-   "comments": 0,
-   "author": "abrax3141",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50280662,
+   "title": "Leak website releases data on DHS employees",
+   "domain": "reuters.com",
+   "score": 70,
+   "comments": 14,
+   "author": "wondersky",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 29,
-   "story_id": 50261998,
-   "title": "Ghostty 1.4",
-   "domain": "ghostty.org",
-   "score": 1292,
-   "comments": 412,
-   "author": "deaux",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50273171,
+   "title": "Emacs Turns 50",
+   "domain": "technologyreview.com",
+   "score": 411,
+   "comments": 175,
+   "author": "internet_points",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 30,
-   "story_id": 50275128,
-   "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-   "domain": "huggingface.co",
-   "score": 106,
-   "comments": 17,
-   "author": "wondersky",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50238637,
+   "title": "Oseberg Tapestry Fragments",
+   "domain": "en.wikipedia.org",
+   "score": 16,
+   "comments": 1,
+   "author": "benbreen",
+   "snapshot_at": "2026-10-29T01:22:30"
   },
   {
    "rank": 31,
-   "story_id": 50261319,
-   "title": "Genie 4",
-   "domain": "deepmind.google",
-   "score": 1019,
-   "comments": 576,
-   "author": "acossta",
-   "snapshot_at": "2026-10-29T00:19:16"
+   "story_id": 50273396,
+   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+   "domain": "religionnews.com",
+   "score": 428,
+   "comments": 472,
+   "author": "danso",
+   "snapshot_at": "2026-10-29T01:22:30"
   }
  ]
 }
