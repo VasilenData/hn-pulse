@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HN Pulse | Live Hacker News data pipeline</title>
+<meta name="description" content="Live dashboard fed by an automated pipeline: Hacker News API, dbt models and tests, DuckDB, GitHub Actions.">
+<style>
+:root{--bg:#101211;--panel:#171b19;--ink:#f1f2ec;--muted:#a0aaa1;--lime:#c5f36a;--line:#303833}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
+.wrap{max-width:1100px;margin:0 auto;padding:0 24px}
+header{padding:48px 0 24px}h1{font-size:40px;margin:6px 0;letter-spacing:-.03em}
+.tag{font:11px ui-monospace,Consolas,monospace;color:var(--lime);text-transform:uppercase;letter-spacing:.08em}
+p.sub{color:var(--muted);max-width:720px}a{color:var(--lime)}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:24px 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px}
+.kpi b{display:block;font-size:28px}.kpi span{color:var(--muted);font:11px ui-monospace,Consolas,monospace;text-transform:uppercase}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+h2{font-size:14px;margin:0 0 12px;color:var(--muted);font-weight:500}
+table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left}
+th{color:var(--muted);font-weight:500}td.n{text-align:right;font-variant-numeric:tabular-nums}
+.full{grid-column:1/-1}footer{color:var(--muted);padding:32px 0 56px;font-size:13px}
+@media(max-width:760px){.kpis{grid-template-columns:1fr 1fr}.grid{grid-template-columns:1fr}h1{font-size:30px}}
+</style></head><body><div class="wrap">
+<header><div class="tag">Data engineering project</div><h1>HN Pulse</h1>
+<p class="sub">A scheduled pipeline snapshots the Hacker News front page, models it with dbt (with automated tests), and publishes the results here. Last refresh: <b id="gen">...</b> UTC.
+<a href="https://github.com/VasilenData/hn-pulse">Source on GitHub</a></p></header>
+<div class="kpis" id="kpis"></div>
+<div class="grid">
+<div class="card"><h2>Top domains by stories on the front page</h2><canvas id="c1"></canvas></div>
+<div class="card"><h2>Avg peak score by posting hour (UTC)</h2><canvas id="c2"></canvas></div>
+<div class="card full"><h2>Front page right now</h2><table id="t"><thead><tr><th>#</th><th>Title</th><th>Domain</th><th class="n">Score</th><th class="n">Comments</th></tr></thead><tbody></tbody></table></div>
+</div>
+<footer>Stack: Python · DuckDB · dbt · Airflow (local orchestration) · GitHub Actions · GitHub Pages. Data: <a href="https://github.com/HackerNews/API">Hacker News API</a>.</footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<script>
+fetch('data.json').then(r=>r.json()).then(d=>{
+  const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  document.getElementById('gen').textContent=d.generated_at.replace('T',' ').slice(0,16);
+  const days=d.mart_daily_summary, fp=d.mart_front_page_now;
+  const snaps=days.reduce((a,x)=>a+x.snapshots,0), stories=Math.max(0,...days.map(x=>x.distinct_stories));
+  const top=fp[0]||{};
+  [[snaps,'snapshots collected'],[days.length,'days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'avg score, front page'],[top.score||0,'score of #1 story']]
+   .forEach(([v,l])=>document.getElementById('kpis').insertAdjacentHTML('beforeend',`<div class="card kpi"><b>${v}</b><span>${l}</span></div>`));
+  const opt={plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#a0aaa1'},grid:{color:'#303833'}},y:{ticks:{color:'#a0aaa1'},grid:{color:'#303833'}}}};
+  new Chart(c1,{type:'bar',data:{labels:d.mart_top_domains.map(x=>x.domain),datasets:[{data:d.mart_top_domains.map(x=>x.stories),backgroundColor:'#c5f36a'}]},options:{...opt,indexAxis:'y'}});
+  new Chart(c2,{type:'line',data:{labels:d.mart_hourly_activity.map(x=>x.posted_hour_utc),datasets:[{data:d.mart_hourly_activity.map(x=>x.avg_peak_score),borderColor:'#c5f36a',backgroundColor:'rgba(197,243,106,.15)',fill:true,tension:.3}]},options:opt});
+  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td>${x.rank}</td><td>${esc(x.title)}</td><td>${esc(x.domain)}</td><td class="n">${x.score}</td><td class="n">${x.comments}</td></tr>`).join('');
+});
+</script></body></html>
