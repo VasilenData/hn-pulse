@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:59:43+00:00",
+ "generated_at": "2026-10-30T04:00:17+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -10,17 +10,17 @@
   },
   {
    "day": "2026-10-30",
-   "snapshots": 3,
+   "snapshots": 4,
    "distinct_stories": 113,
-   "avg_score": 198.2,
-   "avg_comments": 104.0
+   "avg_score": 199.1,
+   "avg_comments": 104.5
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 20,
-   "avg_peak_score": 102.3,
+   "avg_peak_score": 102.4,
    "total_comments": 842
   },
   {
@@ -112,17 +112,17 @@
   {
    "posted_hour_utc": 0,
    "stories": 10,
-   "avg_peak_score": 92.3
+   "avg_peak_score": 92.4
   },
   {
    "posted_hour_utc": 1,
    "stories": 8,
-   "avg_peak_score": 104.4
+   "avg_peak_score": 104.5
   },
   {
    "posted_hour_utc": 2,
    "stories": 5,
-   "avg_peak_score": 39.2
+   "avg_peak_score": 39.4
   },
   {
    "posted_hour_utc": 3,
@@ -142,7 +142,7 @@
   {
    "posted_hour_utc": 6,
    "stories": 5,
-   "avg_peak_score": 184.0
+   "avg_peak_score": 184.2
   },
   {
    "posted_hour_utc": 7,
@@ -162,7 +162,7 @@
   {
    "posted_hour_utc": 10,
    "stories": 6,
-   "avg_peak_score": 111.2
+   "avg_peak_score": 111.5
   },
   {
    "posted_hour_utc": 11,
@@ -217,7 +217,7 @@
   {
    "posted_hour_utc": 21,
    "stories": 18,
-   "avg_peak_score": 319.1
+   "avg_peak_score": 319.2
   },
   {
    "posted_hour_utc": 22,
@@ -236,10 +236,10 @@
    "story_id": 50296470,
    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
    "domain": "arkm.com",
-   "score": 900,
+   "score": 902,
    "comments": 526,
    "author": "Tiberium",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 2,
@@ -249,7 +249,7 @@
    "score": 1260,
    "comments": 354,
    "author": "kuberwastaken",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 3,
@@ -259,7 +259,7 @@
    "score": 21,
    "comments": 6,
    "author": "theanonymousone",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 4,
@@ -269,7 +269,7 @@
    "score": 212,
    "comments": 68,
    "author": "sandslash",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 5,
@@ -279,7 +279,7 @@
    "score": 23,
    "comments": 1,
    "author": "nvmdbljstm",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 6,
@@ -289,7 +289,7 @@
    "score": 10,
    "comments": 8,
    "author": "cobychapple",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 7,
@@ -299,17 +299,17 @@
    "score": 22,
    "comments": 2,
    "author": "surprisetalk",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 8,
    "story_id": 50298436,
    "title": "Herdr has released native app",
    "domain": "github.com",
-   "score": 56,
+   "score": 57,
    "comments": 44,
    "author": "cherioo",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 9,
@@ -319,17 +319,17 @@
    "score": 163,
    "comments": 9,
    "author": "airinei",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 10,
    "story_id": 50298964,
    "title": "Pico CSS is no longer maintained",
    "domain": "github.com",
-   "score": 58,
+   "score": 59,
    "comments": 20,
    "author": "henrid",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 11,
@@ -339,7 +339,7 @@
    "score": 359,
    "comments": 131,
    "author": "ea016",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 12,
@@ -349,7 +349,7 @@
    "score": 55,
    "comments": 30,
    "author": "cremno",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 13,
@@ -359,7 +359,7 @@
    "score": 71,
    "comments": 10,
    "author": "simonebrunozzi",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 14,
@@ -369,7 +369,7 @@
    "score": 57,
    "comments": 13,
    "author": "falperc",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 15,
@@ -379,7 +379,7 @@
    "score": 8,
    "comments": 0,
    "author": "philippemnoel",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 16,
@@ -389,7 +389,7 @@
    "score": 448,
    "comments": 619,
    "author": "WalterSobchak",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 17,
@@ -399,77 +399,77 @@
    "score": 378,
    "comments": 200,
    "author": "ibobev",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 18,
+   "story_id": 50299004,
+   "title": "Show HN: Lasm \u2013 Write formally verified webapps in Lean for Node/serverless/edge",
+   "domain": "github.com",
+   "score": 11,
+   "comments": 0,
+   "author": "lastmjs",
+   "snapshot_at": "2026-10-30T04:00:12"
+  },
+  {
+   "rank": 19,
    "story_id": 50294702,
    "title": "Patrick Stewart has died",
    "domain": "nytimes.com",
    "score": 2566,
    "comments": 548,
    "author": "j4mie",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
-   "rank": 19,
+   "rank": 20,
    "story_id": 50291116,
    "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
    "domain": "news.ycombinator.com",
    "score": 55,
    "comments": 16,
    "author": "shong0504",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
-   "rank": 20,
+   "rank": 21,
    "story_id": 50296947,
    "title": "The Great American Rascal: Tom Sawyer at 150",
    "domain": "claremontreviewofbooks.com",
    "score": 49,
    "comments": 20,
    "author": "beatstop",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
-   "rank": 21,
+   "rank": 22,
    "story_id": 50298318,
    "title": "Cormac McCarthy's Library",
    "domain": "cormacmccarthy.lib.utk.edu",
    "score": 27,
    "comments": 11,
    "author": "maitland",
-   "snapshot_at": "2026-10-30T03:59:36"
-  },
-  {
-   "rank": 22,
-   "story_id": 50299004,
-   "title": "Show HN: Lasm \u2013 Write formally verified webapps in Lean for Node/serverless/edge",
-   "domain": "github.com",
-   "score": 10,
-   "comments": 0,
-   "author": "lastmjs",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 23,
    "story_id": 50286987,
    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
    "domain": "dreamgroup.com",
-   "score": 305,
+   "score": 306,
    "comments": 150,
    "author": "882542F3884314B",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 24,
    "story_id": 50271521,
    "title": "Study: Schoolwide phone bans show no significant impact on mental health",
    "domain": "jamanetwork.com",
-   "score": 38,
+   "score": 39,
    "comments": 26,
    "author": "giuliomagnifico",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 25,
@@ -479,7 +479,7 @@
    "score": 23,
    "comments": 1,
    "author": "wyndham",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 26,
@@ -489,7 +489,7 @@
    "score": 73,
    "comments": 16,
    "author": "frizlab",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 27,
@@ -499,7 +499,7 @@
    "score": 110,
    "comments": 84,
    "author": "johncassil",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 28,
@@ -509,7 +509,7 @@
    "score": 46,
    "comments": 13,
    "author": "iamnothere",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 29,
@@ -519,7 +519,7 @@
    "score": 24,
    "comments": 1,
    "author": "peteforde",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   },
   {
    "rank": 30,
@@ -529,7 +529,7 @@
    "score": 246,
    "comments": 348,
    "author": "rokostik",
-   "snapshot_at": "2026-10-30T03:59:36"
+   "snapshot_at": "2026-10-30T04:00:12"
   }
  ]
 }
