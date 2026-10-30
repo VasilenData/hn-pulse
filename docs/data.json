@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:02:47+00:00",
+ "generated_at": "2026-10-30T22:24:42+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -10,60 +10,60 @@
   },
   {
    "day": "2026-10-30",
-   "snapshots": 7,
-   "distinct_stories": 176,
-   "avg_score": 208.5,
-   "avg_comments": 107.7
+   "snapshots": 8,
+   "distinct_stories": 213,
+   "avg_score": 206.5,
+   "avg_comments": 104.9
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 24,
-   "avg_peak_score": 124.7,
-   "total_comments": 1253
+   "stories": 25,
+   "avg_peak_score": 130.8,
+   "total_comments": 1352
   },
   {
    "domain": "wired.com",
+   "stories": 8,
+   "avg_peak_score": 380.4,
+   "total_comments": 1962
+  },
+  {
+   "domain": "twitter.com",
    "stories": 7,
-   "avg_peak_score": 424.1,
-   "total_comments": 1917
+   "avg_peak_score": 28.3,
+   "total_comments": 188
   },
   {
    "domain": "nytimes.com",
    "stories": 6,
-   "avg_peak_score": 639.8,
-   "total_comments": 1180
+   "avg_peak_score": 645.5,
+   "total_comments": 1205
+  },
+  {
+   "domain": "arstechnica.com",
+   "stories": 6,
+   "avg_peak_score": 127.2,
+   "total_comments": 312
+  },
+  {
+   "domain": "reuters.com",
+   "stories": 6,
+   "avg_peak_score": 74.0,
+   "total_comments": 157
   },
   {
    "domain": "theguardian.com",
    "stories": 5,
-   "avg_peak_score": 45.6,
-   "total_comments": 82
-  },
-  {
-   "domain": "twitter.com",
-   "stories": 5,
-   "avg_peak_score": 6.2,
-   "total_comments": 9
+   "avg_peak_score": 51.0,
+   "total_comments": 90
   },
   {
    "domain": "bbc.com",
    "stories": 4,
    "avg_peak_score": 225.5,
    "total_comments": 1320
-  },
-  {
-   "domain": "arstechnica.com",
-   "stories": 4,
-   "avg_peak_score": 183.3,
-   "total_comments": 303
-  },
-  {
-   "domain": "reuters.com",
-   "stories": 4,
-   "avg_peak_score": 106.5,
-   "total_comments": 157
   },
   {
    "domain": "apple.com",
@@ -74,8 +74,8 @@
   {
    "domain": "blog.google",
    "stories": 3,
-   "avg_peak_score": 371.7,
-   "total_comments": 900
+   "avg_peak_score": 372.0,
+   "total_comments": 902
   },
   {
    "domain": "spectrum.ieee.org",
@@ -84,45 +84,45 @@
    "total_comments": 304
   },
   {
+   "domain": "tailscale.com",
+   "stories": 3,
+   "avg_peak_score": 137.0,
+   "total_comments": 197
+  },
+  {
+   "domain": "ft.com",
+   "stories": 3,
+   "avg_peak_score": 90.0,
+   "total_comments": 205
+  },
+  {
    "domain": "nature.com",
    "stories": 3,
    "avg_peak_score": 23.3,
    "total_comments": 7
   },
   {
-   "domain": "ft.com",
+   "domain": "phoronix.com",
    "stories": 3,
-   "avg_peak_score": 11.7,
-   "total_comments": 13
-  },
-  {
-   "domain": "martinfowler.com",
-   "stories": 2,
-   "avg_peak_score": 323.5,
-   "total_comments": 413
-  },
-  {
-   "domain": "tailscale.com",
-   "stories": 2,
-   "avg_peak_score": 199.5,
-   "total_comments": 197
+   "avg_peak_score": 8.0,
+   "total_comments": 2
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 10,
-   "avg_peak_score": 126.9
+   "avg_peak_score": 129.6
   },
   {
    "posted_hour_utc": 1,
    "stories": 8,
-   "avg_peak_score": 122.8
+   "avg_peak_score": 126.1
   },
   {
    "posted_hour_utc": 2,
    "stories": 6,
-   "avg_peak_score": 47.5
+   "avg_peak_score": 48.7
   },
   {
    "posted_hour_utc": 3,
@@ -142,27 +142,27 @@
   {
    "posted_hour_utc": 6,
    "stories": 6,
-   "avg_peak_score": 185.5
+   "avg_peak_score": 187.3
   },
   {
    "posted_hour_utc": 7,
    "stories": 10,
-   "avg_peak_score": 134.6
+   "avg_peak_score": 159.2
   },
   {
    "posted_hour_utc": 8,
    "stories": 4,
-   "avg_peak_score": 139.3
+   "avg_peak_score": 141.5
   },
   {
    "posted_hour_utc": 9,
-   "stories": 7,
-   "avg_peak_score": 131.6
+   "stories": 8,
+   "avg_peak_score": 118.8
   },
   {
    "posted_hour_utc": 10,
    "stories": 7,
-   "avg_peak_score": 131.6
+   "avg_peak_score": 138.4
   },
   {
    "posted_hour_utc": 11,
@@ -172,364 +172,364 @@
   {
    "posted_hour_utc": 12,
    "stories": 13,
-   "avg_peak_score": 298.6
+   "avg_peak_score": 311.7
   },
   {
    "posted_hour_utc": 13,
-   "stories": 22,
-   "avg_peak_score": 193.8
+   "stories": 23,
+   "avg_peak_score": 188.4
   },
   {
    "posted_hour_utc": 14,
    "stories": 21,
-   "avg_peak_score": 249.3
+   "avg_peak_score": 253.0
   },
   {
    "posted_hour_utc": 15,
-   "stories": 30,
-   "avg_peak_score": 162.3
+   "stories": 32,
+   "avg_peak_score": 176.9
   },
   {
    "posted_hour_utc": 16,
    "stories": 28,
-   "avg_peak_score": 172.6
+   "avg_peak_score": 180.0
   },
   {
    "posted_hour_utc": 17,
-   "stories": 34,
-   "avg_peak_score": 144.1
+   "stories": 35,
+   "avg_peak_score": 162.7
   },
   {
    "posted_hour_utc": 18,
-   "stories": 16,
-   "avg_peak_score": 73.3
+   "stories": 18,
+   "avg_peak_score": 72.8
   },
   {
    "posted_hour_utc": 19,
-   "stories": 14,
-   "avg_peak_score": 350.5
+   "stories": 22,
+   "avg_peak_score": 244.2
   },
   {
    "posted_hour_utc": 20,
-   "stories": 13,
-   "avg_peak_score": 150.1
+   "stories": 25,
+   "avg_peak_score": 88.0
   },
   {
    "posted_hour_utc": 21,
-   "stories": 20,
-   "avg_peak_score": 343.5
+   "stories": 28,
+   "avg_peak_score": 252.8
   },
   {
    "posted_hour_utc": 22,
    "stories": 13,
-   "avg_peak_score": 56.5
+   "avg_peak_score": 57.5
   },
   {
    "posted_hour_utc": 23,
    "stories": 9,
-   "avg_peak_score": 166.2
+   "avg_peak_score": 166.7
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50305025,
-   "title": "Northflank Breached",
-   "domain": "status.northflank.com",
-   "score": 156,
-   "comments": 89,
-   "author": "js4ever",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 2,
-   "story_id": 50300683,
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "domain": "phorion.io",
-   "score": 454,
-   "comments": 372,
-   "author": "_chall",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 3,
-   "story_id": 50306442,
-   "title": "A Working Nintendo in ~1GB of Qwen Weights",
-   "domain": "github.com",
-   "score": 64,
-   "comments": 57,
-   "author": "dbreunig",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 4,
    "story_id": 50307190,
    "title": "My favourite PowerMac is a Nintendo Wii",
    "domain": "virtuallyfun.com",
-   "score": 10,
-   "comments": 0,
+   "score": 186,
+   "comments": 49,
    "author": "DHowett",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 2,
+   "story_id": 50308697,
+   "title": "Bunny CDN Security Incident",
+   "domain": "status.bunny.net",
+   "score": 137,
+   "comments": 29,
+   "author": "SondreDag",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 3,
+   "story_id": 50305025,
+   "title": "Northflank Breached",
+   "domain": "status.northflank.com",
+   "score": 309,
+   "comments": 235,
+   "author": "js4ever",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 4,
+   "story_id": 50300683,
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "domain": "phorion.io",
+   "score": 685,
+   "comments": 434,
+   "author": "_chall",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 5,
-   "story_id": 50305573,
-   "title": "The federated code forge",
-   "domain": "tangled.org",
-   "score": 82,
-   "comments": 34,
-   "author": "zlliang",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50310258,
+   "title": "Archive of our own (AO3) hacked",
+   "domain": "otwstatus.org",
+   "score": 19,
+   "comments": 0,
+   "author": "idlewords",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 6,
-   "story_id": 50305637,
-   "title": "Florilegium: Procedural Flowers in LaTeX",
-   "domain": "github.com",
-   "score": 46,
-   "comments": 7,
-   "author": "nanna",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50309314,
+   "title": "Jules Verne's Lost Novel",
+   "domain": "blue-continuum.com",
+   "score": 44,
+   "comments": 11,
+   "author": "dnetesn",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 7,
-   "story_id": 50305693,
-   "title": "AI isn't replacing SREs, it's deskilling them",
-   "domain": "newsletter.signoz.io",
-   "score": 261,
-   "comments": 196,
-   "author": "dorianniemiec",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50306442,
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "domain": "github.com",
+   "score": 155,
+   "comments": 101,
+   "author": "dbreunig",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 8,
-   "story_id": 50263837,
-   "title": "Breaking the open web won't stop the bad bots",
-   "domain": "techpolicy.press",
-   "score": 30,
-   "comments": 5,
-   "author": "raybb",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50309029,
+   "title": "Infinite Mac: BeOS",
+   "domain": "blog.persistent.info",
+   "score": 57,
+   "comments": 12,
+   "author": "ecliptik",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 9,
-   "story_id": 50307723,
-   "title": "GitHub Incident with Actions, Pages, and Webhooks",
-   "domain": "githubstatus.com",
-   "score": 5,
-   "comments": 3,
-   "author": "damontal",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50263837,
+   "title": "Breaking the open web won't stop the bad bots",
+   "domain": "techpolicy.press",
+   "score": 143,
+   "comments": 64,
+   "author": "raybb",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 10,
-   "story_id": 50306008,
-   "title": "US tech stocks see sharp falls over AI cost fears",
-   "domain": "bbc.co.uk",
-   "score": 134,
-   "comments": 89,
-   "author": "mindracer",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50310687,
+   "title": "Linode Security Incident",
+   "domain": "status.linode.com",
+   "score": 10,
+   "comments": 3,
+   "author": "lacoolj",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 11,
-   "story_id": 50301854,
-   "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
-   "domain": "binarysecurity.no",
-   "score": 200,
-   "comments": 35,
-   "author": "swq115",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50305637,
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "domain": "github.com",
+   "score": 173,
+   "comments": 33,
+   "author": "nanna",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 12,
-   "story_id": 50306815,
-   "title": "Show HN: Spinf-serve \u2013 inference server for bulk scoring and decisions",
-   "domain": "github.com",
-   "score": 7,
-   "comments": 0,
-   "author": "giarec",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50305573,
+   "title": "The federated code forge",
+   "domain": "tangled.org",
+   "score": 192,
+   "comments": 67,
+   "author": "zlliang",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 13,
-   "story_id": 50307183,
-   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "domain": "404media.co",
-   "score": 45,
+   "story_id": 50309266,
+   "title": "The oldest ice disappears and the Stone Age emerges from it",
+   "domain": "sciencenorway.no",
+   "score": 41,
    "comments": 10,
-   "author": "cdrnsf",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "author": "dxs",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 14,
-   "story_id": 50305480,
-   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-   "domain": "npr.org",
-   "score": 92,
-   "comments": 27,
-   "author": "paulpauper",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50310398,
+   "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+   "domain": "firezone.dev",
+   "score": 9,
+   "comments": 0,
+   "author": "wh33zle",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 15,
-   "story_id": 50305320,
-   "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-   "domain": "catcopter.com",
-   "score": 34,
-   "comments": 17,
-   "author": "pawelwentpawel",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50308986,
+   "title": "A Pickpocket's Guide to New York",
+   "domain": "newyorker.com",
+   "score": 33,
+   "comments": 5,
+   "author": "prismatic",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 16,
-   "story_id": 50296730,
-   "title": "Building an AI-native engineering org",
-   "domain": "twitter.com",
-   "score": 11,
-   "comments": 5,
-   "author": "sgondala_ycapp",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50309647,
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "domain": "bostonglobe.com",
+   "score": 95,
+   "comments": 37,
+   "author": "apress",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 17,
-   "story_id": 50305225,
-   "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
-   "domain": "nbcnews.com",
-   "score": 62,
-   "comments": 20,
-   "author": "theanonymousone",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50293437,
+   "title": "Turning a solar power system into its own backup",
+   "domain": "arstechnica.com",
+   "score": 14,
+   "comments": 5,
+   "author": "PaulHoule",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 18,
-   "story_id": 50298721,
-   "title": "Tracks along the longest drive on another world",
-   "domain": "science.nasa.gov",
-   "score": 29,
-   "comments": 2,
-   "author": "shcallaway",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 19,
-   "story_id": 50246538,
-   "title": "Compile-Time Dependent Types",
-   "domain": "thenumb.at",
-   "score": 33,
-   "comments": 7,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 20,
-   "story_id": 50303172,
-   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-   "domain": "wired.com",
-   "score": 217,
-   "comments": 155,
-   "author": "domhudson",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 21,
-   "story_id": 50270284,
-   "title": "Pell Puzzles Review",
-   "domain": "dles.gg",
-   "score": 12,
-   "comments": 1,
-   "author": "trizoza",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 22,
-   "story_id": 50273504,
-   "title": "Finding Panics with Call Graph Analyzer",
-   "domain": "tweedegolf.nl",
-   "score": 56,
-   "comments": 3,
-   "author": "ndr",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 23,
-   "story_id": 50304419,
-   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-   "domain": "medpagetoday.com",
-   "score": 196,
-   "comments": 188,
-   "author": "brandonb",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 24,
-   "story_id": 50263127,
-   "title": "Gilgamesh by Simon Armitage review \u2013 an ancient epic is brilliantly translated",
-   "domain": "theguardian.com",
-   "score": 158,
-   "comments": 46,
-   "author": "benbreen",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 25,
-   "story_id": 50305601,
-   "title": "Geist Serif",
-   "domain": "vercel.com",
-   "score": 52,
-   "comments": 20,
-   "author": "Zm44",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 26,
    "story_id": 50307219,
    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
    "domain": "ft.com",
-   "score": 13,
-   "comments": 1,
+   "score": 248,
+   "comments": 193,
    "author": "petethomas",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 19,
+   "story_id": 50301854,
+   "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
+   "domain": "binarysecurity.no",
+   "score": 248,
+   "comments": 46,
+   "author": "swq115",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 20,
+   "story_id": 50296730,
+   "title": "Building an AI-native engineering org",
+   "domain": "twitter.com",
+   "score": 83,
+   "comments": 107,
+   "author": "sgondala_ycapp",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 21,
+   "story_id": 50258496,
+   "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+   "domain": "designboom.com",
+   "score": 45,
+   "comments": 21,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 22,
+   "story_id": 50309470,
+   "title": "An Arrogant Way of Killing (2016)",
+   "domain": "magazine.atavist.com",
+   "score": 13,
+   "comments": 4,
+   "author": "firefax",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 23,
+   "story_id": 50309573,
+   "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+   "domain": "bloomberglinea.com.br",
+   "score": 16,
+   "comments": 2,
+   "author": "dvaplima",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 24,
+   "story_id": 50305693,
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "domain": "newsletter.signoz.io",
+   "score": 443,
+   "comments": 329,
+   "author": "dorianniemiec",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 25,
+   "story_id": 50272479,
+   "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+   "domain": "research.google",
+   "score": 129,
+   "comments": 12,
+   "author": "acossta",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 26,
+   "story_id": 50305218,
+   "title": "Show HN: Sketch Stadium \u2013 watch your agent play Pictionary",
+   "domain": "sketch.wakeshift.ai",
+   "score": 15,
+   "comments": 6,
+   "author": "ericlevine",
+   "snapshot_at": "2026-10-30T22:24:34"
+  },
+  {
+   "rank": 27,
+   "story_id": 50309479,
+   "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+   "domain": "github.com",
+   "score": 12,
+   "comments": 1,
+   "author": "alxmrs",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 28,
-   "story_id": 50251070,
-   "title": "Why a program doesn't work when run from a batch file, but works when clicked",
-   "domain": "devblogs.microsoft.com",
-   "score": 99,
-   "comments": 54,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50307723,
+   "title": "GitHub Incident with Actions, Pages, and Webhooks",
+   "domain": "githubstatus.com",
+   "score": 129,
+   "comments": 52,
+   "author": "damontal",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 29,
-   "story_id": 50298436,
-   "title": "Herdr has released native app",
-   "domain": "github.com",
-   "score": 325,
-   "comments": 218,
-   "author": "cherioo",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50301717,
+   "title": "How do you take a picture of a black hole?",
+   "domain": "quantamagazine.org",
+   "score": 72,
+   "comments": 56,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-10-30T22:24:34"
   },
   {
    "rank": 30,
-   "story_id": 50244486,
-   "title": "Commodore 1600 VICmodem",
-   "domain": "dfarq.homeip.net",
-   "score": 43,
-   "comments": 16,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-30T18:02:39"
-  },
-  {
-   "rank": 31,
-   "story_id": 50296486,
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "domain": "labs.ycombinator.com",
-   "score": 380,
-   "comments": 160,
-   "author": "sandslash",
-   "snapshot_at": "2026-10-30T18:02:39"
+   "story_id": 50305480,
+   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "domain": "npr.org",
+   "score": 181,
+   "comments": 115,
+   "author": "paulpauper",
+   "snapshot_at": "2026-10-30T22:24:34"
   }
  ]
 }
