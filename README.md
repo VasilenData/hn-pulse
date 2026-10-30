@@ -1,6 +1,6 @@
 # HN Pulse
 
-[![pipeline](https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml/badge.svg)](https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml)
+[![pipeline](https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml/badge.svg)](https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python 3.11](https://img.shields.io/badge/python-3.11-3670A0.svg)
 
 An end-to-end data engineering project: a scheduled pipeline snapshots the Hacker News front page, models it with **dbt** (with automated data tests), and publishes a **live dashboard**.
 
