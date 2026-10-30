@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:59:08+00:00",
+ "generated_at": "2026-10-30T03:59:43+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -10,10 +10,10 @@
   },
   {
    "day": "2026-10-30",
-   "snapshots": 2,
+   "snapshots": 3,
    "distinct_stories": 113,
-   "avg_score": 196.3,
-   "avg_comments": 103.1
+   "avg_score": 198.2,
+   "avg_comments": 104.0
   }
  ],
  "mart_top_domains": [
@@ -21,7 +21,7 @@
    "domain": "github.com",
    "stories": 20,
    "avg_peak_score": 102.3,
-   "total_comments": 841
+   "total_comments": 842
   },
   {
    "domain": "wired.com",
@@ -32,8 +32,8 @@
   {
    "domain": "nytimes.com",
    "stories": 5,
-   "avg_peak_score": 636.0,
-   "total_comments": 1010
+   "avg_peak_score": 636.2,
+   "total_comments": 1011
   },
   {
    "domain": "arstechnica.com",
@@ -162,7 +162,7 @@
   {
    "posted_hour_utc": 10,
    "stories": 6,
-   "avg_peak_score": 111.0
+   "avg_peak_score": 111.2
   },
   {
    "posted_hour_utc": 11,
@@ -207,7 +207,7 @@
   {
    "posted_hour_utc": 19,
    "stories": 14,
-   "avg_peak_score": 298.3
+   "avg_peak_score": 298.4
   },
   {
    "posted_hour_utc": 20,
@@ -236,10 +236,10 @@
    "story_id": 50296470,
    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
    "domain": "arkm.com",
-   "score": 899,
-   "comments": 524,
+   "score": 900,
+   "comments": 526,
    "author": "Tiberium",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 2,
@@ -249,7 +249,7 @@
    "score": 1260,
    "comments": 354,
    "author": "kuberwastaken",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 3,
@@ -259,7 +259,7 @@
    "score": 21,
    "comments": 6,
    "author": "theanonymousone",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 4,
@@ -269,7 +269,7 @@
    "score": 212,
    "comments": 68,
    "author": "sandslash",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 5,
@@ -279,7 +279,7 @@
    "score": 23,
    "comments": 1,
    "author": "nvmdbljstm",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 6,
@@ -287,9 +287,9 @@
    "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
    "domain": "penligent.ai",
    "score": 10,
-   "comments": 7,
+   "comments": 8,
    "author": "cobychapple",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 7,
@@ -299,7 +299,7 @@
    "score": 22,
    "comments": 2,
    "author": "surprisetalk",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 8,
@@ -309,7 +309,7 @@
    "score": 56,
    "comments": 44,
    "author": "cherioo",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 9,
@@ -319,7 +319,7 @@
    "score": 163,
    "comments": 9,
    "author": "airinei",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 10,
@@ -327,9 +327,9 @@
    "title": "Pico CSS is no longer maintained",
    "domain": "github.com",
    "score": 58,
-   "comments": 19,
+   "comments": 20,
    "author": "henrid",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 11,
@@ -339,7 +339,7 @@
    "score": 359,
    "comments": 131,
    "author": "ea016",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 12,
@@ -347,9 +347,9 @@
    "title": "Iterating Backwards in C",
    "domain": "davidpriver.com",
    "score": 55,
-   "comments": 29,
+   "comments": 30,
    "author": "cremno",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 13,
@@ -359,7 +359,7 @@
    "score": 71,
    "comments": 10,
    "author": "simonebrunozzi",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 14,
@@ -369,7 +369,7 @@
    "score": 57,
    "comments": 13,
    "author": "falperc",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 15,
@@ -379,7 +379,7 @@
    "score": 8,
    "comments": 0,
    "author": "philippemnoel",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 16,
@@ -389,7 +389,7 @@
    "score": 448,
    "comments": 619,
    "author": "WalterSobchak",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 17,
@@ -399,17 +399,17 @@
    "score": 378,
    "comments": 200,
    "author": "ibobev",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 18,
    "story_id": 50294702,
    "title": "Patrick Stewart has died",
    "domain": "nytimes.com",
-   "score": 2565,
-   "comments": 547,
+   "score": 2566,
+   "comments": 548,
    "author": "j4mie",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 19,
@@ -419,7 +419,7 @@
    "score": 55,
    "comments": 16,
    "author": "shong0504",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 20,
@@ -429,7 +429,7 @@
    "score": 49,
    "comments": 20,
    "author": "beatstop",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 21,
@@ -439,7 +439,7 @@
    "score": 27,
    "comments": 11,
    "author": "maitland",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 22,
@@ -449,17 +449,17 @@
    "score": 10,
    "comments": 0,
    "author": "lastmjs",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 23,
    "story_id": 50286987,
    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
    "domain": "dreamgroup.com",
-   "score": 304,
+   "score": 305,
    "comments": 150,
    "author": "882542F3884314B",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 24,
@@ -469,7 +469,7 @@
    "score": 38,
    "comments": 26,
    "author": "giuliomagnifico",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 25,
@@ -477,9 +477,9 @@
    "title": "Should a medical diagnosis reshape the past? (2025)",
    "domain": "chengela.substack.com",
    "score": 23,
-   "comments": 0,
+   "comments": 1,
    "author": "wyndham",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 26,
@@ -489,7 +489,7 @@
    "score": 73,
    "comments": 16,
    "author": "frizlab",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 27,
@@ -499,27 +499,27 @@
    "score": 110,
    "comments": 84,
    "author": "johncassil",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 28,
-   "story_id": 50267380,
-   "title": "Historical Scientific Instruments",
-   "domain": "nealstephenson.substack.com",
-   "score": 24,
-   "comments": 1,
-   "author": "peteforde",
-   "snapshot_at": "2026-10-30T03:58:59"
-  },
-  {
-   "rank": 29,
    "story_id": 50295868,
    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
    "domain": "projects.freehackers.org",
    "score": 46,
    "comments": 13,
    "author": "iamnothere",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
+  },
+  {
+   "rank": 29,
+   "story_id": 50267380,
+   "title": "Historical Scientific Instruments",
+   "domain": "nealstephenson.substack.com",
+   "score": 24,
+   "comments": 1,
+   "author": "peteforde",
+   "snapshot_at": "2026-10-30T03:59:36"
   },
   {
    "rank": 30,
@@ -529,7 +529,7 @@
    "score": 246,
    "comments": 348,
    "author": "rokostik",
-   "snapshot_at": "2026-10-30T03:58:59"
+   "snapshot_at": "2026-10-30T03:59:36"
   }
  ]
 }
