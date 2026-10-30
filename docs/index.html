@@ -1,49 +1,85 @@
 <!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0A1020">
 <title>HN Pulse | Live Hacker News data pipeline</title>
 <meta name="description" content="Live dashboard fed by an automated pipeline: Hacker News API, dbt models and tests, DuckDB, GitHub Actions.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=JetBrains+Mono:wght@400;500&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#101211;--panel:#171b19;--ink:#f1f2ec;--muted:#a0aaa1;--lime:#c5f36a;--line:#303833}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
-.wrap{max-width:1100px;margin:0 auto;padding:0 24px}
-header{padding:48px 0 24px}h1{font-size:40px;margin:6px 0;letter-spacing:-.03em}
-.tag{font:11px ui-monospace,Consolas,monospace;color:var(--lime);text-transform:uppercase;letter-spacing:.08em}
-p.sub{color:var(--muted);max-width:720px}a{color:var(--lime)}
-.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:24px 0}
-.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px}
-.kpi b{display:block;font-size:28px}.kpi span{color:var(--muted);font:11px ui-monospace,Consolas,monospace;text-transform:uppercase}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-h2{font-size:14px;margin:0 0 12px;color:var(--muted);font-weight:500}
-table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left}
-th{color:var(--muted);font-weight:500}td.n{text-align:right;font-variant-numeric:tabular-nums}
-.full{grid-column:1/-1}footer{color:var(--muted);padding:32px 0 56px;font-size:13px}
-@media(max-width:760px){.kpis{grid-template-columns:1fr 1fr}.grid{grid-template-columns:1fr}h1{font-size:30px}}
+:root{--paper:#EDF0F2;--surface:#F8FAFB;--ink:#0E1A2B;--muted:#445568;--rule:#C6D0D9;--signal:#E8470F;--signal-ink:#B93208;--teal:#0F6B6E;--teal-soft:#BFD9DA;
+--display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;--body:'Public Sans','Segoe UI',system-ui,sans-serif;--mono:'JetBrains Mono',ui-monospace,Consolas,monospace}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 1rem/1.6 var(--body);-webkit-font-smoothing:antialiased}
+::selection{background:var(--signal);color:var(--on-signal,#fff)}
+a{color:var(--signal-ink);text-underline-offset:.2em;text-decoration-thickness:1px}a:hover{color:var(--ink)}
+:focus-visible{outline:2px solid var(--signal);outline-offset:3px;border-radius:2px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0}
+.num{font-variant-numeric:tabular-nums}
+.mono{font-family:var(--mono);font-size:.8125rem;letter-spacing:0}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+::-webkit-scrollbar{width:12px;height:12px}::-webkit-scrollbar-thumb{background:var(--rule);border:3px solid var(--paper);border-radius:8px}::-webkit-scrollbar-track{background:var(--paper)}
+
+:root{--paper:#0A1020;--surface:#121A2E;--ink:#E8EEF8;--muted:#9FB0C8;--rule:#27334D;--signal:#FF7A3D;--signal-ink:#FF9A68;--teal:#4FD1C5;--teal-soft:#1D4A4F;--on-signal:#0A1020;--band:#121A2E;--band-ink:#E8EEF8;--band-muted:#9FB0C8}
+
+.wrap{max-width:1120px;margin:0 auto;padding:0 clamp(20px,4vw,40px)}
+.top{display:flex;justify-content:space-between;align-items:center;height:56px;border-bottom:1px solid var(--rule);font-size:.9375rem}
+.top a{color:var(--ink);text-decoration:none;font-weight:600}.top a:hover{color:var(--signal-ink)}.top span{color:var(--muted)}
+header.pg{padding:clamp(32px,6vw,64px) 0 28px}
+h1{font-size:clamp(2.25rem,5vw,3.5rem);line-height:1.02;letter-spacing:-.03em;font-weight:700}
+.sub{max-width:44rem;margin:16px 0 0;color:var(--muted);font-size:1.0625rem}
+.find{margin:28px 0 0;padding:20px 0;border-top:1px solid var(--ink);border-bottom:1px solid var(--rule);display:flex;flex-wrap:wrap;gap:12px 40px}
+.find div{min-width:9rem}.find dt{color:var(--muted);font-size:.8125rem;margin:0 0 2px}.find dd{margin:0;font:700 1.75rem/1.1 var(--display);letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.find dd.hot{color:var(--signal-ink)}
+.find{}.find>div{margin:0}dl{margin:0}
+section.blk{padding:clamp(32px,5vw,56px) 0;border-bottom:1px solid var(--rule)}
+section.blk h2{font-size:1.5rem;line-height:1.15;letter-spacing:-.02em;max-width:36rem}
+.n{margin:8px 0 20px;color:var(--muted);max-width:40rem;font-size:.9375rem}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:clamp(24px,5vw,64px)}
+.cv{position:relative;width:100%}
+table{width:100%;border-collapse:collapse;font-size:.9375rem}
+th,td{padding:9px 10px 9px 0;border-bottom:1px solid var(--rule);text-align:left}
+th{font-weight:600;color:var(--muted);font-size:.8125rem;border-bottom-color:var(--ink)}
+td.r,th.r{text-align:right;font-variant-numeric:tabular-nums;padding-right:0;padding-left:10px}
+td.id{font-family:var(--mono);font-size:.8125rem}
+.hot{color:var(--signal-ink);font-weight:600}
+.scroll{overflow-x:auto}
+.err{padding:24px;border:1px solid var(--signal);color:var(--signal-ink);border-radius:3px;margin:24px 0}
+footer.f{padding:28px 0 56px;color:var(--muted);font-size:.875rem;max-width:48rem}
+@media(max-width:800px){.two{grid-template-columns:1fr}}
+@media(max-width:520px){.find{gap:16px 24px}.find div{min-width:7rem}}
+
+td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var(--muted)}td.rk{color:var(--muted);width:2.5rem;font-variant-numeric:tabular-nums}
 </style></head><body><div class="wrap">
-<header><div class="tag">Data engineering project</div><h1>HN Pulse</h1>
-<p class="sub">A scheduled pipeline snapshots the Hacker News front page, models it with dbt (with automated tests), and publishes the results here. Last refresh: <b id="gen">...</b> UTC.
-<a href="https://github.com/VasilenData/hn-pulse">Source on GitHub</a></p></header>
-<div class="kpis" id="kpis"></div>
-<div class="grid">
-<div class="card"><h2>Top domains by stories on the front page</h2><canvas id="c1"></canvas></div>
-<div class="card"><h2>Avg peak score by posting hour (UTC)</h2><canvas id="c2"></canvas></div>
-<div class="card full"><h2>Front page right now</h2><table id="t"><thead><tr><th>#</th><th>Title</th><th>Domain</th><th class="n">Score</th><th class="n">Comments</th></tr></thead><tbody></tbody></table></div>
-</div>
-<footer>Stack: Python · DuckDB · dbt · Airflow (local orchestration) · GitHub Actions · GitHub Pages. Data: <a href="https://github.com/HackerNews/API">Hacker News API</a>.</footer>
+<div class="top"><a href="https://vasilendata.github.io/">&larr; Vasilen Kanchev</a><span>Data engineering project</span></div>
+<header class="pg"><h1>HN Pulse</h1>
+<p class="sub">A scheduled pipeline snapshots the Hacker News front page, models it with dbt (with automated tests), and publishes the results here. Last refresh: <b id="gen" class="num">loading</b> UTC. <a href="https://github.com/VasilenData/hn-pulse">Source on GitHub</a></p>
+<dl class="find" id="kpis" aria-label="Key figures"></dl></header>
+<main id="main">
+<section class="blk"><div class="two">
+<div><h2>Which sites reach the front page most</h2><p class="n">Stories per domain, top 15.</p><div class="cv"><canvas id="c1" role="img" aria-label="Bar chart of top domains by stories on the front page"></canvas></div></div>
+<div><h2>When posts score highest</h2><p class="n">Average peak score by posting hour (UTC).</p><div class="cv"><canvas id="c2" role="img" aria-label="Line chart of average peak score by posting hour"></canvas></div></div>
+</div></section>
+<section class="blk"><h2>Front page right now</h2><p class="n">Top 30 stories at the latest snapshot.</p><div class="scroll"><table id="t"><thead><tr><th>Rank</th><th>Title</th><th>Domain</th><th class="r">Score</th><th class="r">Comments</th></tr></thead><tbody></tbody></table></div></section>
+</main>
+<footer class="f">Stack: Python · DuckDB · dbt · Airflow (local orchestration) · GitHub Actions · GitHub Pages. Data: <a href="https://github.com/HackerNews/API">Hacker News API</a>.</footer>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <script>
-fetch('data.json').then(r=>r.json()).then(d=>{
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+fetch('data.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
   const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   document.getElementById('gen').textContent=d.generated_at.replace('T',' ').slice(0,16);
   const days=d.mart_daily_summary, fp=d.mart_front_page_now;
-  const snaps=days.reduce((a,x)=>a+x.snapshots,0), stories=Math.max(0,...days.map(x=>x.distinct_stories));
+  const snaps=days.reduce((a,x)=>a+x.snapshots,0);
   const top=fp[0]||{};
-  [[snaps,'snapshots collected'],[days.length,'days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'avg score, front page'],[top.score||0,'score of #1 story']]
-   .forEach(([v,l])=>document.getElementById('kpis').insertAdjacentHTML('beforeend',`<div class="card kpi"><b>${v}</b><span>${l}</span></div>`));
-  const opt={plugins:{legend:{display:false}},scales:{x:{ticks:{color:'#a0aaa1'},grid:{color:'#303833'}},y:{ticks:{color:'#a0aaa1'},grid:{color:'#303833'}}}};
-  new Chart(c1,{type:'bar',data:{labels:d.mart_top_domains.map(x=>x.domain),datasets:[{data:d.mart_top_domains.map(x=>x.stories),backgroundColor:'#c5f36a'}]},options:{...opt,indexAxis:'y'}});
-  new Chart(c2,{type:'line',data:{labels:d.mart_hourly_activity.map(x=>x.posted_hour_utc),datasets:[{data:d.mart_hourly_activity.map(x=>x.avg_peak_score),borderColor:'#c5f36a',backgroundColor:'rgba(197,243,106,.15)',fill:true,tension:.3}]},options:opt});
-  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td>${x.rank}</td><td>${esc(x.title)}</td><td>${esc(x.domain)}</td><td class="n">${x.score}</td><td class="n">${x.comments}</td></tr>`).join('');
-});
+  [[snaps,'Snapshots collected'],[days.length,days.length===1?'Day of data':'Days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'Average score, front page'],[top.score||0,'Score of the #1 story']]
+   .forEach(([v,l])=>document.getElementById('kpis').insertAdjacentHTML('beforeend',`<div><dt>${l}</dt><dd>${v}</dd></div>`));
+  const mut=css('--muted'),rule=css('--rule'),sig=css('--signal'),teal=css('--teal');
+  Chart.defaults.font.family="'Public Sans',system-ui,sans-serif";Chart.defaults.font.size=13;Chart.defaults.color=mut;
+  const ax=(o={})=>({ticks:{color:mut,font:{size:12}},grid:{color:rule,drawTicks:false},border:{display:false},...o});
+  const base={plugins:{legend:{display:false}}};
+  new Chart(c1,{type:'bar',data:{labels:d.mart_top_domains.map(x=>x.domain),datasets:[{data:d.mart_top_domains.map(x=>x.stories),backgroundColor:teal,borderRadius:2}]},options:{...base,indexAxis:'y',aspectRatio:.95,scales:{x:ax({title:{display:true,text:'Stories'},ticks:{precision:0,color:mut}}),y:{...ax(),grid:{display:false},ticks:{autoSkip:false,color:mut,font:{size:12}}}}}});
+  new Chart(c2,{type:'line',data:{labels:d.mart_hourly_activity.map(x=>String(x.posted_hour_utc).padStart(2,'0')+':00'),datasets:[{data:d.mart_hourly_activity.map(x=>x.avg_peak_score),borderColor:teal,backgroundColor:teal+'26',fill:true,borderWidth:2,pointRadius:2,tension:.25}]},options:{...base,aspectRatio:.95,scales:{x:ax({ticks:{maxTicksLimit:8,color:mut}}),y:ax({title:{display:true,text:'Average peak score'}})}}});
+  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td class="rk">${x.rank}</td><td class="t">${esc(x.title)}</td><td class="dom">${esc(x.domain)}</td><td class="r">${x.score}</td><td class="r">${x.comments}</td></tr>`).join('');
+}).catch(()=>{document.getElementById('gen').textContent='unavailable';document.getElementById('main').insertAdjacentHTML('afterbegin','<div class="err" role="alert">The pipeline data did not load. Reload the page; if it still fails, check the latest run in the GitHub Actions tab of the source repository.</div>')});
 </script></body></html>
