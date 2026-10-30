@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:00:17+00:00",
+ "generated_at": "2026-10-30T04:02:00+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -10,17 +10,17 @@
   },
   {
    "day": "2026-10-30",
-   "snapshots": 4,
+   "snapshots": 5,
    "distinct_stories": 113,
-   "avg_score": 199.1,
-   "avg_comments": 104.5
+   "avg_score": 199.7,
+   "avg_comments": 104.8
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 20,
-   "avg_peak_score": 102.4,
+   "avg_peak_score": 102.6,
    "total_comments": 842
   },
   {
@@ -32,8 +32,8 @@
   {
    "domain": "nytimes.com",
    "stories": 5,
-   "avg_peak_score": 636.2,
-   "total_comments": 1011
+   "avg_peak_score": 636.4,
+   "total_comments": 1012
   },
   {
    "domain": "arstechnica.com",
@@ -87,7 +87,7 @@
    "domain": "martinfowler.com",
    "stories": 2,
    "avg_peak_score": 225.0,
-   "total_comments": 304
+   "total_comments": 305
   },
   {
    "domain": "anthropic.com",
@@ -112,17 +112,17 @@
   {
    "posted_hour_utc": 0,
    "stories": 10,
-   "avg_peak_score": 92.4
+   "avg_peak_score": 92.5
   },
   {
    "posted_hour_utc": 1,
    "stories": 8,
-   "avg_peak_score": 104.5
+   "avg_peak_score": 104.6
   },
   {
    "posted_hour_utc": 2,
    "stories": 5,
-   "avg_peak_score": 39.4
+   "avg_peak_score": 39.8
   },
   {
    "posted_hour_utc": 3,
@@ -162,7 +162,7 @@
   {
    "posted_hour_utc": 10,
    "stories": 6,
-   "avg_peak_score": 111.5
+   "avg_peak_score": 111.7
   },
   {
    "posted_hour_utc": 11,
@@ -177,7 +177,7 @@
   {
    "posted_hour_utc": 13,
    "stories": 17,
-   "avg_peak_score": 227.5
+   "avg_peak_score": 227.6
   },
   {
    "posted_hour_utc": 14,
@@ -207,7 +207,7 @@
   {
    "posted_hour_utc": 19,
    "stories": 14,
-   "avg_peak_score": 298.4
+   "avg_peak_score": 298.5
   },
   {
    "posted_hour_utc": 20,
@@ -217,12 +217,12 @@
   {
    "posted_hour_utc": 21,
    "stories": 18,
-   "avg_peak_score": 319.2
+   "avg_peak_score": 319.4
   },
   {
    "posted_hour_utc": 22,
    "stories": 12,
-   "avg_peak_score": 43.8
+   "avg_peak_score": 43.9
   },
   {
    "posted_hour_utc": 23,
@@ -236,10 +236,10 @@
    "story_id": 50296470,
    "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
    "domain": "arkm.com",
-   "score": 902,
+   "score": 905,
    "comments": 526,
    "author": "Tiberium",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 2,
@@ -247,9 +247,9 @@
    "title": "We're releasing the weights of Mistral Large 4",
    "domain": "mistral.ai",
    "score": 1260,
-   "comments": 354,
+   "comments": 355,
    "author": "kuberwastaken",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 3,
@@ -259,7 +259,7 @@
    "score": 21,
    "comments": 6,
    "author": "theanonymousone",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 4,
@@ -269,7 +269,7 @@
    "score": 212,
    "comments": 68,
    "author": "sandslash",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 5,
@@ -279,37 +279,37 @@
    "score": 23,
    "comments": 1,
    "author": "nvmdbljstm",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 6,
    "story_id": 50299182,
    "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
    "domain": "penligent.ai",
-   "score": 10,
+   "score": 11,
    "comments": 8,
    "author": "cobychapple",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 7,
    "story_id": 50273104,
    "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
    "domain": "youtube.com",
-   "score": 22,
+   "score": 23,
    "comments": 2,
    "author": "surprisetalk",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 8,
    "story_id": 50298436,
    "title": "Herdr has released native app",
    "domain": "github.com",
-   "score": 57,
+   "score": 58,
    "comments": 44,
    "author": "cherioo",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 9,
@@ -319,17 +319,17 @@
    "score": 163,
    "comments": 9,
    "author": "airinei",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 10,
    "story_id": 50298964,
    "title": "Pico CSS is no longer maintained",
    "domain": "github.com",
-   "score": 59,
+   "score": 60,
    "comments": 20,
    "author": "henrid",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 11,
@@ -339,7 +339,7 @@
    "score": 359,
    "comments": 131,
    "author": "ea016",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 12,
@@ -349,7 +349,7 @@
    "score": 55,
    "comments": 30,
    "author": "cremno",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 13,
@@ -359,7 +359,7 @@
    "score": 71,
    "comments": 10,
    "author": "simonebrunozzi",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 14,
@@ -369,7 +369,7 @@
    "score": 57,
    "comments": 13,
    "author": "falperc",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 15,
@@ -379,7 +379,7 @@
    "score": 8,
    "comments": 0,
    "author": "philippemnoel",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 16,
@@ -389,37 +389,37 @@
    "score": 448,
    "comments": 619,
    "author": "WalterSobchak",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 17,
+   "story_id": 50299004,
+   "title": "Show HN: Lasm \u2013 Write formally verified webapps in Lean for Node/serverless/edge",
+   "domain": "github.com",
+   "score": 12,
+   "comments": 0,
+   "author": "lastmjs",
+   "snapshot_at": "2026-10-30T04:01:52"
+  },
+  {
+   "rank": 18,
    "story_id": 50290177,
    "title": "LLM Voice",
    "domain": "martinfowler.com",
    "score": 378,
-   "comments": 200,
+   "comments": 201,
    "author": "ibobev",
-   "snapshot_at": "2026-10-30T04:00:12"
-  },
-  {
-   "rank": 18,
-   "story_id": 50299004,
-   "title": "Show HN: Lasm \u2013 Write formally verified webapps in Lean for Node/serverless/edge",
-   "domain": "github.com",
-   "score": 11,
-   "comments": 0,
-   "author": "lastmjs",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 19,
    "story_id": 50294702,
    "title": "Patrick Stewart has died",
    "domain": "nytimes.com",
-   "score": 2566,
-   "comments": 548,
+   "score": 2567,
+   "comments": 549,
    "author": "j4mie",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 20,
@@ -429,7 +429,7 @@
    "score": 55,
    "comments": 16,
    "author": "shong0504",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 21,
@@ -439,7 +439,7 @@
    "score": 49,
    "comments": 20,
    "author": "beatstop",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 22,
@@ -449,17 +449,17 @@
    "score": 27,
    "comments": 11,
    "author": "maitland",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 23,
    "story_id": 50286987,
    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
    "domain": "dreamgroup.com",
-   "score": 306,
+   "score": 307,
    "comments": 150,
    "author": "882542F3884314B",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 24,
@@ -469,17 +469,17 @@
    "score": 39,
    "comments": 26,
    "author": "giuliomagnifico",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 25,
    "story_id": 50296920,
    "title": "Should a medical diagnosis reshape the past? (2025)",
    "domain": "chengela.substack.com",
-   "score": 23,
+   "score": 24,
    "comments": 1,
    "author": "wyndham",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 26,
@@ -489,17 +489,17 @@
    "score": 73,
    "comments": 16,
    "author": "frizlab",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 27,
    "story_id": 50294506,
    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
    "domain": "github.com",
-   "score": 110,
+   "score": 111,
    "comments": 84,
    "author": "johncassil",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 28,
@@ -509,7 +509,7 @@
    "score": 46,
    "comments": 13,
    "author": "iamnothere",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 29,
@@ -519,7 +519,7 @@
    "score": 24,
    "comments": 1,
    "author": "peteforde",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   },
   {
    "rank": 30,
@@ -529,7 +529,7 @@
    "score": 246,
    "comments": 348,
    "author": "rokostik",
-   "snapshot_at": "2026-10-30T04:00:12"
+   "snapshot_at": "2026-10-30T04:01:52"
   }
  ]
 }
