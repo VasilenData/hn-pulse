@@ -21,6 +21,8 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Lint
+        run: pip install ruff && ruff check .
       - name: Unit tests
         run: pytest -q
       - name: Extract
