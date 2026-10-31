@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T12:36:54+00:00",
+ "generated_at": "2026-10-31T19:20:09+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -17,30 +17,36 @@
   },
   {
    "day": "2026-10-31",
-   "snapshots": 6,
-   "distinct_stories": 119,
-   "avg_score": 243.0,
-   "avg_comments": 110.7
+   "snapshots": 7,
+   "distinct_stories": 158,
+   "avg_score": 233.5,
+   "avg_comments": 106.0
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 27,
-   "avg_peak_score": 141.7,
-   "total_comments": 1496
+   "stories": 30,
+   "avg_peak_score": 133.3,
+   "total_comments": 1568
   },
   {
    "domain": "wired.com",
    "stories": 8,
-   "avg_peak_score": 407.0,
-   "total_comments": 2114
+   "avg_peak_score": 417.3,
+   "total_comments": 2190
+  },
+  {
+   "domain": "theguardian.com",
+   "stories": 7,
+   "avg_peak_score": 62.9,
+   "total_comments": 208
   },
   {
    "domain": "twitter.com",
    "stories": 7,
-   "avg_peak_score": 39.9,
-   "total_comments": 266
+   "avg_peak_score": 41.6,
+   "total_comments": 274
   },
   {
    "domain": "nytimes.com",
@@ -51,8 +57,8 @@
   {
    "domain": "arstechnica.com",
    "stories": 6,
-   "avg_peak_score": 136.5,
-   "total_comments": 332
+   "avg_peak_score": 137.0,
+   "total_comments": 338
   },
   {
    "domain": "reuters.com",
@@ -61,16 +67,16 @@
    "total_comments": 170
   },
   {
-   "domain": "theguardian.com",
-   "stories": 6,
-   "avg_peak_score": 47.8,
-   "total_comments": 96
+   "domain": "bbc.com",
+   "stories": 5,
+   "avg_peak_score": 182.0,
+   "total_comments": 1322
   },
   {
-   "domain": "bbc.com",
+   "domain": "phoronix.com",
    "stories": 4,
-   "avg_peak_score": 225.5,
-   "total_comments": 1320
+   "avg_peak_score": 18.0,
+   "total_comments": 22
   },
   {
    "domain": "apple.com",
@@ -107,12 +113,6 @@
    "stories": 3,
    "avg_peak_score": 103.7,
    "total_comments": 145
-  },
-  {
-   "domain": "en.wikipedia.org",
-   "stories": 3,
-   "avg_peak_score": 25.3,
-   "total_comments": 15
   }
  ],
  "mart_hourly_activity": [
@@ -124,17 +124,17 @@
   {
    "posted_hour_utc": 1,
    "stories": 8,
-   "avg_peak_score": 127.5
+   "avg_peak_score": 127.6
   },
   {
    "posted_hour_utc": 2,
    "stories": 8,
-   "avg_peak_score": 78.0
+   "avg_peak_score": 86.8
   },
   {
    "posted_hour_utc": 3,
    "stories": 10,
-   "avg_peak_score": 98.1
+   "avg_peak_score": 98.9
   },
   {
    "posted_hour_utc": 4,
@@ -144,399 +144,399 @@
   {
    "posted_hour_utc": 5,
    "stories": 6,
-   "avg_peak_score": 23.0
+   "avg_peak_score": 25.2
   },
   {
    "posted_hour_utc": 6,
    "stories": 7,
-   "avg_peak_score": 175.7
+   "avg_peak_score": 198.4
   },
   {
    "posted_hour_utc": 7,
-   "stories": 10,
-   "avg_peak_score": 183.8
+   "stories": 11,
+   "avg_peak_score": 173.2
   },
   {
    "posted_hour_utc": 8,
    "stories": 6,
-   "avg_peak_score": 117.5
+   "avg_peak_score": 133.7
   },
   {
    "posted_hour_utc": 9,
-   "stories": 9,
-   "avg_peak_score": 111.7
+   "stories": 11,
+   "avg_peak_score": 97.5
   },
   {
    "posted_hour_utc": 10,
    "stories": 12,
-   "avg_peak_score": 118.3
+   "avg_peak_score": 190.4
   },
   {
    "posted_hour_utc": 11,
-   "stories": 15,
-   "avg_peak_score": 228.2
+   "stories": 16,
+   "avg_peak_score": 226.4
   },
   {
    "posted_hour_utc": 12,
-   "stories": 13,
-   "avg_peak_score": 335.5
+   "stories": 15,
+   "avg_peak_score": 298.5
   },
   {
    "posted_hour_utc": 13,
-   "stories": 24,
-   "avg_peak_score": 185.1
+   "stories": 27,
+   "avg_peak_score": 170.7
   },
   {
    "posted_hour_utc": 14,
-   "stories": 23,
-   "avg_peak_score": 243.6
+   "stories": 27,
+   "avg_peak_score": 222.5
   },
   {
    "posted_hour_utc": 15,
-   "stories": 34,
-   "avg_peak_score": 190.6
+   "stories": 36,
+   "avg_peak_score": 189.6
   },
   {
    "posted_hour_utc": 16,
-   "stories": 31,
-   "avg_peak_score": 171.5
+   "stories": 37,
+   "avg_peak_score": 155.9
   },
   {
    "posted_hour_utc": 17,
-   "stories": 38,
-   "avg_peak_score": 163.6
+   "stories": 46,
+   "avg_peak_score": 142.3
   },
   {
    "posted_hour_utc": 18,
-   "stories": 18,
-   "avg_peak_score": 82.5
+   "stories": 26,
+   "avg_peak_score": 62.8
   },
   {
    "posted_hour_utc": 19,
-   "stories": 22,
-   "avg_peak_score": 266.0
+   "stories": 23,
+   "avg_peak_score": 258.1
   },
   {
    "posted_hour_utc": 20,
    "stories": 25,
-   "avg_peak_score": 98.8
+   "avg_peak_score": 100.0
   },
   {
    "posted_hour_utc": 21,
-   "stories": 29,
-   "avg_peak_score": 266.4
+   "stories": 30,
+   "avg_peak_score": 260.1
   },
   {
    "posted_hour_utc": 22,
    "stories": 13,
-   "avg_peak_score": 58.2
+   "avg_peak_score": 58.3
   },
   {
    "posted_hour_utc": 23,
    "stories": 11,
-   "avg_peak_score": 158.5
+   "avg_peak_score": 161.0
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50314654,
-   "title": "Serbia just elected the world's brainiest parliament",
-   "domain": "science.org",
-   "score": 278,
-   "comments": 169,
-   "author": "input_sh",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50319061,
+   "title": "The Duty of a Scholar",
+   "domain": "daemonology.net",
+   "score": 10,
+   "comments": 0,
+   "author": "gslin",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 2,
    "story_id": 50314666,
-   "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
    "domain": "piefed.world",
-   "score": 57,
-   "comments": 12,
+   "score": 249,
+   "comments": 151,
    "author": "DeepLogin",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 3,
-   "story_id": 50314085,
-   "title": "Switch Lowering in GCC",
-   "domain": "xoranth.net",
-   "score": 93,
-   "comments": 16,
-   "author": "signa11",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50314699,
+   "title": "Do the math: How we took over ChatGPT accounts",
+   "domain": "parameter.ai",
+   "score": 264,
+   "comments": 119,
+   "author": "armcat",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 4,
-   "story_id": 50314699,
-   "title": "We Took over ChatGPT Accounts",
-   "domain": "parameter.ai",
-   "score": 33,
-   "comments": 23,
-   "author": "armcat",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318871,
+   "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+   "domain": "ryanmadden.net",
+   "score": 7,
+   "comments": 1,
+   "author": "ryanmadden",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 5,
-   "story_id": 50260753,
-   "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-   "domain": "zebra.rodeo",
-   "score": 90,
-   "comments": 27,
-   "author": "foOg",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50316100,
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "domain": "jepsen.io",
+   "score": 88,
+   "comments": 43,
+   "author": "aphyr",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 6,
-   "story_id": 50313661,
-   "title": "Digital Minimalism",
-   "domain": "vitalik.eth.limo",
-   "score": 93,
-   "comments": 61,
-   "author": "wilbertliu",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318442,
+   "title": "I post trained a model on Demoscenes",
+   "domain": "datavorous.com",
+   "score": 16,
+   "comments": 7,
+   "author": "datavorous_",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 7,
-   "story_id": 50290652,
-   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-   "domain": "thedataexchange.media",
-   "score": 67,
-   "comments": 13,
-   "author": "datascientist",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50274186,
+   "title": "Redox: Ring Buffers Project Summary",
+   "domain": "redox-os.org",
+   "score": 20,
+   "comments": 2,
+   "author": "g0xA52A2A",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 8,
-   "story_id": 50307190,
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "domain": "virtuallyfun.com",
-   "score": 324,
-   "comments": 95,
-   "author": "DHowett",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50317363,
+   "title": "Casio Watches of the 1980s",
+   "domain": "casio.com",
+   "score": 142,
+   "comments": 66,
+   "author": "karagenit",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 9,
-   "story_id": 50303172,
-   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-   "domain": "wired.com",
-   "score": 484,
-   "comments": 336,
-   "author": "domhudson",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50293806,
+   "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+   "domain": "jeffgeerling.com",
+   "score": 12,
+   "comments": 3,
+   "author": "aray07",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 10,
-   "story_id": 50277379,
-   "title": "Cloudflare Turnstile solver library (no headless browser required)",
-   "domain": "github.com",
-   "score": 239,
-   "comments": 68,
-   "author": "costco",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318376,
+   "title": "William Nordhaus has died",
+   "domain": "news.yale.edu",
+   "score": 16,
+   "comments": 1,
+   "author": "ilreb",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 11,
-   "story_id": 50305025,
-   "title": "Northflank Breached",
-   "domain": "status.northflank.com",
-   "score": 449,
-   "comments": 321,
-   "author": "js4ever",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318812,
+   "title": "Shaun Thomas: Burnt Toast",
+   "domain": "pgedge.com",
+   "score": 3,
+   "comments": 0,
+   "author": "hn9zmdcaou",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 12,
-   "story_id": 50312756,
-   "title": "Tell HN: Scribd Breached",
-   "domain": "news.ycombinator.com",
-   "score": 253,
-   "comments": 96,
-   "author": "x______________",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50261253,
+   "title": "Simple circuits can create complex behaviors",
+   "domain": "aatishb.com",
+   "score": 149,
+   "comments": 44,
+   "author": "aatish",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 13,
-   "story_id": 50263837,
-   "title": "Breaking the open web won't stop the bad bots",
-   "domain": "techpolicy.press",
-   "score": 277,
-   "comments": 123,
-   "author": "raybb",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50271052,
+   "title": "Reading and writing are less symmetric than you (probably) think",
+   "domain": "fgiesen.wordpress.com",
+   "score": 49,
+   "comments": 15,
+   "author": "luu",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 14,
-   "story_id": 50314872,
-   "title": "Shiny Object Syndrome",
-   "domain": "en.wikipedia.org",
-   "score": 22,
-   "comments": 9,
-   "author": "janisz",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50314085,
+   "title": "Switch Lowering in GCC",
+   "domain": "xoranth.net",
+   "score": 171,
+   "comments": 33,
+   "author": "signa11",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 15,
-   "story_id": 50305637,
-   "title": "Florilegium: Procedural Flowers in LaTeX",
-   "domain": "github.com",
-   "score": 303,
-   "comments": 48,
-   "author": "nanna",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318720,
+   "title": "It's the Memory Latency, Stupid",
+   "domain": "pivotlake.io",
+   "score": 4,
+   "comments": 0,
+   "author": "ntur1337",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 16,
-   "story_id": 50309266,
-   "title": "The oldest ice disappears and the Stone Age emerges from it",
-   "domain": "sciencenorway.no",
-   "score": 161,
-   "comments": 64,
-   "author": "dxs",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50314654,
+   "title": "Serbia just elected the world's brainiest parliament",
+   "domain": "science.org",
+   "score": 708,
+   "comments": 407,
+   "author": "input_sh",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 17,
-   "story_id": 50306442,
-   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-   "domain": "github.com",
-   "score": 260,
-   "comments": 127,
-   "author": "dbreunig",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318401,
+   "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+   "domain": "dl.acm.org",
+   "score": 49,
+   "comments": 32,
+   "author": "the-mitr",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 18,
-   "story_id": 50300683,
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "domain": "phorion.io",
-   "score": 917,
-   "comments": 535,
-   "author": "_chall",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50313661,
+   "title": "Digital minimalism",
+   "domain": "vitalik.eth.limo",
+   "score": 250,
+   "comments": 187,
+   "author": "wilbertliu",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 19,
-   "story_id": 50274885,
-   "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
-   "domain": "jacc.org",
-   "score": 42,
-   "comments": 20,
-   "author": "brandonb",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50316531,
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "domain": "blog.talosintelligence.com",
+   "score": 192,
+   "comments": 101,
+   "author": "khalidkhair",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 20,
-   "story_id": 50304122,
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "domain": "fortune.com",
-   "score": 212,
-   "comments": 262,
-   "author": "taubek",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50315782,
+   "title": "Show HN: A language model that lives in a boot sector",
+   "domain": "github.com",
+   "score": 3,
+   "comments": 0,
+   "author": "kerlenton",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 21,
-   "story_id": 50300151,
-   "title": "Keeping the Bonfires Lit",
-   "domain": "historytoday.com",
-   "score": 5,
-   "comments": 0,
-   "author": "Petiver",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318182,
+   "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+   "domain": "cairoreport.org",
+   "score": 10,
+   "comments": 6,
+   "author": "entryleveljobsc",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 22,
-   "story_id": 50309029,
-   "title": "Infinite Mac: BeOS",
-   "domain": "blog.persistent.info",
-   "score": 169,
-   "comments": 100,
-   "author": "ecliptik",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50300902,
+   "title": "Show HN: Ghostman \u2013 A fast, keyboard-driven TUI API client and webhook inspector",
+   "domain": "github.com",
+   "score": 25,
+   "comments": 19,
+   "author": "4yk5",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 23,
-   "story_id": 50305573,
-   "title": "The federated code forge",
-   "domain": "tangled.org",
-   "score": 298,
-   "comments": 86,
-   "author": "zlliang",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50290652,
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "domain": "thedataexchange.media",
+   "score": 159,
+   "comments": 36,
+   "author": "datascientist",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 24,
-   "story_id": 50301854,
-   "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
-   "domain": "binarysecurity.no",
-   "score": 316,
-   "comments": 58,
-   "author": "swq115",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50317429,
+   "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+   "domain": "science.nasa.gov",
+   "score": 55,
+   "comments": 24,
+   "author": "geox",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 25,
-   "story_id": 50311686,
-   "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-   "domain": "tng.episodle.com",
-   "score": 200,
-   "comments": 56,
-   "author": "francisofascii",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318189,
+   "title": "UK Green party drops longstanding opposition to nuclear power",
+   "domain": "theguardian.com",
+   "score": 146,
+   "comments": 112,
+   "author": "mpweiher",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 26,
-   "story_id": 50309314,
-   "title": "Jules Verne's Lost Novel",
-   "domain": "blue-continuum.com",
-   "score": 123,
-   "comments": 30,
-   "author": "dnetesn",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50260753,
+   "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+   "domain": "zebra.rodeo",
+   "score": 163,
+   "comments": 44,
+   "author": "foOg",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 27,
-   "story_id": 50289081,
-   "title": "Brief History of PDP Computers",
-   "domain": "entropicthoughts.com",
-   "score": 37,
-   "comments": 15,
-   "author": "ibobev",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50303172,
+   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+   "domain": "wired.com",
+   "score": 560,
+   "comments": 400,
+   "author": "domhudson",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 28,
-   "story_id": 50276613,
-   "title": "Double Buffering with Cloudflare Queues",
-   "domain": "bellone.com",
-   "score": 49,
-   "comments": 5,
-   "author": "b_llc",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50296700,
+   "title": "Hunting 'Zombie Accounts' in Active Directory",
+   "domain": "fabian.fyi",
+   "score": 27,
+   "comments": 2,
+   "author": "optimiz",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 29,
-   "story_id": 50314243,
-   "title": "How long do you need to hold down the power button to turn off a PC?",
-   "domain": "osnews.com",
-   "score": 39,
-   "comments": 7,
-   "author": "Arodex",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50318018,
+   "title": "Copyright Office is restoring copyright to something you have to work to get",
+   "domain": "pluralistic.net",
+   "score": 22,
+   "comments": 15,
+   "author": "beardyw",
+   "snapshot_at": "2026-10-31T19:20:02"
   },
   {
    "rank": 30,
-   "story_id": 50276355,
-   "title": "Trapped in the Technologist Factory",
-   "domain": "ideolalia.com",
-   "score": 50,
-   "comments": 16,
-   "author": "luu",
-   "snapshot_at": "2026-10-31T12:36:48"
+   "story_id": 50307190,
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "domain": "virtuallyfun.com",
+   "score": 363,
+   "comments": 108,
+   "author": "DHowett",
+   "snapshot_at": "2026-10-31T19:20:02"
   }
  ],
  "quality": {
@@ -553,8 +553,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 2475,
-   "fct_stories": 388
+   "stg_snapshots": 2574,
+   "fct_stories": 427
   },
   "newest_snapshot_age_hours": 0.0
  }
