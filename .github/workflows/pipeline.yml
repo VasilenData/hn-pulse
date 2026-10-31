@@ -27,14 +27,18 @@ jobs:
         run: pytest -q
       - name: Extract
         run: python extract.py
+      - name: Freshness gate
+        run: python quality.py gate
       - name: Transform and test with dbt
         run: dbt build --profiles-dir .
-      - name: Export dashboard data
+      - name: Export dashboard data (includes the pipeline-health summary)
         run: python export.py
+      - name: Refresh lineage diagram
+        run: python lineage.py
       - name: Commit new snapshot and dashboard data
         run: |
           git config user.name "hn-pulse-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data docs
+          git add data docs LINEAGE.md
           git diff --cached --quiet || git commit -m "data: snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
