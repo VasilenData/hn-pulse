@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:33:22+00:00",
+ "generated_at": "2026-10-31T06:34:12+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -17,9 +17,9 @@
   },
   {
    "day": "2026-10-31",
-   "snapshots": 3,
+   "snapshots": 4,
    "distinct_stories": 102,
-   "avg_score": 240.2,
+   "avg_score": 240.4,
    "avg_comments": 109.2
   }
  ],
@@ -45,7 +45,7 @@
   {
    "domain": "nytimes.com",
    "stories": 6,
-   "avg_peak_score": 650.5,
+   "avg_peak_score": 650.7,
    "total_comments": 1214
   },
   {
@@ -105,8 +105,8 @@
   {
    "domain": "wsj.com",
    "stories": 3,
-   "avg_peak_score": 102.3,
-   "total_comments": 141
+   "avg_peak_score": 102.7,
+   "total_comments": 142
   },
   {
    "domain": "nature.com",
@@ -129,12 +129,12 @@
   {
    "posted_hour_utc": 2,
    "stories": 8,
-   "avg_peak_score": 62.3
+   "avg_peak_score": 62.4
   },
   {
    "posted_hour_utc": 3,
    "stories": 9,
-   "avg_peak_score": 107.7
+   "avg_peak_score": 107.8
   },
   {
    "posted_hour_utc": 4,
@@ -184,7 +184,7 @@
   {
    "posted_hour_utc": 13,
    "stories": 24,
-   "avg_peak_score": 183.0
+   "avg_peak_score": 183.1
   },
   {
    "posted_hour_utc": 14,
@@ -194,7 +194,7 @@
   {
    "posted_hour_utc": 15,
    "stories": 33,
-   "avg_peak_score": 184.8
+   "avg_peak_score": 184.9
   },
   {
    "posted_hour_utc": 16,
@@ -234,7 +234,7 @@
   {
    "posted_hour_utc": 23,
    "stories": 11,
-   "avg_peak_score": 154.0
+   "avg_peak_score": 154.2
   }
  ],
  "mart_front_page_now": [
@@ -243,10 +243,10 @@
    "story_id": 50311686,
    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
    "domain": "tng.episodle.com",
-   "score": 158,
+   "score": 159,
    "comments": 44,
    "author": "francisofascii",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 2,
@@ -256,17 +256,17 @@
    "score": 277,
    "comments": 77,
    "author": "DHowett",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 3,
    "story_id": 50312756,
    "title": "Tell HN: Scribd Breached",
    "domain": "news.ycombinator.com",
-   "score": 128,
+   "score": 129,
    "comments": 52,
    "author": "x______________",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 4,
@@ -276,7 +276,7 @@
    "score": 5,
    "comments": 2,
    "author": "bilater",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 5,
@@ -286,7 +286,7 @@
    "score": 154,
    "comments": 42,
    "author": "costco",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 6,
@@ -296,7 +296,7 @@
    "score": 409,
    "comments": 300,
    "author": "js4ever",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 7,
@@ -306,7 +306,7 @@
    "score": 400,
    "comments": 270,
    "author": "domhudson",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 8,
@@ -316,7 +316,7 @@
    "score": 234,
    "comments": 104,
    "author": "raybb",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 9,
@@ -326,7 +326,7 @@
    "score": 18,
    "comments": 6,
    "author": "brandonb",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 10,
@@ -336,7 +336,7 @@
    "score": 11,
    "comments": 1,
    "author": "ibobev",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 11,
@@ -346,7 +346,7 @@
    "score": 231,
    "comments": 118,
    "author": "dbreunig",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 12,
@@ -356,7 +356,7 @@
    "score": 123,
    "comments": 53,
    "author": "dxs",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 13,
@@ -366,7 +366,7 @@
    "score": 105,
    "comments": 18,
    "author": "wh33zle",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 14,
@@ -376,7 +376,7 @@
    "score": 137,
    "comments": 56,
    "author": "ecliptik",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 15,
@@ -386,7 +386,7 @@
    "score": 243,
    "comments": 44,
    "author": "nanna",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 16,
@@ -396,7 +396,7 @@
    "score": 22,
    "comments": 2,
    "author": "b_llc",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 17,
@@ -406,7 +406,7 @@
    "score": 261,
    "comments": 82,
    "author": "zlliang",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 18,
@@ -416,7 +416,7 @@
    "score": 863,
    "comments": 513,
    "author": "_chall",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 19,
@@ -426,7 +426,7 @@
    "score": 96,
    "comments": 19,
    "author": "dnetesn",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 20,
@@ -436,17 +436,17 @@
    "score": 75,
    "comments": 10,
    "author": "MilnerRoute",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 21,
    "story_id": 50312922,
    "title": "OpenAI raises less than half of $30B target",
    "domain": "wsj.com",
-   "score": 129,
-   "comments": 97,
+   "score": 130,
+   "comments": 98,
    "author": "timr",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 22,
@@ -456,7 +456,7 @@
    "score": 296,
    "comments": 57,
    "author": "swq115",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 23,
@@ -466,7 +466,7 @@
    "score": 151,
    "comments": 189,
    "author": "taubek",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 24,
@@ -476,7 +476,7 @@
    "score": 5,
    "comments": 0,
    "author": "eustoria",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 25,
@@ -486,7 +486,7 @@
    "score": 272,
    "comments": 149,
    "author": "apress",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 26,
@@ -496,7 +496,7 @@
    "score": 24,
    "comments": 10,
    "author": "luu",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 27,
@@ -506,7 +506,7 @@
    "score": 44,
    "comments": 15,
    "author": "PaulHoule",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 28,
@@ -516,17 +516,17 @@
    "score": 136,
    "comments": 171,
    "author": "sgondala_ycapp",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 29,
    "story_id": 50258496,
    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
    "domain": "designboom.com",
-   "score": 81,
+   "score": 82,
    "comments": 34,
    "author": "surprisetalk",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   },
   {
    "rank": 30,
@@ -536,7 +536,26 @@
    "score": 205,
    "comments": 23,
    "author": "acossta",
-   "snapshot_at": "2026-10-31T06:33:16"
+   "snapshot_at": "2026-10-31T06:34:06"
   }
- ]
+ ],
+ "quality": {
+  "tests": {
+   "pass": 27,
+   "warn": 0,
+   "fail": 0,
+   "error": 0
+  },
+  "models": {
+   "success": 6,
+   "error": 0
+  },
+  "contracts_enforced": 6,
+  "models_total": 6,
+  "rows": {
+   "stg_snapshots": 2277,
+   "fct_stories": 372
+  },
+  "newest_snapshot_age_hours": 0.0
+ }
 }
