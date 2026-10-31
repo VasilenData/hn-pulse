@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:32:40+00:00",
+ "generated_at": "2026-10-31T06:33:22+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -17,10 +17,10 @@
   },
   {
    "day": "2026-10-31",
-   "snapshots": 2,
+   "snapshots": 3,
    "distinct_stories": 102,
-   "avg_score": 239.9,
-   "avg_comments": 109.0
+   "avg_score": 240.2,
+   "avg_comments": 109.2
   }
  ],
  "mart_top_domains": [
@@ -34,7 +34,7 @@
    "domain": "wired.com",
    "stories": 8,
    "avg_peak_score": 395.6,
-   "total_comments": 2044
+   "total_comments": 2045
   },
   {
    "domain": "twitter.com",
@@ -105,7 +105,7 @@
   {
    "domain": "wsj.com",
    "stories": 3,
-   "avg_peak_score": 102.0,
+   "avg_peak_score": 102.3,
    "total_comments": 141
   },
   {
@@ -134,7 +134,7 @@
   {
    "posted_hour_utc": 3,
    "stories": 9,
-   "avg_peak_score": 107.6
+   "avg_peak_score": 107.7
   },
   {
    "posted_hour_utc": 4,
@@ -199,7 +199,7 @@
   {
    "posted_hour_utc": 16,
    "stories": 31,
-   "avg_peak_score": 168.0
+   "avg_peak_score": 168.1
   },
   {
    "posted_hour_utc": 17,
@@ -246,7 +246,7 @@
    "score": 158,
    "comments": 44,
    "author": "francisofascii",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 2,
@@ -256,7 +256,7 @@
    "score": 277,
    "comments": 77,
    "author": "DHowett",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 3,
@@ -266,7 +266,7 @@
    "score": 128,
    "comments": 52,
    "author": "x______________",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 4,
@@ -276,7 +276,7 @@
    "score": 5,
    "comments": 2,
    "author": "bilater",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 5,
@@ -286,7 +286,7 @@
    "score": 154,
    "comments": 42,
    "author": "costco",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 6,
@@ -296,7 +296,7 @@
    "score": 409,
    "comments": 300,
    "author": "js4ever",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 7,
@@ -304,9 +304,9 @@
    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
    "domain": "wired.com",
    "score": 400,
-   "comments": 269,
+   "comments": 270,
    "author": "domhudson",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 8,
@@ -316,7 +316,7 @@
    "score": 234,
    "comments": 104,
    "author": "raybb",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 9,
@@ -326,7 +326,7 @@
    "score": 18,
    "comments": 6,
    "author": "brandonb",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 10,
@@ -336,7 +336,7 @@
    "score": 11,
    "comments": 1,
    "author": "ibobev",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 11,
@@ -346,7 +346,7 @@
    "score": 231,
    "comments": 118,
    "author": "dbreunig",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 12,
@@ -356,7 +356,7 @@
    "score": 123,
    "comments": 53,
    "author": "dxs",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 13,
@@ -366,7 +366,7 @@
    "score": 105,
    "comments": 18,
    "author": "wh33zle",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 14,
@@ -376,7 +376,7 @@
    "score": 137,
    "comments": 56,
    "author": "ecliptik",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 15,
@@ -386,7 +386,7 @@
    "score": 243,
    "comments": 44,
    "author": "nanna",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 16,
@@ -396,7 +396,7 @@
    "score": 22,
    "comments": 2,
    "author": "b_llc",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 17,
@@ -406,7 +406,7 @@
    "score": 261,
    "comments": 82,
    "author": "zlliang",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 18,
@@ -416,7 +416,7 @@
    "score": 863,
    "comments": 513,
    "author": "_chall",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 19,
@@ -426,7 +426,7 @@
    "score": 96,
    "comments": 19,
    "author": "dnetesn",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 20,
@@ -436,17 +436,17 @@
    "score": 75,
    "comments": 10,
    "author": "MilnerRoute",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 21,
    "story_id": 50312922,
    "title": "OpenAI raises less than half of $30B target",
    "domain": "wsj.com",
-   "score": 128,
+   "score": 129,
    "comments": 97,
    "author": "timr",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 22,
@@ -456,7 +456,7 @@
    "score": 296,
    "comments": 57,
    "author": "swq115",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 23,
@@ -466,7 +466,7 @@
    "score": 151,
    "comments": 189,
    "author": "taubek",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 24,
@@ -476,7 +476,7 @@
    "score": 5,
    "comments": 0,
    "author": "eustoria",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 25,
@@ -486,17 +486,17 @@
    "score": 272,
    "comments": 149,
    "author": "apress",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 26,
    "story_id": 50276355,
    "title": "Trapped in the Technologist Factory",
    "domain": "ideolalia.com",
-   "score": 23,
+   "score": 24,
    "comments": 10,
    "author": "luu",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 27,
@@ -506,7 +506,7 @@
    "score": 44,
    "comments": 15,
    "author": "PaulHoule",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 28,
@@ -516,7 +516,7 @@
    "score": 136,
    "comments": 171,
    "author": "sgondala_ycapp",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 29,
@@ -526,7 +526,7 @@
    "score": 81,
    "comments": 34,
    "author": "surprisetalk",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   },
   {
    "rank": 30,
@@ -536,7 +536,7 @@
    "score": 205,
    "comments": 23,
    "author": "acossta",
-   "snapshot_at": "2026-10-31T06:32:35"
+   "snapshot_at": "2026-10-31T06:33:16"
   }
  ]
 }
