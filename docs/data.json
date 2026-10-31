@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T06:34:12+00:00",
+ "generated_at": "2026-10-31T06:40:47+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -17,36 +17,36 @@
   },
   {
    "day": "2026-10-31",
-   "snapshots": 4,
+   "snapshots": 5,
    "distinct_stories": 102,
-   "avg_score": 240.4,
-   "avg_comments": 109.2
+   "avg_score": 240.5,
+   "avg_comments": 109.3
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 27,
-   "avg_peak_score": 134.3,
-   "total_comments": 1441
+   "avg_peak_score": 134.4,
+   "total_comments": 1442
   },
   {
    "domain": "wired.com",
    "stories": 8,
-   "avg_peak_score": 395.6,
-   "total_comments": 2045
+   "avg_peak_score": 395.9,
+   "total_comments": 2047
   },
   {
    "domain": "twitter.com",
    "stories": 7,
    "avg_peak_score": 35.9,
-   "total_comments": 252
+   "total_comments": 253
   },
   {
    "domain": "nytimes.com",
    "stories": 6,
    "avg_peak_score": 650.7,
-   "total_comments": 1214
+   "total_comments": 1215
   },
   {
    "domain": "arstechnica.com",
@@ -63,7 +63,7 @@
   {
    "domain": "theguardian.com",
    "stories": 6,
-   "avg_peak_score": 45.0,
+   "avg_peak_score": 45.3,
    "total_comments": 92
   },
   {
@@ -105,8 +105,8 @@
   {
    "domain": "wsj.com",
    "stories": 3,
-   "avg_peak_score": 102.7,
-   "total_comments": 142
+   "avg_peak_score": 103.7,
+   "total_comments": 145
   },
   {
    "domain": "nature.com",
@@ -119,7 +119,7 @@
   {
    "posted_hour_utc": 0,
    "stories": 11,
-   "avg_peak_score": 121.3
+   "avg_peak_score": 121.5
   },
   {
    "posted_hour_utc": 1,
@@ -129,12 +129,12 @@
   {
    "posted_hour_utc": 2,
    "stories": 8,
-   "avg_peak_score": 62.4
+   "avg_peak_score": 62.5
   },
   {
    "posted_hour_utc": 3,
    "stories": 9,
-   "avg_peak_score": 107.8
+   "avg_peak_score": 108.1
   },
   {
    "posted_hour_utc": 4,
@@ -144,7 +144,7 @@
   {
    "posted_hour_utc": 5,
    "stories": 5,
-   "avg_peak_score": 23.4
+   "avg_peak_score": 25.0
   },
   {
    "posted_hour_utc": 6,
@@ -179,7 +179,7 @@
   {
    "posted_hour_utc": 12,
    "stories": 13,
-   "avg_peak_score": 326.8
+   "avg_peak_score": 327.0
   },
   {
    "posted_hour_utc": 13,
@@ -214,17 +214,17 @@
   {
    "posted_hour_utc": 19,
    "stories": 22,
-   "avg_peak_score": 260.5
+   "avg_peak_score": 260.6
   },
   {
    "posted_hour_utc": 20,
    "stories": 25,
-   "avg_peak_score": 96.4
+   "avg_peak_score": 96.5
   },
   {
    "posted_hour_utc": 21,
    "stories": 29,
-   "avg_peak_score": 262.4
+   "avg_peak_score": 262.6
   },
   {
    "posted_hour_utc": 22,
@@ -234,7 +234,7 @@
   {
    "posted_hour_utc": 23,
    "stories": 11,
-   "avg_peak_score": 154.2
+   "avg_peak_score": 154.6
   }
  ],
  "mart_front_page_now": [
@@ -243,40 +243,40 @@
    "story_id": 50311686,
    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
    "domain": "tng.episodle.com",
-   "score": 159,
+   "score": 163,
    "comments": 44,
    "author": "francisofascii",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 2,
-   "story_id": 50307190,
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "domain": "virtuallyfun.com",
-   "score": 277,
-   "comments": 77,
-   "author": "DHowett",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "story_id": 50313508,
+   "title": "Tools Hacker News keeps asking for",
+   "domain": "stillunbuilt.shiptiffin.app",
+   "score": 11,
+   "comments": 5,
+   "author": "bilater",
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 3,
+   "story_id": 50307190,
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "domain": "virtuallyfun.com",
+   "score": 279,
+   "comments": 77,
+   "author": "DHowett",
+   "snapshot_at": "2026-10-31T06:40:39"
+  },
+  {
+   "rank": 4,
    "story_id": 50312756,
    "title": "Tell HN: Scribd Breached",
    "domain": "news.ycombinator.com",
    "score": 129,
-   "comments": 52,
+   "comments": 53,
    "author": "x______________",
-   "snapshot_at": "2026-10-31T06:34:06"
-  },
-  {
-   "rank": 4,
-   "story_id": 50313508,
-   "title": "Tools Hacker News keeps asking for",
-   "domain": "stillunbuilt.shiptiffin.app",
-   "score": 5,
-   "comments": 2,
-   "author": "bilater",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 5,
@@ -284,9 +284,9 @@
    "title": "Cloudflare Turnstile solver library (no headless browser required)",
    "domain": "github.com",
    "score": 154,
-   "comments": 42,
+   "comments": 43,
    "author": "costco",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 6,
@@ -296,27 +296,27 @@
    "score": 409,
    "comments": 300,
    "author": "js4ever",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 7,
    "story_id": 50303172,
    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
    "domain": "wired.com",
-   "score": 400,
-   "comments": 270,
+   "score": 402,
+   "comments": 272,
    "author": "domhudson",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 8,
    "story_id": 50263837,
    "title": "Breaking the open web won't stop the bad bots",
    "domain": "techpolicy.press",
-   "score": 234,
+   "score": 235,
    "comments": 104,
    "author": "raybb",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 9,
@@ -324,49 +324,49 @@
    "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
    "domain": "jacc.org",
    "score": 18,
-   "comments": 6,
+   "comments": 7,
    "author": "brandonb",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 10,
+   "story_id": 50306442,
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "domain": "github.com",
+   "score": 232,
+   "comments": 118,
+   "author": "dbreunig",
+   "snapshot_at": "2026-10-31T06:40:39"
+  },
+  {
+   "rank": 11,
    "story_id": 50289081,
    "title": "Brief History of PDP Computers",
    "domain": "entropicthoughts.com",
    "score": 11,
    "comments": 1,
    "author": "ibobev",
-   "snapshot_at": "2026-10-31T06:34:06"
-  },
-  {
-   "rank": 11,
-   "story_id": 50306442,
-   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-   "domain": "github.com",
-   "score": 231,
-   "comments": 118,
-   "author": "dbreunig",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 12,
    "story_id": 50309266,
    "title": "The oldest ice disappears and the Stone Age emerges from it",
    "domain": "sciencenorway.no",
-   "score": 123,
-   "comments": 53,
+   "score": 124,
+   "comments": 55,
    "author": "dxs",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 13,
    "story_id": 50310398,
    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
    "domain": "firezone.dev",
-   "score": 105,
+   "score": 107,
    "comments": 18,
    "author": "wh33zle",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 14,
@@ -376,47 +376,47 @@
    "score": 137,
    "comments": 56,
    "author": "ecliptik",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 15,
    "story_id": 50305637,
    "title": "Florilegium: Procedural Flowers in LaTeX",
    "domain": "github.com",
-   "score": 243,
+   "score": 245,
    "comments": 44,
    "author": "nanna",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 16,
-   "story_id": 50276613,
-   "title": "Double Buffering with Cloudflare Queues",
-   "domain": "bellone.com",
-   "score": 22,
-   "comments": 2,
-   "author": "b_llc",
-   "snapshot_at": "2026-10-31T06:34:06"
-  },
-  {
-   "rank": 17,
    "story_id": 50305573,
    "title": "The federated code forge",
    "domain": "tangled.org",
    "score": 261,
    "comments": 82,
    "author": "zlliang",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 18,
+   "rank": 17,
    "story_id": 50300683,
    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
    "domain": "phorion.io",
    "score": 863,
    "comments": 513,
    "author": "_chall",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
+  },
+  {
+   "rank": 18,
+   "story_id": 50276613,
+   "title": "Double Buffering with Cloudflare Queues",
+   "domain": "bellone.com",
+   "score": 22,
+   "comments": 2,
+   "author": "b_llc",
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 19,
@@ -426,117 +426,117 @@
    "score": 96,
    "comments": 19,
    "author": "dnetesn",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
    "rank": 20,
-   "story_id": 50312739,
-   "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
-   "domain": "wkyc.com",
-   "score": 75,
-   "comments": 10,
-   "author": "MilnerRoute",
-   "snapshot_at": "2026-10-31T06:34:06"
-  },
-  {
-   "rank": 21,
-   "story_id": 50312922,
-   "title": "OpenAI raises less than half of $30B target",
-   "domain": "wsj.com",
-   "score": 130,
-   "comments": 98,
-   "author": "timr",
-   "snapshot_at": "2026-10-31T06:34:06"
-  },
-  {
-   "rank": 22,
    "story_id": 50301854,
    "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
    "domain": "binarysecurity.no",
    "score": 296,
    "comments": 57,
    "author": "swq115",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 23,
+   "rank": 21,
    "story_id": 50304122,
    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
    "domain": "fortune.com",
    "score": 151,
    "comments": 189,
    "author": "taubek",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 24,
+   "rank": 22,
+   "story_id": 50309647,
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "domain": "bostonglobe.com",
+   "score": 275,
+   "comments": 150,
+   "author": "apress",
+   "snapshot_at": "2026-10-31T06:40:39"
+  },
+  {
+   "rank": 23,
    "story_id": 50289991,
    "title": "Configure a UPS on Linux with NUT",
    "domain": "linuxjunkies.org",
    "score": 5,
    "comments": 0,
    "author": "eustoria",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 25,
-   "story_id": 50309647,
-   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-   "domain": "bostonglobe.com",
-   "score": 272,
-   "comments": 149,
-   "author": "apress",
-   "snapshot_at": "2026-10-31T06:34:06"
-  },
-  {
-   "rank": 26,
+   "rank": 24,
    "story_id": 50276355,
    "title": "Trapped in the Technologist Factory",
    "domain": "ideolalia.com",
    "score": 24,
    "comments": 10,
    "author": "luu",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 27,
+   "rank": 25,
    "story_id": 50293437,
    "title": "Turning a solar power system into its own backup",
    "domain": "arstechnica.com",
    "score": 44,
    "comments": 15,
    "author": "PaulHoule",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 28,
+   "rank": 26,
    "story_id": 50296730,
    "title": "Building an AI-native engineering org",
    "domain": "twitter.com",
    "score": 136,
-   "comments": 171,
+   "comments": 172,
    "author": "sgondala_ycapp",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 29,
+   "rank": 27,
    "story_id": 50258496,
    "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
    "domain": "designboom.com",
    "score": 82,
    "comments": 34,
    "author": "surprisetalk",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
   },
   {
-   "rank": 30,
+   "rank": 28,
    "story_id": 50272479,
    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
    "domain": "research.google",
    "score": 205,
    "comments": 23,
    "author": "acossta",
-   "snapshot_at": "2026-10-31T06:34:06"
+   "snapshot_at": "2026-10-31T06:40:39"
+  },
+  {
+   "rank": 29,
+   "story_id": 50305693,
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "domain": "newsletter.signoz.io",
+   "score": 560,
+   "comments": 411,
+   "author": "dorianniemiec",
+   "snapshot_at": "2026-10-31T06:40:39"
+  },
+  {
+   "rank": 30,
+   "story_id": 50301717,
+   "title": "How do you take a picture of a black hole?",
+   "domain": "quantamagazine.org",
+   "score": 91,
+   "comments": 69,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-10-31T06:40:39"
   }
  ],
  "quality": {
@@ -553,7 +553,7 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 2277,
+   "stg_snapshots": 2376,
    "fct_stories": 372
   },
   "newest_snapshot_age_hours": 0.0
