@@ -1,34 +1,95 @@
 version: 2
+
+# Every model has an ENFORCED contract: dbt refuses to build the table if the SQL returns
+# different column names or types than the ones declared here. That stops silent schema drift
+# from reaching the dashboard.
 models:
   - name: stg_snapshots
+    description: One row per (snapshot, story). Types cast, domain parsed, exact duplicates removed.
+    config:
+      contract: {enforced: true}
+    data_tests:
+      - unique_combination:
+          arguments:
+            combination_of_columns: [snapshot_at, story_id]
     columns:
-      - name: story_id
-        tests: [not_null]
-      - name: snapshot_at
-        tests: [not_null]
+      - {name: snapshot_at, data_type: timestamp, constraints: [{type: not_null}], data_tests: [not_null]}
       - name: rank
-        tests:
-          - not_null
-          - rank_in_window
+        data_type: integer
+        constraints: [{type: not_null}]
+        data_tests: [not_null, rank_in_window]
+      - {name: story_id, data_type: bigint, constraints: [{type: not_null}], data_tests: [not_null]}
+      - {name: title, data_type: varchar}
+      - {name: url, data_type: varchar}
+      - {name: author, data_type: varchar}
       - name: score
-        tests: [not_null]
-      - name: domain
-        tests: [not_null]
+        data_type: integer
+        data_tests: [not_null, non_negative]
+      - name: comments
+        data_type: integer
+        data_tests: [non_negative]
+      - {name: posted_at, data_type: timestamp}
+      - {name: domain, data_type: varchar, data_tests: [not_null]}
+
   - name: fct_stories
+    description: One row per story with peak performance and time on the front page.
+    config:
+      contract: {enforced: true}
     columns:
       - name: story_id
-        tests: [unique, not_null]
-      - name: peak_score
-        tests: [not_null]
+        data_type: bigint
+        data_tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments: {to: "ref('stg_snapshots')", field: story_id}
+      - {name: title, data_type: varchar}
+      - {name: domain, data_type: varchar}
+      - {name: author, data_type: varchar}
+      - {name: posted_at, data_type: timestamp}
+      - {name: first_seen_at, data_type: timestamp}
+      - {name: last_seen_at, data_type: timestamp}
+      - {name: snapshots_seen, data_type: bigint, data_tests: [non_negative]}
+      - {name: best_rank, data_type: integer, data_tests: [rank_in_window]}
+      - {name: peak_score, data_type: integer, data_tests: [not_null, non_negative]}
+      - {name: peak_comments, data_type: integer, data_tests: [non_negative]}
+
+  - name: mart_daily_summary
+    config:
+      contract: {enforced: true}
+    columns:
+      - {name: day, data_type: date, data_tests: [unique, not_null]}
+      - {name: snapshots, data_type: bigint}
+      - {name: distinct_stories, data_type: bigint}
+      - {name: avg_score, data_type: double}
+      - {name: avg_comments, data_type: double}
+
   - name: mart_top_domains
+    config:
+      contract: {enforced: true}
     columns:
-      - name: domain
-        tests: [unique, not_null]
+      - {name: domain, data_type: varchar, data_tests: [unique, not_null]}
+      - {name: stories, data_type: bigint}
+      - {name: avg_peak_score, data_type: double}
+      - {name: total_comments, data_type: hugeint}
+
   - name: mart_hourly_activity
+    config:
+      contract: {enforced: true}
     columns:
-      - name: posted_hour_utc
-        tests: [unique, not_null]
+      - {name: posted_hour_utc, data_type: integer, data_tests: [unique, not_null]}
+      - {name: stories, data_type: bigint}
+      - {name: avg_peak_score, data_type: double}
+
   - name: mart_front_page_now
+    config:
+      contract: {enforced: true}
     columns:
-      - name: rank
-        tests: [unique, not_null]
+      - {name: rank, data_type: integer, data_tests: [unique, not_null]}
+      - {name: story_id, data_type: bigint}
+      - {name: title, data_type: varchar}
+      - {name: domain, data_type: varchar}
+      - {name: score, data_type: integer}
+      - {name: comments, data_type: integer}
+      - {name: author, data_type: varchar}
+      - {name: snapshot_at, data_type: timestamp}
