@@ -47,6 +47,13 @@ footer.f{padding:28px 0 56px;color:var(--muted);font-size:.875rem;max-width:48re
 @media(max-width:800px){.two{grid-template-columns:1fr}}
 @media(max-width:520px){.find{gap:16px 24px}.find div{min-width:7rem}}
 
+.hl{display:grid;grid-template-columns:repeat(auto-fit,minmax(11rem,1fr));gap:1.25rem 2rem;margin:1.25rem 0 1rem;padding:0}
+.hl div{border-top:1px solid var(--rule);padding-top:.75rem}
+.hl dt{color:var(--muted);font-size:.875rem;order:2}
+.hl dd{margin:0 0 .15rem;font-size:1.25rem;font-weight:600;color:var(--ink)}
+.hl div{display:flex;flex-direction:column}
+[hidden]{display:none!important}
+
 td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var(--muted)}td.rk{color:var(--muted);width:2.5rem;font-variant-numeric:tabular-nums}
 </style></head><body><div class="wrap">
 <div class="top"><a href="https://vasilendata.github.io/">&larr; Vasilen Kanchev</a><span>Data engineering project</span></div>
@@ -58,6 +65,7 @@ td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var
 <div><h2>Which sites reach the front page most</h2><p class="n">Stories per domain, top 15.</p><div class="cv"><canvas id="c1" role="img" aria-label="Bar chart of top domains by stories on the front page"></canvas></div></div>
 <div><h2>When posts score highest</h2><p class="n">Average peak score by posting hour (UTC).</p><div class="cv"><canvas id="c2" role="img" aria-label="Line chart of average peak score by posting hour"></canvas></div></div>
 </div></section>
+<section class="blk" id="health" hidden><h2>Pipeline health</h2><p class="n">Computed by the last run, which publishes this page only when every check passes.</p><dl class="hl" id="hl"></dl><p class="n"><a href="https://github.com/VasilenData/hn-pulse/blob/main/LINEAGE.md">See the model lineage</a> and the <a href="https://github.com/VasilenData/hn-pulse/blob/main/models/schema.yml">data contracts</a>.</p></section>
 <section class="blk"><h2>Front page right now</h2><p class="n">Top 30 stories at the latest snapshot.</p><div class="scroll"><table id="t"><thead><tr><th>Rank</th><th>Title</th><th>Domain</th><th class="r">Score</th><th class="r">Comments</th></tr></thead><tbody></tbody></table></div></section>
 </main>
 <footer class="f">Stack: Python · DuckDB · dbt · Airflow (local orchestration) · GitHub Actions · GitHub Pages. Data: <a href="https://github.com/HackerNews/API">Hacker News API</a>.</footer>
@@ -79,6 +87,10 @@ fetch('data.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
   const base={plugins:{legend:{display:false}}};
   new Chart(c1,{type:'bar',data:{labels:d.mart_top_domains.map(x=>x.domain),datasets:[{data:d.mart_top_domains.map(x=>x.stories),backgroundColor:teal,borderRadius:2}]},options:{...base,indexAxis:'y',aspectRatio:.95,scales:{x:ax({title:{display:true,text:'Stories'},ticks:{precision:0,color:mut}}),y:{...ax(),grid:{display:false},ticks:{autoSkip:false,color:mut,font:{size:12}}}}}});
   new Chart(c2,{type:'line',data:{labels:d.mart_hourly_activity.map(x=>String(x.posted_hour_utc).padStart(2,'0')+':00'),datasets:[{data:d.mart_hourly_activity.map(x=>x.avg_peak_score),borderColor:teal,backgroundColor:teal+'26',fill:true,borderWidth:2,pointRadius:2,tension:.25}]},options:{...base,aspectRatio:.95,scales:{x:ax({ticks:{maxTicksLimit:8,color:mut}}),y:ax({title:{display:true,text:'Average peak score'}})}}});
+  const q=d.quality;
+  if(q){const t=q.tests,n=t.pass+t.warn+t.fail+t.error,age=q.newest_snapshot_age_hours;
+    const rows=[[`${t.pass} of ${n}`,t.fail+t.error?'data tests passed (some failed)':'data tests passed'],[`${q.contracts_enforced} of ${q.models_total}`,'models have an enforced schema contract'],[age<1?'under 1 hour':age.toFixed(1)+' hours','since the newest snapshot'],[`${q.rows.stg_snapshots.toLocaleString('en')} rows`,`in ${q.rows.fct_stories.toLocaleString('en')} tracked stories`]];
+    document.getElementById('hl').innerHTML=rows.map(([a,b])=>`<div><dt>${b}</dt><dd>${a}</dd></div>`).join('');document.getElementById('health').hidden=false}
   document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td class="rk">${x.rank}</td><td class="t">${esc(x.title)}</td><td class="dom">${esc(x.domain)}</td><td class="r">${x.score}</td><td class="r">${x.comments}</td></tr>`).join('');
 }).catch(()=>{document.getElementById('gen').textContent='unavailable';document.getElementById('main').insertAdjacentHTML('afterbegin','<div class="err" role="alert">The pipeline data did not load. Reload the page; if it still fails, check the latest run in the GitHub Actions tab of the source repository.</div>')});
 </script></body></html>
