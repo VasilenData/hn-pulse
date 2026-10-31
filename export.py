@@ -5,6 +5,8 @@ from datetime import datetime, timezone
 
 import duckdb
 
+import quality
+
 ROOT = os.path.dirname(__file__)
 DB_PATH = os.path.join(ROOT, "target", "hn_pulse.duckdb")
 OUT_PATH = os.path.join(ROOT, "docs", "data.json")
@@ -22,6 +24,10 @@ def export(db_path: str = DB_PATH, out_path: str = OUT_PATH) -> dict:
             for row in cur.fetchall()
         ]
     con.close()
+    try:
+        payload["quality"] = quality.build()
+    except FileNotFoundError:  # exporting without a preceding dbt build (e.g. in unit tests)
+        payload["quality"] = None
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, "w", encoding="utf-8") as fh:
         json.dump(payload, fh, indent=1, default=str)
