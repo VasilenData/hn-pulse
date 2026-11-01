@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:11:16+00:00",
+ "generated_at": "2026-11-01T13:28:59+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -24,48 +24,48 @@
   },
   {
    "day": "2026-11-01",
-   "snapshots": 2,
-   "distinct_stories": 117,
-   "avg_score": 175.3,
-   "avg_comments": 81.1
+   "snapshots": 3,
+   "distinct_stories": 136,
+   "avg_score": 186.9,
+   "avg_comments": 85.4
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 31,
-   "avg_peak_score": 140.1,
-   "total_comments": 1729
+   "avg_peak_score": 145.2,
+   "total_comments": 1785
   },
   {
    "domain": "wired.com",
    "stories": 8,
-   "avg_peak_score": 418.8,
-   "total_comments": 2209
+   "avg_peak_score": 420.0,
+   "total_comments": 2216
   },
   {
    "domain": "twitter.com",
    "stories": 8,
-   "avg_peak_score": 74.0,
-   "total_comments": 440
+   "avg_peak_score": 87.5,
+   "total_comments": 504
   },
   {
    "domain": "theguardian.com",
    "stories": 8,
-   "avg_peak_score": 57.5,
+   "avg_peak_score": 57.9,
    "total_comments": 209
+  },
+  {
+   "domain": "nytimes.com",
+   "stories": 7,
+   "avg_peak_score": 562.0,
+   "total_comments": 1234
   },
   {
    "domain": "arstechnica.com",
    "stories": 7,
-   "avg_peak_score": 122.4,
+   "avg_peak_score": 123.7,
    "total_comments": 340
-  },
-  {
-   "domain": "nytimes.com",
-   "stories": 6,
-   "avg_peak_score": 652.3,
-   "total_comments": 1217
   },
   {
    "domain": "bbc.com",
@@ -88,8 +88,14 @@
   {
    "domain": "spectrum.ieee.org",
    "stories": 4,
-   "avg_peak_score": 165.3,
-   "total_comments": 347
+   "avg_peak_score": 167.5,
+   "total_comments": 371
+  },
+  {
+   "domain": "arxiv.org",
+   "stories": 4,
+   "avg_peak_score": 37.5,
+   "total_comments": 57
   },
   {
    "domain": "en.wikipedia.org",
@@ -104,44 +110,38 @@
    "total_comments": 28
   },
   {
+   "domain": "nature.com",
+   "stories": 4,
+   "avg_peak_score": 20.5,
+   "total_comments": 7
+  },
+  {
    "domain": "theregister.com",
    "stories": 4,
    "avg_peak_score": 10.0,
    "total_comments": 10
-  },
-  {
-   "domain": "apple.com",
-   "stories": 3,
-   "avg_peak_score": 472.7,
-   "total_comments": 2157
-  },
-  {
-   "domain": "tailscale.com",
-   "stories": 3,
-   "avg_peak_score": 143.0,
-   "total_comments": 199
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 14,
-   "avg_peak_score": 100.0
+   "avg_peak_score": 101.4
   },
   {
    "posted_hour_utc": 1,
    "stories": 9,
-   "avg_peak_score": 118.4
+   "avg_peak_score": 125.4
   },
   {
    "posted_hour_utc": 2,
    "stories": 12,
-   "avg_peak_score": 68.5
+   "avg_peak_score": 78.3
   },
   {
    "posted_hour_utc": 3,
-   "stories": 12,
-   "avg_peak_score": 85.0
+   "stories": 13,
+   "avg_peak_score": 79.2
   },
   {
    "posted_hour_utc": 4,
@@ -151,399 +151,399 @@
   {
    "posted_hour_utc": 5,
    "stories": 8,
-   "avg_peak_score": 22.1
+   "avg_peak_score": 24.8
   },
   {
    "posted_hour_utc": 6,
-   "stories": 7,
-   "avg_peak_score": 208.1
+   "stories": 9,
+   "avg_peak_score": 181.1
   },
   {
    "posted_hour_utc": 7,
    "stories": 11,
-   "avg_peak_score": 177.0
+   "avg_peak_score": 178.0
   },
   {
    "posted_hour_utc": 8,
    "stories": 7,
-   "avg_peak_score": 122.9
+   "avg_peak_score": 123.6
   },
   {
    "posted_hour_utc": 9,
-   "stories": 12,
-   "avg_peak_score": 97.7
+   "stories": 14,
+   "avg_peak_score": 87.6
   },
   {
    "posted_hour_utc": 10,
-   "stories": 12,
-   "avg_peak_score": 212.3
+   "stories": 16,
+   "avg_peak_score": 191.4
   },
   {
    "posted_hour_utc": 11,
-   "stories": 17,
-   "avg_peak_score": 215.8
+   "stories": 18,
+   "avg_peak_score": 206.6
   },
   {
    "posted_hour_utc": 12,
-   "stories": 15,
-   "avg_peak_score": 304.5
+   "stories": 17,
+   "avg_peak_score": 271.2
   },
   {
    "posted_hour_utc": 13,
-   "stories": 27,
-   "avg_peak_score": 176.9
+   "stories": 30,
+   "avg_peak_score": 166.8
   },
   {
    "posted_hour_utc": 14,
    "stories": 29,
-   "avg_peak_score": 212.1
+   "avg_peak_score": 215.0
   },
   {
    "posted_hour_utc": 15,
-   "stories": 37,
-   "avg_peak_score": 188.5
+   "stories": 39,
+   "avg_peak_score": 182.4
   },
   {
    "posted_hour_utc": 16,
    "stories": 39,
-   "avg_peak_score": 154.0
+   "avg_peak_score": 155.5
   },
   {
    "posted_hour_utc": 17,
    "stories": 46,
-   "avg_peak_score": 146.7
+   "avg_peak_score": 147.0
   },
   {
    "posted_hour_utc": 18,
    "stories": 27,
-   "avg_peak_score": 76.8
+   "avg_peak_score": 79.2
   },
   {
    "posted_hour_utc": 19,
    "stories": 29,
-   "avg_peak_score": 274.2
+   "avg_peak_score": 305.4
   },
   {
    "posted_hour_utc": 20,
-   "stories": 31,
-   "avg_peak_score": 89.1
+   "stories": 33,
+   "avg_peak_score": 86.8
   },
   {
    "posted_hour_utc": 21,
    "stories": 36,
-   "avg_peak_score": 224.4
+   "avg_peak_score": 229.3
   },
   {
    "posted_hour_utc": 22,
    "stories": 19,
-   "avg_peak_score": 76.5
+   "avg_peak_score": 102.2
   },
   {
    "posted_hour_utc": 23,
    "stories": 14,
-   "avg_peak_score": 134.4
+   "avg_peak_score": 137.4
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50319510,
-   "title": "HackerTube: YouTube built from videos recommended by HN",
-   "domain": "karpathy.bearblog.dev",
-   "score": 1007,
-   "comments": 309,
-   "author": "karpathy",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50324388,
+   "title": "Norway makes shithouses great again",
+   "domain": "visitnorway.com",
+   "score": 340,
+   "comments": 169,
+   "author": "giuliomagnifico",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 2,
-   "story_id": 50320963,
-   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-   "domain": "smithsonianmag.com",
-   "score": 289,
-   "comments": 78,
-   "author": "ecares",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50319510,
+   "title": "HackerTube: YouTube built from videos recommended by HN",
+   "domain": "karpathy.bearblog.dev",
+   "score": 1522,
+   "comments": 406,
+   "author": "karpathy",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 3,
-   "story_id": 50322173,
-   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-   "domain": "jetstream.security",
-   "score": 62,
-   "comments": 22,
-   "author": "doodlesdev",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50325454,
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "domain": "arxiv.org",
+   "score": 4,
+   "comments": 0,
+   "author": "Anon84",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 4,
-   "story_id": 50319143,
-   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-   "domain": "atlasum.net",
-   "score": 441,
-   "comments": 206,
-   "author": "oger",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50320963,
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "domain": "smithsonianmag.com",
+   "score": 537,
+   "comments": 164,
+   "author": "ecares",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 5,
-   "story_id": 50320995,
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "domain": "github.com",
-   "score": 165,
-   "comments": 91,
-   "author": "guregodevo",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50324118,
+   "title": "A tiny Pacific country rolls out universal basic income",
+   "domain": "economist.com",
+   "score": 76,
+   "comments": 52,
+   "author": "motionlessveloc",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 6,
-   "story_id": 50322022,
-   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
-   "domain": "arxiv.org",
-   "score": 45,
-   "comments": 20,
-   "author": "hapax_legomena",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50324371,
+   "title": "Domain hacks with unusual Unicode characters (2018)",
+   "domain": "xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso",
+   "score": 22,
+   "comments": 12,
+   "author": "n_plus_1_acc",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 7,
-   "story_id": 50309279,
-   "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-   "domain": "thales.mit.edu",
-   "score": 11,
-   "comments": 0,
-   "author": "peter_d_sherman",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50322173,
+   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+   "domain": "jetstream.security",
+   "score": 173,
+   "comments": 77,
+   "author": "doodlesdev",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 8,
-   "story_id": 50321048,
-   "title": "Altoids Project",
-   "domain": "uvdn7.github.io",
-   "score": 84,
-   "comments": 4,
-   "author": "uvdn7",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50320995,
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "domain": "github.com",
+   "score": 297,
+   "comments": 139,
+   "author": "guregodevo",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 9,
-   "story_id": 50311045,
-   "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-   "domain": "maketecheasier.com",
-   "score": 73,
-   "comments": 17,
-   "author": "ohjeez",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50319143,
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "domain": "atlasum.net",
+   "score": 562,
+   "comments": 259,
+   "author": "oger",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 10,
-   "story_id": 50318720,
-   "title": "It's the memory latency, stupid",
-   "domain": "pivotlake.io",
-   "score": 171,
-   "comments": 46,
-   "author": "ntur1337",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50303984,
+   "title": "Running a bootstrapped SaaS for 20 years with my brother",
+   "domain": "blog.zamzar.com",
+   "score": 147,
+   "comments": 33,
+   "author": "whyleyc",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 11,
-   "story_id": 50304718,
-   "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
-   "domain": "thereader.mitpress.mit.edu",
-   "score": 22,
-   "comments": 1,
-   "author": "the-mitr",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50280131,
+   "title": "Radiation Map of the World",
+   "domain": "radiaverse.com",
+   "score": 11,
+   "comments": 2,
+   "author": "slater",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 12,
-   "story_id": 50289711,
-   "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
-   "domain": "dl.acm.org",
-   "score": 14,
+   "story_id": 50325072,
+   "title": "Is It EDT or EST?",
+   "domain": "edtorest.com",
+   "score": 5,
    "comments": 0,
-   "author": "gjvc",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "author": "DASD",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 13,
-   "story_id": 50319563,
-   "title": "Surviving \"The Graduate\"",
-   "domain": "newyorker.com",
-   "score": 97,
-   "comments": 31,
-   "author": "samizdis",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50316117,
+   "title": "The Ocean 'Was the Color of Chocolate.' Mexico Declares War on Seaweed.",
+   "domain": "nytimes.com",
+   "score": 20,
+   "comments": 17,
+   "author": "bookofjoe",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 14,
-   "story_id": 50320588,
-   "title": "ChatGPT and Codex usage limits merging",
-   "domain": "help.openai.com",
-   "score": 59,
-   "comments": 23,
-   "author": "Zariel",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50290533,
+   "title": "Show HN: Point your camera at a landscape to learn about its geology",
+   "domain": "outcrop.rocks",
+   "score": 35,
+   "comments": 5,
+   "author": "headsupernova",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 15,
-   "story_id": 50316100,
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "domain": "jepsen.io",
-   "score": 236,
-   "comments": 131,
-   "author": "aphyr",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50322022,
+   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+   "domain": "arxiv.org",
+   "score": 108,
+   "comments": 56,
+   "author": "hapax_legomena",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 16,
-   "story_id": 50319169,
-   "title": "Show HN: NES Contra (1987) port (ASM \u2013> C and then C \u2013> WebAssembly)",
-   "domain": "epoyraz.github.io",
-   "score": 78,
-   "comments": 47,
-   "author": "tevlon",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50323088,
+   "title": "The AI cost of JavaScript frameworks",
+   "domain": "nolanlawson.com",
+   "score": 141,
+   "comments": 93,
+   "author": "luu",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 17,
-   "story_id": 50284789,
-   "title": "Edgar Allan Poe, Quintessential American Writer",
-   "domain": "slate.com",
-   "score": 21,
-   "comments": 0,
-   "author": "samclemens",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50310038,
+   "title": "Understanding Email Encryption",
+   "domain": "fastmail.com",
+   "score": 48,
+   "comments": 12,
+   "author": "nmjenkins",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 18,
-   "story_id": 50319110,
-   "title": "Electrification Could Cut Global Energy Use in Half",
-   "domain": "fullycharged.show",
-   "score": 70,
-   "comments": 17,
-   "author": "toomuchtodo",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50290480,
+   "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+   "domain": "youtube.com",
+   "score": 74,
+   "comments": 62,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 19,
-   "story_id": 50314699,
-   "title": "Do the math: How we took over ChatGPT accounts",
-   "domain": "parameter.ai",
-   "score": 316,
-   "comments": 157,
-   "author": "armcat",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50309279,
+   "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+   "domain": "thales.mit.edu",
+   "score": 61,
+   "comments": 12,
+   "author": "peter_d_sherman",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 20,
-   "story_id": 50319061,
-   "title": "The Duty of a Scholar",
-   "domain": "daemonology.net",
-   "score": 107,
-   "comments": 31,
-   "author": "gslin",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50321048,
+   "title": "Altoids Project",
+   "domain": "uvdn7.github.io",
+   "score": 125,
+   "comments": 7,
+   "author": "uvdn7",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 21,
-   "story_id": 50261253,
-   "title": "Simple circuits can create complex behaviors",
-   "domain": "aatishb.com",
-   "score": 231,
-   "comments": 75,
-   "author": "aatish",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50311045,
+   "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+   "domain": "maketecheasier.com",
+   "score": 134,
+   "comments": 40,
+   "author": "ohjeez",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 22,
-   "story_id": 50321522,
-   "title": "Show HN: BBRouter \u2013 Ben Eater's 8-bit computer, simulated on 3D breadboards",
-   "domain": "bbrouter.com",
-   "score": 20,
-   "comments": 6,
-   "author": "creack",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50318720,
+   "title": "It's the memory latency, stupid",
+   "domain": "pivotlake.io",
+   "score": 219,
+   "comments": 72,
+   "author": "ntur1337",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 23,
-   "story_id": 50319358,
-   "title": "Anthropic blocks users for anything touching training larger models",
-   "domain": "twitter.com",
-   "score": 292,
-   "comments": 163,
-   "author": "pretext",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50289711,
+   "title": "A brief history of just-in-time: forty years of JIT work, from 1960\u20132000",
+   "domain": "dl.acm.org",
+   "score": 44,
+   "comments": 0,
+   "author": "gjvc",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 24,
-   "story_id": 50321436,
-   "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-   "domain": "emarzion.github.io",
-   "score": 15,
+   "story_id": 50325107,
+   "title": "The question we should all be asking about AI",
+   "domain": "cnn.com",
+   "score": 7,
    "comments": 1,
-   "author": "mkckto",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "author": "heresie-dabord",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 25,
-   "story_id": 50302686,
-   "title": "Decode kernel panic from QR Code photo",
-   "domain": "gist.github.com",
-   "score": 19,
-   "comments": 7,
-   "author": "modinfo",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50304718,
+   "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+   "domain": "thereader.mitpress.mit.edu",
+   "score": 57,
+   "comments": 4,
+   "author": "the-mitr",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 26,
-   "story_id": 50321130,
-   "title": "When electric cars were for women",
-   "domain": "spectrum.ieee.org",
-   "score": 58,
-   "comments": 43,
-   "author": "dverlaeckt80",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50319110,
+   "title": "Electrification Could Cut Global Energy Use in Half",
+   "domain": "fullycharged.show",
+   "score": 148,
+   "comments": 76,
+   "author": "toomuchtodo",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 27,
-   "story_id": 50271052,
-   "title": "Reading and writing are less symmetric than you (probably) think",
-   "domain": "fgiesen.wordpress.com",
-   "score": 102,
-   "comments": 24,
-   "author": "luu",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50316100,
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "domain": "jepsen.io",
+   "score": 287,
+   "comments": 163,
+   "author": "aphyr",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 28,
-   "story_id": 50320599,
-   "title": "AI text watermarking and quality loss",
-   "domain": "blog.keyvan.net",
-   "score": 43,
-   "comments": 7,
-   "author": "danielfoster",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50324533,
+   "title": "noyb win: French electronics retailer Fnac Darty fined \u20ac7M",
+   "domain": "noyb.eu",
+   "score": 25,
+   "comments": 3,
+   "author": "latexr",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 29,
-   "story_id": 50301723,
-   "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-   "domain": "arstechnica.com",
-   "score": 33,
-   "comments": 2,
-   "author": "dverlaeckt80",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50319563,
+   "title": "Surviving \"The Graduate\"",
+   "domain": "newyorker.com",
+   "score": 136,
+   "comments": 40,
+   "author": "samizdis",
+   "snapshot_at": "2026-11-01T13:28:52"
   },
   {
    "rank": 30,
-   "story_id": 50315782,
-   "title": "Show HN: A language model that lives in a boot sector",
-   "domain": "github.com",
-   "score": 72,
-   "comments": 3,
-   "author": "kerlenton",
-   "snapshot_at": "2026-11-01T06:11:07"
+   "story_id": 50314699,
+   "title": "Do the math: How we took over ChatGPT accounts",
+   "domain": "parameter.ai",
+   "score": 347,
+   "comments": 168,
+   "author": "armcat",
+   "snapshot_at": "2026-11-01T13:28:52"
   }
  ],
  "quality": {
@@ -560,8 +560,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 2772,
-   "fct_stories": 475
+   "stg_snapshots": 2871,
+   "fct_stories": 494
   },
   "newest_snapshot_age_hours": 0.0
  }
