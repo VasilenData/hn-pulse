@@ -3366,3 +3366,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-03T06:51:49+00:00,98,50344222,Can’t fish Ethernet? Use “invisible” fiber instead,https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/,_mpn_,57,61,2026-11-02T21:42:18+00:00
 2026-11-03T06:51:49+00:00,99,50337431,Ask HN: What hardware are you using to run local LLMs?,,leafletsigh,40,39,2026-11-02T14:38:18+00:00
 2026-11-03T06:51:49+00:00,100,50347003,Tell HN: You now have to pay for your IPv4 address at OVHCloud,https://blog.ovhcloud.com/en/posts/public-cloud-pricing-update-october-2026/,omani,5,1,2026-11-03T01:56:30+00:00
+2026-11-03T17:05:56+00:00,1,50339288,Jailbreaking my car's navigation system just so I can change the time,https://blog.nns.ee/2026/11/02/renault-hack/,xx_ns,164,39,2026-11-02T16:29:19+00:00
+2026-11-03T17:05:56+00:00,2,50336918,Fujifilm to boost tape production 5x as AI fuels archiving demand,https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/,bookofjoe,168,70,2026-11-02T14:02:42+00:00
+2026-11-03T17:05:56+00:00,3,50352758,Mac at Any Scale,https://namespace.so/blog/mac-at-any-scale,anner_,77,22,2026-11-03T14:53:42+00:00
+2026-11-03T17:05:56+00:00,4,50351111,The 'Astra can read and write weights to improve Qwen' post is misleading,https://honnibal.dev/blog/astra-read-write-misleading,syllogism,648,147,2026-11-03T12:21:17+00:00
+2026-11-03T17:05:56+00:00,5,50353192,Schools that block Google’s A.I. will lose student access to its search engine,https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html,ceejayoz,114,84,2026-11-03T15:25:47+00:00
+2026-11-03T17:05:56+00:00,7,50342119,"Writing seen in PHerc. 306B, for the first time in 2000 years",https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the,benbreen,54,2,2026-11-02T19:18:46+00:00
+2026-11-03T17:05:56+00:00,8,50353073,Tiny Basic for Arduino,https://dilshan.github.io/tiny-basic/,AlexeyBrin,22,3,2026-11-03T15:17:07+00:00
+2026-11-03T17:05:56+00:00,9,50351319,"Charles Tandy, the mastermind behind Radio Shack",https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/,ibobev,77,51,2026-11-03T12:42:30+00:00
+2026-11-03T17:05:56+00:00,10,50353386,Show HN: HackerChurn – which SaaS tools HN wants to cancel,https://hissingkitty.com/hacker-churn,drewlem,25,7,2026-11-03T15:41:52+00:00
+2026-11-03T17:05:56+00:00,11,50352757,OpenAI seems to be silently re-enabling model training on Codex chats,,user052919,90,31,2026-11-03T14:53:41+00:00
+2026-11-03T17:05:56+00:00,12,50334363,Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables,https://www.mattkeeter.com/projects/antimony/3/,pmkary,32,7,2026-11-02T08:29:40+00:00
+2026-11-03T17:05:56+00:00,13,50353229,Kalshi and its co-founders face felony charges for violating Utah gambling laws,https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/,rbanffy,63,30,2026-11-03T15:29:15+00:00
+2026-11-03T17:05:56+00:00,14,50349276,Could a modern chess engine on a Pentium have defeated Kasparov in 1996?,https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html,markusw,268,129,2026-11-03T07:56:21+00:00
+2026-11-03T17:05:56+00:00,15,50354336,Gitbook Breached,,punchmesan,9,1,2026-11-03T16:45:49+00:00
+2026-11-03T17:05:56+00:00,16,50353468,"Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",https://concepts.laxmena.com/,laxmena,19,2,2026-11-03T15:48:35+00:00
+2026-11-03T17:05:56+00:00,17,50353383,"Bear turns 10, and it still feels like day one",https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/,psxuaw,16,6,2026-11-03T15:41:46+00:00
+2026-11-03T17:05:56+00:00,18,50353335,Study estimates 75% of NFL players who died over 15-year span had CTE,https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975,gmays,37,14,2026-11-03T15:38:04+00:00
+2026-11-03T17:05:56+00:00,19,50332342,Katamari Damacy but it's The Met collection,https://katamari.vaguespac.es/,thebigship,112,34,2026-11-02T02:21:07+00:00
+2026-11-03T17:05:56+00:00,20,50352767,Handles are the better pointers (2018),https://floooh.github.io/2018/06/17/handles-vs-pointers.html,vinhnx,14,6,2026-11-03T14:54:30+00:00
+2026-11-03T17:05:56+00:00,21,50326545,Embedding boolean circuits in a neural network,https://edwardbenson.com/2026/10/embedding-boolean-circuits-in-a-neural-network,eob,5,0,2026-11-01T15:27:44+00:00
+2026-11-03T17:05:56+00:00,22,50353475,Quili AI,https://www.quili.ai/,Shugyousha,72,40,2026-11-03T15:49:02+00:00
+2026-11-03T17:05:56+00:00,23,50353360,No brother of mine will play the flute,https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the,surprisetalk,24,23,2026-11-03T15:40:04+00:00
+2026-11-03T17:05:56+00:00,24,50333332,Why Don't We Live in an Art Nouveau World?,https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world,shcallaway,54,65,2026-11-02T05:05:11+00:00
+2026-11-03T17:05:56+00:00,25,50346849,"DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio,bpierre,329,74,2026-11-03T01:33:43+00:00
+2026-11-03T17:05:56+00:00,26,50321605,Toit v2.0.0,https://toit.io/blog/toit-v2-0-0/,floitsch,186,64,2026-11-01T00:25:04+00:00
+2026-11-03T17:05:56+00:00,27,50348962,Nvidia – open-source auto-ontology,https://github.com/NVIDIA/auto-ontology,campervans,235,92,2026-11-03T07:04:50+00:00
+2026-11-03T17:05:56+00:00,28,50346981,"Show HN: Hacker Times, a New York Times-inspired version of Hacker News",https://hackertimes.ca/,polpenn,429,131,2026-11-03T01:53:34+00:00
+2026-11-03T17:05:56+00:00,29,50352898,"Octomind – open-source AI harness that saves your tokens, static rust",https://github.com/Muvon/octomind,donk8r,40,32,2026-11-03T15:02:58+00:00
+2026-11-03T17:05:56+00:00,30,50327088,Life with Down Syndrome,https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/,NaOH,127,80,2026-11-01T16:26:21+00:00
+2026-11-03T17:05:56+00:00,31,50337980,Killing what can't be handled – putting a spaghetti demon to eternal rest,https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/,ibobev,24,3,2026-11-02T15:18:49+00:00
+2026-11-03T17:05:56+00:00,32,50353457,Tell HN: Please Vote,,cperciva,22,4,2026-11-03T15:48:00+00:00
+2026-11-03T17:05:56+00:00,33,50323123,Resisting Cognitive Surrender,https://knlb.dev/essays/surrender,knlb,271,131,2026-11-01T06:13:30+00:00
+2026-11-03T17:05:56+00:00,34,50352577,"Practice speaking Japanese with real YouTube videos, graded line by line",https://jivx.com/yt,momentmaker,13,7,2026-11-03T14:41:02+00:00
+2026-11-03T17:05:56+00:00,35,50352257,"Just a little AI resistance, as a treat",https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/,mooreds,153,96,2026-11-03T14:14:12+00:00
+2026-11-03T17:05:56+00:00,36,50351404,Show HN: Bema: Work messaging built for humans,https://getbema.app/,ben_d,21,18,2026-11-03T12:51:11+00:00
+2026-11-03T17:05:56+00:00,37,50334523,European RISC-V Industrial Computing Initiative,https://erici.eu,ymz5,179,112,2026-11-02T08:58:33+00:00
+2026-11-03T17:05:56+00:00,38,50353818,Binance hackers used fake job interview to breach PC before $6.3B attack,https://www.reuters.com/world/binance-says-hackers-used-fake-job-interview-compromise-computer-before-63-2026-11-03/,entryleveljobsc,10,0,2026-11-03T16:10:43+00:00
+2026-11-03T17:05:56+00:00,39,50331988,Optical Circuit Switch Technology Built on Low-Loss Silicon Photonics Platform,https://www.psiquantum.com/news-import/psiquantum-unveils-optical-circuit-switch-technology-built-on-advanced-low-loss-silicon-photonics-platform,gmays,35,1,2026-11-02T01:34:16+00:00
+2026-11-03T17:05:56+00:00,40,50352727,The AI Bubble Monitor,https://cepr.net/publications/ai-bubble-monitor/,mooreds,48,31,2026-11-03T14:51:31+00:00
+2026-11-03T17:05:56+00:00,41,50353300,AI is destroying my CS degree,https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/,speckx,89,69,2026-11-03T15:35:06+00:00
+2026-11-03T17:05:56+00:00,42,50336557,433MHz TUI scanner: using a FT232H connected to a CC1101,https://blog.jacq.cc/guides/cc1101-433mhz-scanner-ft232h/,xx__yy,28,9,2026-11-02T13:28:14+00:00
+2026-11-03T17:05:56+00:00,43,50354160,xAI installs eight converted jet engines to power Mississippi data center,https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide,rbanffy,7,1,2026-11-03T16:34:14+00:00
+2026-11-03T17:05:56+00:00,44,50339913,Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app,https://momentic.ai/,wuweiweiwu,158,108,2026-11-02T17:05:25+00:00
+2026-11-03T17:05:56+00:00,45,50353405,Listen to the Earliest Known Recordings of a Nearly Dead American Language,https://nautil.us/listen-to-the-earliest-known-recordings-of-a-nearly-dead-american-language-1286289,Brajeshwar,8,0,2026-11-03T15:43:18+00:00
+2026-11-03T17:05:56+00:00,46,50326246,Shrinking NixOS RAM footprint and resource requirements to the bare minimum,https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum,birdculture,103,14,2026-11-01T14:52:05+00:00
+2026-11-03T17:05:56+00:00,47,50340088,Show HN: Subvocal – Talk to your computer without making noise,,aarushyadav,794,370,2026-11-02T17:16:17+00:00
+2026-11-03T17:05:56+00:00,48,50353449,Fire risk to US structures will nearly triple by 2060 if we do nothing,https://www.colorado.edu/today/2026/11/03/fire-risk-us-structures-will-nearly-triple-2060-if-we-do-nothing,geox,7,0,2026-11-03T15:47:12+00:00
+2026-11-03T17:05:56+00:00,49,50347464,Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities,https://arxiv.org/abs/2608.25820,teleforce,50,5,2026-11-03T02:58:44+00:00
+2026-11-03T17:05:56+00:00,50,50341174,Astra can read and write weights to improve Qwen,https://rikiyat.github.io/blog/weight-space-programming/,dbreunig,2895,873,2026-11-02T18:21:28+00:00
+2026-11-03T17:05:56+00:00,51,50353072,"Only 0.5% of 383,000 CVEs are ever exploited in real-world attacks",https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/,wondersky,10,4,2026-11-03T15:17:02+00:00
+2026-11-03T17:05:56+00:00,52,50353458,The cameras pointed at the balconies at the Cosmopolitan in Vegas,,noduerme,7,2,2026-11-03T15:48:08+00:00
+2026-11-03T17:05:56+00:00,53,50341736,Egoless Mathematics in the AI Era,https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/,smilelamp,179,148,2026-11-02T18:54:44+00:00
+2026-11-03T17:05:56+00:00,54,50353257,Railway employee's agent caught hacking competitors,https://twitter.com/ns123abc/status/2117497728737620197,ansipunk,12,2,2026-11-03T15:31:15+00:00
+2026-11-03T17:05:56+00:00,55,50340159,Polyend releases the Tracker firmware source code,https://polyend.com/whats-up/tracker-the-biggest-update-yet/,austinallegro,150,67,2026-11-02T17:20:13+00:00
+2026-11-03T17:05:56+00:00,56,50344224,"SLAC researchers find proof of altermagnetism, a new magnetic phase",https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase,gmays,96,12,2026-11-02T21:42:25+00:00
+2026-11-03T17:05:56+00:00,57,50351632,The cryptography behind e-voting (and why paper ballots are still essential),https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/,acossta,9,2,2026-11-03T13:19:30+00:00
+2026-11-03T17:05:56+00:00,58,50344861,LLMs are not superhuman at reading and writing neural network weights,https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/,agrm,124,13,2026-11-02T22:26:53+00:00
+2026-11-03T17:05:56+00:00,59,50336518,"If you love a website, back it up",https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/,ingve,636,148,2026-11-02T13:25:35+00:00
+2026-11-03T17:05:56+00:00,60,50339397,US boy names that became girl names and vice versa,https://namedaisy.com/blog/boy-names-that-became-girl-names,xoobdev,464,441,2026-11-02T16:34:36+00:00
+2026-11-03T17:05:56+00:00,61,50353244,Ask HN: Design My YouTube Feed,,mrkn1,3,2,2026-11-03T15:30:49+00:00
+2026-11-03T17:05:56+00:00,62,50352405,US Hedge Funds Just Sold Every AI Stock They Bought Since 2025,https://finance.yahoo.com/markets/stocks/articles/us-hedge-funds-just-sold-113114644.html,robin_reala,11,1,2026-11-03T14:27:03+00:00
+2026-11-03T17:05:56+00:00,63,50351427,"Show HN: Kvittas, an Expense Splitting App",https://kvittas.app,primalscreamer,10,8,2026-11-03T12:53:48+00:00
+2026-11-03T17:05:56+00:00,64,50345924,Scaling Git at OpenAI,https://openai.com/index/scaling-git-at-openai/,makeramen,255,174,2026-11-02T23:47:56+00:00
+2026-11-03T17:05:56+00:00,65,50341462,Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks,https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432,majorchord,582,177,2026-11-02T18:39:38+00:00
+2026-11-03T17:05:56+00:00,66,50341028,Sneaking into the auditorium for the Windows 2000 launch rehearsal,https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/,ibobev,147,55,2026-11-02T18:12:48+00:00
+2026-11-03T17:05:56+00:00,67,50340619,Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You,https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you,tomrod,312,86,2026-11-02T17:47:40+00:00
+2026-11-03T17:05:56+00:00,68,50319510,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,karpathy,2845,632,2026-10-31T19:56:53+00:00
+2026-11-03T17:05:56+00:00,69,50337558,We halved DNS build delay and cut memory use by 85%,https://blog.cloudflare.com/dns-targeted-zone-builds/,wondersky,191,78,2026-11-02T14:47:28+00:00
+2026-11-03T17:05:56+00:00,70,50320904,"Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",https://www.argmin.net/p/galactus-the-devourer,sebg,102,78,2026-10-31T22:31:49+00:00
+2026-11-03T17:05:56+00:00,71,50340992,Skill to Create Product Videos,https://github.com/aaitor/skill-video-studio,aaitor,113,35,2026-11-02T18:10:39+00:00
+2026-11-03T17:05:56+00:00,72,50331800,Vathographs: Photographic depth maps as creative expression,https://vathography.com/,hankbond,48,20,2026-11-02T01:11:19+00:00
+2026-11-03T17:05:56+00:00,73,50344912,V100 SXM2 pinout and NVLink reference,https://github.com/pigeon-labs-stack/v100-sxm2-reference,airhangerf15,45,10,2026-11-02T22:30:13+00:00
+2026-11-03T17:05:56+00:00,74,50326821,"Show HN: HackerBooks – HackerTube, but for books mentioned on HN",https://hackerbooks.org,roansh,1835,304,2026-11-01T15:58:28+00:00
+2026-11-03T17:05:56+00:00,75,50353443,Architect creates open source replacement for VM migration tool,https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124,Bender,5,0,2026-11-03T15:46:40+00:00
+2026-11-03T17:05:56+00:00,76,50350730,Itch.io adding Generative AI disclosure filtering to few more places on the site,https://bsky.app/profile/itch.io/post/3mzezjvqexs2h,HelloUsername,18,14,2026-11-03T11:37:42+00:00
+2026-11-03T17:05:56+00:00,77,50334704,Show HN: I've updated my Linux System Call website and API,https://syscall.sh/,guitmz,226,53,2026-11-02T09:29:16+00:00
+2026-11-03T17:05:56+00:00,78,50349155,uBlock Origin filter to block autoplay videos in TechCrunch,https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html,cornfieldlabs,126,39,2026-11-03T07:36:47+00:00
+2026-11-03T17:05:56+00:00,79,50337661,"C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",https://retrogamecoders.com/c64-basic-dungeon-part11/,ibobev,80,15,2026-11-02T14:56:21+00:00
+2026-11-03T17:05:56+00:00,80,50353294,New England RetroFest Recap – By Paul Lefebvre – Goto 10,https://www.goto10retro.com/p/new-england-retrofest-recap,rbanffy,3,2,2026-11-03T15:34:20+00:00
+2026-11-03T17:05:56+00:00,81,50312408,Postgres 19 is late because so many more bugs are being found now,http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html,soheilpro,835,505,2026-10-31T01:38:56+00:00
+2026-11-03T17:05:56+00:00,82,50352985,Firefox Security and Privacy Newsletter 2026 Q3,https://attackanddefense.dev/2026/11/02/firefox-security-and-privacy-newsletter-q3.html,tech234a,4,0,2026-11-03T15:11:04+00:00
+2026-11-03T17:05:56+00:00,83,50339221,Show HN: Warsaw in voxels – An interactive 3D map of the city centre,https://p.migdal.pl/warsaw-vibe-voxel/,stared,311,51,2026-11-02T16:25:26+00:00
+2026-11-03T17:05:56+00:00,84,50344919,The SEC Should Block Anthropic's IPO to Protect the Public,https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/,cdrnsf,384,301,2026-11-02T22:30:47+00:00
+2026-11-03T17:05:56+00:00,85,50353201,Fedora Linux 45,https://fedoramagazine.org/announcing-fedora-linux-45/,e145bc455f1,7,0,2026-11-03T15:26:48+00:00
+2026-11-03T17:05:56+00:00,86,50347766,Mass attempted replication of old findings of LLMs with new models,https://zou-group.github.io/llm-claims-shelf-life/,zirkonit,22,4,2026-11-03T03:41:29+00:00
+2026-11-03T17:05:56+00:00,87,50347552,Show HN: I built a little browser game to practice Vim commands,https://hjkl.duy.run,dh1011,61,47,2026-11-03T03:10:04+00:00
+2026-11-03T17:05:56+00:00,88,50338747,Moving our warehouse off DuckDB,https://posthog.com/blog/moving-off-duckdb,emschwartz,182,117,2026-11-02T16:02:26+00:00
+2026-11-03T17:05:56+00:00,89,50348260,Cloudflare experiencing multiple active incidents,https://www.cloudflarestatus.com/,jp1016,73,6,2026-11-03T04:57:27+00:00
+2026-11-03T17:05:56+00:00,90,50348535,The Nordic Token Tax,https://research.klang.ai/papers/the-nordic-token-tax,silfverstrom,16,4,2026-11-03T05:47:08+00:00
+2026-11-03T17:05:56+00:00,91,50352461,Bold new treatment may have just cracked how to reverse Alzheimer's,https://www.sciencefocus.com/news/new-treatment-reverse-alzheimers,Kaibeezy,6,1,2026-11-03T14:32:23+00:00
+2026-11-03T17:05:56+00:00,92,50338728,Ask HN: Who is hiring? (November 2026),,whoishiring,236,207,2026-11-02T16:01:37+00:00
+2026-11-03T17:05:56+00:00,93,50351833,Microsoft's Canada timezone troubles leave admins fixing calendars,https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934,canucker2016,37,40,2026-11-03T13:37:27+00:00
+2026-11-03T17:05:56+00:00,94,50335615,Supermarket freezers across Europe hit by second suspected cyber-attack,https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack,fergie,407,455,2026-11-02T11:50:13+00:00
+2026-11-03T17:05:56+00:00,95,50340629,Making Peace with the Projective Plane,https://www.johndcook.com/blog/2026/11/02/projective-plane/,ibobev,42,18,2026-11-02T17:47:59+00:00
+2026-11-03T17:05:56+00:00,96,50337716,LongCat-2.5: Native Multimodality for Agentic Tasks,https://longcat.ai/blog/longcat-2.5/,pretext,85,26,2026-11-02T15:00:26+00:00
+2026-11-03T17:05:56+00:00,97,50350004,Revolut moves to self-hosted GLM,https://twitter.com/guilleflorvs/status/2117379073785696395,pretext,170,143,2026-11-03T09:53:59+00:00
+2026-11-03T17:05:56+00:00,98,50336840,"The U.S. Census Bureau and ""Super Intelligence""",https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/,torutofu,124,53,2026-11-02T13:55:45+00:00
+2026-11-03T17:05:56+00:00,99,50331957,Bones may release proteins that slow aging and extend life span,https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span,EA-3167,332,134,2026-11-02T01:31:07+00:00
+2026-11-03T17:05:56+00:00,100,50350560,"Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html,entryleveljobsc,71,84,2026-11-03T11:16:07+00:00
