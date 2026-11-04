@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T23:25:56+00:00",
+ "generated_at": "2026-11-04T06:28:47+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -42,44 +42,57 @@
    "distinct_stories": 200,
    "avg_score": 231.6,
    "avg_comments": 94.0
+  },
+  {
+   "day": "2026-11-04",
+   "snapshots": 1,
+   "distinct_stories": 99,
+   "avg_score": 271.7,
+   "avg_comments": 100.8
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 42,
-   "avg_peak_score": 165.8,
-   "total_comments": 2621
+   "avg_peak_score": 173.2,
+   "total_comments": 2727
   },
   {
    "domain": "arstechnica.com",
-   "stories": 12,
-   "avg_peak_score": 143.8,
-   "total_comments": 845
+   "stories": 13,
+   "avg_peak_score": 145.7,
+   "total_comments": 1107
   },
   {
    "domain": "twitter.com",
-   "stories": 11,
-   "avg_peak_score": 98.8,
+   "stories": 12,
+   "avg_peak_score": 91.8,
    "total_comments": 789
   },
   {
    "domain": "theguardian.com",
-   "stories": 10,
-   "avg_peak_score": 88.5,
-   "total_comments": 667
+   "stories": 11,
+   "avg_peak_score": 83.8,
+   "total_comments": 678
   },
   {
    "domain": "nytimes.com",
-   "stories": 9,
-   "avg_peak_score": 508.4,
-   "total_comments": 1722
+   "stories": 10,
+   "avg_peak_score": 465.1,
+   "total_comments": 1765
   },
   {
    "domain": "arxiv.org",
    "stories": 9,
-   "avg_peak_score": 83.1,
-   "total_comments": 253
+   "avg_peak_score": 103.6,
+   "total_comments": 292
+  },
+  {
+   "domain": "reuters.com",
+   "stories": 9,
+   "avg_peak_score": 68.4,
+   "total_comments": 199
   },
   {
    "domain": "wired.com",
@@ -88,16 +101,10 @@
    "total_comments": 2235
   },
   {
-   "domain": "reuters.com",
-   "stories": 8,
-   "avg_peak_score": 72.1,
-   "total_comments": 186
-  },
-  {
    "domain": "bbc.com",
-   "stories": 7,
-   "avg_peak_score": 134.3,
-   "total_comments": 1323
+   "stories": 8,
+   "avg_peak_score": 118.9,
+   "total_comments": 1325
   },
   {
    "domain": "theregister.com",
@@ -118,6 +125,12 @@
    "total_comments": 62
   },
   {
+   "domain": "youtube.com",
+   "stories": 5,
+   "avg_peak_score": 96.0,
+   "total_comments": 181
+  },
+  {
    "domain": "ft.com",
    "stories": 5,
    "avg_peak_score": 83.2,
@@ -128,59 +141,53 @@
    "stories": 5,
    "avg_peak_score": 59.2,
    "total_comments": 90
-  },
-  {
-   "domain": "bloomberg.com",
-   "stories": 5,
-   "avg_peak_score": 54.8,
-   "total_comments": 318
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 21,
-   "avg_peak_score": 118.5
+   "stories": 24,
+   "avg_peak_score": 114.1
   },
   {
    "posted_hour_utc": 1,
-   "stories": 21,
-   "avg_peak_score": 184.2
+   "stories": 23,
+   "avg_peak_score": 178.8
   },
   {
    "posted_hour_utc": 2,
-   "stories": 14,
-   "avg_peak_score": 93.7
+   "stories": 15,
+   "avg_peak_score": 88.7
   },
   {
    "posted_hour_utc": 3,
-   "stories": 19,
-   "avg_peak_score": 76.7
+   "stories": 22,
+   "avg_peak_score": 73.3
   },
   {
    "posted_hour_utc": 4,
    "stories": 12,
-   "avg_peak_score": 57.8
+   "avg_peak_score": 69.8
   },
   {
    "posted_hour_utc": 5,
-   "stories": 12,
-   "avg_peak_score": 47.0
+   "stories": 14,
+   "avg_peak_score": 42.4
   },
   {
    "posted_hour_utc": 6,
-   "stories": 12,
-   "avg_peak_score": 195.3
+   "stories": 13,
+   "avg_peak_score": 183.8
   },
   {
    "posted_hour_utc": 7,
    "stories": 15,
-   "avg_peak_score": 196.9
+   "avg_peak_score": 200.3
   },
   {
    "posted_hour_utc": 8,
    "stories": 11,
-   "avg_peak_score": 111.5
+   "avg_peak_score": 114.1
   },
   {
    "posted_hour_utc": 9,
@@ -199,365 +206,365 @@
   },
   {
    "posted_hour_utc": 12,
-   "stories": 24,
-   "avg_peak_score": 243.3
+   "stories": 27,
+   "avg_peak_score": 223.2
   },
   {
    "posted_hour_utc": 13,
    "stories": 43,
-   "avg_peak_score": 160.2
+   "avg_peak_score": 160.6
   },
   {
    "posted_hour_utc": 14,
-   "stories": 55,
-   "avg_peak_score": 203.9
+   "stories": 56,
+   "avg_peak_score": 205.5
   },
   {
    "posted_hour_utc": 15,
    "stories": 72,
-   "avg_peak_score": 160.9
+   "avg_peak_score": 163.9
   },
   {
    "posted_hour_utc": 16,
    "stories": 61,
-   "avg_peak_score": 157.9
+   "avg_peak_score": 164.7
   },
   {
    "posted_hour_utc": 17,
    "stories": 64,
-   "avg_peak_score": 163.7
+   "avg_peak_score": 169.6
   },
   {
    "posted_hour_utc": 18,
    "stories": 49,
-   "avg_peak_score": 150.6
+   "avg_peak_score": 152.4
   },
   {
    "posted_hour_utc": 19,
    "stories": 47,
-   "avg_peak_score": 258.8
+   "avg_peak_score": 262.3
   },
   {
    "posted_hour_utc": 20,
-   "stories": 47,
-   "avg_peak_score": 78.4
+   "stories": 48,
+   "avg_peak_score": 78.9
   },
   {
    "posted_hour_utc": 21,
-   "stories": 50,
-   "avg_peak_score": 188.5
+   "stories": 51,
+   "avg_peak_score": 201.5
   },
   {
    "posted_hour_utc": 22,
    "stories": 27,
-   "avg_peak_score": 133.8
+   "avg_peak_score": 133.9
   },
   {
    "posted_hour_utc": 23,
    "stories": 23,
-   "avg_peak_score": 119.4
+   "avg_peak_score": 119.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50358582,
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "domain": "arxiv.org",
-   "score": 121,
-   "comments": 12,
-   "author": "ibobev",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50361268,
+   "title": "Jelly Sheet",
+   "domain": "mrdoob.github.io",
+   "score": 86,
+   "comments": 16,
+   "author": "memalign",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 2,
-   "story_id": 50358562,
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "domain": "webkit.org",
-   "score": 183,
-   "comments": 118,
-   "author": "paddingtone",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50360164,
+   "title": "C++26 Disapproved",
+   "domain": "andreasfertig.com",
+   "score": 208,
+   "comments": 100,
+   "author": "thatxliner",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 3,
-   "story_id": 50358702,
-   "title": "The Internals of PostgreSQL",
-   "domain": "interdb.jp",
-   "score": 45,
+   "story_id": 50361154,
+   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+   "domain": "dana-farber.org",
+   "score": 47,
    "comments": 1,
-   "author": "ibobev",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "author": "gmays",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 4,
-   "story_id": 50339288,
-   "title": "Jailbreaking my car's navigation system just so I can change the time",
-   "domain": "blog.nns.ee",
-   "score": 554,
-   "comments": 219,
-   "author": "xx_ns",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50358702,
+   "title": "The Internals of PostgreSQL",
+   "domain": "interdb.jp",
+   "score": 223,
+   "comments": 13,
+   "author": "ibobev",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 5,
-   "story_id": 50354358,
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "domain": "neufangled.com",
-   "score": 299,
-   "comments": 119,
-   "author": "nharada",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50339288,
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "domain": "blog.nns.ee",
+   "score": 721,
+   "comments": 295,
+   "author": "xx_ns",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 6,
-   "story_id": 50346755,
-   "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-   "domain": "hackertv.org",
-   "score": 107,
-   "comments": 26,
-   "author": "dsalzman",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50354358,
+   "title": "Stringman, an $800 open-source room scale gripper robot",
+   "domain": "neufangled.com",
+   "score": 497,
+   "comments": 173,
+   "author": "nharada",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 7,
-   "story_id": 50356944,
-   "title": "macOS 27 does not support CoreStorage volumes",
-   "domain": "wadetregaskis.com",
-   "score": 76,
-   "comments": 41,
-   "author": "colejohnson66",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50360573,
+   "title": "Giant canyon on Mars is still tectonically active",
+   "domain": "lamont.columbia.edu",
+   "score": 63,
+   "comments": 5,
+   "author": "gmays",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 8,
-   "story_id": 50355251,
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "domain": "simonwillison.net",
-   "score": 436,
-   "comments": 139,
-   "author": "theanonymousone",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50346755,
+   "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+   "domain": "hackertv.org",
+   "score": 269,
+   "comments": 54,
+   "author": "dsalzman",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 9,
-   "story_id": 50333131,
-   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-   "domain": "spoon-tamago.com",
-   "score": 70,
-   "comments": 14,
-   "author": "zdw",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50358352,
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "domain": "uncracked.city",
+   "score": 20,
+   "comments": 9,
+   "author": "passkey1510",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 10,
-   "story_id": 50354960,
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "domain": "github.com",
-   "score": 931,
-   "comments": 303,
-   "author": "sidgarimella",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 11,
    "story_id": 50336918,
    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
    "domain": "arstechnica.com",
-   "score": 351,
-   "comments": 137,
+   "score": 435,
+   "comments": 181,
    "author": "bookofjoe",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 11,
+   "story_id": 50333131,
+   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+   "domain": "spoon-tamago.com",
+   "score": 161,
+   "comments": 26,
+   "author": "zdw",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 12,
-   "story_id": 50358314,
-   "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
-   "domain": "github.com",
-   "score": 31,
-   "comments": 4,
-   "author": "ayanb9440",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50361936,
+   "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+   "domain": "theguardian.com",
+   "score": 37,
+   "comments": 11,
+   "author": "hkhn",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 13,
-   "story_id": 50322603,
-   "title": "We're Training a Figma-Fluent Editing Model",
-   "domain": "figma.com",
-   "score": 49,
-   "comments": 25,
-   "author": "gmays",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50358562,
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "domain": "webkit.org",
+   "score": 382,
+   "comments": 209,
+   "author": "paddingtone",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 14,
-   "story_id": 50356913,
-   "title": "Introduction to Programming in ATS",
-   "domain": "ats-lang.sourceforge.net",
-   "score": 44,
-   "comments": 7,
-   "author": "ibobev",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50361107,
+   "title": "Arrows to arrows, categories to queries (2025)",
+   "domain": "reasonablypolymorphic.com",
+   "score": 23,
+   "comments": 0,
+   "author": "firstbase",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 15,
-   "story_id": 50338334,
-   "title": "Curiosity Traps",
-   "domain": "autodidacts.io",
-   "score": 20,
-   "comments": 3,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50355251,
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "domain": "simonwillison.net",
+   "score": 564,
+   "comments": 172,
+   "author": "theanonymousone",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 16,
-   "story_id": 50342931,
-   "title": "Union Types and Option Types",
-   "domain": "tibleiz.net",
-   "score": 7,
-   "comments": 1,
-   "author": "g0xA52A2A",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50351298,
+   "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+   "domain": "youtube.com",
+   "score": 30,
+   "comments": 9,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 17,
-   "story_id": 50356994,
-   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-   "domain": "flipper.net",
-   "score": 155,
-   "comments": 68,
-   "author": "user_7832",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50354960,
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "domain": "github.com",
+   "score": 1167,
+   "comments": 383,
+   "author": "sidgarimella",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 18,
-   "story_id": 50358422,
-   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-   "domain": "asia.nikkei.com",
-   "score": 100,
-   "comments": 32,
-   "author": "angry_impala",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50322603,
+   "title": "We're training a Figma-fluent editing model",
+   "domain": "figma.com",
+   "score": 101,
+   "comments": 45,
+   "author": "gmays",
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 19,
+   "story_id": 50358582,
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "domain": "arxiv.org",
+   "score": 300,
+   "comments": 49,
+   "author": "ibobev",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 20,
-   "story_id": 50357457,
-   "title": "Pratt parsing is a black box",
-   "domain": "vinipsmaker.github.io",
-   "score": 27,
-   "comments": 13,
-   "author": "ibobev",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 21,
-   "story_id": 50352758,
-   "title": "Mac at Any Scale",
-   "domain": "namespace.so",
-   "score": 293,
-   "comments": 165,
-   "author": "anner_",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 22,
-   "story_id": 50351111,
-   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-   "domain": "honnibal.dev",
-   "score": 860,
-   "comments": 189,
-   "author": "syllogism",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 23,
-   "story_id": 50349276,
-   "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-   "domain": "nicholas.carlini.com",
-   "score": 428,
-   "comments": 196,
-   "author": "markusw",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 24,
-   "story_id": 50342119,
-   "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
-   "domain": "scrollprize.substack.com",
-   "score": 109,
-   "comments": 15,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 25,
-   "story_id": 50334363,
-   "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015)",
-   "domain": "mattkeeter.com",
-   "score": 96,
-   "comments": 49,
-   "author": "pmkary",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 26,
    "story_id": 50355767,
    "title": "How I use AI (Oct 2026)",
    "domain": "ben.stolovitz.com",
-   "score": 57,
-   "comments": 55,
+   "score": 130,
+   "comments": 111,
    "author": "citelao",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 21,
+   "story_id": 50352641,
+   "title": "There is no posttraining data commons",
+   "domain": "openathena.ai",
+   "score": 56,
+   "comments": 17,
+   "author": "lukasschwab",
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 22,
+   "story_id": 50358314,
+   "title": "Show HN: Kairos \u2013 Open-source risk and fraud decisioning platform",
+   "domain": "github.com",
+   "score": 83,
+   "comments": 17,
+   "author": "ayanb9440",
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 23,
+   "story_id": 50351463,
+   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+   "domain": "arstechnica.com",
+   "score": 47,
+   "comments": 120,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 24,
+   "story_id": 50351163,
+   "title": "Runs Scored in World Baseball Classic",
+   "domain": "entropicthoughts.com",
+   "score": 4,
+   "comments": 0,
+   "author": "ibobev",
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 25,
+   "story_id": 50338334,
+   "title": "Curiosity Traps",
+   "domain": "autodidacts.io",
+   "score": 64,
+   "comments": 7,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-04T06:28:38"
+  },
+  {
+   "rank": 26,
+   "story_id": 50351111,
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "domain": "honnibal.dev",
+   "score": 951,
+   "comments": 197,
+   "author": "syllogism",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 27,
-   "story_id": 50354250,
-   "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-   "domain": "arxiv.org",
-   "score": 43,
-   "comments": 6,
-   "author": "1equalsequals1",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50342931,
+   "title": "Union Types and Option Types (2025)",
+   "domain": "tibleiz.net",
+   "score": 38,
+   "comments": 14,
+   "author": "g0xA52A2A",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 28,
-   "story_id": 50353229,
-   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-   "domain": "arstechnica.com",
-   "score": 426,
-   "comments": 356,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50352758,
+   "title": "Mac at any scale",
+   "domain": "namespace.so",
+   "score": 357,
+   "comments": 202,
+   "author": "anner_",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 29,
-   "story_id": 50354336,
-   "title": "Gitbook Breached",
-   "domain": "news.ycombinator.com",
-   "score": 139,
-   "comments": 31,
-   "author": "punchmesan",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50356913,
+   "title": "Introduction to Programming in ATS",
+   "domain": "ats-lang.sourceforge.net",
+   "score": 65,
+   "comments": 9,
+   "author": "ibobev",
+   "snapshot_at": "2026-11-04T06:28:38"
   },
   {
    "rank": 30,
-   "story_id": 50353073,
-   "title": "Tiny Basic for Arduino",
-   "domain": "dilshan.github.io",
-   "score": 61,
-   "comments": 19,
-   "author": "AlexeyBrin",
-   "snapshot_at": "2026-11-03T23:25:48"
-  },
-  {
-   "rank": 31,
-   "story_id": 50352577,
-   "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
-   "domain": "jivx.com",
-   "score": 67,
-   "comments": 23,
-   "author": "momentmaker",
-   "snapshot_at": "2026-11-03T23:25:48"
+   "story_id": 50342119,
+   "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+   "domain": "scrollprize.substack.com",
+   "score": 125,
+   "comments": 18,
+   "author": "benbreen",
+   "snapshot_at": "2026-11-04T06:28:38"
   }
  ],
  "quality": {
@@ -574,8 +581,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 3565,
-   "fct_stories": 759
+   "stg_snapshots": 3664,
+   "fct_stories": 777
   },
   "newest_snapshot_age_hours": 0.0
  }
