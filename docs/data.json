@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T17:17:11+00:00",
+ "generated_at": "2026-11-04T23:42:09+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -45,24 +45,24 @@
   },
   {
    "day": "2026-11-04",
-   "snapshots": 2,
-   "distinct_stories": 140,
-   "avg_score": 276.8,
-   "avg_comments": 103.9
+   "snapshots": 3,
+   "distinct_stories": 188,
+   "avg_score": 252.4,
+   "avg_comments": 95.3
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 44,
-   "avg_peak_score": 173.3,
-   "total_comments": 2841
+   "stories": 45,
+   "avg_peak_score": 170.3,
+   "total_comments": 2858
   },
   {
    "domain": "arstechnica.com",
-   "stories": 14,
-   "avg_peak_score": 145.8,
-   "total_comments": 1264
+   "stories": 16,
+   "avg_peak_score": 132.1,
+   "total_comments": 1346
   },
   {
    "domain": "theguardian.com",
@@ -73,8 +73,8 @@
   {
    "domain": "twitter.com",
    "stories": 13,
-   "avg_peak_score": 87.9,
-   "total_comments": 806
+   "avg_peak_score": 96.5,
+   "total_comments": 841
   },
   {
    "domain": "nytimes.com",
@@ -85,8 +85,8 @@
   {
    "domain": "arxiv.org",
    "stories": 9,
-   "avg_peak_score": 111.6,
-   "total_comments": 301
+   "avg_peak_score": 112.8,
+   "total_comments": 302
   },
   {
    "domain": "reuters.com",
@@ -109,20 +109,20 @@
   {
    "domain": "theregister.com",
    "stories": 8,
-   "avg_peak_score": 67.8,
-   "total_comments": 358
+   "avg_peak_score": 100.3,
+   "total_comments": 525
   },
   {
    "domain": "phoronix.com",
    "stories": 7,
-   "avg_peak_score": 33.9,
-   "total_comments": 79
+   "avg_peak_score": 43.4,
+   "total_comments": 121
   },
   {
    "domain": "spectrum.ieee.org",
    "stories": 6,
-   "avg_peak_score": 220.8,
-   "total_comments": 790
+   "avg_peak_score": 283.5,
+   "total_comments": 990
   },
   {
    "domain": "reddit.com",
@@ -131,440 +131,440 @@
    "total_comments": 411
   },
   {
-   "domain": "youtube.com",
+   "domain": "tomshardware.com",
    "stories": 6,
-   "avg_peak_score": 89.2,
-   "total_comments": 202
+   "avg_peak_score": 114.2,
+   "total_comments": 274
   },
   {
-   "domain": "nature.com",
+   "domain": "youtube.com",
    "stories": 6,
-   "avg_peak_score": 51.7,
-   "total_comments": 62
+   "avg_peak_score": 89.7,
+   "total_comments": 205
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 24,
-   "avg_peak_score": 121.9
+   "avg_peak_score": 122.7
   },
   {
    "posted_hour_utc": 1,
    "stories": 23,
-   "avg_peak_score": 188.6
+   "avg_peak_score": 190.7
   },
   {
    "posted_hour_utc": 2,
-   "stories": 15,
-   "avg_peak_score": 93.4
+   "stories": 16,
+   "avg_peak_score": 89.8
   },
   {
    "posted_hour_utc": 3,
    "stories": 23,
-   "avg_peak_score": 89.7
+   "avg_peak_score": 93.5
   },
   {
    "posted_hour_utc": 4,
    "stories": 12,
-   "avg_peak_score": 79.5
+   "avg_peak_score": 80.8
   },
   {
    "posted_hour_utc": 5,
    "stories": 14,
-   "avg_peak_score": 43.9
+   "avg_peak_score": 44.1
   },
   {
    "posted_hour_utc": 6,
    "stories": 13,
-   "avg_peak_score": 184.9
+   "avg_peak_score": 185.2
   },
   {
    "posted_hour_utc": 7,
    "stories": 16,
-   "avg_peak_score": 196.8
+   "avg_peak_score": 199.1
   },
   {
    "posted_hour_utc": 8,
    "stories": 14,
-   "avg_peak_score": 147.9
+   "avg_peak_score": 163.3
   },
   {
    "posted_hour_utc": 9,
    "stories": 21,
-   "avg_peak_score": 100.5
+   "avg_peak_score": 102.7
   },
   {
    "posted_hour_utc": 10,
    "stories": 20,
-   "avg_peak_score": 231.6
+   "avg_peak_score": 243.3
   },
   {
    "posted_hour_utc": 11,
    "stories": 28,
-   "avg_peak_score": 197.7
+   "avg_peak_score": 213.5
   },
   {
    "posted_hour_utc": 12,
    "stories": 28,
-   "avg_peak_score": 220.5
+   "avg_peak_score": 221.1
   },
   {
    "posted_hour_utc": 13,
    "stories": 44,
-   "avg_peak_score": 157.7
+   "avg_peak_score": 158.0
   },
   {
    "posted_hour_utc": 14,
-   "stories": 61,
-   "avg_peak_score": 202.3
+   "stories": 63,
+   "avg_peak_score": 203.1
   },
   {
    "posted_hour_utc": 15,
-   "stories": 89,
-   "avg_peak_score": 141.0
+   "stories": 90,
+   "avg_peak_score": 151.6
   },
   {
    "posted_hour_utc": 16,
-   "stories": 63,
-   "avg_peak_score": 167.2
+   "stories": 64,
+   "avg_peak_score": 166.1
   },
   {
    "posted_hour_utc": 17,
-   "stories": 65,
-   "avg_peak_score": 173.6
+   "stories": 70,
+   "avg_peak_score": 169.0
   },
   {
    "posted_hour_utc": 18,
-   "stories": 49,
-   "avg_peak_score": 154.7
+   "stories": 59,
+   "avg_peak_score": 140.3
   },
   {
    "posted_hour_utc": 19,
-   "stories": 47,
-   "avg_peak_score": 263.9
+   "stories": 53,
+   "avg_peak_score": 239.6
   },
   {
    "posted_hour_utc": 20,
-   "stories": 48,
-   "avg_peak_score": 79.4
+   "stories": 56,
+   "avg_peak_score": 78.7
   },
   {
    "posted_hour_utc": 21,
-   "stories": 51,
-   "avg_peak_score": 209.4
+   "stories": 57,
+   "avg_peak_score": 190.9
   },
   {
    "posted_hour_utc": 22,
-   "stories": 27,
-   "avg_peak_score": 133.9
+   "stories": 32,
+   "avg_peak_score": 116.3
   },
   {
    "posted_hour_utc": 23,
-   "stories": 23,
-   "avg_peak_score": 119.5
+   "stories": 26,
+   "avg_peak_score": 106.3
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50364336,
-   "title": "AI is forcing us to pay off 40 years of technical debt",
-   "domain": "spectrum.ieee.org",
-   "score": 633,
-   "comments": 407,
-   "author": "pseudolus",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50371246,
+   "title": "Residential proxies detected on White House network",
+   "domain": "layer3intel.com",
+   "score": 485,
+   "comments": 142,
+   "author": "Rasbora",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 2,
-   "story_id": 50366522,
-   "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
-   "domain": "99percentinvisible.org",
-   "score": 100,
-   "comments": 26,
-   "author": "zenincognito",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50369925,
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "domain": "ricursive.com",
+   "score": 192,
+   "comments": 67,
+   "author": "Philpax",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 3,
-   "story_id": 50368439,
-   "title": "An end to buggy web apps",
-   "domain": "replay.io",
-   "score": 11,
-   "comments": 1,
-   "author": "bhackett",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50370610,
+   "title": "Insects don't swarm at LED lights",
+   "domain": "birdsoutsidemywindow.org",
+   "score": 140,
+   "comments": 81,
+   "author": "speckx",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 4,
-   "story_id": 50362905,
-   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-   "domain": "mindstudio.ai",
-   "score": 427,
-   "comments": 193,
-   "author": "novaRom",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50364336,
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "domain": "spectrum.ieee.org",
+   "score": 1009,
+   "comments": 607,
+   "author": "pseudolus",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 5,
-   "story_id": 50366919,
-   "title": "Evergreen: A Provably Safe Systems Language",
-   "domain": "evergreenlang.net",
-   "score": 44,
-   "comments": 27,
-   "author": "jordan_bonecut",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50369106,
+   "title": "A new Go API for JSON",
+   "domain": "go.dev",
+   "score": 196,
+   "comments": 82,
+   "author": "olexsmir",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 6,
-   "story_id": 50365755,
-   "title": "North Korean fake job interview led to $6.3B Binance heist",
-   "domain": "theregister.com",
-   "score": 298,
-   "comments": 176,
-   "author": "smalltech",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50372164,
+   "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+   "domain": "icode4.coffee",
+   "score": 31,
+   "comments": 2,
+   "author": "muricula",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 7,
-   "story_id": 50367125,
-   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-   "domain": "tomshardware.com",
-   "score": 110,
-   "comments": 33,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-04T17:17:06"
-  },
-  {
-   "rank": 8,
-   "story_id": 50363019,
-   "title": "Verification Is Not Knowledge: Science needs more than answers",
-   "domain": "blog.cosmos-institute.org",
-   "score": 173,
-   "comments": 99,
-   "author": "ersinesen",
-   "snapshot_at": "2026-11-04T17:17:06"
-  },
-  {
-   "rank": 9,
-   "story_id": 50363378,
-   "title": "Incident with Pull Requests, Git Operations and Issues",
-   "domain": "githubstatus.com",
-   "score": 198,
-   "comments": 103,
-   "author": "kevcampb",
-   "snapshot_at": "2026-11-04T17:17:06"
-  },
-  {
-   "rank": 10,
-   "story_id": 50363461,
-   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-   "domain": "news.ycombinator.com",
-   "score": 436,
-   "comments": 119,
-   "author": "jameslk",
-   "snapshot_at": "2026-11-04T17:17:06"
-  },
-  {
-   "rank": 11,
    "story_id": 50366999,
    "title": "Kimi K3.1 Pro model weights are out",
    "domain": "huggingface.co",
-   "score": 88,
-   "comments": 10,
+   "score": 317,
+   "comments": 85,
    "author": "abrarthought",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "snapshot_at": "2026-11-04T23:42:00"
+  },
+  {
+   "rank": 8,
+   "story_id": 50370654,
+   "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+   "domain": "qualcomm.com",
+   "score": 78,
+   "comments": 37,
+   "author": "peter_d_sherman",
+   "snapshot_at": "2026-11-04T23:42:00"
+  },
+  {
+   "rank": 9,
+   "story_id": 50369503,
+   "title": "Conductor is joining Meta",
+   "domain": "conductor.build",
+   "score": 78,
+   "comments": 127,
+   "author": "kenrose",
+   "snapshot_at": "2026-11-04T23:42:00"
+  },
+  {
+   "rank": 10,
+   "story_id": 50368626,
+   "title": "Progress on provable inference for large language models",
+   "domain": "anthropic.com",
+   "score": 163,
+   "comments": 83,
+   "author": "ltononro",
+   "snapshot_at": "2026-11-04T23:42:00"
+  },
+  {
+   "rank": 11,
+   "story_id": 50372360,
+   "title": "Less Popular Than Coal",
+   "domain": "argmin.net",
+   "score": 19,
+   "comments": 3,
+   "author": "_delirium",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 12,
-   "story_id": 50367004,
-   "title": "Letting users trust their own MCP clients, without opening a phishing hole",
-   "domain": "streamvessel.com",
-   "score": 19,
-   "comments": 2,
-   "author": "isalexlog",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50369895,
+   "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+   "domain": "fireflyk64.github.io",
+   "score": 90,
+   "comments": 11,
+   "author": "daniel_rh",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 13,
-   "story_id": 50366929,
-   "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-   "domain": "pcdealcheck.com",
-   "score": 17,
-   "comments": 6,
-   "author": "adlep",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50356791,
+   "title": "Is Curiosity Good for Us?",
+   "domain": "lrb.co.uk",
+   "score": 9,
+   "comments": 1,
+   "author": "NaOH",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 14,
-   "story_id": 50366860,
-   "title": "Adding Window Functions to a Spreadsheet",
-   "domain": "getgrist.com",
-   "score": 20,
-   "comments": 14,
-   "author": "reedciccio",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50362905,
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "domain": "mindstudio.ai",
+   "score": 578,
+   "comments": 266,
+   "author": "novaRom",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 15,
-   "story_id": 50361268,
-   "title": "Jelly Sheet",
-   "domain": "mrdoob.github.io",
-   "score": 385,
-   "comments": 100,
-   "author": "memalign",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50372660,
+   "title": "Successful People (2013)",
+   "domain": "blog.samaltman.com",
+   "score": 8,
+   "comments": 6,
+   "author": "epestr",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 16,
-   "story_id": 50366811,
-   "title": "Show HN: Codemap \u2013 one-page interactive map of any Go repository",
-   "domain": "github.com",
-   "score": 23,
-   "comments": 6,
-   "author": "peter_retief",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50347425,
+   "title": "Ask HN: What cryptography book do you recommend for reading with 10 year olds?",
+   "domain": "news.ycombinator.com",
+   "score": 35,
+   "comments": 39,
+   "author": "mike_richards",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 17,
-   "story_id": 50366575,
-   "title": "Debian apt security update (man-in-the-middle)",
-   "domain": "lists.debian.org",
-   "score": 72,
-   "comments": 14,
-   "author": "SG-",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50372853,
+   "title": "AI poisoning: are we using AI, or is AI using us?",
+   "domain": "blog.sparkcan.com",
+   "score": 3,
+   "comments": 0,
+   "author": "bstefanovic",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 18,
-   "story_id": 50362980,
-   "title": "Kitty 0.50",
-   "domain": "sw.kovidgoyal.net",
-   "score": 293,
-   "comments": 187,
-   "author": "porridgeraisin",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50366863,
+   "title": "OpenAI to acquire Pierre Computer Company",
+   "domain": "openai.com",
+   "score": 153,
+   "comments": 52,
+   "author": "itunpredictable",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 19,
-   "story_id": 50354358,
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "domain": "neufangled.com",
-   "score": 733,
-   "comments": 226,
-   "author": "nharada",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50368804,
+   "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+   "domain": "news.ycombinator.com",
+   "score": 62,
+   "comments": 26,
+   "author": "lukeigel",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 20,
-   "story_id": 50365516,
-   "title": "Mocktastic: A Meshtastic Node on Arduino",
-   "domain": "github.com",
-   "score": 15,
-   "comments": 1,
-   "author": "kimi",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50365780,
+   "title": "Tencent Hy4",
+   "domain": "hy.tencent.ai",
+   "score": 163,
+   "comments": 53,
+   "author": "Philpax",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 21,
-   "story_id": 50358702,
-   "title": "The Internals of PostgreSQL",
-   "domain": "interdb.jp",
-   "score": 341,
-   "comments": 25,
-   "author": "ibobev",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50367125,
+   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+   "domain": "tomshardware.com",
+   "score": 434,
+   "comments": 150,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 22,
-   "story_id": 50366863,
-   "title": "Pierre Computer is being acquired by OpenAI",
-   "domain": "twitter.com",
+   "story_id": 50372294,
+   "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+   "domain": "news.ycombinator.com",
    "score": 42,
-   "comments": 17,
-   "author": "itunpredictable",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "comments": 34,
+   "author": "newswangerd",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 23,
-   "story_id": 50362466,
-   "title": "The lost malloc()",
-   "domain": "napcakes.nekoweb.org",
-   "score": 118,
-   "comments": 47,
-   "author": "matt_d",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50369754,
+   "title": "Have I befriended a murderer?",
+   "domain": "longreads.com",
+   "score": 99,
+   "comments": 54,
+   "author": "gmays",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 24,
-   "story_id": 50366977,
-   "title": "Rosalind Franklin figured out DNA's helical structure before Watson and Crick",
-   "domain": "livescience.com",
-   "score": 19,
-   "comments": 2,
-   "author": "gmays",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50339183,
+   "title": "Show HN: The DNA of DOOM \u2013 How code structure survives across 44 ports",
+   "domain": "squid-protocol.github.io",
+   "score": 9,
+   "comments": 10,
+   "author": "joe-esquibel",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 25,
-   "story_id": 50363968,
-   "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
-   "domain": "phoronix.com",
-   "score": 129,
-   "comments": 49,
-   "author": "snvzz",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50363019,
+   "title": "Verification Is Not Knowledge: Science needs more than answers",
+   "domain": "blog.cosmos-institute.org",
+   "score": 220,
+   "comments": 129,
+   "author": "ersinesen",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 26,
-   "story_id": 50346755,
-   "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-   "domain": "hackertv.org",
-   "score": 417,
-   "comments": 78,
-   "author": "dsalzman",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50371090,
+   "title": "Show HN: Gauge \u2013 Open-Source CLI to recursively improve your docs",
+   "domain": "github.com",
+   "score": 4,
+   "comments": 1,
+   "author": "0x63_Problems",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 27,
-   "story_id": 50360573,
-   "title": "Giant canyon on Mars is still tectonically active",
-   "domain": "lamont.columbia.edu",
-   "score": 131,
-   "comments": 30,
-   "author": "gmays",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50363378,
+   "title": "Incident with Pull Requests, Git Operations and Issues",
+   "domain": "githubstatus.com",
+   "score": 251,
+   "comments": 126,
+   "author": "kevcampb",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 28,
-   "story_id": 50361154,
-   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-   "domain": "dana-farber.org",
-   "score": 113,
-   "comments": 50,
-   "author": "gmays",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50371408,
+   "title": "Death Comes for XSLT",
+   "domain": "dbushell.com",
+   "score": 20,
+   "comments": 2,
+   "author": "colejohnson66",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 29,
-   "story_id": 50358352,
-   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-   "domain": "uncracked.city",
-   "score": 111,
-   "comments": 55,
-   "author": "passkey1510",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50365755,
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "domain": "theregister.com",
+   "score": 558,
+   "comments": 343,
+   "author": "smalltech",
+   "snapshot_at": "2026-11-04T23:42:00"
   },
   {
    "rank": 30,
-   "story_id": 50333131,
-   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-   "domain": "spoon-tamago.com",
-   "score": 238,
-   "comments": 35,
-   "author": "zdw",
-   "snapshot_at": "2026-11-04T17:17:06"
+   "story_id": 50369527,
+   "title": "From wild to mild: Friendly foxes show changes in brain region",
+   "domain": "news.cornell.edu",
+   "score": 36,
+   "comments": 6,
+   "author": "gmays",
+   "snapshot_at": "2026-11-04T23:42:00"
   }
  ],
  "quality": {
@@ -581,8 +581,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 3763,
-   "fct_stories": 818
+   "stg_snapshots": 3862,
+   "fct_stories": 866
   },
   "newest_snapshot_age_hours": 0.0
  }
