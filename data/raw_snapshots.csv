@@ -4059,3 +4059,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-05T17:26:24+00:00,98,50379398,Dropbox to Acquire Tigris,https://thenewstack.io/dropbox-acquires-tigris-s3-alternative/,fabianlindfors,9,1,2026-11-05T14:21:09+00:00
 2026-11-05T17:26:24+00:00,99,50377851,Show HN: Nico – a two-agent type personal agent on your Mac,https://nico.app/,benjushi,6,1,2026-11-05T11:21:00+00:00
 2026-11-05T17:26:24+00:00,100,50371693,"Hacking the T-Mobile Sidekick, 20 Years Too Late",https://x86.cx/blog/redanger,microcode,48,13,2026-11-04T21:19:12+00:00
+2026-11-05T23:40:12+00:00,1,50383740,Search for everyone,https://kagi.com/changelog#11820,elashri,401,205,2026-11-05T20:03:34+00:00
+2026-11-05T23:40:12+00:00,2,50385272,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,motoroco,203,53,2026-11-05T22:17:15+00:00
+2026-11-05T23:40:12+00:00,3,50384233,MS Paint Remote Code Execution Vulnerability,https://www.cve.org/CVERecord?id=CVE-2026-83844,kuberwastaken,233,62,2026-11-05T20:43:42+00:00
+2026-11-05T23:40:12+00:00,4,50378228,sshole,https://sshhole.com,josemrb,2216,557,2026-11-05T12:19:02+00:00
+2026-11-05T23:40:12+00:00,5,50379704,Alpine Linux Security Advisory: OpenSSH-server password authentication bypass,https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/,pantalaimon,549,110,2026-11-05T14:44:20+00:00
+2026-11-05T23:40:12+00:00,6,50383057,The Hackintosh Reborn,https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/,rubatuga,160,72,2026-11-05T19:08:22+00:00
+2026-11-05T23:40:12+00:00,7,50383963,"Tencent Launches Hy4, One of the Leading Open-Source AI Models",https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/,gmays,66,1,2026-11-05T20:21:43+00:00
+2026-11-05T23:40:12+00:00,8,50381383,Window Sweaters,https://github.com/saragordic/window-sweaters,nickswalker,215,76,2026-11-05T16:50:14+00:00
+2026-11-05T23:40:12+00:00,9,50383739,Goodbye from Salon,https://www.salon.com/2026/11/05/goodbye-from-salon/,mkeeter,340,119,2026-11-05T20:03:29+00:00
+2026-11-05T23:40:12+00:00,10,50383877,The Cost of Blogging,https://onlinegoddess.net/2026/11/the-cost-of-blogging/,speckx,40,33,2026-11-05T20:14:25+00:00
+2026-11-05T23:40:12+00:00,11,50380810,Motorola Signature 27 with GrapheneOS support,https://motorolanews.com/motorola-signature-27-2/,monneyboi,372,278,2026-11-05T16:01:34+00:00
+2026-11-05T23:40:12+00:00,12,50379576,"September in Servo: <progress>, rounded rectangles, and more",https://servo.org/blog/2026/11/05/september-in-servo/,iamnothere,171,42,2026-11-05T14:34:18+00:00
+2026-11-05T23:40:12+00:00,13,50381687,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,https://github.com/rivet-dev/rivet,NathanFlurry,70,36,2026-11-05T17:17:42+00:00
+2026-11-05T23:40:12+00:00,14,50378571,Download your favourite YouTube videos,https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/,surprisetalk,251,112,2026-11-05T13:00:11+00:00
+2026-11-05T23:40:12+00:00,15,50381033,My psychophysics as a bilateral cochlear implant user,https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf,mi-rae,150,52,2026-11-05T16:21:12+00:00
+2026-11-05T23:40:12+00:00,16,50383294,Introducing Pangram Image 1.0,https://www.pangram.com/blog/introducing-pangram-image-1-0,gmays,39,8,2026-11-05T19:27:52+00:00
+2026-11-05T23:40:12+00:00,17,50378942,I wish tech companies knew more about me,https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me,freetonik,271,244,2026-11-05T13:40:52+00:00
+2026-11-05T23:40:12+00:00,18,50377976,OpenSSH 10.6p2 Critical workaround for alpine without PAM,https://www.openssh.org/releasenotes.html#10.6p2,selckin,230,11,2026-11-05T11:40:30+00:00
+2026-11-05T23:40:12+00:00,20,50368208,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),https://www.linum.ai/field-notes/pjit-21k,schopra909,126,14,2026-11-04T16:45:11+00:00
+2026-11-05T23:40:12+00:00,21,50378508,Obscure audio codec is a perfect fit for the N64,https://phoboslab.org/log/2026/11/n64-ulc-codec,frostbyte7,174,19,2026-11-05T12:51:48+00:00
+2026-11-05T23:40:12+00:00,22,50379249,MCP Explained,https://mcp-explained.com/,rwilinski,222,109,2026-11-05T14:08:35+00:00
+2026-11-05T23:40:12+00:00,23,50376313,GPT-6 Astra covertly underperforms on safety research,https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/,lucrbvi,274,145,2026-11-05T07:44:30+00:00
+2026-11-05T23:40:12+00:00,24,50380979,"The Stacks Project, Formalized in Lean",https://axiommath.ai/research/the-stacks-project-formalized/,namanbnsl,61,14,2026-11-05T16:16:59+00:00
+2026-11-05T23:40:12+00:00,25,50383163,"Hungary: Communist-era files released, up to 60k former agents revealed",https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed,rdmuser,121,26,2026-11-05T19:16:34+00:00
+2026-11-05T23:40:12+00:00,26,50349667,"The Lisp curse, now coming to your ecosystem",https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html,marcolinux,193,147,2026-11-03T08:59:31+00:00
+2026-11-05T23:40:12+00:00,27,50380704,Show HN: Stroq – a local audit of what your coding agent did and why,https://github.com/AGGIB/Stroq,agybay_07,61,13,2026-11-05T15:54:41+00:00
+2026-11-05T23:40:12+00:00,28,50377078,Baidu released ERNIE 5.5 Flash Base,https://ernie.baidu.com/release/ernie-5-5-flash-base/,pretext,162,91,2026-11-05T09:29:12+00:00
+2026-11-05T23:40:12+00:00,29,50380268,We can do better than line-buffered output,https://nullprogram.com/blog/2026/11/05/,zdw,84,10,2026-11-05T15:25:22+00:00
+2026-11-05T23:40:12+00:00,30,50378625,Discord is ditching Electron and its new app uses less RAM,https://www.theverge.com/news/1027379/discord-ditching-electron-web-app,archb,367,319,2026-11-05T13:05:28+00:00
+2026-11-05T23:40:12+00:00,31,50380658,Building a Multi-Agent System from Scratch: Architecture Patterns,https://kadhar.dev/blog/multi-agent-systems-from-scratch,kadharmfn,66,24,2026-11-05T15:51:57+00:00
+2026-11-05T23:40:12+00:00,32,50352846,TextEdit vs. Pages,https://leancrew.com/all-this/2026/10/textedit-vs-pages/,surprisetalk,82,64,2026-11-03T15:00:09+00:00
+2026-11-05T23:40:12+00:00,33,50364860,So my ISP was hijacking my DNS,https://www.karthihegde.dev/posts/dns_tampering,frostbyte7,173,133,2026-11-04T12:51:51+00:00
+2026-11-05T23:40:12+00:00,34,50385870,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html,randycupertino,10,1,2026-11-05T23:09:57+00:00
+2026-11-05T23:40:12+00:00,35,50384822,$2.5T has been wiped from US stocks,https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks,madihaa,103,92,2026-11-05T21:39:26+00:00
+2026-11-05T23:40:12+00:00,36,50380170,"Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",https://nordstjernen.org/,Propelloni,48,30,2026-11-05T15:17:31+00:00
+2026-11-05T23:40:12+00:00,37,50381623,Nasdaq plummets 4% into correction territory,https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html,kristianp,183,144,2026-11-05T17:11:15+00:00
+2026-11-05T23:40:12+00:00,38,50377821,Awesome repositories are no longer awesome,https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/,erikgahner,268,116,2026-11-05T11:16:51+00:00
+2026-11-05T23:40:12+00:00,39,50384382,Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896,https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html,novaRom,23,3,2026-11-05T20:58:36+00:00
+2026-11-05T23:40:12+00:00,40,50375691,Being a kid making games in the early 2000s,https://jaytholen.net/teengamedev/,farmerbb,121,47,2026-11-05T05:53:53+00:00
+2026-11-05T23:40:12+00:00,41,50340195,Partial Operator Precedence,https://ziglang.org/devlog/2026/#2026-10-24,tosh,98,57,2026-11-02T17:22:20+00:00
+2026-11-05T23:40:12+00:00,42,50373308,"Starfall – Affordable, routine access to microgravity",https://www.spacex.com/starfall,gmays,269,206,2026-11-05T00:18:18+00:00
+2026-11-05T23:40:12+00:00,43,50341576,Spreading Liquid with Three.js,https://mofu-dev.com/en/blog/fluid-foundation/,mooreds,221,29,2026-11-02T18:45:54+00:00
+2026-11-05T23:40:12+00:00,44,50385434,Confessions from Slopaholics Anonymous,https://thomasjiralerspong.substack.com/p/chasing-the-karpathy-peak,sashank_1509,7,1,2026-11-05T22:31:13+00:00
+2026-11-05T23:40:12+00:00,45,50385689,The Tech Bros Who Bet on Fascism Lost. Don't Let the Internet Pay for It,https://www.techdirt.com/2026/11/05/the-tech-bros-who-bet-on-fascism-lost-dont-let-the-internet-pay-for-it/,emschwartz,15,1,2026-11-05T22:53:37+00:00
+2026-11-05T23:40:12+00:00,46,50385642,Michael Burry says Anthropic is 'betting its existence' on optimism,https://www.businessinsider.com/michael-burry-anthropic-ipo-outlook-ant-big-short-2026-11,mgh2,5,3,2026-11-05T22:49:47+00:00
+2026-11-05T23:40:12+00:00,47,50364336,AI is forcing us to pay off 40 years of technical debt,https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability,pseudolus,1258,733,2026-11-04T11:52:17+00:00
+2026-11-05T23:40:12+00:00,48,50382594,How to Lie With Statistics (1954),https://archive.org/details/howtoliewithstat00huff,jruohonen,50,8,2026-11-05T18:29:22+00:00
+2026-11-05T23:40:12+00:00,49,50383902,Independent Assessment of AI R&D Acceleration at Anthropic in October 2026,https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/,Hacktrick,10,2,2026-11-05T20:16:19+00:00
+2026-11-05T23:40:12+00:00,50,50380410,Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it,https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet,rferraton,19,3,2026-11-05T15:33:49+00:00
+2026-11-05T23:40:12+00:00,51,50383440,"Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find",https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html,ceejayoz,26,8,2026-11-05T19:39:14+00:00
+2026-11-05T23:40:12+00:00,52,50375354,Lemmings CSS Animation,https://markblah.github.io/lemmings/,MarkBlah,380,77,2026-11-05T04:54:10+00:00
+2026-11-05T23:40:12+00:00,53,50380808,OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities,https://edera.dev/stories/ocap-bounded-authority,virtio_vixen,28,2,2026-11-05T16:01:26+00:00
+2026-11-05T23:40:12+00:00,54,50379341,80k Hops per Second Measurement Confirm Starlink Up/Downlink Channel Pairing,https://sdr-x.github.io/starlink-ul-dl-pair-80k-hop-ad9361/,fortran77,17,0,2026-11-05T14:17:07+00:00
+2026-11-05T23:40:12+00:00,55,50380273,"Offline survival assistant – local LLM and Kiwix, runs from a USB stick",https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md,soloyo,19,16,2026-11-05T15:25:36+00:00
+2026-11-05T23:40:12+00:00,56,50368804,Launch HN: Kino AI (YC S23) – AI media manager and video editor,,lukeigel,101,34,2026-11-04T17:31:53+00:00
+2026-11-05T23:40:12+00:00,57,50383675,Wipeout for AI stocks sends Wall Street reeling and S&P 500 tumbles more than 3%,https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e,jethronethro,18,2,2026-11-05T19:58:06+00:00
+2026-11-05T23:40:12+00:00,58,50375653,"Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",https://www.altera.com/newsroom/agilex-2x,gmays,59,23,2026-11-05T05:47:14+00:00
+2026-11-05T23:40:12+00:00,59,50379331,"The architecture of open-weight LLMs: MoE, hybrid layers, ternary weights",https://www.silasdata.com/llm-playground-inside-architectures/,silasyl,13,0,2026-11-05T14:16:45+00:00
+2026-11-05T23:40:12+00:00,60,50384133,California Gov Newsom commutes death sentences for all 548 people on death row,https://www.bbc.com/news/articles/cqrkyyd2j8mvo,tosh,75,61,2026-11-05T20:34:48+00:00
+2026-11-05T23:40:12+00:00,61,50366853,A wave of plastic-free coffee pods and machines,https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free,thunderbong,137,160,2026-11-04T15:20:49+00:00
+2026-11-05T23:40:12+00:00,62,50381302,Vibe Coding Keypad,https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad,ta988,84,56,2026-11-05T16:43:16+00:00
+2026-11-05T23:40:12+00:00,63,50366999,Kimi K3.1 Pro model weights are out,https://huggingface.co/moonshotai/Kimi-K3.1-Pro,abrarthought,617,184,2026-11-04T15:30:30+00:00
+2026-11-05T23:40:12+00:00,64,50372929,A thousand fewer paths to root,https://openai.com/index/a-thousand-fewer-paths-to-root/,dangelosaurus,471,351,2026-11-04T23:33:14+00:00
+2026-11-05T23:40:12+00:00,65,50380365,An updated Model Spec for more capable and beneficial AI,https://openai.com/index/updated-model-spec/,gmays,9,2,2026-11-05T15:31:43+00:00
+2026-11-05T23:40:12+00:00,66,50343293,Moment of Ruby: An Argument for Nothing,https://www.aha.io/engineering/articles/moment-of-ruby-an-argument-for-nothing,zemptime,71,16,2026-11-02T20:32:57+00:00
+2026-11-05T23:40:12+00:00,67,50381590,GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents,https://openai.com/index/introducing-gpt-6-cyber/,meetpateltech,47,7,2026-11-05T17:07:57+00:00
+2026-11-05T23:40:12+00:00,68,50372945,Images 2.6,https://openai.com/index/introducing-images-2-6/,davidbarker,376,233,2026-11-04T23:35:44+00:00
+2026-11-05T23:40:12+00:00,69,50370793,Nyquist Limit:The frequency of changes in tech is invalidating our understanding,https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/,evakhoury,31,16,2026-11-04T20:07:01+00:00
+2026-11-05T23:40:12+00:00,70,50367653,"'It's just vape, nail, charity shops': Can anything save UK high street?",https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham,theanonymousone,157,411,2026-11-04T16:11:33+00:00
+2026-11-05T23:40:12+00:00,71,50379073,Show HN: TubeHaus – an open-source YouTube client with no Google account,https://github.com/biolend83/tubehaus,invidiouslove12,15,4,2026-11-05T13:53:17+00:00
+2026-11-05T23:40:12+00:00,72,50349165,Future Maintenance of Mbed TLS,https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/,jonesjohnson,69,23,2026-11-03T07:39:05+00:00
+2026-11-05T23:40:12+00:00,73,50384093,Z.ai says GLM 5.5 built on 1T web pages,https://twitter.com/bebuu_ai/status/2118052769856888892,f1yingbanana,8,0,2026-11-05T20:31:56+00:00
+2026-11-05T23:40:12+00:00,74,50382720,Paraguayan president impeached minutes after resigning following bank collapse,https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f,gregsadetsky,15,0,2026-11-05T18:38:19+00:00
+2026-11-05T23:40:12+00:00,75,50369925,Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding,https://www.ricursive.com/ripple,Philpax,331,120,2026-11-04T18:53:29+00:00
+2026-11-05T23:40:12+00:00,76,50377221,OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability,https://hachyderm.io/@damienmiller/117563026759098135,Animux,172,82,2026-11-05T09:46:17+00:00
+2026-11-05T23:40:12+00:00,77,50363461,"Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",,jameslk,705,182,2026-11-04T10:10:27+00:00
+2026-11-05T23:40:12+00:00,78,50338474,Basically no one is using AI agents for their DoorDash orders,https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/,PaulHoule,166,323,2026-11-02T15:48:45+00:00
+2026-11-05T23:40:12+00:00,79,50381178,Paraguay bank collapses with half of population's savings,https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings,mikhael,59,8,2026-11-05T16:32:46+00:00
+2026-11-05T23:40:12+00:00,80,50369106,A new Go API for JSON,https://go.dev/blog/jsonv2,olexsmir,384,199,2026-11-04T17:52:11+00:00
+2026-11-05T23:40:12+00:00,81,50380051,Mizu – zero-copy parallel R and Python over shared memory,https://github.com/shikokuchuo/pymizu,cscheid,26,1,2026-11-05T15:09:04+00:00
+2026-11-05T23:40:12+00:00,82,50362905,Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux,https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop,novaRom,608,285,2026-11-04T08:46:29+00:00
+2026-11-05T23:40:12+00:00,83,50366117,Ask HN: What's your current AI agentic setup?,,eggbrain,498,627,2026-11-04T14:37:22+00:00
+2026-11-05T23:40:12+00:00,84,50367125,AMD expects to outsell Intel in Q4 for the first time in history,https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections,rbanffy,574,217,2026-11-04T15:38:34+00:00
+2026-11-05T23:40:12+00:00,85,50383469,Mystery Seller Seeks to Dump $500M of Data Center Loans,https://www.bloomberg.com/news/articles/2026-11-05/mystery-seller-puts-up-500-million-data-center-loans-backing-stargate-cyrusone,meep_map,17,0,2026-11-05T19:42:08+00:00
+2026-11-05T23:40:12+00:00,86,50379773,Image of our satellite-choked night skies,https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies,amatheus,125,99,2026-11-05T14:49:07+00:00
+2026-11-05T23:40:12+00:00,87,50371246,Residential proxies detected on White House network,https://layer3intel.com/blog/residential-proxies-white-house-network,Rasbora,1244,426,2026-11-04T20:45:18+00:00
+2026-11-05T23:40:12+00:00,88,50382179,Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election,https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026,armcat,146,176,2026-11-05T18:00:01+00:00
+2026-11-05T23:40:12+00:00,89,50383717,Newsom Commutes the Sentences of California's 548 Death Row Inmates,https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html,cocacola1,9,6,2026-11-05T20:01:36+00:00
+2026-11-05T23:40:12+00:00,90,50366465,TScert: A Sound Core for TypeScript,https://github.com/cristianoc/TScert,bpierre,25,10,2026-11-04T14:58:52+00:00
+2026-11-05T23:40:12+00:00,91,50383975,"I turned 100 old science fiction books into a database of 6,222 startup ideas",https://www.reddit.com/r/SideProject/comments/1xly9r8/i_turned_100_old_science_fiction_books_into_a/,absurdwebsite,10,5,2026-11-05T20:22:58+00:00
+2026-11-05T23:40:12+00:00,92,50366971,"YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/,karakoram,101,167,2026-11-04T15:28:31+00:00
+2026-11-05T23:40:12+00:00,93,50368709,Show HN: Curious HN – Hacker News without the snark,https://curioushn.com/about.html,cochne,9,12,2026-11-04T17:25:29+00:00
+2026-11-05T23:40:12+00:00,94,50365755,North Korean fake job interview led to $6.3B Binance heist,https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398,smalltech,639,379,2026-11-04T14:09:55+00:00
+2026-11-05T23:40:12+00:00,95,50370610,Insects don't swarm at LED lights,https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/,speckx,305,160,2026-11-04T19:50:23+00:00
+2026-11-05T23:40:12+00:00,96,50369503,Conductor is joining Meta,https://www.conductor.build/announcement,kenrose,210,216,2026-11-04T18:22:40+00:00
+2026-11-05T23:40:12+00:00,97,50381914,GPT-6 Cyber,https://twitter.com/OpenAI/status/2118390190246879554,zof3,19,4,2026-11-05T17:37:05+00:00
+2026-11-05T23:40:12+00:00,98,50381191,Tobacco company got smoked by leaving secret recipes on a file share,https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704,Bender,15,0,2026-11-05T16:34:22+00:00
+2026-11-05T23:40:12+00:00,99,50365905,From 25M instructions to one faulty skip: fault analysis of a secure boot,https://www.eshard.com/blog/one-faulty-skip-secure-boot,fortran77,6,1,2026-11-04T14:20:31+00:00
+2026-11-05T23:40:12+00:00,100,50366522,Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016),https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/,zenincognito,337,274,2026-11-04T15:01:44+00:00
