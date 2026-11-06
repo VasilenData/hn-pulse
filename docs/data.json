@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T23:40:20+00:00",
+ "generated_at": "2026-11-06T06:51:30+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -56,20 +56,33 @@
    "distinct_stories": 193,
    "avg_score": 197.5,
    "avg_comments": 93.4
+  },
+  {
+   "day": "2026-11-06",
+   "snapshots": 1,
+   "distinct_stories": 99,
+   "avg_score": 239.1,
+   "avg_comments": 119.2
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 53,
-   "avg_peak_score": 157.1,
-   "total_comments": 3070
+   "stories": 56,
+   "avg_peak_score": 164.6,
+   "total_comments": 3390
   },
   {
    "domain": "arstechnica.com",
    "stories": 16,
-   "avg_peak_score": 139.8,
-   "total_comments": 1600
+   "avg_peak_score": 140.1,
+   "total_comments": 1604
+  },
+  {
+   "domain": "theguardian.com",
+   "stories": 15,
+   "avg_peak_score": 91.2,
+   "total_comments": 1332
   },
   {
    "domain": "twitter.com",
@@ -78,22 +91,22 @@
    "total_comments": 862
   },
   {
-   "domain": "theguardian.com",
-   "stories": 14,
-   "avg_peak_score": 96.8,
-   "total_comments": 1324
-  },
-  {
    "domain": "nytimes.com",
-   "stories": 12,
-   "avg_peak_score": 395.0,
-   "total_comments": 1806
+   "stories": 14,
+   "avg_peak_score": 340.6,
+   "total_comments": 1823
   },
   {
    "domain": "reuters.com",
-   "stories": 10,
-   "avg_peak_score": 63.6,
-   "total_comments": 202
+   "stories": 12,
+   "avg_peak_score": 56.8,
+   "total_comments": 215
+  },
+  {
+   "domain": "wired.com",
+   "stories": 9,
+   "avg_peak_score": 374.9,
+   "total_comments": 2235
   },
   {
    "domain": "bbc.com",
@@ -110,20 +123,20 @@
   {
    "domain": "theregister.com",
    "stories": 9,
-   "avg_peak_score": 99.8,
+   "avg_peak_score": 100.4,
    "total_comments": 562
   },
   {
-   "domain": "wired.com",
+   "domain": "youtube.com",
    "stories": 8,
-   "avg_peak_score": 421.3,
-   "total_comments": 2235
+   "avg_peak_score": 68.3,
+   "total_comments": 206
   },
   {
    "domain": "spectrum.ieee.org",
    "stories": 7,
-   "avg_peak_score": 280.9,
-   "total_comments": 1123
+   "avg_peak_score": 282.7,
+   "total_comments": 1133
   },
   {
    "domain": "reddit.com",
@@ -134,14 +147,8 @@
   {
    "domain": "tomshardware.com",
    "stories": 7,
-   "avg_peak_score": 121.1,
-   "total_comments": 348
-  },
-  {
-   "domain": "youtube.com",
-   "stories": 7,
-   "avg_peak_score": 77.4,
-   "total_comments": 205
+   "avg_peak_score": 121.7,
+   "total_comments": 352
   },
   {
    "domain": "phoronix.com",
@@ -153,425 +160,425 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 27,
-   "avg_peak_score": 122.3
+   "stories": 30,
+   "avg_peak_score": 117.6
   },
   {
    "posted_hour_utc": 1,
-   "stories": 23,
-   "avg_peak_score": 191.0
+   "stories": 25,
+   "avg_peak_score": 177.7
   },
   {
    "posted_hour_utc": 2,
-   "stories": 16,
-   "avg_peak_score": 92.6
+   "stories": 19,
+   "avg_peak_score": 82.2
   },
   {
    "posted_hour_utc": 3,
-   "stories": 24,
-   "avg_peak_score": 90.8
+   "stories": 28,
+   "avg_peak_score": 83.3
   },
   {
    "posted_hour_utc": 4,
-   "stories": 14,
-   "avg_peak_score": 97.2
+   "stories": 19,
+   "avg_peak_score": 76.6
   },
   {
    "posted_hour_utc": 5,
    "stories": 16,
-   "avg_peak_score": 49.9
+   "avg_peak_score": 50.6
   },
   {
    "posted_hour_utc": 6,
-   "stories": 13,
-   "avg_peak_score": 185.4
+   "stories": 15,
+   "avg_peak_score": 161.1
   },
   {
    "posted_hour_utc": 7,
    "stories": 18,
-   "avg_peak_score": 196.2
+   "avg_peak_score": 198.8
   },
   {
    "posted_hour_utc": 8,
    "stories": 15,
-   "avg_peak_score": 168.3
+   "avg_peak_score": 170.3
   },
   {
    "posted_hour_utc": 9,
    "stories": 24,
-   "avg_peak_score": 105.6
+   "avg_peak_score": 106.0
   },
   {
    "posted_hour_utc": 10,
    "stories": 20,
-   "avg_peak_score": 248.3
+   "avg_peak_score": 248.8
   },
   {
    "posted_hour_utc": 11,
    "stories": 35,
-   "avg_peak_score": 195.6
+   "avg_peak_score": 196.4
   },
   {
    "posted_hour_utc": 12,
    "stories": 33,
-   "avg_peak_score": 266.8
+   "avg_peak_score": 279.1
   },
   {
    "posted_hour_utc": 13,
-   "stories": 48,
-   "avg_peak_score": 163.7
+   "stories": 49,
+   "avg_peak_score": 166.7
   },
   {
    "posted_hour_utc": 14,
    "stories": 74,
-   "avg_peak_score": 197.7
+   "avg_peak_score": 199.7
   },
   {
    "posted_hour_utc": 15,
    "stories": 104,
-   "avg_peak_score": 144.9
+   "avg_peak_score": 145.9
   },
   {
    "posted_hour_utc": 16,
    "stories": 81,
-   "avg_peak_score": 147.7
+   "avg_peak_score": 151.2
   },
   {
    "posted_hour_utc": 17,
    "stories": 76,
-   "avg_peak_score": 165.4
+   "avg_peak_score": 166.3
   },
   {
    "posted_hour_utc": 18,
    "stories": 63,
-   "avg_peak_score": 145.3
+   "avg_peak_score": 145.7
   },
   {
    "posted_hour_utc": 19,
-   "stories": 61,
-   "avg_peak_score": 220.0
+   "stories": 62,
+   "avg_peak_score": 221.0
   },
   {
    "posted_hour_utc": 20,
    "stories": 68,
-   "avg_peak_score": 96.6
+   "avg_peak_score": 106.8
   },
   {
    "posted_hour_utc": 21,
-   "stories": 58,
-   "avg_peak_score": 191.7
+   "stories": 60,
+   "avg_peak_score": 186.1
   },
   {
    "posted_hour_utc": 22,
-   "stories": 39,
-   "avg_peak_score": 104.4
+   "stories": 40,
+   "avg_peak_score": 118.8
   },
   {
    "posted_hour_utc": 23,
-   "stories": 32,
-   "avg_peak_score": 115.5
+   "stories": 35,
+   "avg_peak_score": 114.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50383740,
-   "title": "Search for everyone",
-   "domain": "kagi.com",
-   "score": 401,
-   "comments": 205,
-   "author": "elashri",
-   "snapshot_at": "2026-11-05T23:40:12"
-  },
-  {
-   "rank": 2,
    "story_id": 50385272,
    "title": "Claude Code sends your email address to websites",
    "domain": "github.com",
-   "score": 203,
-   "comments": 53,
+   "score": 878,
+   "comments": 290,
    "author": "motoroco",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "snapshot_at": "2026-11-06T06:51:24"
+  },
+  {
+   "rank": 2,
+   "story_id": 50378228,
+   "title": "sshole",
+   "domain": "sshhole.com",
+   "score": 2552,
+   "comments": 622,
+   "author": "josemrb",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 3,
    "story_id": 50384233,
    "title": "MS Paint Remote Code Execution Vulnerability",
    "domain": "cve.org",
-   "score": 233,
-   "comments": 62,
+   "score": 452,
+   "comments": 173,
    "author": "kuberwastaken",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 4,
-   "story_id": 50378228,
-   "title": "sshole",
-   "domain": "sshhole.com",
-   "score": 2216,
-   "comments": 557,
-   "author": "josemrb",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50387738,
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "domain": "github.com",
+   "score": 52,
+   "comments": 17,
+   "author": "gkapur",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 5,
-   "story_id": 50379704,
-   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-   "domain": "alpinelinux.org",
-   "score": 549,
-   "comments": 110,
-   "author": "pantalaimon",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50387796,
+   "title": "Pwn.college",
+   "domain": "pwn.college",
+   "score": 81,
+   "comments": 9,
+   "author": "tripdout",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 6,
-   "story_id": 50383057,
-   "title": "The Hackintosh Reborn",
-   "domain": "naut.ca",
-   "score": 160,
-   "comments": 72,
-   "author": "rubatuga",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50386338,
+   "title": "Inkling 2 Small",
+   "domain": "thinkingmachines.ai",
+   "score": 158,
+   "comments": 55,
+   "author": "Philpax",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 7,
-   "story_id": 50383963,
-   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-   "domain": "tencent.com",
-   "score": 66,
-   "comments": 1,
-   "author": "gmays",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50388122,
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "domain": "thereader.mitpress.mit.edu",
+   "score": 24,
+   "comments": 2,
+   "author": "jonbaer",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 8,
-   "story_id": 50381383,
-   "title": "Window Sweaters",
-   "domain": "github.com",
-   "score": 215,
-   "comments": 76,
-   "author": "nickswalker",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50388263,
+   "title": "How accurately did science fiction stories predict AI?",
+   "domain": "jamesyu.org",
+   "score": 30,
+   "comments": 39,
+   "author": "jamesjyu",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 9,
-   "story_id": 50383739,
-   "title": "Goodbye from Salon",
-   "domain": "salon.com",
-   "score": 340,
-   "comments": 119,
-   "author": "mkeeter",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50383057,
+   "title": "The Hackintosh Reborn",
+   "domain": "naut.ca",
+   "score": 282,
+   "comments": 138,
+   "author": "rubatuga",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 10,
-   "story_id": 50383877,
-   "title": "The Cost of Blogging",
-   "domain": "onlinegoddess.net",
-   "score": 40,
-   "comments": 33,
-   "author": "speckx",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50381383,
+   "title": "Window Sweaters",
+   "domain": "github.com",
+   "score": 295,
+   "comments": 93,
+   "author": "nickswalker",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 11,
-   "story_id": 50380810,
-   "title": "Motorola Signature 27 with GrapheneOS support",
-   "domain": "motorolanews.com",
-   "score": 372,
-   "comments": 278,
-   "author": "monneyboi",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50386789,
+   "title": "MoofTCP \u2013 A modern replacement for MacTCP on 68k Macs",
+   "domain": "github.com",
+   "score": 38,
+   "comments": 20,
+   "author": "marcusbasant",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 12,
-   "story_id": 50379576,
-   "title": "September in Servo: <progress>, rounded rectangles, and more",
-   "domain": "servo.org",
-   "score": 171,
-   "comments": 42,
-   "author": "iamnothere",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50378643,
+   "title": "Show HN: Firenook \u2013 Firebase emulators in Rust: 40\u00d7 faster writes, 10\u00d7 less RAM",
+   "domain": "firenook.dev",
+   "score": 89,
+   "comments": 16,
+   "author": "sanjevirau",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 13,
    "story_id": 50381687,
    "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
    "domain": "github.com",
-   "score": 70,
-   "comments": 36,
+   "score": 89,
+   "comments": 49,
    "author": "NathanFlurry",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 14,
-   "story_id": 50378571,
-   "title": "Download your favourite YouTube videos",
-   "domain": "criminallyvulgar.dev",
-   "score": 251,
-   "comments": 112,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50387546,
+   "title": "Closed AI models dominate the price-performance frontier",
+   "domain": "village.dev",
+   "score": 55,
+   "comments": 42,
+   "author": "kevin_hu",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 15,
-   "story_id": 50381033,
-   "title": "My psychophysics as a bilateral cochlear implant user",
-   "domain": "claude.ai",
-   "score": 150,
-   "comments": 52,
-   "author": "mi-rae",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50385870,
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "domain": "finance.yahoo.com",
+   "score": 256,
+   "comments": 113,
+   "author": "randycupertino",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 16,
-   "story_id": 50383294,
-   "title": "Introducing Pangram Image 1.0",
-   "domain": "pangram.com",
-   "score": 39,
-   "comments": 8,
-   "author": "gmays",
-   "snapshot_at": "2026-11-05T23:40:12"
-  },
-  {
-   "rank": 17,
-   "story_id": 50378942,
-   "title": "I wish tech companies knew more about me",
-   "domain": "rakhim.exotext.com",
-   "score": 271,
-   "comments": 244,
-   "author": "freetonik",
-   "snapshot_at": "2026-11-05T23:40:12"
-  },
-  {
-   "rank": 18,
-   "story_id": 50377976,
-   "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-   "domain": "openssh.org",
-   "score": 230,
-   "comments": 11,
-   "author": "selckin",
-   "snapshot_at": "2026-11-05T23:40:12"
-  },
-  {
-   "rank": 20,
    "story_id": 50368208,
    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
    "domain": "linum.ai",
-   "score": 126,
-   "comments": 14,
+   "score": 199,
+   "comments": 18,
    "author": "schopra909",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "snapshot_at": "2026-11-06T06:51:24"
+  },
+  {
+   "rank": 17,
+   "story_id": 50379576,
+   "title": "September in Servo: <progress>, rounded rectangles, and more",
+   "domain": "servo.org",
+   "score": 220,
+   "comments": 53,
+   "author": "iamnothere",
+   "snapshot_at": "2026-11-06T06:51:24"
+  },
+  {
+   "rank": 18,
+   "story_id": 50380810,
+   "title": "Motorola Signature 27 with GrapheneOS support",
+   "domain": "motorolanews.com",
+   "score": 446,
+   "comments": 325,
+   "author": "monneyboi",
+   "snapshot_at": "2026-11-06T06:51:24"
+  },
+  {
+   "rank": 19,
+   "story_id": 50378571,
+   "title": "Download your favourite YouTube videos",
+   "domain": "criminallyvulgar.dev",
+   "score": 318,
+   "comments": 148,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-06T06:51:24"
+  },
+  {
+   "rank": 20,
+   "story_id": 50378942,
+   "title": "I wish tech companies knew more about me",
+   "domain": "rakhim.exotext.com",
+   "score": 372,
+   "comments": 319,
+   "author": "freetonik",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 21,
-   "story_id": 50378508,
-   "title": "Obscure audio codec is a perfect fit for the N64",
-   "domain": "phoboslab.org",
-   "score": 174,
-   "comments": 19,
-   "author": "frostbyte7",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50383739,
+   "title": "Goodbye from Salon",
+   "domain": "salon.com",
+   "score": 544,
+   "comments": 204,
+   "author": "mkeeter",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 22,
-   "story_id": 50379249,
-   "title": "MCP Explained",
-   "domain": "mcp-explained.com",
-   "score": 222,
-   "comments": 109,
-   "author": "rwilinski",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50383294,
+   "title": "Pangram Image 1.0",
+   "domain": "pangram.com",
+   "score": 90,
+   "comments": 38,
+   "author": "gmays",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 23,
-   "story_id": 50376313,
-   "title": "GPT-6 Astra covertly underperforms on safety research",
-   "domain": "alignment.openai.com",
-   "score": 274,
-   "comments": 145,
-   "author": "lucrbvi",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50379249,
+   "title": "MCP Explained",
+   "domain": "mcp-explained.com",
+   "score": 283,
+   "comments": 119,
+   "author": "rwilinski",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 24,
-   "story_id": 50380979,
-   "title": "The Stacks Project, Formalized in Lean",
-   "domain": "axiommath.ai",
-   "score": 61,
-   "comments": 14,
-   "author": "namanbnsl",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50378508,
+   "title": "Obscure audio codec is a perfect fit for the N64",
+   "domain": "phoboslab.org",
+   "score": 218,
+   "comments": 28,
+   "author": "frostbyte7",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 25,
-   "story_id": 50383163,
-   "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-   "domain": "euronews.com",
-   "score": 121,
-   "comments": 26,
-   "author": "rdmuser",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50383740,
+   "title": "Search for everyone",
+   "domain": "kagi.com",
+   "score": 632,
+   "comments": 325,
+   "author": "elashri",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 26,
-   "story_id": 50349667,
-   "title": "The Lisp curse, now coming to your ecosystem",
-   "domain": "javahippie.net",
-   "score": 193,
-   "comments": 147,
-   "author": "marcolinux",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50380979,
+   "title": "The Stacks Project, Formalized in Lean",
+   "domain": "axiommath.ai",
+   "score": 84,
+   "comments": 23,
+   "author": "namanbnsl",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 27,
-   "story_id": 50380704,
-   "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
-   "domain": "github.com",
-   "score": 61,
-   "comments": 13,
-   "author": "agybay_07",
-   "snapshot_at": "2026-11-05T23:40:12"
-  },
-  {
-   "rank": 28,
    "story_id": 50377078,
    "title": "Baidu released ERNIE 5.5 Flash Base",
    "domain": "ernie.baidu.com",
-   "score": 162,
-   "comments": 91,
+   "score": 173,
+   "comments": 96,
    "author": "pretext",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
-   "rank": 29,
-   "story_id": 50380268,
-   "title": "We can do better than line-buffered output",
-   "domain": "nullprogram.com",
-   "score": 84,
-   "comments": 10,
-   "author": "zdw",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "rank": 28,
+   "story_id": 50364860,
+   "title": "So my ISP was hijacking my DNS",
+   "domain": "karthihegde.dev",
+   "score": 197,
+   "comments": 144,
+   "author": "frostbyte7",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 30,
-   "story_id": 50378625,
-   "title": "Discord is ditching Electron and its new app uses less RAM",
-   "domain": "theverge.com",
-   "score": 367,
-   "comments": 319,
-   "author": "archb",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50380704,
+   "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
+   "domain": "github.com",
+   "score": 81,
+   "comments": 29,
+   "author": "agybay_07",
+   "snapshot_at": "2026-11-06T06:51:24"
   },
   {
    "rank": 31,
-   "story_id": 50380658,
-   "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-   "domain": "kadhar.dev",
-   "score": 66,
-   "comments": 24,
-   "author": "kadharmfn",
-   "snapshot_at": "2026-11-05T23:40:12"
+   "story_id": 50381033,
+   "title": "My psychophysics as a bilateral cochlear implant user",
+   "domain": "claude.ai",
+   "score": 175,
+   "comments": 80,
+   "author": "mi-rae",
+   "snapshot_at": "2026-11-06T06:51:24"
   }
  ],
  "quality": {
@@ -588,8 +595,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 4159,
-   "fct_stories": 982
+   "stg_snapshots": 4258,
+   "fct_stories": 1009
   },
   "newest_snapshot_age_hours": 0.0
  }
