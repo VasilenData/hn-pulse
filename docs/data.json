@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T06:02:22+00:00",
+ "generated_at": "2026-11-07T13:06:37+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -66,18 +66,18 @@
   },
   {
    "day": "2026-11-07",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 210.0,
-   "avg_comments": 107.6
+   "snapshots": 2,
+   "distinct_stories": 115,
+   "avg_score": 219.5,
+   "avg_comments": 112.5
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 70,
-   "avg_peak_score": 172.8,
-   "total_comments": 4665
+   "stories": 71,
+   "avg_peak_score": 172.0,
+   "total_comments": 4731
   },
   {
    "domain": "arstechnica.com",
@@ -100,8 +100,8 @@
   {
    "domain": "reuters.com",
    "stories": 15,
-   "avg_peak_score": 111.0,
-   "total_comments": 925
+   "avg_peak_score": 116.1,
+   "total_comments": 969
   },
   {
    "domain": "twitter.com",
@@ -118,8 +118,8 @@
   {
    "domain": "arxiv.org",
    "stories": 10,
-   "avg_peak_score": 111.9,
-   "total_comments": 314
+   "avg_peak_score": 112.6,
+   "total_comments": 316
   },
   {
    "domain": "theregister.com",
@@ -132,12 +132,6 @@
    "stories": 9,
    "avg_peak_score": 114.0,
    "total_comments": 1386
-  },
-  {
-   "domain": "tomshardware.com",
-   "stories": 8,
-   "avg_peak_score": 164.0,
-   "total_comments": 504
   },
   {
    "domain": "youtube.com",
@@ -160,432 +154,438 @@
   {
    "domain": "spectrum.ieee.org",
    "stories": 7,
-   "avg_peak_score": 285.7,
-   "total_comments": 1138
+   "avg_peak_score": 286.0,
+   "total_comments": 1139
+  },
+  {
+   "domain": "reddit.com",
+   "stories": 7,
+   "avg_peak_score": 146.4,
+   "total_comments": 416
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 30,
-   "avg_peak_score": 122.2
+   "stories": 31,
+   "avg_peak_score": 119.5
   },
   {
    "posted_hour_utc": 1,
    "stories": 28,
-   "avg_peak_score": 162.3
+   "avg_peak_score": 164.4
   },
   {
    "posted_hour_utc": 2,
    "stories": 23,
-   "avg_peak_score": 73.1
+   "avg_peak_score": 76.4
   },
   {
    "posted_hour_utc": 3,
    "stories": 30,
-   "avg_peak_score": 88.8
+   "avg_peak_score": 89.2
   },
   {
    "posted_hour_utc": 4,
    "stories": 20,
-   "avg_peak_score": 103.4
+   "avg_peak_score": 112.6
   },
   {
    "posted_hour_utc": 5,
-   "stories": 17,
-   "avg_peak_score": 59.5
+   "stories": 20,
+   "avg_peak_score": 64.4
   },
   {
    "posted_hour_utc": 6,
-   "stories": 16,
-   "avg_peak_score": 153.6
+   "stories": 17,
+   "avg_peak_score": 148.8
   },
   {
    "posted_hour_utc": 7,
-   "stories": 25,
-   "avg_peak_score": 217.6
+   "stories": 26,
+   "avg_peak_score": 211.6
   },
   {
    "posted_hour_utc": 8,
    "stories": 19,
-   "avg_peak_score": 143.2
+   "avg_peak_score": 144.1
   },
   {
    "posted_hour_utc": 9,
-   "stories": 26,
-   "avg_peak_score": 126.0
+   "stories": 30,
+   "avg_peak_score": 120.6
   },
   {
    "posted_hour_utc": 10,
-   "stories": 22,
-   "avg_peak_score": 234.5
+   "stories": 24,
+   "avg_peak_score": 222.0
   },
   {
    "posted_hour_utc": 11,
-   "stories": 36,
-   "avg_peak_score": 196.0
+   "stories": 37,
+   "avg_peak_score": 191.8
   },
   {
    "posted_hour_utc": 12,
    "stories": 37,
-   "avg_peak_score": 287.7
+   "avg_peak_score": 291.2
   },
   {
    "posted_hour_utc": 13,
    "stories": 52,
-   "avg_peak_score": 170.8
+   "avg_peak_score": 171.6
   },
   {
    "posted_hour_utc": 14,
    "stories": 84,
-   "avg_peak_score": 184.3
+   "avg_peak_score": 185.4
   },
   {
    "posted_hour_utc": 15,
    "stories": 112,
-   "avg_peak_score": 142.5
+   "avg_peak_score": 142.8
   },
   {
    "posted_hour_utc": 16,
    "stories": 99,
-   "avg_peak_score": 138.8
+   "avg_peak_score": 140.2
   },
   {
    "posted_hour_utc": 17,
    "stories": 84,
-   "avg_peak_score": 155.4
+   "avg_peak_score": 156.7
   },
   {
    "posted_hour_utc": 18,
-   "stories": 70,
-   "avg_peak_score": 139.6
+   "stories": 72,
+   "avg_peak_score": 136.9
   },
   {
    "posted_hour_utc": 19,
    "stories": 76,
-   "avg_peak_score": 198.1
+   "avg_peak_score": 201.7
   },
   {
    "posted_hour_utc": 20,
    "stories": 75,
-   "avg_peak_score": 108.4
+   "avg_peak_score": 109.9
   },
   {
    "posted_hour_utc": 21,
    "stories": 65,
-   "avg_peak_score": 173.2
+   "avg_peak_score": 173.3
   },
   {
    "posted_hour_utc": 22,
-   "stories": 46,
-   "avg_peak_score": 120.7
+   "stories": 47,
+   "avg_peak_score": 118.9
   },
   {
    "posted_hour_utc": 23,
    "stories": 40,
-   "avg_peak_score": 125.5
+   "avg_peak_score": 135.7
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50399933,
-   "title": "Libghostty 1.0",
-   "domain": "mitchellh.com",
-   "score": 444,
-   "comments": 71,
-   "author": "mfiguiere",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50403214,
+   "title": "Upload Your RAM",
+   "domain": "uploadyourram.org",
+   "score": 155,
+   "comments": 104,
+   "author": "susanthenerd",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 2,
-   "story_id": 50397429,
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "domain": "hightouch.com",
-   "score": 409,
-   "comments": 91,
-   "author": "theanomaly",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50399933,
+   "title": "Libghostty 1.0",
+   "domain": "mitchellh.com",
+   "score": 739,
+   "comments": 121,
+   "author": "mfiguiere",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 3,
-   "story_id": 50401740,
-   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-   "domain": "science.org",
-   "score": 14,
-   "comments": 2,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50403052,
+   "title": "Need for Speed Underground 2 online in the browser",
+   "domain": "nfsu2.xyz",
+   "score": 106,
+   "comments": 37,
+   "author": "fluxusars",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 4,
-   "story_id": 50391456,
-   "title": "Tesla to wind down Cybertruck production",
-   "domain": "nbcnews.com",
-   "score": 939,
-   "comments": 1800,
-   "author": "PLenz",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50403097,
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "domain": "8rank.ai",
+   "score": 185,
+   "comments": 98,
+   "author": "infwhispers",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 5,
-   "story_id": 50384263,
-   "title": "What do the next 4000 emoji look like?",
-   "domain": "jenniferdaniel.substack.com",
-   "score": 33,
-   "comments": 20,
-   "author": "lacieargyle",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50397429,
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "domain": "hightouch.com",
+   "score": 510,
+   "comments": 122,
+   "author": "theanomaly",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 6,
-   "story_id": 50399991,
-   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-   "domain": "multifamilydive.com",
-   "score": 78,
-   "comments": 34,
-   "author": "raybb",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50391456,
+   "title": "Tesla to wind down Cybertruck production",
+   "domain": "nbcnews.com",
+   "score": 1049,
+   "comments": 1906,
+   "author": "PLenz",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 7,
-   "story_id": 50352701,
-   "title": "The Flash C Compiler",
-   "domain": "blog.adafruit.com",
-   "score": 21,
-   "comments": 2,
-   "author": "AlexeyBrin",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50402212,
+   "title": "The Components of Agent Memory",
+   "domain": "anthropic.com",
+   "score": 72,
+   "comments": 38,
+   "author": "geoffbp",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 8,
-   "story_id": 50388001,
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "domain": "reuters.com",
-   "score": 309,
-   "comments": 254,
-   "author": "ChrisArchitect",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50403063,
+   "title": "Port 0: The Port That Does Not Exist",
+   "domain": "acid.vegas",
+   "score": 20,
+   "comments": 4,
+   "author": "NewCzech",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 9,
-   "story_id": 50397219,
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "domain": "pwn.ai",
-   "score": 205,
-   "comments": 104,
-   "author": "SerCe",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50403507,
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "domain": "windowslatest.com",
+   "score": 32,
+   "comments": 20,
+   "author": "thunderbong",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 10,
-   "story_id": 50360810,
-   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-   "domain": "smithsonianmag.com",
-   "score": 59,
-   "comments": 4,
-   "author": "derbOac",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50399991,
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "domain": "multifamilydive.com",
+   "score": 140,
+   "comments": 79,
+   "author": "raybb",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 11,
-   "story_id": 50395183,
-   "title": "Notes on San Marino",
-   "domain": "mattlakeman.org",
-   "score": 36,
-   "comments": 10,
-   "author": "yorwba",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50360810,
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "domain": "smithsonianmag.com",
+   "score": 134,
+   "comments": 14,
+   "author": "derbOac",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 12,
-   "story_id": 50401451,
-   "title": "Show HN: Did prediction markets do any predicting this midterms?",
-   "domain": "app.artifactbin.dev",
-   "score": 21,
-   "comments": 10,
-   "author": "nuwandavek",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50403066,
+   "title": "Running a law firm on Free software",
+   "domain": "decoded.legal",
+   "score": 16,
+   "comments": 0,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 13,
-   "story_id": 50401029,
-   "title": "The AI sell-off compared to well-known stock market crashes",
-   "domain": "kadoa.com",
-   "score": 39,
-   "comments": 27,
-   "author": "hubraumhugo",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50356037,
+   "title": "ToothPaste",
+   "domain": "brisk4t.github.io",
+   "score": 13,
+   "comments": 3,
+   "author": "speckx",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 14,
-   "story_id": 50397994,
-   "title": "AI is dramatically accelerating AI research",
-   "domain": "planned-obsolescence.org",
-   "score": 253,
-   "comments": 204,
-   "author": "yurivish",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50388001,
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "domain": "reuters.com",
+   "score": 356,
+   "comments": 288,
+   "author": "ChrisArchitect",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 15,
-   "story_id": 50354097,
-   "title": "Can GROUP BY still be optimized after all these years?",
-   "domain": "pivotlake.io",
-   "score": 62,
+   "story_id": 50361765,
+   "title": "PostgreSQL Internals [pdf]",
+   "domain": "edu.postgrespro.com",
+   "score": 42,
    "comments": 5,
-   "author": "ntur1337",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "author": "Foe",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 16,
-   "story_id": 50394855,
-   "title": "First steps in bare-metal programming using UEFI",
-   "domain": "kevinboone.me",
-   "score": 209,
-   "comments": 39,
-   "author": "LaSombra",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50377613,
+   "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
+   "domain": "github.com",
+   "score": 6,
+   "comments": 0,
+   "author": "zaiev",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 17,
-   "story_id": 50356722,
-   "title": "Panthera: Ampere's CPU Performance Model",
-   "domain": "github.com",
-   "score": 26,
-   "comments": 7,
-   "author": "mshockwave",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50397219,
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "domain": "pwn.ai",
+   "score": 254,
+   "comments": 110,
+   "author": "SerCe",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 18,
-   "story_id": 50400597,
-   "title": "I toured Unitree's factory. I'm more bullish on the West",
-   "domain": "josef.cn",
-   "score": 87,
-   "comments": 56,
-   "author": "josefchen",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50401740,
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "domain": "science.org",
+   "score": 130,
+   "comments": 98,
+   "author": "benbreen",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 19,
-   "story_id": 50401414,
-   "title": "Lighting the Skies",
-   "domain": "computer.rip",
-   "score": 11,
-   "comments": 2,
-   "author": "dverlaeckt80",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50369283,
+   "title": "8088 Domination Post-Mortem",
+   "domain": "trixter.oldskool.org",
+   "score": 30,
+   "comments": 5,
+   "author": "cosmojg",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 20,
-   "story_id": 50397099,
-   "title": "GitHub's new Git storage architecture",
-   "domain": "github.blog",
-   "score": 104,
-   "comments": 20,
-   "author": "DAlperin",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50395183,
+   "title": "Notes on San Marino",
+   "domain": "mattlakeman.org",
+   "score": 88,
+   "comments": 30,
+   "author": "yorwba",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 21,
-   "story_id": 50370551,
-   "title": "Project Sync: The journey to sample-perfect audio/video sync with WebCodecs",
-   "domain": "mediabunny.dev",
-   "score": 5,
-   "comments": 0,
-   "author": "vanilagy",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50373513,
+   "title": "The great butter and cheese fire of 1991",
+   "domain": "wisfarmer.com",
+   "score": 38,
+   "comments": 16,
+   "author": "subroutine",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 22,
-   "story_id": 50395450,
-   "title": "Devvm.dev: One VM for every project",
-   "domain": "devvm.dev",
-   "score": 141,
-   "comments": 55,
-   "author": "luispa",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50352701,
+   "title": "The Flash C Compiler",
+   "domain": "blog.adafruit.com",
+   "score": 63,
+   "comments": 19,
+   "author": "AlexeyBrin",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 23,
-   "story_id": 50397711,
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "domain": "crusoe.ai",
-   "score": 60,
-   "comments": 11,
-   "author": "rexbee",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50394855,
+   "title": "First steps in bare-metal programming using UEFI",
+   "domain": "kevinboone.me",
+   "score": 232,
+   "comments": 43,
+   "author": "LaSombra",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 24,
-   "story_id": 50397017,
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "domain": "infohawk.com",
-   "score": 109,
-   "comments": 56,
-   "author": "fiej",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50397099,
+   "title": "GitHub's new Git storage architecture",
+   "domain": "github.blog",
+   "score": 166,
+   "comments": 36,
+   "author": "DAlperin",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 25,
-   "story_id": 50355009,
-   "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-   "domain": "github.com",
-   "score": 23,
-   "comments": 9,
-   "author": "boldi",
-   "snapshot_at": "2026-11-07T06:02:14"
-  },
-  {
-   "rank": 26,
    "story_id": 50392118,
    "title": "Gemini Omni 1.2 Flash",
    "domain": "blog.google",
-   "score": 311,
-   "comments": 225,
+   "score": 346,
+   "comments": 233,
    "author": "thisisauserid",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "snapshot_at": "2026-11-07T13:06:29"
+  },
+  {
+   "rank": 26,
+   "story_id": 50354097,
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "domain": "pivotlake.io",
+   "score": 95,
+   "comments": 15,
+   "author": "ntur1337",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 27,
-   "story_id": 50399657,
-   "title": "Sodium-ion batteries approach cost parity with LFP",
-   "domain": "pv-magazine.com",
-   "score": 158,
-   "comments": 78,
-   "author": "doener",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50397017,
+   "title": "Restaurant Delivery Payment-Skimming Campaign",
+   "domain": "infohawk.com",
+   "score": 136,
+   "comments": 69,
+   "author": "fiej",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 28,
-   "story_id": 50379221,
-   "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
-   "domain": "github.com",
-   "score": 56,
-   "comments": 16,
-   "author": "icyfox",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50397711,
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "domain": "crusoe.ai",
+   "score": 82,
+   "comments": 29,
+   "author": "rexbee",
+   "snapshot_at": "2026-11-07T13:06:29"
+  },
+  {
+   "rank": 29,
+   "story_id": 50397994,
+   "title": "AI is dramatically accelerating AI research",
+   "domain": "planned-obsolescence.org",
+   "score": 331,
+   "comments": 295,
+   "author": "yurivish",
+   "snapshot_at": "2026-11-07T13:06:29"
   },
   {
    "rank": 30,
-   "story_id": 50389570,
-   "title": "Chomsky and the two cultures of statistical learning (2011)",
-   "domain": "norvig.com",
-   "score": 117,
-   "comments": 95,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-07T06:02:14"
-  },
-  {
-   "rank": 31,
-   "story_id": 50374287,
-   "title": "How tall can you build with 54 Jenga blocks?",
-   "domain": "johnjwang.com",
-   "score": 10,
-   "comments": 5,
-   "author": "johnjwang",
-   "snapshot_at": "2026-11-07T06:02:14"
+   "story_id": 50395450,
+   "title": "Devvm.dev: One VM for every project",
+   "domain": "devvm.dev",
+   "score": 165,
+   "comments": 62,
+   "author": "luispa",
+   "snapshot_at": "2026-11-07T13:06:29"
   }
  ],
  "quality": {
@@ -602,8 +602,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 4555,
-   "fct_stories": 1132
+   "stg_snapshots": 4654,
+   "fct_stories": 1148
   },
   "newest_snapshot_age_hours": 0.0
  }

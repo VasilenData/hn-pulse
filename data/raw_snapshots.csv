@@ -4554,3 +4554,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-07T06:02:14+00:00,98,50383739,Goodbye from Salon,https://www.salon.com/2026/11/05/goodbye-from-salon/,mkeeter,641,262,2026-11-05T20:03:29+00:00
 2026-11-07T06:02:14+00:00,99,50383057,The Hackintosh Reborn,https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/,rubatuga,402,235,2026-11-05T19:08:22+00:00
 2026-11-07T06:02:14+00:00,100,50399909,Claude usage credits purchased after Dec 7 will expire 12 months after purchase,,bbg2401,12,3,2026-11-06T23:27:15+00:00
+2026-11-07T13:06:29+00:00,1,50403214,Upload Your RAM,https://uploadyourram.org,susanthenerd,155,104,2026-11-07T10:15:26+00:00
+2026-11-07T13:06:29+00:00,2,50399933,Libghostty 1.0,https://mitchellh.com/writing/libghostty-1-0,mfiguiere,739,121,2026-11-06T23:30:52+00:00
+2026-11-07T13:06:29+00:00,3,50403052,Need for Speed Underground 2 online in the browser,https://nfsu2.xyz/,fluxusars,106,37,2026-11-07T09:36:36+00:00
+2026-11-07T13:06:29+00:00,4,50403097,Every Mac comes with an (undocumented) family member classifier,https://8rank.ai/game/apple-intelligence-personal-knowledge-graph,infwhispers,185,98,2026-11-07T09:46:03+00:00
+2026-11-07T13:06:29+00:00,5,50397429,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,https://hightouch.com/blog/llm-judges-identity-resolution,theanomaly,510,122,2026-11-06T19:48:51+00:00
+2026-11-07T13:06:29+00:00,6,50391456,Tesla to wind down Cybertruck production,https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817,PLenz,1049,1906,2026-11-06T12:13:51+00:00
+2026-11-07T13:06:29+00:00,7,50402212,The Components of Agent Memory,https://www.anthropic.com/research/components-of-agent-memory,geoffbp,72,38,2026-11-07T06:39:04+00:00
+2026-11-07T13:06:29+00:00,8,50403063,Port 0: The Port That Does Not Exist,https://acid.vegas/blog/the-port-that-does-not-exist/,NewCzech,20,4,2026-11-07T09:38:26+00:00
+2026-11-07T13:06:29+00:00,9,50403507,"Every Windows 11 app should kill Electron, and Discord just showed why",https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/,thunderbong,32,20,2026-11-07T11:11:15+00:00
+2026-11-07T13:06:29+00:00,10,50399991,RealPage rent-pricing case wraps with nearly $360M to renters,https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/,raybb,140,79,2026-11-06T23:37:19+00:00
+2026-11-07T13:06:29+00:00,11,50360810,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/,derbOac,134,14,2026-11-04T02:19:16+00:00
+2026-11-07T13:06:29+00:00,12,50403066,Running a law firm on Free software,https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/,DeepLogin,16,0,2026-11-07T09:39:06+00:00
+2026-11-07T13:06:29+00:00,13,50356037,ToothPaste,https://brisk4t.github.io/blog/toothpaste/,speckx,13,3,2026-11-03T18:27:27+00:00
+2026-11-07T13:06:29+00:00,14,50388001,US FAA says it will phase out floppy disks from air traffic control by 2028,https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/,ChrisArchitect,356,288,2026-11-06T04:00:28+00:00
+2026-11-07T13:06:29+00:00,15,50361765,PostgreSQL Internals [pdf],https://edu.postgrespro.com/postgresql_internals-14_en.pdf,Foe,42,5,2026-11-04T05:22:43+00:00
+2026-11-07T13:06:29+00:00,16,50377613,"Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",https://github.com/hyphatech/spindle,zaiev,6,0,2026-11-05T10:45:28+00:00
+2026-11-07T13:06:29+00:00,17,50397219,Firecracker VM Escape: PwnEscape Part 2,https://pwn.ai/blog/firecracker-escape,SerCe,254,110,2026-11-06T19:33:38+00:00
+2026-11-07T13:06:29+00:00,18,50401740,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals,benbreen,130,98,2026-11-07T04:54:36+00:00
+2026-11-07T13:06:29+00:00,19,50369283,8088 Domination Post-Mortem,https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/,cosmojg,30,5,2026-11-04T18:06:14+00:00
+2026-11-07T13:06:29+00:00,20,50395183,Notes on San Marino,https://mattlakeman.org/2026/11/05/notes-on-san-marino/,yorwba,88,30,2026-11-06T17:12:05+00:00
+2026-11-07T13:06:29+00:00,21,50373513,The great butter and cheese fire of 1991,https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/,subroutine,38,16,2026-11-05T00:44:16+00:00
+2026-11-07T13:06:29+00:00,22,50352701,The Flash C Compiler,https://blog.adafruit.com/2026/10/31/flash-c-compiler/,AlexeyBrin,63,19,2026-11-03T14:49:42+00:00
+2026-11-07T13:06:29+00:00,23,50394855,First steps in bare-metal programming using UEFI,https://kevinboone.me/efitest_index.html,LaSombra,232,43,2026-11-06T16:50:29+00:00
+2026-11-07T13:06:29+00:00,24,50397099,GitHub's new Git storage architecture,https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/,DAlperin,166,36,2026-11-06T19:24:21+00:00
+2026-11-07T13:06:29+00:00,25,50392118,Gemini Omni 1.2 Flash,https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/,thisisauserid,346,233,2026-11-06T13:35:27+00:00
+2026-11-07T13:06:29+00:00,26,50354097,Can GROUP BY still be optimized after all these years?,https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/,ntur1337,95,15,2026-11-03T16:30:23+00:00
+2026-11-07T13:06:29+00:00,27,50397017,Restaurant Delivery Payment-Skimming Campaign,https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming,fiej,136,69,2026-11-06T19:19:27+00:00
+2026-11-07T13:06:29+00:00,28,50397711,Google has acquired Crusoe's data center site in southeast Wyoming,https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update,rexbee,82,29,2026-11-06T20:09:14+00:00
+2026-11-07T13:06:29+00:00,29,50397994,AI is dramatically accelerating AI research,https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai,yurivish,331,295,2026-11-06T20:27:23+00:00
+2026-11-07T13:06:29+00:00,30,50395450,Devvm.dev: One VM for every project,https://devvm.dev/,luispa,165,62,2026-11-06T17:30:22+00:00
+2026-11-07T13:06:29+00:00,31,50389570,Chomsky and the two cultures of statistical learning (2011),https://www.norvig.com/chomsky.html,andsoitis,134,104,2026-11-06T08:18:36+00:00
+2026-11-07T13:06:29+00:00,32,50401867,Asahi Linux Progress Linux 7.3,https://asahilinux.org/2026/11/progress-report-7-3/,ackyshake,209,176,2026-11-07T05:20:18+00:00
+2026-11-07T13:06:29+00:00,33,50378228,sshole,https://sshhole.com,josemrb,2935,738,2026-11-05T12:19:02+00:00
+2026-11-07T13:06:29+00:00,34,50385272,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,motoroco,1578,505,2026-11-05T22:17:15+00:00
+2026-11-07T13:06:29+00:00,35,50379221,Show HN: Waymark – A workflow engine that compiles jobs instead of replaying,https://github.com/piercefreeman/waymark,icyfox,77,23,2026-11-05T14:06:31+00:00
+2026-11-07T13:06:29+00:00,36,50393458,"Ozempic-style drugs now in trials for heart failure, addiction and even aging",https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/,randycupertino,82,54,2026-11-06T15:24:34+00:00
+2026-11-07T13:06:29+00:00,37,50355009,Show HN: Tmux-restore saves tmux windows and agent sessions across reboots,https://github.com/andrewboldi/tmux-restore,boldi,44,32,2026-11-03T17:25:21+00:00
+2026-11-07T13:06:29+00:00,38,50389370,Kugelblitz – Mac-Native Google Earth Alternative,https://apps.metaebene.me/en/kugelblitz,luoc,255,65,2026-11-06T07:47:38+00:00
+2026-11-07T13:06:29+00:00,39,50356722,Panthera: Ampere's CPU Performance Model,https://github.com/AmpereComputing/panthera,mshockwave,36,12,2026-11-03T19:12:17+00:00
+2026-11-07T13:06:29+00:00,40,50402535,"Bong: DuckDuckGo bang alternative, open-source and self-hosted",https://bong.glendalab.com,captain_bender,23,9,2026-11-07T07:48:13+00:00
+2026-11-07T13:06:29+00:00,41,50392348,How octopuses squeeze through too small gaps,https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps,bookofjoe,69,17,2026-11-06T13:57:20+00:00
+2026-11-07T13:06:29+00:00,43,50389333,Blender's UI and Runtime: Much Faster Than GPUI,https://github.com/ppmpreetham/BUI,ppmpreetham,701,284,2026-11-06T07:40:35+00:00
+2026-11-07T13:06:29+00:00,44,50395919,Memorilla: Latent Semantic Memory for LLMs,https://arxiv.org/abs/2610.21375,handfuloflight,108,13,2026-11-06T18:03:33+00:00
+2026-11-07T13:06:29+00:00,45,50390525,Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016),https://jhr.pensoft.net/articles.php?id=9096,hitekker,174,54,2026-11-06T10:21:15+00:00
+2026-11-07T13:06:29+00:00,46,50394906,Anthropic IPO buyers see valuation as low as $1.1T,https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout,dgellow,285,573,2026-11-06T16:54:36+00:00
+2026-11-07T13:06:29+00:00,47,50390124,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105,microtonal,636,417,2026-11-06T09:27:12+00:00
+2026-11-07T13:06:29+00:00,48,50372439,Bug Finding Considered Harmful?,https://alperenkeles.com/posts/bug-finding-considered-harmful/,alpaylan,20,6,2026-11-04T22:35:30+00:00
+2026-11-07T13:06:29+00:00,49,50391145,We've built an open-source feature flag server for 11 years,https://github.com/Unleash/unleash,ivarconr,158,104,2026-11-06T11:40:06+00:00
+2026-11-07T13:06:29+00:00,50,50399657,Sodium-ion batteries approach cost parity with LFP,https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/,doener,200,92,2026-11-06T23:00:46+00:00
+2026-11-07T13:06:29+00:00,51,50396834,Replit rebuilt its sandbox engine with microVMs,https://frontier.replit.com/sandbox-engine-microvms-part-1/,gaplong,91,32,2026-11-06T19:06:10+00:00
+2026-11-07T13:06:29+00:00,52,50395869,Size-It-Up (Game),https://magnitudle.com/size-it-up,whoishiding,79,27,2026-11-06T17:59:59+00:00
+2026-11-07T13:06:29+00:00,53,50387796,Pwn.college,https://pwn.college/,tripdout,318,54,2026-11-06T03:27:14+00:00
+2026-11-07T13:06:29+00:00,54,50400597,I toured Unitree's factory. I'm more bullish on the West,https://josef.cn/blog/unitree,josefchen,134,93,2026-11-07T01:05:16+00:00
+2026-11-07T13:06:29+00:00,55,50393758,Deus Ex,https://www.filfre.net/2026/11/deus-ex/,cybersoyuz,357,191,2026-11-06T15:44:36+00:00
+2026-11-07T13:06:29+00:00,56,50354308,The Ubuntu 26.04 Rust sudo is not compatible with standard sudo,https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible,wondersky,186,164,2026-11-03T16:43:54+00:00
+2026-11-07T13:06:29+00:00,57,50394569,"Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",https://github.com/anomalyco/rune,mik3y,170,125,2026-11-06T16:31:32+00:00
+2026-11-07T13:06:29+00:00,58,50382958,Zero Hour: Telling time was a matter of survival and strategy during WWI (2014),https://www.laphamsquarterly.org/roundtable/zero-hour,NaOH,101,5,2026-11-05T18:59:37+00:00
+2026-11-07T13:06:29+00:00,59,50396108,40C3 halfnarp – Submit talk preferences to aid scheduling,https://halfnarp.events.ccc.de,hanemile,51,10,2026-11-06T18:16:43+00:00
+2026-11-07T13:06:29+00:00,60,50388513,I struggle to believe that AI R&D is ingenious,https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL,porridgeraisin,204,203,2026-11-06T05:19:04+00:00
+2026-11-07T13:06:29+00:00,61,50394977,PyLings: Solve Exercises and Learn Python,https://github.com/thesayfulla/pylings,thesayfulla,52,3,2026-11-06T16:59:40+00:00
+2026-11-07T13:06:29+00:00,62,50393089,Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects),https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/,goopthink,73,2,2026-11-06T14:57:16+00:00
+2026-11-07T13:06:29+00:00,63,50389990,AI for scientific discovery: How researchers use Claude,https://www.anthropic.com/research/how-researchers-use-claude,ersinesen,95,38,2026-11-06T09:13:30+00:00
+2026-11-07T13:06:29+00:00,64,50396064,We know 15k websites are infected. how do we tell them?,https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/,speckx,159,136,2026-11-06T18:13:35+00:00
+2026-11-07T13:06:29+00:00,65,50384233,MS Paint Remote Code Execution Vulnerability,https://www.cve.org/CVERecord?id=CVE-2026-83844,kuberwastaken,709,281,2026-11-05T20:43:42+00:00
+2026-11-07T13:06:29+00:00,66,50392787,MTG-I2 First Images,https://www.eumetsat.int/mtg-i2-first-images,N19PEDL2,67,16,2026-11-06T14:35:29+00:00
+2026-11-07T13:06:29+00:00,67,50401809,17776 (2017),https://www.sbnation.com/a/17776-football,akkartik,8,2,2026-11-07T05:09:24+00:00
+2026-11-07T13:06:29+00:00,68,50381687,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,https://github.com/rivet-dev/rivet,NathanFlurry,118,59,2026-11-05T17:17:42+00:00
+2026-11-07T13:06:29+00:00,69,50401414,Lighting the Skies,https://computer.rip/2026-10-25-searchlights.html,dverlaeckt80,15,2,2026-11-07T03:40:34+00:00
+2026-11-07T13:06:29+00:00,70,50374287,How tall can you build with 54 Jenga blocks?,https://johnjwang.com/post/2026/10/25/tallest-jenga-tower,johnjwang,12,6,2026-11-05T02:19:18+00:00
+2026-11-07T13:06:29+00:00,71,50389222,Britain to make salary disclosure in job ads mandatory,https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/,1659447091,589,446,2026-11-06T07:22:04+00:00
+2026-11-07T13:06:29+00:00,72,50387738,Nvidia Kubernetes Engine (NVKE),https://github.com/dsx-ai-factory/nvke,gkapur,123,27,2026-11-06T03:16:26+00:00
+2026-11-07T13:06:29+00:00,73,50394116,"Reading the Anthropic S-1, with Zvi Mowshowitz",https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/,nbernard,35,0,2026-11-06T16:04:58+00:00
+2026-11-07T13:06:29+00:00,74,50388122,From Linux to Wikipedia: How Volunteers Build the Internet,https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/,jonbaer,333,128,2026-11-06T04:17:49+00:00
+2026-11-07T13:06:29+00:00,75,50370551,Project Sync: The journey to sample-perfect audio/video sync with WebCodecs,https://mediabunny.dev/blog/project-sync,vanilagy,13,1,2026-11-04T19:45:32+00:00
+2026-11-07T13:06:29+00:00,76,50399569,ChatGPT silently passes data between connectors and the bounty wants an ID card,https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053,Aldipower,89,36,2026-11-06T22:50:43+00:00
+2026-11-07T13:06:29+00:00,77,50394292,Scriptable GeoDNS: Leaving AWS for Bunny,https://vincent.bernat.ch/en/blog/2026-bunny-geodns,sshah03,65,23,2026-11-06T16:15:03+00:00
+2026-11-07T13:06:29+00:00,78,50378508,Obscure audio codec is a perfect fit for the N64,https://phoboslab.org/log/2026/11/n64-ulc-codec,frostbyte7,264,31,2026-11-05T12:51:48+00:00
+2026-11-07T13:06:29+00:00,79,50393105,Ask HN: What in the world is taking Ubuntu so long?,,linsomniac,208,132,2026-11-06T14:58:33+00:00
+2026-11-07T13:06:29+00:00,80,50379249,MCP Explained,https://mcp-explained.com/,rwilinski,340,133,2026-11-05T14:08:35+00:00
+2026-11-07T13:06:29+00:00,81,50400576,Implementing GPT-2 in CSS,https://shubhampatil.dev/blog/gpt2-css,zapt02,17,2,2026-11-07T01:01:10+00:00
+2026-11-07T13:06:29+00:00,82,50364860,So my ISP was hijacking my DNS,https://www.karthihegde.dev/posts/dns_tampering,frostbyte7,229,200,2026-11-04T12:51:51+00:00
+2026-11-07T13:06:29+00:00,83,50397176,My first and last telegram was from Rebecca West,https://thelampmagazine.com/blog/rebecca-wests-nightingale,bryanrasmussen,35,9,2026-11-06T19:30:00+00:00
+2026-11-07T13:06:29+00:00,84,50383294,Pangram Image 1.0,https://www.pangram.com/blog/introducing-pangram-image-1-0,gmays,148,67,2026-11-05T19:27:52+00:00
+2026-11-07T13:06:29+00:00,85,50397264,"As the Japanese countryside empties out, wildlife is disappearing",https://e360.yale.edu/digest/japan-depopulation-biodiversity,rdmuser,80,48,2026-11-06T19:36:16+00:00
+2026-11-07T13:06:29+00:00,86,50385870,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html,randycupertino,509,224,2026-11-05T23:09:57+00:00
+2026-11-07T13:06:29+00:00,87,50389420,Multiplayer tanks that demolish real buildings from OpenStreetMap,https://worldstrike.fun/,n4ze3m,169,123,2026-11-06T07:55:48+00:00
+2026-11-07T13:06:29+00:00,88,50397330,Northstar: A New Booster Engine with More Thrust and Less Mass,https://www.blueorigin.com/news/introducing-northstar-new-booster-engine,simonebrunozzi,18,0,2026-11-06T19:41:26+00:00
+2026-11-07T13:06:29+00:00,89,50394070,Swipeblocked: The phrases your iPhone won't suggest,https://swipeblocked.com/,lladnar,51,20,2026-11-06T16:01:54+00:00
+2026-11-07T13:06:29+00:00,90,50394771,Only 16% of U.S. fast-charging stations meet federal NEVI standards (open data),https://chargingnear.me/data,parkgraph,29,9,2026-11-06T16:45:10+00:00
+2026-11-07T13:06:29+00:00,91,50364336,AI is forcing us to pay off 40 years of technical debt,https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability,pseudolus,1294,749,2026-11-04T11:52:17+00:00
+2026-11-07T13:06:29+00:00,92,50398625,88x31 GIF Stickers for 2026,https://a90.com/experiments/88x31/,saint11,50,6,2026-11-06T21:13:18+00:00
+2026-11-07T13:06:29+00:00,93,50377078,Baidu released ERNIE 5.5 Flash Base,https://ernie.baidu.com/release/ernie-5-5-flash-base/,pretext,187,98,2026-11-05T09:29:12+00:00
+2026-11-07T13:06:29+00:00,94,50389260,Hardcoded credentials and other issues in Tata Motors App,https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537,qtqtqt,86,19,2026-11-06T07:28:39+00:00
+2026-11-07T13:06:29+00:00,95,50395747,Flawless UI-UX Skill 1.0.0,https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0,99lcccss,30,32,2026-11-06T17:52:34+00:00
+2026-11-07T13:06:29+00:00,96,50381383,Window Sweaters,https://github.com/saragordic/window-sweaters,nickswalker,455,135,2026-11-05T16:50:14+00:00
+2026-11-07T13:06:29+00:00,97,50393547,Half of Show HN posts are a bare link. Ones with 500 characters got 2x replies,https://ownfeed.dev/guides/show-hn-analysis-37622-posts,shun_dev,21,4,2026-11-06T15:30:25+00:00
+2026-11-07T13:06:29+00:00,98,50383739,Goodbye from Salon,https://www.salon.com/2026/11/05/goodbye-from-salon/,mkeeter,644,264,2026-11-05T20:03:29+00:00
+2026-11-07T13:06:29+00:00,99,50395933,Microsoft is winding down Oracle deal to rent AI cloud capacity,https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/,brazukadev,101,18,2026-11-06T18:04:06+00:00
+2026-11-07T13:06:29+00:00,100,50398229,UV-5RM-Radio-Mod,https://github.com/jakegarrett13-afk/UV-5RM-Radio-Mod,nickmcc,18,2,2026-11-06T20:43:25+00:00
