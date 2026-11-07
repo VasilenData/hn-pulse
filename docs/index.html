@@ -3,8 +3,15 @@
 <meta name="theme-color" content="#111315">
 <title>HN Pulse | Live Hacker News data pipeline</title>
 <meta name="description" content="Live dashboard fed by an automated pipeline: Hacker News API, dbt models and tests, DuckDB, GitHub Actions.">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=JetBrains+Mono:wght@400;500&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preload" href="https://vasilendata.github.io/fonts/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+<style>@font-face{font-family:'Bricolage Grotesque';src:url(https://vasilendata.github.io/fonts/bricolage-grotesque.woff2) format('woff2');font-weight:200 800;font-display:swap}
+@font-face{font-family:'Public Sans';src:url(https://vasilendata.github.io/fonts/public-sans.woff2) format('woff2');font-weight:100 900;font-display:swap}
+@font-face{font-family:'JetBrains Mono';src:url(https://vasilendata.github.io/fonts/jetbrains-mono.woff2) format('woff2');font-weight:100 800;font-display:swap}</style>
+<link rel="canonical" href="https://vasilendata.github.io/hn-pulse/">
+<meta property="og:type" content="website"><meta property="og:title" content="HN Pulse | Live Hacker News data pipeline"><meta property="og:description" content="Live dashboard fed by an automated pipeline: Hacker News API, dbt models and tests, DuckDB, GitHub Actions."><meta property="og:url" content="https://vasilendata.github.io/hn-pulse/"><meta property="og:image" content="https://vasilendata.github.io/og.png?v=2">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://vasilendata.github.io/og.png?v=2">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%230E1A2B'/%3E%3Cpath d='M14 18l14 28 6-12M50 18L36 46' stroke='%23E8470F' stroke-width='6' fill='none' stroke-linecap='square'/%3E%3C/svg%3E">
+
 <style>
 :root{--paper:#EDF0F2;--surface:#F8FAFB;--ink:#0E1A2B;--muted:#445568;--rule:#C6D0D9;--signal:#E8470F;--signal-ink:#B93208;--teal:#0F6B6E;--teal-soft:#BFD9DA;
 --display:'Bricolage Grotesque','Segoe UI',system-ui,sans-serif;--body:'Public Sans','Segoe UI',system-ui,sans-serif;--mono:'JetBrains Mono',ui-monospace,Consolas,monospace}
@@ -55,8 +62,10 @@ footer.f{padding:28px 0 56px;color:var(--muted);font-size:.875rem;max-width:48re
 [hidden]{display:none!important}
 
 td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var(--muted)}td.rk{color:var(--muted);width:2.5rem;font-variant-numeric:tabular-nums}
+.find{min-height:96px}.cv{min-height:514px}#health{min-height:345px}#t{min-height:1450px}
+@media(max-width:800px){.cv{min-height:368px}.find{min-height:165px}#health{min-height:568px}}@media(max-width:520px){.find{min-height:165px}}
 </style></head><body><div class="wrap">
-<div class="top"><a href="https://vasilendata.github.io/">&larr; Vasilen Kanchev</a><span>Data engineering project</span></div>
+<nav class="top" aria-label="Portfolio"><a href="https://vasilendata.github.io/">&larr; Vasilen Kanchev</a><span>Data engineering project</span></nav>
 <header class="pg"><h1>HN Pulse</h1>
 <p class="sub">A scheduled pipeline snapshots the Hacker News front page, models it with dbt (with automated tests), and publishes the results here. Last refresh: <b id="gen" class="num">loading</b> UTC. <a href="https://github.com/VasilenData/hn-pulse">Source on GitHub</a></p>
 <dl class="find" id="kpis" aria-label="Key figures"></dl></header>
@@ -65,8 +74,8 @@ td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var
 <div><h2>Which sites reach the front page most</h2><p class="n">Stories per domain, top 15.</p><div class="cv"><canvas id="c1" role="img" aria-label="Bar chart of top domains by stories on the front page"></canvas></div></div>
 <div><h2>When posts score highest</h2><p class="n">Average peak score by posting hour (UTC).</p><div class="cv"><canvas id="c2" role="img" aria-label="Line chart of average peak score by posting hour"></canvas></div></div>
 </div></section>
-<section class="blk" id="health" hidden><h2>Pipeline health</h2><p class="n">Computed by the last run, which publishes this page only when every check passes.</p><dl class="hl" id="hl"></dl><p class="n"><a href="https://github.com/VasilenData/hn-pulse/blob/main/LINEAGE.md">See the model lineage</a> and the <a href="https://github.com/VasilenData/hn-pulse/blob/main/models/schema.yml">data contracts</a>.</p></section>
-<section class="blk"><h2>Front page right now</h2><p class="n">Top 30 stories at the latest snapshot.</p><div class="scroll"><table id="t"><thead><tr><th>Rank</th><th>Title</th><th>Domain</th><th class="r">Score</th><th class="r">Comments</th></tr></thead><tbody></tbody></table></div></section>
+<section class="blk" id="health"><h2>Pipeline health</h2><p class="n">Computed by the last run, which publishes this page only when every check passes.</p><dl class="hl" id="hl"></dl><p class="n"><a href="https://github.com/VasilenData/hn-pulse/blob/main/LINEAGE.md">See the model lineage</a> and the <a href="https://github.com/VasilenData/hn-pulse/blob/main/models/schema.yml">data contracts</a>.</p></section>
+<section class="blk"><h2>Front page right now</h2><p class="n">Top 30 stories at the latest snapshot.</p><div class="scroll" style="min-height:1450px"><table id="t"><thead><tr><th>Rank</th><th>Title</th><th>Domain</th><th class="r">Score</th><th class="r">Comments</th></tr></thead><tbody></tbody></table></div></section>
 </main>
 <footer class="f">Stack: Python · DuckDB · dbt · Airflow (local orchestration) · GitHub Actions · GitHub Pages. Data: <a href="https://github.com/HackerNews/API">Hacker News API</a>.</footer>
 </div>
