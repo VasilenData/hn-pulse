@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:12:33+00:00",
+ "generated_at": "2026-11-07T06:02:22+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -63,20 +63,27 @@
    "distinct_stories": 200,
    "avg_score": 222.1,
    "avg_comments": 111.8
+  },
+  {
+   "day": "2026-11-07",
+   "snapshots": 1,
+   "distinct_stories": 99,
+   "avg_score": 210.0,
+   "avg_comments": 107.6
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 68,
-   "avg_peak_score": 174.8,
-   "total_comments": 4576
+   "stories": 70,
+   "avg_peak_score": 172.8,
+   "total_comments": 4665
   },
   {
    "domain": "arstechnica.com",
    "stories": 18,
-   "avg_peak_score": 131.7,
-   "total_comments": 1718
+   "avg_peak_score": 132.8,
+   "total_comments": 1723
   },
   {
    "domain": "theguardian.com",
@@ -93,8 +100,8 @@
   {
    "domain": "reuters.com",
    "stories": 15,
-   "avg_peak_score": 104.8,
-   "total_comments": 851
+   "avg_peak_score": 111.0,
+   "total_comments": 925
   },
   {
    "domain": "twitter.com",
@@ -111,8 +118,8 @@
   {
    "domain": "arxiv.org",
    "stories": 10,
-   "avg_peak_score": 108.8,
-   "total_comments": 308
+   "avg_peak_score": 111.9,
+   "total_comments": 314
   },
   {
    "domain": "theregister.com",
@@ -147,14 +154,14 @@
   {
    "domain": "openai.com",
    "stories": 7,
-   "avg_peak_score": 335.6,
+   "avg_peak_score": 336.0,
    "total_comments": 1483
   },
   {
    "domain": "spectrum.ieee.org",
    "stories": 7,
-   "avg_peak_score": 284.7,
-   "total_comments": 1136
+   "avg_peak_score": 285.7,
+   "total_comments": 1138
   }
  ],
  "mart_hourly_activity": [
@@ -165,28 +172,28 @@
   },
   {
    "posted_hour_utc": 1,
-   "stories": 25,
-   "avg_peak_score": 177.7
+   "stories": 28,
+   "avg_peak_score": 162.3
   },
   {
    "posted_hour_utc": 2,
-   "stories": 19,
-   "avg_peak_score": 82.2
+   "stories": 23,
+   "avg_peak_score": 73.1
   },
   {
    "posted_hour_utc": 3,
-   "stories": 28,
-   "avg_peak_score": 93.4
+   "stories": 30,
+   "avg_peak_score": 88.8
   },
   {
    "posted_hour_utc": 4,
-   "stories": 19,
-   "avg_peak_score": 103.8
+   "stories": 20,
+   "avg_peak_score": 103.4
   },
   {
    "posted_hour_utc": 5,
    "stories": 17,
-   "avg_peak_score": 58.7
+   "avg_peak_score": 59.5
   },
   {
    "posted_hour_utc": 6,
@@ -196,389 +203,389 @@
   {
    "posted_hour_utc": 7,
    "stories": 25,
-   "avg_peak_score": 215.4
+   "avg_peak_score": 217.6
   },
   {
    "posted_hour_utc": 8,
    "stories": 19,
-   "avg_peak_score": 141.7
+   "avg_peak_score": 143.2
   },
   {
    "posted_hour_utc": 9,
    "stories": 26,
-   "avg_peak_score": 124.9
+   "avg_peak_score": 126.0
   },
   {
    "posted_hour_utc": 10,
    "stories": 22,
-   "avg_peak_score": 234.2
+   "avg_peak_score": 234.5
   },
   {
    "posted_hour_utc": 11,
    "stories": 36,
-   "avg_peak_score": 195.4
+   "avg_peak_score": 196.0
   },
   {
    "posted_hour_utc": 12,
    "stories": 37,
-   "avg_peak_score": 282.4
+   "avg_peak_score": 287.7
   },
   {
    "posted_hour_utc": 13,
    "stories": 52,
-   "avg_peak_score": 169.8
+   "avg_peak_score": 170.8
   },
   {
    "posted_hour_utc": 14,
-   "stories": 83,
-   "avg_peak_score": 185.4
+   "stories": 84,
+   "avg_peak_score": 184.3
   },
   {
    "posted_hour_utc": 15,
    "stories": 112,
-   "avg_peak_score": 141.9
+   "avg_peak_score": 142.5
   },
   {
    "posted_hour_utc": 16,
-   "stories": 98,
-   "avg_peak_score": 136.7
+   "stories": 99,
+   "avg_peak_score": 138.8
   },
   {
    "posted_hour_utc": 17,
-   "stories": 83,
-   "avg_peak_score": 155.7
+   "stories": 84,
+   "avg_peak_score": 155.4
   },
   {
    "posted_hour_utc": 18,
    "stories": 70,
-   "avg_peak_score": 138.5
+   "avg_peak_score": 139.6
   },
   {
    "posted_hour_utc": 19,
-   "stories": 74,
-   "avg_peak_score": 196.8
+   "stories": 76,
+   "avg_peak_score": 198.1
   },
   {
    "posted_hour_utc": 20,
-   "stories": 74,
-   "avg_peak_score": 106.6
+   "stories": 75,
+   "avg_peak_score": 108.4
   },
   {
    "posted_hour_utc": 21,
-   "stories": 64,
-   "avg_peak_score": 175.2
+   "stories": 65,
+   "avg_peak_score": 173.2
   },
   {
    "posted_hour_utc": 22,
-   "stories": 45,
-   "avg_peak_score": 121.1
+   "stories": 46,
+   "avg_peak_score": 120.7
   },
   {
    "posted_hour_utc": 23,
-   "stories": 36,
-   "avg_peak_score": 118.4
+   "stories": 40,
+   "avg_peak_score": 125.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50397429,
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "domain": "hightouch.com",
-   "score": 238,
-   "comments": 54,
-   "author": "theanomaly",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50399933,
+   "title": "Libghostty 1.0",
+   "domain": "mitchellh.com",
+   "score": 444,
+   "comments": 71,
+   "author": "mfiguiere",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 2,
-   "story_id": 50397994,
-   "title": "AI is dramatically accelerating AI research",
-   "domain": "planned-obsolescence.org",
-   "score": 126,
-   "comments": 82,
-   "author": "yurivish",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50397429,
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "domain": "hightouch.com",
+   "score": 409,
+   "comments": 91,
+   "author": "theanomaly",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 3,
-   "story_id": 50397219,
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "domain": "pwn.ai",
-   "score": 128,
-   "comments": 65,
-   "author": "SerCe",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50401740,
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "domain": "science.org",
+   "score": 14,
+   "comments": 2,
+   "author": "benbreen",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 4,
-   "story_id": 50388001,
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "domain": "reuters.com",
-   "score": 248,
-   "comments": 200,
-   "author": "ChrisArchitect",
-   "snapshot_at": "2026-11-06T23:12:25"
-  },
-  {
-   "rank": 5,
    "story_id": 50391456,
    "title": "Tesla to wind down Cybertruck production",
    "domain": "nbcnews.com",
-   "score": 765,
-   "comments": 1590,
+   "score": 939,
+   "comments": 1800,
    "author": "PLenz",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "snapshot_at": "2026-11-07T06:02:14"
+  },
+  {
+   "rank": 5,
+   "story_id": 50384263,
+   "title": "What do the next 4000 emoji look like?",
+   "domain": "jenniferdaniel.substack.com",
+   "score": 33,
+   "comments": 20,
+   "author": "lacieargyle",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 6,
-   "story_id": 50399569,
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-   "domain": "community.openai.com",
-   "score": 12,
-   "comments": 2,
-   "author": "Aldipower",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50399991,
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "domain": "multifamilydive.com",
+   "score": 78,
+   "comments": 34,
+   "author": "raybb",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 7,
-   "story_id": 50399657,
-   "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
-   "domain": "ievchina.com",
-   "score": 7,
-   "comments": 1,
-   "author": "doener",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50352701,
+   "title": "The Flash C Compiler",
+   "domain": "blog.adafruit.com",
+   "score": 21,
+   "comments": 2,
+   "author": "AlexeyBrin",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 8,
-   "story_id": 50394855,
-   "title": "First steps in bare-metal programming using UEFI",
-   "domain": "kevinboone.me",
-   "score": 159,
-   "comments": 29,
-   "author": "LaSombra",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50388001,
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "domain": "reuters.com",
+   "score": 309,
+   "comments": 254,
+   "author": "ChrisArchitect",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 9,
-   "story_id": 50397017,
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "domain": "infohawk.com",
-   "score": 59,
-   "comments": 23,
-   "author": "fiej",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50397219,
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "domain": "pwn.ai",
+   "score": 205,
+   "comments": 104,
+   "author": "SerCe",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 10,
-   "story_id": 50396834,
-   "title": "Replit rebuilt its sandbox engine with microVMs",
-   "domain": "frontier.replit.com",
-   "score": 44,
-   "comments": 11,
-   "author": "gaplong",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50360810,
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "domain": "smithsonianmag.com",
+   "score": 59,
+   "comments": 4,
+   "author": "derbOac",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 11,
-   "story_id": 50354308,
-   "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-   "domain": "utcc.utoronto.ca",
-   "score": 80,
-   "comments": 61,
-   "author": "wondersky",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50395183,
+   "title": "Notes on San Marino",
+   "domain": "mattlakeman.org",
+   "score": 36,
+   "comments": 10,
+   "author": "yorwba",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 12,
-   "story_id": 50389333,
-   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-   "domain": "github.com",
-   "score": 671,
-   "comments": 270,
-   "author": "ppmpreetham",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50401451,
+   "title": "Show HN: Did prediction markets do any predicting this midterms?",
+   "domain": "app.artifactbin.dev",
+   "score": 21,
+   "comments": 10,
+   "author": "nuwandavek",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 13,
-   "story_id": 50395919,
-   "title": "Memorilla: Latent Semantic Memory for LLMs",
-   "domain": "arxiv.org",
-   "score": 70,
-   "comments": 5,
-   "author": "handfuloflight",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50401029,
+   "title": "The AI sell-off compared to well-known stock market crashes",
+   "domain": "kadoa.com",
+   "score": 39,
+   "comments": 27,
+   "author": "hubraumhugo",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 14,
-   "story_id": 50379221,
-   "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
-   "domain": "github.com",
-   "score": 27,
-   "comments": 5,
-   "author": "icyfox",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50397994,
+   "title": "AI is dramatically accelerating AI research",
+   "domain": "planned-obsolescence.org",
+   "score": 253,
+   "comments": 204,
+   "author": "yurivish",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 15,
-   "story_id": 50395450,
-   "title": "Devvm.dev: One VM for every project",
-   "domain": "devvm.dev",
-   "score": 82,
-   "comments": 44,
-   "author": "luispa",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50354097,
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "domain": "pivotlake.io",
+   "score": 62,
+   "comments": 5,
+   "author": "ntur1337",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 16,
-   "story_id": 50397711,
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "domain": "crusoe.ai",
-   "score": 14,
-   "comments": 2,
-   "author": "rexbee",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50394855,
+   "title": "First steps in bare-metal programming using UEFI",
+   "domain": "kevinboone.me",
+   "score": 209,
+   "comments": 39,
+   "author": "LaSombra",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 17,
-   "story_id": 50392118,
-   "title": "Gemini Omni 1.2 Flash",
-   "domain": "blog.google",
-   "score": 279,
-   "comments": 212,
-   "author": "thisisauserid",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50356722,
+   "title": "Panthera: Ampere's CPU Performance Model",
+   "domain": "github.com",
+   "score": 26,
+   "comments": 7,
+   "author": "mshockwave",
+   "snapshot_at": "2026-11-07T06:02:14"
+  },
+  {
+   "rank": 18,
+   "story_id": 50400597,
+   "title": "I toured Unitree's factory. I'm more bullish on the West",
+   "domain": "josef.cn",
+   "score": 87,
+   "comments": 56,
+   "author": "josefchen",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 19,
-   "story_id": 50368291,
-   "title": "Annie Ernaux still feels like an outsider",
-   "domain": "vulture.com",
-   "score": 4,
-   "comments": 0,
-   "author": "Caiero",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50401414,
+   "title": "Lighting the Skies",
+   "domain": "computer.rip",
+   "score": 11,
+   "comments": 2,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 20,
-   "story_id": 50395869,
-   "title": "Size-It-Up (Game)",
-   "domain": "magnitudle.com",
-   "score": 57,
-   "comments": 22,
-   "author": "whoishiding",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50397099,
+   "title": "GitHub's new Git storage architecture",
+   "domain": "github.blog",
+   "score": 104,
+   "comments": 20,
+   "author": "DAlperin",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 21,
-   "story_id": 50394906,
-   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-   "domain": "bloomberg.com",
-   "score": 185,
-   "comments": 421,
-   "author": "dgellow",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50370551,
+   "title": "Project Sync: The journey to sample-perfect audio/video sync with WebCodecs",
+   "domain": "mediabunny.dev",
+   "score": 5,
+   "comments": 0,
+   "author": "vanilagy",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 22,
-   "story_id": 50392348,
-   "title": "How octopuses squeeze through too small gaps",
-   "domain": "journals.biologists.com",
-   "score": 40,
-   "comments": 11,
-   "author": "bookofjoe",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50395450,
+   "title": "Devvm.dev: One VM for every project",
+   "domain": "devvm.dev",
+   "score": 141,
+   "comments": 55,
+   "author": "luispa",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 23,
-   "story_id": 50396064,
-   "title": "We know 15k websites are infected. how do we tell them?",
-   "domain": "scotthelme.co.uk",
-   "score": 131,
-   "comments": 110,
-   "author": "speckx",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50397711,
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "domain": "crusoe.ai",
+   "score": 60,
+   "comments": 11,
+   "author": "rexbee",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 24,
-   "story_id": 50397325,
-   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-   "domain": "github.com",
-   "score": 22,
-   "comments": 1,
-   "author": "antelocnova",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50397017,
+   "title": "Restaurant Delivery Payment-Skimming Campaign",
+   "domain": "infohawk.com",
+   "score": 109,
+   "comments": 56,
+   "author": "fiej",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 25,
-   "story_id": 50394977,
-   "title": "PyLings: Solve Exercises and Learn Python",
+   "story_id": 50355009,
+   "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
    "domain": "github.com",
-   "score": 39,
-   "comments": 2,
-   "author": "thesayfulla",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "score": 23,
+   "comments": 9,
+   "author": "boldi",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 26,
-   "story_id": 50396108,
-   "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
-   "domain": "halfnarp.events.ccc.de",
-   "score": 34,
-   "comments": 7,
-   "author": "hanemile",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50392118,
+   "title": "Gemini Omni 1.2 Flash",
+   "domain": "blog.google",
+   "score": 311,
+   "comments": 225,
+   "author": "thisisauserid",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 27,
-   "story_id": 50389570,
-   "title": "Chomsky and the two cultures of statistical learning (2011)",
-   "domain": "norvig.com",
-   "score": 88,
-   "comments": 72,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50399657,
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "domain": "pv-magazine.com",
+   "score": 158,
+   "comments": 78,
+   "author": "doener",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 28,
-   "story_id": 50393758,
-   "title": "Deus Ex",
-   "domain": "filfre.net",
-   "score": 314,
-   "comments": 159,
-   "author": "cybersoyuz",
-   "snapshot_at": "2026-11-06T23:12:25"
-  },
-  {
-   "rank": 29,
-   "story_id": 50397176,
-   "title": "My first and last telegram was from Rebecca West",
-   "domain": "thelampmagazine.com",
-   "score": 30,
-   "comments": 6,
-   "author": "bryanrasmussen",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50379221,
+   "title": "Show HN: Waymark \u2013 A workflow engine that compiles jobs instead of replaying",
+   "domain": "github.com",
+   "score": 56,
+   "comments": 16,
+   "author": "icyfox",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 30,
-   "story_id": 50394569,
-   "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-   "domain": "github.com",
-   "score": 136,
-   "comments": 100,
-   "author": "mik3y",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50389570,
+   "title": "Chomsky and the two cultures of statistical learning (2011)",
+   "domain": "norvig.com",
+   "score": 117,
+   "comments": 95,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-07T06:02:14"
   },
   {
    "rank": 31,
-   "story_id": 50397264,
-   "title": "As the Japanese countryside empties out, wildlife is disappearing",
-   "domain": "e360.yale.edu",
-   "score": 67,
-   "comments": 38,
-   "author": "rdmuser",
-   "snapshot_at": "2026-11-06T23:12:25"
+   "story_id": 50374287,
+   "title": "How tall can you build with 54 Jenga blocks?",
+   "domain": "johnjwang.com",
+   "score": 10,
+   "comments": 5,
+   "author": "johnjwang",
+   "snapshot_at": "2026-11-07T06:02:14"
   }
  ],
  "quality": {
@@ -595,8 +602,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 4456,
-   "fct_stories": 1110
+   "stg_snapshots": 4555,
+   "fct_stories": 1132
   },
   "newest_snapshot_age_hours": 0.0
  }
