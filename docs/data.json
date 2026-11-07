@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:06:37+00:00",
+ "generated_at": "2026-11-07T19:26:56+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -66,30 +66,30 @@
   },
   {
    "day": "2026-11-07",
-   "snapshots": 2,
-   "distinct_stories": 115,
-   "avg_score": 219.5,
-   "avg_comments": 112.5
+   "snapshots": 3,
+   "distinct_stories": 150,
+   "avg_score": 215.5,
+   "avg_comments": 111.6
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 71,
-   "avg_peak_score": 172.0,
-   "total_comments": 4731
+   "stories": 75,
+   "avg_peak_score": 165.7,
+   "total_comments": 4805
   },
   {
    "domain": "arstechnica.com",
-   "stories": 18,
-   "avg_peak_score": 132.8,
-   "total_comments": 1723
+   "stories": 19,
+   "avg_peak_score": 126.2,
+   "total_comments": 1724
   },
   {
    "domain": "theguardian.com",
-   "stories": 16,
-   "avg_peak_score": 87.3,
-   "total_comments": 1355
+   "stories": 17,
+   "avg_peak_score": 87.2,
+   "total_comments": 1412
   },
   {
    "domain": "nytimes.com",
@@ -100,8 +100,8 @@
   {
    "domain": "reuters.com",
    "stories": 15,
-   "avg_peak_score": 116.1,
-   "total_comments": 969
+   "avg_peak_score": 119.6,
+   "total_comments": 1006
   },
   {
    "domain": "twitter.com",
@@ -118,7 +118,7 @@
   {
    "domain": "arxiv.org",
    "stories": 10,
-   "avg_peak_score": 112.6,
+   "avg_peak_score": 113.2,
    "total_comments": 316
   },
   {
@@ -126,6 +126,12 @@
    "stories": 10,
    "avg_peak_score": 91.7,
    "total_comments": 571
+  },
+  {
+   "domain": "tomshardware.com",
+   "stories": 9,
+   "avg_peak_score": 147.6,
+   "total_comments": 507
   },
   {
    "domain": "bbc.com",
@@ -156,19 +162,13 @@
    "stories": 7,
    "avg_peak_score": 286.0,
    "total_comments": 1139
-  },
-  {
-   "domain": "reddit.com",
-   "stories": 7,
-   "avg_peak_score": 146.4,
-   "total_comments": 416
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 31,
-   "avg_peak_score": 119.5
+   "avg_peak_score": 120.8
   },
   {
    "posted_hour_utc": 1,
@@ -178,97 +178,97 @@
   {
    "posted_hour_utc": 2,
    "stories": 23,
-   "avg_peak_score": 76.4
+   "avg_peak_score": 78.8
   },
   {
    "posted_hour_utc": 3,
    "stories": 30,
-   "avg_peak_score": 89.2
+   "avg_peak_score": 89.4
   },
   {
    "posted_hour_utc": 4,
-   "stories": 20,
-   "avg_peak_score": 112.6
+   "stories": 22,
+   "avg_peak_score": 111.1
   },
   {
    "posted_hour_utc": 5,
    "stories": 20,
-   "avg_peak_score": 64.4
+   "avg_peak_score": 68.3
   },
   {
    "posted_hour_utc": 6,
    "stories": 17,
-   "avg_peak_score": 148.8
+   "avg_peak_score": 152.2
   },
   {
    "posted_hour_utc": 7,
    "stories": 26,
-   "avg_peak_score": 211.6
+   "avg_peak_score": 212.8
   },
   {
    "posted_hour_utc": 8,
    "stories": 19,
-   "avg_peak_score": 144.1
+   "avg_peak_score": 144.5
   },
   {
    "posted_hour_utc": 9,
    "stories": 30,
-   "avg_peak_score": 120.6
+   "avg_peak_score": 152.8
   },
   {
    "posted_hour_utc": 10,
    "stories": 24,
-   "avg_peak_score": 222.0
+   "avg_peak_score": 228.3
   },
   {
    "posted_hour_utc": 11,
    "stories": 37,
-   "avg_peak_score": 191.8
+   "avg_peak_score": 191.9
   },
   {
    "posted_hour_utc": 12,
-   "stories": 37,
-   "avg_peak_score": 291.2
+   "stories": 39,
+   "avg_peak_score": 279.1
   },
   {
    "posted_hour_utc": 13,
-   "stories": 52,
-   "avg_peak_score": 171.6
+   "stories": 53,
+   "avg_peak_score": 168.8
   },
   {
    "posted_hour_utc": 14,
-   "stories": 84,
-   "avg_peak_score": 185.4
+   "stories": 90,
+   "avg_peak_score": 176.2
   },
   {
    "posted_hour_utc": 15,
-   "stories": 112,
-   "avg_peak_score": 142.8
+   "stories": 114,
+   "avg_peak_score": 141.2
   },
   {
    "posted_hour_utc": 16,
-   "stories": 99,
-   "avg_peak_score": 140.2
+   "stories": 106,
+   "avg_peak_score": 133.9
   },
   {
    "posted_hour_utc": 17,
-   "stories": 84,
-   "avg_peak_score": 156.7
+   "stories": 92,
+   "avg_peak_score": 147.1
   },
   {
    "posted_hour_utc": 18,
-   "stories": 72,
-   "avg_peak_score": 136.9
+   "stories": 76,
+   "avg_peak_score": 134.5
   },
   {
    "posted_hour_utc": 19,
    "stories": 76,
-   "avg_peak_score": 201.7
+   "avg_peak_score": 203.6
   },
   {
    "posted_hour_utc": 20,
-   "stories": 75,
-   "avg_peak_score": 109.9
+   "stories": 78,
+   "avg_peak_score": 107.2
   },
   {
    "posted_hour_utc": 21,
@@ -278,314 +278,314 @@
   {
    "posted_hour_utc": 22,
    "stories": 47,
-   "avg_peak_score": 118.9
+   "avg_peak_score": 119.1
   },
   {
    "posted_hour_utc": 23,
    "stories": 40,
-   "avg_peak_score": 135.7
+   "avg_peak_score": 142.1
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50403214,
-   "title": "Upload Your RAM",
-   "domain": "uploadyourram.org",
-   "score": 155,
-   "comments": 104,
-   "author": "susanthenerd",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406563,
+   "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+   "domain": "businessexaminer.ca",
+   "score": 100,
+   "comments": 24,
+   "author": "srean",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 2,
-   "story_id": 50399933,
-   "title": "Libghostty 1.0",
-   "domain": "mitchellh.com",
-   "score": 739,
-   "comments": 121,
-   "author": "mfiguiere",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406589,
+   "title": "The End of AI Frontiers",
+   "domain": "hunch.net",
+   "score": 71,
+   "comments": 20,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 3,
-   "story_id": 50403052,
-   "title": "Need for Speed Underground 2 online in the browser",
-   "domain": "nfsu2.xyz",
-   "score": 106,
-   "comments": 37,
-   "author": "fluxusars",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406670,
+   "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+   "domain": "blog.bosscher.ch",
+   "score": 62,
+   "comments": 10,
+   "author": "LaurensBER",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 4,
-   "story_id": 50403097,
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "domain": "8rank.ai",
-   "score": 185,
-   "comments": 98,
-   "author": "infwhispers",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406292,
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "domain": "github.com",
+   "score": 87,
+   "comments": 21,
+   "author": "hedgerow-dev",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 5,
-   "story_id": 50397429,
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "domain": "hightouch.com",
-   "score": 510,
-   "comments": 122,
-   "author": "theanomaly",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406222,
+   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+   "domain": "maxxbench.unlap.ai",
+   "score": 65,
+   "comments": 10,
+   "author": "antiuniverse",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 6,
-   "story_id": 50391456,
-   "title": "Tesla to wind down Cybertruck production",
-   "domain": "nbcnews.com",
-   "score": 1049,
-   "comments": 1906,
-   "author": "PLenz",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50404599,
+   "title": "The $8 Linux Computer (2022)",
+   "domain": "thelittleengineerthatcould.blogspot.com",
+   "score": 154,
+   "comments": 62,
+   "author": "zenincognito",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 7,
-   "story_id": 50402212,
-   "title": "The Components of Agent Memory",
-   "domain": "anthropic.com",
-   "score": 72,
-   "comments": 38,
-   "author": "geoffbp",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406319,
+   "title": "Five Memorable Books About Programming",
+   "domain": "prog21.dadgum.com",
+   "score": 25,
+   "comments": 6,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 8,
-   "story_id": 50403063,
-   "title": "Port 0: The Port That Does Not Exist",
-   "domain": "acid.vegas",
-   "score": 20,
-   "comments": 4,
-   "author": "NewCzech",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50403052,
+   "title": "Need for Speed Underground 2 online in the browser",
+   "domain": "nfsu2.xyz",
+   "score": 595,
+   "comments": 176,
+   "author": "fluxusars",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 9,
-   "story_id": 50403507,
-   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-   "domain": "windowslatest.com",
-   "score": 32,
-   "comments": 20,
-   "author": "thunderbong",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50405789,
+   "title": "How Long Can Life Wait?",
+   "domain": "mceglowski.substack.com",
+   "score": 69,
+   "comments": 24,
+   "author": "Ariarule",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 10,
-   "story_id": 50399991,
-   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-   "domain": "multifamilydive.com",
-   "score": 140,
-   "comments": 79,
-   "author": "raybb",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50370787,
+   "title": "The Typo Generation Is Damaging Literature",
+   "domain": "metropolitanreview.org",
+   "score": 16,
+   "comments": 7,
+   "author": "bryanrasmussen",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 11,
-   "story_id": 50360810,
-   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-   "domain": "smithsonianmag.com",
-   "score": 134,
-   "comments": 14,
-   "author": "derbOac",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50399933,
+   "title": "Libghostty 1.0",
+   "domain": "mitchellh.com",
+   "score": 957,
+   "comments": 162,
+   "author": "mfiguiere",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 12,
-   "story_id": 50403066,
-   "title": "Running a law firm on Free software",
-   "domain": "decoded.legal",
-   "score": 16,
-   "comments": 0,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50361657,
+   "title": "Text.js: Build full-stack React apps that render inside console.log",
+   "domain": "textjs.org",
+   "score": 54,
+   "comments": 23,
+   "author": "nateb2022",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 13,
-   "story_id": 50356037,
-   "title": "ToothPaste",
-   "domain": "brisk4t.github.io",
-   "score": 13,
-   "comments": 3,
-   "author": "speckx",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50403066,
+   "title": "Running a law firm on Free software",
+   "domain": "decoded.legal",
+   "score": 173,
+   "comments": 81,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 14,
-   "story_id": 50388001,
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "domain": "reuters.com",
-   "score": 356,
-   "comments": 288,
-   "author": "ChrisArchitect",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50405782,
+   "title": "Every processor die anyone has photographed and given away",
+   "domain": "sheets.works",
+   "score": 20,
+   "comments": 4,
+   "author": "user_7832",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 15,
-   "story_id": 50361765,
-   "title": "PostgreSQL Internals [pdf]",
-   "domain": "edu.postgrespro.com",
-   "score": 42,
-   "comments": 5,
-   "author": "Foe",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50405678,
+   "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+   "domain": "kevinboone.me",
+   "score": 121,
+   "comments": 76,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 16,
-   "story_id": 50377613,
-   "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
-   "domain": "github.com",
-   "score": 6,
-   "comments": 0,
-   "author": "zaiev",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50352791,
+   "title": "British Library Legal deposit and web archiving",
+   "domain": "bl.uk",
+   "score": 48,
+   "comments": 24,
+   "author": "robtherobber",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 17,
-   "story_id": 50397219,
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "domain": "pwn.ai",
-   "score": 254,
-   "comments": 110,
-   "author": "SerCe",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50403097,
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "domain": "8rank.ai",
+   "score": 468,
+   "comments": 272,
+   "author": "infwhispers",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 18,
-   "story_id": 50401740,
-   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-   "domain": "science.org",
-   "score": 130,
-   "comments": 98,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50405263,
+   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+   "domain": "github.com",
+   "score": 21,
+   "comments": 8,
+   "author": "jiant",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 19,
-   "story_id": 50369283,
-   "title": "8088 Domination Post-Mortem",
-   "domain": "trixter.oldskool.org",
-   "score": 30,
-   "comments": 5,
-   "author": "cosmojg",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50358094,
+   "title": "Tasfer: a text editor drawn on a 2D canvas",
+   "domain": "hamza.se",
+   "score": 47,
+   "comments": 21,
+   "author": "hamza512b",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 20,
-   "story_id": 50395183,
-   "title": "Notes on San Marino",
-   "domain": "mattlakeman.org",
-   "score": 88,
-   "comments": 30,
-   "author": "yorwba",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50361417,
+   "title": "Building the NBC News Big Board",
+   "domain": "ejfox.com",
+   "score": 54,
+   "comments": 20,
+   "author": "whalesalad",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 21,
-   "story_id": 50373513,
-   "title": "The great butter and cheese fire of 1991",
-   "domain": "wisfarmer.com",
-   "score": 38,
-   "comments": 16,
-   "author": "subroutine",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50357763,
+   "title": "Optimising the Rail Cube",
+   "domain": "owenlacey.dev",
+   "score": 16,
+   "comments": 1,
+   "author": "owenlacey",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 22,
-   "story_id": 50352701,
-   "title": "The Flash C Compiler",
-   "domain": "blog.adafruit.com",
-   "score": 63,
-   "comments": 19,
-   "author": "AlexeyBrin",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50397429,
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "domain": "hightouch.com",
+   "score": 564,
+   "comments": 138,
+   "author": "theanomaly",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 23,
-   "story_id": 50394855,
-   "title": "First steps in bare-metal programming using UEFI",
-   "domain": "kevinboone.me",
-   "score": 232,
-   "comments": 43,
-   "author": "LaSombra",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50404747,
+   "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+   "domain": "newyorkfed.org",
+   "score": 28,
+   "comments": 20,
+   "author": "tylerdane",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 24,
-   "story_id": 50397099,
-   "title": "GitHub's new Git storage architecture",
-   "domain": "github.blog",
-   "score": 166,
-   "comments": 36,
-   "author": "DAlperin",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50406111,
+   "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
+   "domain": "theguardian.com",
+   "score": 86,
+   "comments": 57,
+   "author": "user_7832",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 25,
-   "story_id": 50392118,
-   "title": "Gemini Omni 1.2 Flash",
-   "domain": "blog.google",
-   "score": 346,
-   "comments": 233,
-   "author": "thisisauserid",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50356037,
+   "title": "ToothPaste",
+   "domain": "brisk4t.github.io",
+   "score": 80,
+   "comments": 17,
+   "author": "speckx",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 26,
-   "story_id": 50354097,
-   "title": "Can GROUP BY still be optimized after all these years?",
-   "domain": "pivotlake.io",
-   "score": 95,
-   "comments": 15,
-   "author": "ntur1337",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50405674,
+   "title": "Terry Pratchett's Study",
+   "domain": "sussi.dk",
+   "score": 12,
+   "comments": 1,
+   "author": "ColinWright",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 27,
-   "story_id": 50397017,
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "domain": "infohawk.com",
-   "score": 136,
-   "comments": 69,
-   "author": "fiej",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50354763,
+   "title": "ZeBridge \u2013 PostgreSQL replicas on devices, synchronized over NATS",
+   "domain": "github.com",
+   "score": 15,
+   "comments": 1,
+   "author": "ndrean",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 28,
-   "story_id": 50397711,
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "domain": "crusoe.ai",
-   "score": 82,
-   "comments": 29,
-   "author": "rexbee",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50377613,
+   "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
+   "domain": "github.com",
+   "score": 51,
+   "comments": 8,
+   "author": "zaiev",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 29,
-   "story_id": 50397994,
-   "title": "AI is dramatically accelerating AI research",
-   "domain": "planned-obsolescence.org",
-   "score": 331,
-   "comments": 295,
-   "author": "yurivish",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50360810,
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "domain": "smithsonianmag.com",
+   "score": 188,
+   "comments": 26,
+   "author": "derbOac",
+   "snapshot_at": "2026-11-07T19:26:50"
   },
   {
    "rank": 30,
-   "story_id": 50395450,
-   "title": "Devvm.dev: One VM for every project",
-   "domain": "devvm.dev",
-   "score": 165,
-   "comments": 62,
-   "author": "luispa",
-   "snapshot_at": "2026-11-07T13:06:29"
+   "story_id": 50388001,
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "domain": "reuters.com",
+   "score": 395,
+   "comments": 320,
+   "author": "ChrisArchitect",
+   "snapshot_at": "2026-11-07T19:26:50"
   }
  ],
  "quality": {
@@ -602,8 +602,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 4654,
-   "fct_stories": 1148
+   "stg_snapshots": 4753,
+   "fct_stories": 1183
   },
   "newest_snapshot_age_hours": 0.0
  }
