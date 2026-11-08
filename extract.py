@@ -4,8 +4,10 @@ import math
 import os
 import shutil
 import tempfile
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 import requests
 
@@ -13,12 +15,45 @@ API = "https://hacker-news.firebaseio.com/v0"
 RAW_PATH = os.path.join(os.path.dirname(__file__), "data", "raw_snapshots.csv")
 FIELDS = ["snapshot_at", "rank", "story_id", "title", "url", "author", "score", "comments", "posted_at"]
 TOP_N = 100
+HTTP_ATTEMPTS = 3
+HTTP_TIMEOUT = (5, 15)  # connect timeout, read inactivity timeout; not a total deadline
+RETRY_STATUSES = {429, 500, 502, 503, 504}
+MAX_RETRY_DELAY = 30
 
 
 def fetch_json(path: str):
-    resp = requests.get(f"{API}/{path}.json", timeout=15)
-    resp.raise_for_status()
-    return resp.json()
+    """Retry transient GET failures only; malformed JSON and permanent HTTP errors fail closed."""
+    for attempt in range(HTTP_ATTEMPTS):
+        try:
+            resp = requests.get(f"{API}/{path}.json", timeout=HTTP_TIMEOUT)
+        except (requests.ConnectionError, requests.Timeout):
+            if attempt == HTTP_ATTEMPTS - 1:
+                raise
+            time.sleep(2 ** attempt)
+            continue
+        try:
+            if resp.status_code in RETRY_STATUSES and attempt < HTTP_ATTEMPTS - 1:
+                delay = 2 ** attempt
+                retry_after = resp.headers.get("Retry-After")
+                if retry_after:
+                    try:
+                        requested = float(retry_after)
+                    except ValueError:
+                        try:
+                            requested = (parsedate_to_datetime(retry_after) - datetime.now(timezone.utc)).total_seconds()
+                        except (ValueError, TypeError, OverflowError):
+                            requested = 0
+                    # Do not retry sooner than a long server-requested cooldown.
+                    if not math.isfinite(requested) or requested > MAX_RETRY_DELAY:
+                        resp.raise_for_status()
+                    delay = max(delay, requested)
+                time.sleep(delay)
+                continue
+            resp.raise_for_status()
+            return resp.json()
+        finally:
+            resp.close()
+    raise RuntimeError("HTTP retry loop exhausted")  # defensive; final attempt raises or returns
 
 
 def parse_item(item: dict, rank: int, snapshot_at: str) -> dict | None:
