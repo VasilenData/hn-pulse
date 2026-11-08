@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T00:39:44+00:00",
+ "generated_at": "2026-11-08T10:26:56+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -73,30 +73,30 @@
   },
   {
    "day": "2026-11-08",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 203.8,
-   "avg_comments": 107.6
+   "snapshots": 2,
+   "distinct_stories": 124,
+   "avg_score": 213.9,
+   "avg_comments": 108.7
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 75,
-   "avg_peak_score": 168.0,
-   "total_comments": 4844
+   "stories": 82,
+   "avg_peak_score": 157.1,
+   "total_comments": 4968
   },
   {
    "domain": "arstechnica.com",
    "stories": 20,
-   "avg_peak_score": 122.5,
-   "total_comments": 1735
+   "avg_peak_score": 126.9,
+   "total_comments": 1814
   },
   {
    "domain": "theguardian.com",
    "stories": 17,
-   "avg_peak_score": 101.6,
-   "total_comments": 1579
+   "avg_peak_score": 109.6,
+   "total_comments": 1649
   },
   {
    "domain": "twitter.com",
@@ -114,7 +114,7 @@
    "domain": "reuters.com",
    "stories": 15,
    "avg_peak_score": 120.1,
-   "total_comments": 1010
+   "total_comments": 1013
   },
   {
    "domain": "wired.com",
@@ -124,15 +124,15 @@
   },
   {
    "domain": "arxiv.org",
-   "stories": 10,
-   "avg_peak_score": 113.3,
-   "total_comments": 316
+   "stories": 11,
+   "avg_peak_score": 103.6,
+   "total_comments": 318
   },
   {
    "domain": "bbc.com",
-   "stories": 10,
-   "avg_peak_score": 103.4,
-   "total_comments": 1392
+   "stories": 11,
+   "avg_peak_score": 96.7,
+   "total_comments": 1407
   },
   {
    "domain": "theregister.com",
@@ -141,16 +141,16 @@
    "total_comments": 571
   },
   {
-   "domain": "tomshardware.com",
+   "domain": "youtube.com",
    "stories": 9,
-   "avg_peak_score": 147.6,
-   "total_comments": 507
+   "avg_peak_score": 61.1,
+   "total_comments": 206
   },
   {
-   "domain": "youtube.com",
+   "domain": "tomshardware.com",
    "stories": 8,
-   "avg_peak_score": 68.3,
-   "total_comments": 206
+   "avg_peak_score": 109.5,
+   "total_comments": 356
   },
   {
    "domain": "phoronix.com",
@@ -174,425 +174,425 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 32,
-   "avg_peak_score": 117.3
+   "stories": 33,
+   "avg_peak_score": 113.9
   },
   {
    "posted_hour_utc": 1,
-   "stories": 28,
-   "avg_peak_score": 164.4
+   "stories": 29,
+   "avg_peak_score": 158.8
   },
   {
    "posted_hour_utc": 2,
-   "stories": 23,
-   "avg_peak_score": 81.1
+   "stories": 27,
+   "avg_peak_score": 75.3
   },
   {
    "posted_hour_utc": 3,
-   "stories": 31,
-   "avg_peak_score": 86.9
+   "stories": 34,
+   "avg_peak_score": 90.7
   },
   {
    "posted_hour_utc": 4,
-   "stories": 22,
+   "stories": 23,
    "avg_peak_score": 114.0
   },
   {
    "posted_hour_utc": 5,
-   "stories": 20,
-   "avg_peak_score": 71.9
+   "stories": 21,
+   "avg_peak_score": 73.5
   },
   {
    "posted_hour_utc": 6,
-   "stories": 17,
-   "avg_peak_score": 153.3
+   "stories": 18,
+   "avg_peak_score": 145.7
   },
   {
    "posted_hour_utc": 7,
-   "stories": 26,
-   "avg_peak_score": 213.3
+   "stories": 27,
+   "avg_peak_score": 206.6
   },
   {
    "posted_hour_utc": 8,
-   "stories": 19,
-   "avg_peak_score": 144.6
+   "stories": 22,
+   "avg_peak_score": 126.5
   },
   {
    "posted_hour_utc": 9,
-   "stories": 30,
-   "avg_peak_score": 165.1
+   "stories": 32,
+   "avg_peak_score": 168.9
   },
   {
    "posted_hour_utc": 10,
    "stories": 25,
-   "avg_peak_score": 221.4
+   "avg_peak_score": 225.1
   },
   {
    "posted_hour_utc": 11,
    "stories": 37,
-   "avg_peak_score": 196.5
+   "avg_peak_score": 200.0
   },
   {
    "posted_hour_utc": 12,
    "stories": 39,
-   "avg_peak_score": 279.7
+   "avg_peak_score": 280.2
   },
   {
    "posted_hour_utc": 13,
-   "stories": 53,
-   "avg_peak_score": 168.9
+   "stories": 57,
+   "avg_peak_score": 158.8
   },
   {
    "posted_hour_utc": 14,
    "stories": 90,
-   "avg_peak_score": 177.1
+   "avg_peak_score": 177.8
   },
   {
    "posted_hour_utc": 15,
-   "stories": 116,
+   "stories": 117,
    "avg_peak_score": 139.9
   },
   {
    "posted_hour_utc": 16,
    "stories": 106,
-   "avg_peak_score": 136.3
+   "avg_peak_score": 137.7
   },
   {
    "posted_hour_utc": 17,
    "stories": 93,
-   "avg_peak_score": 152.0
+   "avg_peak_score": 156.2
   },
   {
    "posted_hour_utc": 18,
    "stories": 76,
-   "avg_peak_score": 141.5
+   "avg_peak_score": 147.2
   },
   {
    "posted_hour_utc": 19,
    "stories": 78,
-   "avg_peak_score": 198.9
+   "avg_peak_score": 199.4
   },
   {
    "posted_hour_utc": 20,
-   "stories": 81,
-   "avg_peak_score": 106.7
+   "stories": 82,
+   "avg_peak_score": 109.0
   },
   {
    "posted_hour_utc": 21,
-   "stories": 73,
-   "avg_peak_score": 156.2
+   "stories": 74,
+   "avg_peak_score": 155.5
   },
   {
    "posted_hour_utc": 22,
    "stories": 50,
-   "avg_peak_score": 113.1
+   "avg_peak_score": 115.9
   },
   {
    "posted_hour_utc": 23,
    "stories": 42,
-   "avg_peak_score": 138.0
+   "avg_peak_score": 142.6
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50406563,
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "domain": "hunch.net",
-   "score": 344,
-   "comments": 200,
-   "author": "srean",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50411818,
+   "title": "GitHub Down Again?",
+   "domain": "github.com",
+   "score": 40,
+   "comments": 26,
+   "author": "ridowk",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 2,
-   "story_id": 50408931,
-   "title": "GitHub New pull request overview page in public preview",
-   "domain": "github.blog",
-   "score": 32,
-   "comments": 22,
-   "author": "xiaoyu2006",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50411467,
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "domain": "lorekit.io",
+   "score": 26,
+   "comments": 13,
+   "author": "mthines",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 3,
-   "story_id": 50406670,
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "domain": "blog.bosscher.ch",
-   "score": 307,
-   "comments": 76,
-   "author": "LaurensBER",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50410107,
+   "title": "Goodbye Claude, Hello Pi",
+   "domain": "caleb.software",
+   "score": 320,
+   "comments": 192,
+   "author": "karagenit",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 4,
-   "story_id": 50408713,
-   "title": "Making any integer with four 2s (2025)",
-   "domain": "eli.thegreenplace.net",
-   "score": 41,
-   "comments": 8,
-   "author": "germanrabbit",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50366902,
+   "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+   "domain": "clj.rs",
+   "score": 58,
+   "comments": 4,
+   "author": "simonpure",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 5,
-   "story_id": 50407882,
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "domain": "apiiro.com",
-   "score": 131,
-   "comments": 96,
-   "author": "shmulc",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50406670,
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "domain": "blog.bosscher.ch",
+   "score": 589,
+   "comments": 110,
+   "author": "LaurensBER",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 6,
-   "story_id": 50406111,
-   "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-   "domain": "theguardian.com",
-   "score": 332,
-   "comments": 224,
-   "author": "user_7832",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50407882,
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "domain": "apiiro.com",
+   "score": 398,
+   "comments": 273,
+   "author": "shmulc",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 7,
-   "story_id": 50406222,
-   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-   "domain": "maxxbench.unlap.ai",
-   "score": 184,
-   "comments": 55,
-   "author": "antiuniverse",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50410359,
+   "title": "Kirlian Photography: Building Your Own Equipment",
+   "domain": "imagesco.com",
+   "score": 50,
+   "comments": 8,
+   "author": "joebig",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 8,
-   "story_id": 50406292,
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "domain": "github.com",
-   "score": 185,
-   "comments": 39,
-   "author": "hedgerow-dev",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50378974,
+   "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+   "domain": "readonlymemo.com",
+   "score": 18,
+   "comments": 0,
+   "author": "speckx",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 9,
-   "story_id": 50377661,
-   "title": "Uranium cubes reveal why the German nuclear project failed",
-   "domain": "arstechnica.com",
-   "score": 51,
-   "comments": 11,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50408713,
+   "title": "Making any integer with four 2s (2025)",
+   "domain": "eli.thegreenplace.net",
+   "score": 146,
+   "comments": 33,
+   "author": "germanrabbit",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 10,
    "story_id": 50403052,
    "title": "Need for Speed Underground 2 online in the browser",
    "domain": "nfsu2.xyz",
-   "score": 787,
-   "comments": 224,
+   "score": 996,
+   "comments": 250,
    "author": "fluxusars",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 11,
-   "story_id": 50358337,
-   "title": "Turning Every Radio into a Radar",
-   "domain": "tiaminetworks.com",
-   "score": 19,
-   "comments": 5,
-   "author": "hasley",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50411083,
+   "title": "WaveDudeNext 2D Wave Simulator",
+   "domain": "github.com",
+   "score": 11,
+   "comments": 3,
+   "author": "sweetdingoes",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 12,
-   "story_id": 50361212,
-   "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-   "domain": "bournemouth.ac.uk",
-   "score": 9,
-   "comments": 0,
-   "author": "gmays",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50409856,
+   "title": "Consumer brain wave headsets threaten privacy",
+   "domain": "science.org",
+   "score": 52,
+   "comments": 20,
+   "author": "maxall4",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 13,
-   "story_id": 50408350,
-   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-   "domain": "eyesrhythm.com",
-   "score": 22,
-   "comments": 6,
-   "author": "prnysoni",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50377661,
+   "title": "Uranium cubes reveal why the German nuclear project failed",
+   "domain": "arstechnica.com",
+   "score": 139,
+   "comments": 90,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 14,
-   "story_id": 50406319,
-   "title": "Five memorable books about programming (2008)",
-   "domain": "prog21.dadgum.com",
-   "score": 79,
-   "comments": 51,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50408931,
+   "title": "GitHub New pull request overview page in public preview",
+   "domain": "github.blog",
+   "score": 144,
+   "comments": 94,
+   "author": "xiaoyu2006",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 15,
-   "story_id": 50405172,
-   "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-   "domain": "retrosongbird.com",
-   "score": 30,
-   "comments": 8,
-   "author": "hentrep",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50406222,
+   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+   "domain": "maxxbench.unlap.ai",
+   "score": 313,
+   "comments": 83,
+   "author": "antiuniverse",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 16,
-   "story_id": 50403097,
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "domain": "8rank.ai",
-   "score": 582,
-   "comments": 333,
-   "author": "infwhispers",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50410249,
+   "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+   "domain": "github.com",
+   "score": 41,
+   "comments": 10,
+   "author": "xnx",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 17,
-   "story_id": 50404599,
-   "title": "The $8 Linux Computer (2022)",
-   "domain": "thelittleengineerthatcould.blogspot.com",
-   "score": 192,
-   "comments": 84,
-   "author": "zenincognito",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50371360,
+   "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+   "domain": "itsnicethat.com",
+   "score": 4,
+   "comments": 1,
+   "author": "bryanrasmussen",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 18,
-   "story_id": 50403507,
-   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-   "domain": "windowslatest.com",
-   "score": 201,
-   "comments": 196,
-   "author": "thunderbong",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50409855,
+   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+   "domain": "github.com",
+   "score": 77,
+   "comments": 48,
+   "author": "handfuloflight",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 19,
-   "story_id": 50406502,
-   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-   "domain": "atlasobscura.com",
-   "score": 39,
-   "comments": 14,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50403097,
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "domain": "8rank.ai",
+   "score": 733,
+   "comments": 385,
+   "author": "infwhispers",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 20,
-   "story_id": 50405789,
-   "title": "How Long Can Life Wait?",
-   "domain": "mceglowski.substack.com",
-   "score": 120,
-   "comments": 69,
-   "author": "Ariarule",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50411522,
+   "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+   "domain": "github.com",
+   "score": 5,
+   "comments": 0,
+   "author": "kobaltGIT",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 21,
-   "story_id": 50408750,
-   "title": "IRA Velinsky \u2013 Commodore's Industrial Designer",
-   "domain": "commodore.ca",
-   "score": 7,
-   "comments": 0,
-   "author": "erickhill",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50351954,
+   "title": "Amsterdam School",
+   "domain": "architecture-history.org",
+   "score": 44,
+   "comments": 8,
+   "author": "bondarchuk",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 22,
-   "story_id": 50361657,
-   "title": "Text.js: Build full-stack React apps that render inside console.log",
-   "domain": "textjs.org",
-   "score": 80,
-   "comments": 47,
-   "author": "nateb2022",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50403507,
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "domain": "windowslatest.com",
+   "score": 331,
+   "comments": 304,
+   "author": "thunderbong",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 23,
-   "story_id": 50408104,
-   "title": "Shadow of the Sun (2021)",
-   "domain": "mattlakeman.org",
-   "score": 18,
-   "comments": 4,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50406292,
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "domain": "github.com",
+   "score": 240,
+   "comments": 59,
+   "author": "hedgerow-dev",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 24,
-   "story_id": 50405782,
-   "title": "Every processor die anyone has photographed and given away",
-   "domain": "sheets.works",
-   "score": 69,
-   "comments": 16,
-   "author": "user_7832",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "story_id": 50406563,
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "domain": "hunch.net",
+   "score": 458,
+   "comments": 277,
+   "author": "srean",
+   "snapshot_at": "2026-11-08T10:26:48"
   },
   {
    "rank": 25,
-   "story_id": 50405674,
-   "title": "Terry Pratchett's Study",
-   "domain": "sussi.dk",
-   "score": 91,
-   "comments": 24,
-   "author": "ColinWright",
-   "snapshot_at": "2026-11-08T00:39:37"
-  },
-  {
-   "rank": 26,
-   "story_id": 50408129,
-   "title": "MeccanicOS",
-   "domain": "meccanicos.com",
-   "score": 14,
-   "comments": 4,
-   "author": "tomcam",
-   "snapshot_at": "2026-11-08T00:39:37"
-  },
-  {
-   "rank": 27,
-   "story_id": 50403066,
-   "title": "Running a law firm on Free software",
-   "domain": "decoded.legal",
-   "score": 229,
-   "comments": 110,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-11-08T00:39:37"
-  },
-  {
-   "rank": 28,
-   "story_id": 50401867,
-   "title": "Asahi Linux Progress Linux 7.3",
-   "domain": "asahilinux.org",
-   "score": 309,
-   "comments": 253,
-   "author": "ackyshake",
-   "snapshot_at": "2026-11-08T00:39:37"
-  },
-  {
-   "rank": 29,
-   "story_id": 50401740,
-   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-   "domain": "science.org",
-   "score": 206,
-   "comments": 184,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-08T00:39:37"
-  },
-  {
-   "rank": 30,
    "story_id": 50408961,
    "title": "Commodore PET \u2013 The Worlds First Personal Computer",
    "domain": "commodore.ca",
-   "score": 3,
-   "comments": 0,
+   "score": 57,
+   "comments": 19,
    "author": "andsoitis",
-   "snapshot_at": "2026-11-08T00:39:37"
+   "snapshot_at": "2026-11-08T10:26:48"
+  },
+  {
+   "rank": 26,
+   "story_id": 50406111,
+   "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+   "domain": "theguardian.com",
+   "score": 468,
+   "comments": 294,
+   "author": "user_7832",
+   "snapshot_at": "2026-11-08T10:26:48"
+  },
+  {
+   "rank": 27,
+   "story_id": 50404599,
+   "title": "The $8 Linux Computer (2022)",
+   "domain": "thelittleengineerthatcould.blogspot.com",
+   "score": 238,
+   "comments": 92,
+   "author": "zenincognito",
+   "snapshot_at": "2026-11-08T10:26:48"
+  },
+  {
+   "rank": 28,
+   "story_id": 50405782,
+   "title": "Every processor die anyone has photographed and given away",
+   "domain": "sheets.works",
+   "score": 127,
+   "comments": 25,
+   "author": "user_7832",
+   "snapshot_at": "2026-11-08T10:26:48"
+  },
+  {
+   "rank": 29,
+   "story_id": 50401867,
+   "title": "Asahi Linux Progress Linux 7.3",
+   "domain": "asahilinux.org",
+   "score": 381,
+   "comments": 331,
+   "author": "ackyshake",
+   "snapshot_at": "2026-11-08T10:26:48"
+  },
+  {
+   "rank": 30,
+   "story_id": 50406319,
+   "title": "Five memorable books about programming (2008)",
+   "domain": "prog21.dadgum.com",
+   "score": 118,
+   "comments": 76,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-08T10:26:48"
   }
  ],
  "quality": {
@@ -609,8 +609,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 4852,
-   "fct_stories": 1207
+   "stg_snapshots": 4951,
+   "fct_stories": 1232
   },
   "newest_snapshot_age_hours": 0.0
  }

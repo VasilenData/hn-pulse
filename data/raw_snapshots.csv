@@ -4851,3 +4851,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-08T00:39:37+00:00,98,50395869,Size-It-Up (Game),https://magnitudle.com/size-it-up,whoishiding,81,27,2026-11-06T17:59:59+00:00
 2026-11-08T00:39:37+00:00,99,50396834,Replit rebuilt its sandbox engine with microVMs,https://frontier.replit.com/sandbox-engine-microvms-part-1/,gaplong,94,35,2026-11-06T19:06:10+00:00
 2026-11-08T00:39:37+00:00,100,50395919,Memorilla: Latent Semantic Memory for LLMs,https://arxiv.org/abs/2610.21375,handfuloflight,115,13,2026-11-06T18:03:33+00:00
+2026-11-08T10:26:48+00:00,1,50411818,GitHub Down Again?,https://github.com/torvalds/linux,ridowk,40,26,2026-11-08T09:56:07+00:00
+2026-11-08T10:26:48+00:00,2,50411467,Agent memory needs its OpenTelemetry moment,https://www.lorekit.io/blog/open-agent-memory-format,mthines,26,13,2026-11-08T08:40:23+00:00
+2026-11-08T10:26:48+00:00,3,50410107,"Goodbye Claude, Hello Pi",https://caleb.software/posts/claude-to-pi.html,karagenit,320,192,2026-11-08T03:11:48+00:00
+2026-11-08T10:26:48+00:00,4,50366902,Clj.rs – a Clojure dialect implemented in Rust,https://clj.rs/,simonpure,58,4,2026-11-04T15:23:16+00:00
+2026-11-08T10:26:48+00:00,5,50406670,What I run on my $10 USD OpenStick homelab,https://blog.bosscher.ch/posts/openstick/,LaurensBER,589,110,2026-11-07T18:12:12+00:00
+2026-11-08T10:26:48+00:00,6,50407882,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again,shmulc,398,273,2026-11-07T20:45:32+00:00
+2026-11-08T10:26:48+00:00,7,50410359,Kirlian Photography: Building Your Own Equipment,https://imagesco.com/articles/kirlian/kirlian-photography.html,joebig,50,8,2026-11-08T04:14:12+00:00
+2026-11-08T10:26:48+00:00,8,50378974,Finding Xanadu: Inside a JRPG classic translation 15 years in the making,https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/,speckx,18,0,2026-11-05T13:44:07+00:00
+2026-11-08T10:26:48+00:00,9,50408713,Making any integer with four 2s (2025),https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/,germanrabbit,146,33,2026-11-07T22:38:58+00:00
+2026-11-08T10:26:48+00:00,10,50403052,Need for Speed Underground 2 online in the browser,https://nfsu2.xyz/,fluxusars,996,250,2026-11-07T09:36:36+00:00
+2026-11-08T10:26:48+00:00,11,50411083,WaveDudeNext 2D Wave Simulator,https://github.com/graealex/WaveDudeNext,sweetdingoes,11,3,2026-11-08T07:09:02+00:00
+2026-11-08T10:26:48+00:00,12,50409856,Consumer brain wave headsets threaten privacy,https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F,maxall4,52,20,2026-11-08T02:02:38+00:00
+2026-11-08T10:26:48+00:00,13,50377661,Uranium cubes reveal why the German nuclear project failed,https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/,rbanffy,139,90,2026-11-05T10:52:04+00:00
+2026-11-08T10:26:48+00:00,14,50408931,GitHub New pull request overview page in public preview,https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/,xiaoyu2006,144,94,2026-11-07T23:09:40+00:00
+2026-11-08T10:26:48+00:00,15,50406222,"MaxxBench – ""Nice DeepSWE score. But is it true?""",https://maxxbench.unlap.ai/research/why-maxxbench/,antiuniverse,313,83,2026-11-07T17:19:00+00:00
+2026-11-08T10:26:48+00:00,16,50410249,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,https://github.com/dmunozv04/isponsorblocktv,xnx,41,10,2026-11-08T03:47:19+00:00
+2026-11-08T10:26:48+00:00,17,50371360,New typeface using intricate designs from Shakespeare's First Folio (2023),https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323,bryanrasmussen,4,1,2026-11-04T20:53:54+00:00
+2026-11-08T10:26:48+00:00,18,50409855,"ZapFast: A fast, native WhatsApp client in Rust and egui",https://github.com/crmne/zapfast,handfuloflight,77,48,2026-11-08T02:02:27+00:00
+2026-11-08T10:26:48+00:00,19,50403097,Every Mac comes with an (undocumented) family member classifier,https://8rank.ai/game/apple-intelligence-personal-knowledge-graph,infwhispers,733,385,2026-11-07T09:46:03+00:00
+2026-11-08T10:26:48+00:00,20,50411522,"I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",https://github.com/kobaltgit/StatCraft,kobaltGIT,5,0,2026-11-08T08:53:43+00:00
+2026-11-08T10:26:48+00:00,21,50351954,Amsterdam School,https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html,bondarchuk,44,8,2026-11-03T13:50:19+00:00
+2026-11-08T10:26:48+00:00,22,50403507,"Every Windows 11 app should kill Electron, and Discord just showed why",https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/,thunderbong,331,304,2026-11-07T11:11:15+00:00
+2026-11-08T10:26:48+00:00,23,50406292,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",https://github.com/hedgerow-dev/coldframe,hedgerow-dev,240,59,2026-11-07T17:27:30+00:00
+2026-11-08T10:26:48+00:00,24,50406563,The end of Microsoft Research's AI Frontiers group,https://hunch.net/?p=13764006,srean,458,277,2026-11-07T18:02:17+00:00
+2026-11-08T10:26:48+00:00,25,50408961,Commodore PET – The Worlds First Personal Computer,https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/,andsoitis,57,19,2026-11-07T23:15:34+00:00
+2026-11-08T10:26:48+00:00,26,50406111,Apple’s grey list: Words and phrases your iPhone won’t help you spell,https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you,user_7832,468,294,2026-11-07T17:06:36+00:00
+2026-11-08T10:26:48+00:00,27,50404599,The $8 Linux Computer (2022),http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html,zenincognito,238,92,2026-11-07T14:00:20+00:00
+2026-11-08T10:26:48+00:00,28,50405782,Every processor die anyone has photographed and given away,https://sheets.works/data-viz/cpu-dies,user_7832,127,25,2026-11-07T16:21:36+00:00
+2026-11-08T10:26:48+00:00,29,50401867,Asahi Linux Progress Linux 7.3,https://asahilinux.org/2026/11/progress-report-7-3/,ackyshake,381,331,2026-11-07T05:20:18+00:00
+2026-11-08T10:26:48+00:00,30,50406319,Five memorable books about programming (2008),https://prog21.dadgum.com/19.html,andsoitis,118,76,2026-11-07T17:30:49+00:00
+2026-11-08T10:26:48+00:00,31,50401740,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals,benbreen,239,213,2026-11-07T04:54:36+00:00
+2026-11-08T10:26:48+00:00,32,50403066,Running a law firm on Free software,https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/,DeepLogin,279,132,2026-11-07T09:39:06+00:00
+2026-11-08T10:26:48+00:00,33,50406502,"GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor,andsoitis,60,20,2026-11-07T17:54:56+00:00
+2026-11-08T10:26:48+00:00,34,50405172,Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack,https://www.retrosongbird.com/,hentrep,73,16,2026-11-07T15:06:54+00:00
+2026-11-08T10:26:48+00:00,35,50361657,Text.js: Build full-stack React apps that render inside console.log,https://textjs.org/,nateb2022,104,48,2026-11-04T04:59:36+00:00
+2026-11-08T10:26:48+00:00,36,50408750,IRA Velinsky – Commodore's Industrial Designer,https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/,erickhill,35,1,2026-11-07T22:45:39+00:00
+2026-11-08T10:26:48+00:00,37,50405789,How Long Can Life Wait?,https://mceglowski.substack.com/p/how-long-can-life-wait,Ariarule,136,85,2026-11-07T16:22:59+00:00
+2026-11-08T10:26:48+00:00,38,50396064,We know 15k websites are infected. how do we tell them?,https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/,speckx,209,170,2026-11-06T18:13:35+00:00
+2026-11-08T10:26:48+00:00,39,50405674,Terry Pratchett's Study,https://www.sussi.dk/terry-pratchetts-study,ColinWright,131,34,2026-11-07T16:05:45+00:00
+2026-11-08T10:26:48+00:00,40,50358337,Turning every radio into a radar,https://tiaminetworks.com/turning-every-radio-into-a-radar/,hasley,64,14,2026-11-03T21:18:48+00:00
+2026-11-08T10:26:48+00:00,41,50408082,Show HN: Where Were We,https://wherewerewe.app/,zkiihne,44,16,2026-11-07T21:08:35+00:00
+2026-11-08T10:26:48+00:00,42,50410253,Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU,https://github.com/AmSach/maple,AmSach,10,5,2026-11-08T03:48:04+00:00
+2026-11-08T10:26:48+00:00,43,50402212,The Components of Agent Memory,https://www.anthropic.com/research/components-of-agent-memory,geoffbp,159,90,2026-11-07T06:39:04+00:00
+2026-11-08T10:26:48+00:00,44,50411801,Incredible take from one of the GNU maintainers,https://social.treehouse.systems/@ariadne/117579594140229264,rapnie,3,2,2026-11-08T09:50:36+00:00
+2026-11-08T10:26:48+00:00,45,50384263,What do the next 4000 emoji look like?,https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look,lacieargyle,92,96,2026-11-05T20:46:26+00:00
+2026-11-08T10:26:48+00:00,46,50399933,Libghostty 1.0,https://mitchellh.com/writing/libghostty-1-0,mfiguiere,1045,187,2026-11-06T23:30:52+00:00
+2026-11-08T10:26:48+00:00,47,50361212,Study solved a 150-year-old mystery into the identity of the extinct giant crane,https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane,gmays,24,3,2026-11-04T03:30:28+00:00
+2026-11-08T10:26:48+00:00,48,50360810,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/,derbOac,202,27,2026-11-04T02:19:16+00:00
+2026-11-08T10:26:48+00:00,49,50409986,Show HN: LLM weight editing tool made by a 15-year-old,https://github.com/Miyamoto-Renya/LaplacesScissors,032renya,8,0,2026-11-08T02:37:10+00:00
+2026-11-08T10:26:48+00:00,50,50408350,Show HN: An offline desktop companion to help maintain a healthy blink rhythm,https://eyesrhythm.com/,prnysoni,31,15,2026-11-07T21:47:47+00:00
+2026-11-08T10:26:48+00:00,51,50405263,"Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",https://github.com/Video-Rebirth/hyperflow-h3-flash,jiant,66,13,2026-11-07T15:16:01+00:00
+2026-11-08T10:26:48+00:00,52,50410649,My parents chose to die together and I was left to grieve alone,https://www.bbc.com/news/articles/c81dwllzv113o,onemoresoop,30,15,2026-11-08T05:26:00+00:00
+2026-11-08T10:26:48+00:00,53,50356037,ToothPaste,https://brisk4t.github.io/blog/toothpaste/,speckx,97,19,2026-11-03T18:27:27+00:00
+2026-11-08T10:26:48+00:00,54,50380246,"Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/,Bender,56,33,2026-11-05T15:22:18+00:00
+2026-11-08T10:26:48+00:00,55,50362187,Multi-Token Prediction Done Right,https://arxiv.org/abs/2610.38331,matt_d,7,2,2026-11-04T06:46:01+00:00
+2026-11-08T10:26:48+00:00,56,50408104,Shadow of the Sun (2021),https://mattlakeman.org/2021/07/27/shadow-of-the-sun/,andsoitis,25,4,2026-11-07T21:11:05+00:00
+2026-11-08T10:26:48+00:00,57,50378792,Sailing Solo Around Britain,https://sites.google.com/view/sailing-solo-around-britain/leisure-27-dark-star,dmonay,10,3,2026-11-05T13:23:40+00:00
+2026-11-08T10:26:48+00:00,58,50397219,Firecracker VM Escape: PwnEscape Part 2,https://pwn.ai/blog/firecracker-escape,SerCe,282,135,2026-11-06T19:33:38+00:00
+2026-11-08T10:26:48+00:00,59,50404438,Cancer at Sea,https://biographic.com/cancer-at-sea/,bryanrasmussen,26,2,2026-11-07T13:37:27+00:00
+2026-11-08T10:26:48+00:00,60,50405678,They don't make 'em like that any more: Borland Turbo Pascal 7,https://kevinboone.me/tpwin.html,andsoitis,209,115,2026-11-07T16:06:27+00:00
+2026-11-08T10:26:48+00:00,61,50352791,British Library Legal deposit and web archiving,https://www.bl.uk/services/legal-deposit/web-archiving,robtherobber,62,29,2026-11-03T14:56:30+00:00
+2026-11-08T10:26:48+00:00,62,50407504,What should we learn now?,https://ducktape.blot.im/what-should-we-learn-now,totalperspectiv,31,12,2026-11-07T19:57:53+00:00
+2026-11-08T10:26:48+00:00,63,50378228,sshole,https://sshhole.com,josemrb,2963,744,2026-11-05T12:19:02+00:00
+2026-11-08T10:26:48+00:00,64,50395183,Notes on San Marino,https://mattlakeman.org/2026/11/05/notes-on-san-marino/,yorwba,152,53,2026-11-06T17:12:05+00:00
+2026-11-08T10:26:48+00:00,65,50369283,8088 Domination Post-Mortem,https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/,cosmojg,79,16,2026-11-04T18:06:14+00:00
+2026-11-08T10:26:48+00:00,66,50397099,GitHub's new Git storage architecture,https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/,DAlperin,227,64,2026-11-06T19:24:21+00:00
+2026-11-08T10:26:48+00:00,67,50370787,The typo generation is damaging literature,https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature,bryanrasmussen,66,78,2026-11-04T20:05:56+00:00
+2026-11-08T10:26:48+00:00,68,50386556,The Unwilding of Patagonia's Pollinators,https://biographic.com/the-unwilding-of-patagonias-pollinators/,ohjeez,4,0,2026-11-06T00:26:20+00:00
+2026-11-08T10:26:48+00:00,69,50411460,Why Is Everyone Leaving New Zealand? [video],https://www.youtube.com/watch?v=zIxTKc67tHU,TMWNN,4,0,2026-11-08T08:38:52+00:00
+2026-11-08T10:26:48+00:00,70,50397429,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,https://hightouch.com/blog/llm-judges-identity-resolution,theanomaly,580,151,2026-11-06T19:48:51+00:00
+2026-11-08T10:26:48+00:00,71,50394855,First steps in bare-metal programming using UEFI,https://kevinboone.me/efitest_index.html,LaSombra,248,54,2026-11-06T16:50:29+00:00
+2026-11-08T10:26:48+00:00,72,50385272,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,motoroco,1596,523,2026-11-05T22:17:15+00:00
+2026-11-08T10:26:48+00:00,73,50391456,Tesla to wind down Cybertruck production,https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817,PLenz,1139,2056,2026-11-06T12:13:51+00:00
+2026-11-08T10:26:48+00:00,74,50358094,Tasfer: a text editor drawn on a 2D canvas,https://www.hamza.se/blog/tasfer,hamza512b,57,38,2026-11-03T20:58:40+00:00
+2026-11-08T10:26:48+00:00,75,50377613,"Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",https://github.com/hyphatech/spindle,zaiev,59,8,2026-11-05T10:45:28+00:00
+2026-11-08T10:26:48+00:00,76,50373980,Here Be Monsters,https://www.nybooks.com/online/2026/10/30/here-be-monsters/,benbreen,4,0,2026-11-05T01:40:08+00:00
+2026-11-08T10:26:48+00:00,77,50392118,Gemini Omni 1.2 Flash,https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/,thisisauserid,362,251,2026-11-06T13:35:27+00:00
+2026-11-08T10:26:48+00:00,78,50352701,The Flash C Compiler,https://blog.adafruit.com/2026/10/31/flash-c-compiler/,AlexeyBrin,106,55,2026-11-03T14:49:42+00:00
+2026-11-08T10:26:48+00:00,79,50373513,The great butter and cheese fire of 1991,https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/,subroutine,85,25,2026-11-05T00:44:16+00:00
+2026-11-08T10:26:48+00:00,80,50389570,Chomsky and the two cultures of statistical learning (2011),https://www.norvig.com/chomsky.html,andsoitis,144,135,2026-11-06T08:18:36+00:00
+2026-11-08T10:26:48+00:00,82,50405250,Ask HN: How did you convince family and friends to join your XMPP/Matrix server?,,mtlynch,84,81,2026-11-07T15:14:40+00:00
+2026-11-08T10:26:48+00:00,83,50361765,PostgreSQL Internals [pdf] (2023),https://edu.postgrespro.com/postgresql_internals-14_en.pdf,Foe,88,7,2026-11-04T05:22:43+00:00
+2026-11-08T10:26:48+00:00,84,50361417,Building the NBC News Big Board,https://ejfox.com/projects/nbc-big-board,whalesalad,59,24,2026-11-04T04:09:48+00:00
+2026-11-08T10:26:48+00:00,85,50395450,Devvm.dev: One VM for every project,https://devvm.dev/,luispa,186,73,2026-11-06T17:30:22+00:00
+2026-11-08T10:26:48+00:00,86,50380134,Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes,https://unfix.dev/,u-pump,15,1,2026-11-05T15:15:32+00:00
+2026-11-08T10:26:48+00:00,87,50354097,Can GROUP BY still be optimized after all these years?,https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/,ntur1337,119,25,2026-11-03T16:30:23+00:00
+2026-11-08T10:26:48+00:00,88,50401029,The AI sell-off compared to well-known stock market crashes,https://www.kadoa.com/companies/insights/ai-selloff-perspective,hubraumhugo,91,76,2026-11-07T02:20:06+00:00
+2026-11-08T10:26:48+00:00,89,50389370,Kugelblitz – Mac-Native Google Earth Alternative,https://apps.metaebene.me/en/kugelblitz,luoc,269,66,2026-11-06T07:47:38+00:00
+2026-11-08T10:26:48+00:00,90,50388001,US FAA says it will phase out floppy disks from air traffic control by 2028,https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/,ChrisArchitect,403,327,2026-11-06T04:00:28+00:00
+2026-11-08T10:26:48+00:00,91,50409979,"Microsoft Removes PC-to-PC Migration from Windows 11, Pushes Users to OneDrive",https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/,dmitrygr,17,7,2026-11-08T02:35:40+00:00
+2026-11-08T10:26:48+00:00,92,50357763,Optimising the Rail Cube,https://owenlacey.dev/railcube-optimisation/post,owenlacey,35,1,2026-11-03T20:31:26+00:00
+2026-11-08T10:26:48+00:00,93,50389333,Blender's UI and Runtime: Much Faster Than GPUI,https://github.com/ppmpreetham/BUI,ppmpreetham,731,290,2026-11-06T07:40:35+00:00
+2026-11-08T10:26:48+00:00,94,50387796,Pwn.college,https://pwn.college/,tripdout,333,54,2026-11-06T03:27:14+00:00
+2026-11-08T10:26:48+00:00,95,50399991,RealPage rent-pricing case wraps with nearly $360M to renters,https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/,raybb,181,169,2026-11-06T23:37:19+00:00
+2026-11-08T10:26:48+00:00,96,50397017,Restaurant Delivery Payment-Skimming Campaign,https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming,fiej,167,97,2026-11-06T19:19:27+00:00
+2026-11-08T10:26:48+00:00,97,50390124,"Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105,microtonal,648,424,2026-11-06T09:27:12+00:00
+2026-11-08T10:26:48+00:00,98,50390525,Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016),https://jhr.pensoft.net/articles.php?id=9096,hitekker,181,60,2026-11-06T10:21:15+00:00
+2026-11-08T10:26:48+00:00,99,50391145,We've built an open-source feature flag server for 11 years,https://github.com/Unleash/unleash,ivarconr,164,112,2026-11-06T11:40:06+00:00
+2026-11-08T10:26:48+00:00,100,50404747,The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016),https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf,tylerdane,57,42,2026-11-07T14:18:45+00:00
