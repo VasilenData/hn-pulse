@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "evidence_type": "observed_public_workflow_history",
+  "repository": "VasilenData/hn-pulse",
+  "retrieved_on_utc": "2026-11-08",
+  "retrieval_window_utc": {
+    "started": "2026-11-08 17:15:09 UTC",
+    "ended": "2026-11-08 17:16:50 UTC"
+  },
+  "coverage": {
+    "branch": "main",
+    "pages_fetched": 2,
+    "per_page": 100,
+    "api_reported_total": 119,
+    "unique_runs": 119,
+    "all_currently_returned_main_branch_runs_in_response": true,
+    "all_workflows_oldest_created_at": "2026-10-29T00:16:10Z",
+    "all_workflows_latest_created_at": "2026-11-08T16:42:37Z",
+    "limitations": [
+      "This is a snapshot of currently available API records, not proof of the absence of deleted, expired, or never-triggered runs.",
+      "Records report each run's current/final attempt; this does not enumerate every historical rerun attempt."
+    ]
+  },
+  "pipeline": {
+    "oldest_created_at": "2026-10-29T00:16:10Z",
+    "latest_created_at": "2026-11-08T16:42:04Z",
+    "total": 52,
+    "completed": 52,
+    "success": 50,
+    "failure": 2,
+    "cancelled": 0,
+    "completed_run_success_rate_percent": 96.15384615384616,
+    "rate_definition": "50 successful pipeline runs / 52 completed pipeline runs in this bounded API history.",
+    "event_counts": {
+      "schedule": 38,
+      "push": 13,
+      "workflow_dispatch": 1
+    },
+    "rate_is_not": [
+      "uptime",
+      "SLA compliance",
+      "schedule punctuality",
+      "proof that all expected runs triggered",
+      "post-fix reliability improvement"
+    ]
+  },
+  "pages": {
+    "total": 67,
+    "success": 47,
+    "cancelled": 20,
+    "failure": 0,
+    "cancellation_handling": "Pages cancellations are kept separate from pipeline failures. A cancellation is not counted as a failed pipeline or proof of downtime.",
+    "supersession_examples": [
+      {
+        "cancelled_run_id": 42501219610,
+        "later_successful_run_id": 42501267888,
+        "interpretation": "A newer data-commit Pages run started during the older deployment and subsequently succeeded; supersession is inferred from ordering and commit lineage, while logs directly establish cancellation only."
+      },
+      {
+        "cancelled_run_id": 42496365099,
+        "later_successful_run_id": 42496416925,
+        "interpretation": "A newer data-commit Pages run started during the older deployment and subsequently succeeded; supersession is inferred from ordering and commit lineage, while logs directly establish cancellation only."
+      }
+    ],
+    "other_cancellation_causes": "Not individually established; do not label all twenty with a verified root cause."
+  },
+  "historical_failures": [
+    {
+      "run_id": 41176989964,
+      "created_at": "2026-10-31T06:31:51Z",
+      "failed_step": "Transform and test with dbt",
+      "verified_cause": "dbt compilation could not resolve test_non_negative and test_unique_combination.",
+      "job_id": 124466475099,
+      "dbt_result": {
+        "pass": 7,
+        "error": 3,
+        "skip": 21,
+        "total": 31
+      },
+      "publication": "Export and commit steps were skipped.",
+      "source_url": "https://github.com/VasilenData/hn-pulse/actions/runs/41176989964"
+    },
+    {
+      "run_id": 41177161940,
+      "created_at": "2026-10-31T06:34:17Z",
+      "failed_step": "Commit new snapshot and dashboard data",
+      "verified_cause": "git push was rejected with fetch-first because remote main contained newer work.",
+      "job_id": 124466983906,
+      "dbt_result": {
+        "pass": 33,
+        "error": 0,
+        "skip": 0,
+        "total": 33
+      },
+      "publication": "Local export completed; remote commit push failed.",
+      "source_url": "https://github.com/VasilenData/hn-pulse/actions/runs/41177161940"
+    }
+  ],
+  "first_recorded_success_after_both_failures": {
+    "run_id": 41177554902,
+    "created_at": "2026-10-31T06:40:14Z",
+    "event": "workflow_dispatch",
+    "source_url": "https://github.com/VasilenData/hn-pulse/actions/runs/41177554902",
+    "limitation": "This establishes a later successful run, not a verified incident recovery duration or sole causality of a specific code change."
+  },
+  "latest_fix_evidence": {
+    "source_change_commit": "71f77ee863c4c395948542200f1107c843cabbb9",
+    "source_change_pull_request": "https://github.com/VasilenData/hn-pulse/pull/2",
+    "pipeline_run_id": 42501220461,
+    "pipeline_conclusion": "success",
+    "latest_publication_commit": "595c6c4c83e4f05082316b0130de3f29a5941f1f",
+    "pages_run_id": 42501267888,
+    "pages_conclusion": "success",
+    "observed_post_change_pipeline_runs": 1,
+    "interpretation": "Both historical failures preceded the 8 November change. The historical success rate cannot be credited to that change."
+  },
+  "sources": [
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/runs?branch=main&per_page=100&page=1"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/runs?branch=main&per_page=100&page=2"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/runs/41177161940/jobs?per_page=100"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/runs/41176989964/jobs?per_page=100"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/runs/42501219610/jobs?per_page=100"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/runs/42496365099/jobs?per_page=100"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/jobs/124466983906/logs"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/jobs/124466475099/logs"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/jobs/128794287881/logs"
+    },
+    {
+      "url": "https://api.github.com/repos/VasilenData/hn-pulse/actions/jobs/128779593813/logs"
+    }
+  ]
+}

@@ -23,10 +23,13 @@ MAX_FUTURE_SECONDS = 5 * 60
 
 def latest_snapshot(raw: str = RAW) -> datetime:
     with duckdb.connect() as con:
-        ts = con.execute("select max(cast(snapshot_at as timestamptz)) from read_csv_auto(?, header=true)", [raw]).fetchone()[0]
+        # Fetch a numeric instant rather than a TIMESTAMPTZ Python object: the
+        # latter makes DuckDB depend on optional pytz merely to read UTC data.
+        ts = con.execute("select epoch(max(cast(snapshot_at as timestamptz))) "
+                         "from read_csv_auto(?, header=true)", [raw]).fetchone()[0]
     if ts is None:
         raise ValueError("No snapshot timestamp was found")
-    return ts.astimezone(timezone.utc)
+    return datetime.fromtimestamp(ts, tz=timezone.utc)
 
 
 def age_hours(ts: datetime, now: datetime | None = None) -> float:
