@@ -52,6 +52,8 @@ The public schedule is every **3 hours**. The dashboard flags data as overdue af
 
 Both the snapshot append and JSON export use a temporary file followed by replacement. A write or serialization failure preserves the previous complete history and export. The export writer orders each mart explicitly and rejects non-finite numeric values instead of producing invalid JSON. GitHub Actions serializes pipeline runs so they do not compete to publish; local commands should also use a single writer.
 
+API GETs make at most three attempts for connection errors, timeouts and HTTP 429/500/502/503/504. Backoff is one then two seconds, extended by `Retry-After` up to 30 seconds; a longer requested cooldown fails the run rather than retrying early. Connect/read inactivity timeouts are 5/15 seconds, not a total wall-clock deadline. Permanent HTTP errors and malformed JSON fail immediately. Exhausted retries still fail extraction, and the existing 90% completeness and atomic-history protections remain in force.
+
 The health section reports the last exported dbt results, not the status of a currently running GitHub job. An overdue timestamp identifies delayed published data; the [workflow runs](https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml) show whether a run failed, was delayed, or has not executed. Regression tests in `tests_js/` cover an export aging from fresh to stale, old data in a new export, legacy UTC timestamps, and invalid or future timestamps.
 
 ## Why this design
@@ -108,7 +110,13 @@ Pull requests run lint, Python and dashboard regressions, and a dbt build agains
 
 This is a small public-data product, not a large-scale throughput benchmark or an employer production system. The dataset grows with each successful run: current snapshot totals are displayed on the [dashboard](https://vasilendata.github.io/hn-pulse/), and row/story counts are in `quality.rows` in the dated [JSON export](docs/data.json). A passing last build does not guarantee the next scheduled run will succeed.
 
-GitHub Actions scheduling can be delayed and has no project-specific uptime guarantee. The browser's freshness assessment depends on the reader's device clock; it is not an external alerting service. A useful next step is independent failure/overdue-publication alerting. A cloud-warehouse port would also require validating SQL types, model behavior, permissions, and costs, rather than only changing the dbt profile.
+GitHub Actions scheduling can be delayed and has no project-specific uptime guarantee. The browser's freshness assessment depends on the reader's device clock; it is not an external alerting service. A cloud-warehouse port would also require validating SQL types, model behavior, permissions, and costs, rather than only changing the dbt profile.
+
+### Publication monitor
+
+[`monitor.yml`](.github/workflows/monitor.yml) is a separate hourly workflow that reads the live Pages `data.json`; it does not extract or run dbt. `python monitor.py` checks both source and export timestamps against a six-hour limit. Fresh observations pass; overdue, malformed, future-dated or unreachable exports fail the workflow. Every run saves a timestamped JSON observation as a 30-day Actions artifact, including failures. A network failure is labelled `unavailable`, not evidence of stale data.
+
+This adds monitoring independent of the data pipeline, but it shares GitHub's scheduler and is not an independent uptime service. A delayed/missing monitor run cannot report itself. No webhook, issue, email or other outbound notification channel is configured. Monitor results are observations, not a new uptime or SLA claim; the dated operating review remains historical.
 
 ---
 Built by [Vasilen Kanchev](https://vasilendata.github.io) · [LinkedIn](https://www.linkedin.com/in/vasilenkanchev/)

@@ -1,0 +1,30 @@
+name: publication-monitor
+
+on:
+  schedule:
+    - cron: "43 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install 'requests>=2.32,<3'
+      - name: Check the live Pages export (does not run extraction)
+        run: python monitor.py --output monitor-status.json
+      - name: Preserve observation even when overdue or unavailable
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: publication-observation-${{ github.run_id }}-${{ github.run_attempt }}
+          path: monitor-status.json
+          if-no-files-found: error
+          retention-days: 30
