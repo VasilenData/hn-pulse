@@ -3,5 +3,7 @@ logs/
 dbt_packages/
 __pycache__/
 .pytest_cache/
+.venv/
+.ruff_cache/
 *.duckdb
 .user.yml

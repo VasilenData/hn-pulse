@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# All triggers append to the same history and publish to the same branch.
+concurrency:
+  group: hn-pulse-pipeline
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest

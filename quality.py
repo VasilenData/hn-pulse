@@ -18,11 +18,14 @@ RUN_RESULTS = os.path.join(ROOT, "target", "run_results.json")
 MANIFEST = os.path.join(ROOT, "target", "manifest.json")
 DB_PATH = os.path.join(ROOT, "target", "hn_pulse.duckdb")
 MAX_AGE_HOURS = 1.0  # the gate runs straight after extract, so the newest snapshot must be recent
+MAX_FUTURE_SECONDS = 5 * 60
 
 
 def latest_snapshot(raw: str = RAW) -> datetime:
     with duckdb.connect() as con:
         ts = con.execute("select max(cast(snapshot_at as timestamptz)) from read_csv_auto(?, header=true)", [raw]).fetchone()[0]
+    if ts is None:
+        raise ValueError("No snapshot timestamp was found")
     return ts.astimezone(timezone.utc)
 
 
@@ -66,11 +69,20 @@ def build(db_path: str = DB_PATH, raw: str = RAW, run_results: str = RUN_RESULTS
 
 
 def gate(raw: str = RAW, max_age: float = MAX_AGE_HOURS) -> int:
-    age = age_hours(latest_snapshot(raw))
-    if age > max_age:
-        print(f"FRESHNESS GATE FAILED: newest snapshot is {age}h old (limit {max_age}h)")
+    try:
+        newest = latest_snapshot(raw)
+    except (OSError, ValueError, duckdb.Error) as error:
+        print(f"FRESHNESS GATE FAILED: cannot read a valid snapshot ({error})")
         return 1
-    print(f"freshness ok: newest snapshot is {age}h old")
+    seconds = (datetime.now(timezone.utc) - newest).total_seconds()
+    if seconds < -MAX_FUTURE_SECONDS:
+        print("FRESHNESS GATE FAILED: newest snapshot is more than five minutes in the future")
+        return 1
+    age = seconds / 3600
+    if age > max_age:
+        print(f"FRESHNESS GATE FAILED: newest snapshot is {age:.2f}h old (limit {max_age}h)")
+        return 1
+    print(f"freshness ok: newest snapshot is {max(0, age):.2f}h old")
     return 0
 
 

@@ -25,11 +25,12 @@ flowchart TD
     E --> F["GitHub Pages dashboard"]
 ```
 
-## Data quality: four layers of defence
+## Data quality: five layers of defence
 
 | Layer | What it catches | Where |
 |---|---|---|
-| **Freshness gate** | The extract step silently failed, so the data is stale | `quality.py gate`, run before dbt |
+| **Extraction validation** | Empty or incomplete snapshots, invalid or duplicate API IDs | `extract.py` requires at least 90 of the requested 100 stories before appending history |
+| **Freshness gate** | Stale, missing, invalid, or implausibly future snapshot timestamps | `quality.py gate`, run before dbt |
 | **Schema contracts** | A column changes name or type and breaks the dashboard downstream | `models/schema.yml`, enforced on all 6 models |
 | **27 data tests** | Nulls, duplicates, negative scores, broken keys, partial API responses | `models/schema.yml`, `tests/` |
 | **Health report** | Last-run check results and overdue exported data | `quality.py` writes absolute timestamps and results into `data.json`; the browser computes current age |
@@ -45,7 +46,9 @@ A freshness gate that never fails proves nothing, so `test_quality.py` also chec
 
 The export records `quality.newest_snapshot_at` as an absolute UTC timestamp, alongside `generated_at`. The browser calculates age from those timestamps every minute and checks for a newer JSON export every five minutes while the tab is visible, and when returning to the tab. It never uses a frozen build-time age as the current age. The deprecated numeric `newest_snapshot_age_hours` field remains in the export for older cached dashboard pages; the current page ignores it.
 
-The public schedule is every **3 hours**. The dashboard flags data as overdue after **6 hours**, allowing one extra interval for delayed Actions runs. Either an old source snapshot or an old export triggers the warning. Missing timestamps and a device clock more than five minutes behind an export produce an explicit unavailable/clock warning. A failed refresh preserves the last loaded data and says that a newer export could not be checked.
+The public schedule is every **3 hours**. The dashboard flags data as overdue after **6 hours**, allowing one extra interval for delayed Actions runs. Either an old source snapshot or an old export triggers the warning. Missing timestamps and a device clock more than five minutes behind an export produce an explicit unavailable/clock warning. Refresh requests time out after 15 seconds, and the page validates the fields it renders before replacing the last loaded data. A failed or malformed refresh preserves that data and says that a newer export could not be checked.
+
+Both the snapshot append and JSON export use a temporary file followed by replacement. A write or serialization failure preserves the previous complete history and export. The export writer orders each mart explicitly and rejects non-finite numeric values instead of producing invalid JSON. GitHub Actions serializes pipeline runs so they do not compete to publish; local commands should also use a single writer.
 
 The health section reports the last exported dbt results, not the status of a currently running GitHub job. An overdue timestamp identifies delayed published data; the [workflow runs](https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml) show whether a run failed, was delayed, or has not executed. Regression tests in `tests_js/` cover an export aging from fresh to stale, old data in a new export, legacy UTC timestamps, and invalid or future timestamps.
 
@@ -54,7 +57,7 @@ The health section reports the last exported dbt results, not the status of a cu
 - **dbt layers.** `stg_snapshots` (typing, domain parsing, de-duplication) -> `fct_stories` (one row per story with peak score and time on the front page) -> four marts that feed the dashboard.
 - **Tests gate publishing.** `dbt build` runs 27 data tests, including custom ones (`rank_in_window`, `non_negative`, `unique_combination`, snapshot completeness); if any fail, the dashboard data is not updated.
 - **Local and hosted orchestration.** The local Airflow DAG (`dags/hn_pulse_dag.py`) runs `extract >> freshness_gate >> dbt_build >> export`, with retries and no overlapping runs. GitHub Actions operates the live schedule and runs the same data-processing steps before committing the successful export for Pages.
-- **Python unit tests** cover the parsing logic (`test_extract.py`), including dead/deleted items and text posts.
+- **Regression tests** cover parsing and incomplete API responses, stale/future/missing timestamps, atomic export failures, and a malformed browser refresh followed by recovery. Tests use local fixtures and do not call the Hacker News API.
 
 ## Run it
 
@@ -92,7 +95,9 @@ export.py             marts -> docs/data.json
 dags/hn_pulse_dag.py  optional local Airflow DAG
 docs/                 static dashboard (GitHub Pages)
 docs/freshness.mjs     browser-clock freshness assessment
-tests_js/              dashboard freshness regression tests
+docs/dashboard-data.mjs export validation and bounded fetch requests
+test_export.py         atomic publication and export-order regression tests
+tests_js/              dashboard freshness and refresh regression tests
 .github/workflows/    scheduled pipeline + publishing
 ```
 
