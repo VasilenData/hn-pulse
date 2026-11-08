@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths-ignore: ["docs/**", "data/**"]
+    paths-ignore: ["docs/data.json", "data/**"]
 
 permissions:
   contents: write
@@ -20,11 +20,16 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
       - run: pip install -r requirements.txt
       - name: Lint
         run: pip install ruff && ruff check .
       - name: Unit tests
         run: pytest -q
+      - name: Dashboard freshness regression tests
+        run: node --test tests_js/*.test.mjs
       - name: Extract
         run: python extract.py
       - name: Freshness gate
