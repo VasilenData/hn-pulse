@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:11:41+00:00",
+ "generated_at": "2026-11-08T20:43:42+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -73,36 +73,36 @@
   },
   {
    "day": "2026-11-08",
-   "snapshots": 6,
-   "distinct_stories": 153,
-   "avg_score": 219.7,
-   "avg_comments": 110.9
+   "snapshots": 7,
+   "distinct_stories": 174,
+   "avg_score": 220.1,
+   "avg_comments": 111.0
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 84,
-   "avg_peak_score": 159.7,
-   "total_comments": 5254
+   "avg_peak_score": 161.0,
+   "total_comments": 5318
   },
   {
    "domain": "arstechnica.com",
    "stories": 21,
-   "avg_peak_score": 123.6,
-   "total_comments": 1851
+   "avg_peak_score": 124.0,
+   "total_comments": 1866
   },
   {
    "domain": "nytimes.com",
-   "stories": 17,
-   "avg_peak_score": 284.5,
-   "total_comments": 1850
+   "stories": 18,
+   "avg_peak_score": 269.2,
+   "total_comments": 1852
   },
   {
    "domain": "theguardian.com",
-   "stories": 17,
-   "avg_peak_score": 112.1,
-   "total_comments": 1681
+   "stories": 18,
+   "avg_peak_score": 107.1,
+   "total_comments": 1689
   },
   {
    "domain": "twitter.com",
@@ -141,22 +141,22 @@
    "total_comments": 571
   },
   {
+   "domain": "bloomberg.com",
+   "stories": 10,
+   "avg_peak_score": 70.1,
+   "total_comments": 978
+  },
+  {
+   "domain": "youtube.com",
+   "stories": 10,
+   "avg_peak_score": 55.4,
+   "total_comments": 206
+  },
+  {
    "domain": "tomshardware.com",
    "stories": 9,
    "avg_peak_score": 147.6,
    "total_comments": 507
-  },
-  {
-   "domain": "bloomberg.com",
-   "stories": 9,
-   "avg_peak_score": 70.4,
-   "total_comments": 965
-  },
-  {
-   "domain": "youtube.com",
-   "stories": 9,
-   "avg_peak_score": 61.1,
-   "total_comments": 206
   },
   {
    "domain": "phoronix.com",
@@ -185,27 +185,27 @@
   {
    "posted_hour_utc": 2,
    "stories": 28,
-   "avg_peak_score": 77.1
+   "avg_peak_score": 77.5
   },
   {
    "posted_hour_utc": 3,
    "stories": 34,
-   "avg_peak_score": 100.2
+   "avg_peak_score": 102.2
   },
   {
    "posted_hour_utc": 4,
    "stories": 23,
-   "avg_peak_score": 115.6
+   "avg_peak_score": 115.8
   },
   {
    "posted_hour_utc": 5,
    "stories": 21,
-   "avg_peak_score": 74.7
+   "avg_peak_score": 74.9
   },
   {
    "posted_hour_utc": 6,
    "stories": 18,
-   "avg_peak_score": 146.4
+   "avg_peak_score": 146.6
   },
   {
    "posted_hour_utc": 7,
@@ -215,42 +215,42 @@
   {
    "posted_hour_utc": 8,
    "stories": 23,
-   "avg_peak_score": 128.3
+   "avg_peak_score": 131.6
   },
   {
    "posted_hour_utc": 9,
    "stories": 33,
-   "avg_peak_score": 173.1
+   "avg_peak_score": 175.0
   },
   {
    "posted_hour_utc": 10,
    "stories": 29,
-   "avg_peak_score": 215.4
+   "avg_peak_score": 221.5
   },
   {
    "posted_hour_utc": 11,
    "stories": 38,
-   "avg_peak_score": 203.4
+   "avg_peak_score": 204.9
   },
   {
    "posted_hour_utc": 12,
    "stories": 41,
-   "avg_peak_score": 268.2
+   "avg_peak_score": 269.1
   },
   {
    "posted_hour_utc": 13,
    "stories": 58,
-   "avg_peak_score": 157.4
+   "avg_peak_score": 157.6
   },
   {
    "posted_hour_utc": 14,
    "stories": 95,
-   "avg_peak_score": 171.4
+   "avg_peak_score": 172.1
   },
   {
    "posted_hour_utc": 15,
-   "stories": 121,
-   "avg_peak_score": 137.7
+   "stories": 122,
+   "avg_peak_score": 137.6
   },
   {
    "posted_hour_utc": 16,
@@ -259,23 +259,23 @@
   },
   {
    "posted_hour_utc": 17,
-   "stories": 96,
-   "avg_peak_score": 153.0
+   "stories": 100,
+   "avg_peak_score": 150.5
   },
   {
    "posted_hour_utc": 18,
-   "stories": 76,
-   "avg_peak_score": 149.3
+   "stories": 79,
+   "avg_peak_score": 149.1
   },
   {
    "posted_hour_utc": 19,
-   "stories": 78,
-   "avg_peak_score": 199.7
+   "stories": 86,
+   "avg_peak_score": 183.6
   },
   {
    "posted_hour_utc": 20,
-   "stories": 82,
-   "avg_peak_score": 111.2
+   "stories": 86,
+   "avg_peak_score": 107.6
   },
   {
    "posted_hour_utc": 21,
@@ -285,314 +285,314 @@
   {
    "posted_hour_utc": 22,
    "stories": 50,
-   "avg_peak_score": 116.8
+   "avg_peak_score": 117.1
   },
   {
    "posted_hour_utc": 23,
-   "stories": 42,
-   "avg_peak_score": 144.0
+   "stories": 43,
+   "avg_peak_score": 141.2
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50411961,
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "domain": "github.com",
-   "score": 231,
-   "comments": 67,
-   "author": "joshcsimmons",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415628,
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "domain": "thestateofai.com",
+   "score": 315,
+   "comments": 198,
+   "author": "TheWiggles",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 2,
-   "story_id": 50389923,
-   "title": "The Reconstruction of Torn Documents",
-   "domain": "bundesarchiv.de",
-   "score": 46,
+   "story_id": 50416363,
+   "title": "How I Fight AI Brain Fry",
+   "domain": "sergeykuhne.com",
+   "score": 34,
    "comments": 20,
-   "author": "jacquesm",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "author": "kyunez",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 3,
-   "story_id": 50412067,
-   "title": "Writing as a thinking tool",
-   "domain": "muratbuffalo.blogspot.com",
-   "score": 135,
-   "comments": 40,
-   "author": "jruohonen",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50416053,
+   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+   "domain": "duxlabs.dev",
+   "score": 58,
+   "comments": 18,
+   "author": "indigodaddy",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 4,
-   "story_id": 50415078,
-   "title": "Show HN: FuckCaptcha \u2013 a field guide to 39 CAPTCHA types and how they break",
-   "domain": "github.com",
-   "score": 7,
-   "comments": 1,
-   "author": "vasylsmutok",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50416801,
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "domain": "nvidianews.nvidia.com",
+   "score": 52,
+   "comments": 15,
+   "author": "vincentchau",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 5,
-   "story_id": 50410107,
-   "title": "Goodbye Claude, hello Pi",
-   "domain": "caleb.software",
-   "score": 572,
-   "comments": 361,
-   "author": "karagenit",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50416158,
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "domain": "mailroute.net",
+   "score": 69,
+   "comments": 58,
+   "author": "xmddmx",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 6,
-   "story_id": 50413769,
-   "title": "I'm not a fan of Deno's security model (2024)",
-   "domain": "goldstein.lol",
-   "score": 33,
-   "comments": 15,
-   "author": "maxloh",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50368481,
+   "title": "Declarative Dragging",
+   "domain": "declarative-dragging.github.io",
+   "score": 104,
+   "comments": 5,
+   "author": "smusamashah",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 7,
-   "story_id": 50366821,
-   "title": "Porting Android 16 to my blind mother's keypad phone",
-   "domain": "z1x.us",
-   "score": 97,
-   "comments": 32,
-   "author": "z1xus",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415172,
+   "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+   "domain": "respawnfirst.com",
+   "score": 77,
+   "comments": 25,
+   "author": "randycupertino",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 8,
-   "story_id": 50362963,
-   "title": "Show HN: Vegetable Gardening for Engineers",
-   "domain": "jrcpl.us",
-   "score": 41,
-   "comments": 8,
-   "author": "jrcplus",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50411961,
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "domain": "github.com",
+   "score": 295,
+   "comments": 112,
+   "author": "joshcsimmons",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 9,
-   "story_id": 50412072,
-   "title": "JIT bitmap text rendering for microcontrollers",
-   "domain": "linebender.org",
-   "score": 72,
-   "comments": 11,
-   "author": "dmit",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50412067,
+   "title": "Writing as a thinking tool",
+   "domain": "muratbuffalo.blogspot.com",
+   "score": 207,
+   "comments": 72,
+   "author": "jruohonen",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 10,
-   "story_id": 50406670,
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "domain": "blog.bosscher.ch",
-   "score": 707,
-   "comments": 126,
-   "author": "LaurensBER",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415135,
+   "title": "A Little Snitch for Windows",
+   "domain": "packethound.app",
+   "score": 52,
+   "comments": 26,
+   "author": "BadBoyBubby",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 11,
-   "story_id": 50412830,
-   "title": "How to prove equations using diagrams, part 1",
-   "domain": "epatters.org",
-   "score": 20,
-   "comments": 3,
-   "author": "frostbyte7",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50372838,
+   "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+   "domain": "lithub.com",
+   "score": 14,
+   "comments": 0,
+   "author": "prismatic",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 12,
-   "story_id": 50366902,
-   "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
-   "domain": "clj.rs",
-   "score": 128,
-   "comments": 48,
-   "author": "simonpure",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50389923,
+   "title": "The Reconstruction of Torn Documents",
+   "domain": "bundesarchiv.de",
+   "score": 70,
+   "comments": 42,
+   "author": "jacquesm",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 13,
-   "story_id": 50407882,
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "domain": "apiiro.com",
-   "score": 509,
-   "comments": 371,
-   "author": "shmulc",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50413769,
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "domain": "goldstein.lol",
+   "score": 60,
+   "comments": 24,
+   "author": "maxloh",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 14,
-   "story_id": 50370793,
-   "title": "Nyquist Limit:The frequency of changes in tech is invalidating our understanding",
-   "domain": "ryanprior.com",
-   "score": 45,
-   "comments": 17,
-   "author": "evakhoury",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50362963,
+   "title": "Show HN: Vegetable Gardening for Engineers",
+   "domain": "jrcpl.us",
+   "score": 95,
+   "comments": 19,
+   "author": "jrcplus",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 15,
-   "story_id": 50414524,
-   "title": "Top Astrophysicist Leaves U.S.",
-   "domain": "nytimes.com",
-   "score": 47,
-   "comments": 22,
-   "author": "xqcgrek2",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415078,
+   "title": "A field guide to CAPTCHA types and how they break",
+   "domain": "github.com",
+   "score": 31,
+   "comments": 7,
+   "author": "vasylsmutok",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 16,
-   "story_id": 50415281,
-   "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-   "domain": "bloomberg.com",
-   "score": 12,
-   "comments": 0,
-   "author": "mgh2",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50410107,
+   "title": "Goodbye Claude, hello Pi",
+   "domain": "caleb.software",
+   "score": 623,
+   "comments": 401,
+   "author": "karagenit",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 17,
-   "story_id": 50412152,
-   "title": "Petered",
-   "domain": "aworkinglibrary.com",
-   "score": 125,
-   "comments": 78,
-   "author": "adrianhoward",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50366821,
+   "title": "Porting Android 16 to my blind mother's keypad phone",
+   "domain": "z1x.us",
+   "score": 123,
+   "comments": 38,
+   "author": "z1xus",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 18,
-   "story_id": 50412318,
-   "title": "Person of Interest",
-   "domain": "krthr.co",
-   "score": 243,
-   "comments": 159,
-   "author": "krthr",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415750,
+   "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+   "domain": "kevinboone.me",
+   "score": 13,
+   "comments": 6,
+   "author": "linuxkernal",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 19,
-   "story_id": 50411467,
-   "title": "Agent memory needs its OpenTelemetry moment",
-   "domain": "lorekit.io",
-   "score": 131,
-   "comments": 93,
-   "author": "mthines",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50412830,
+   "title": "How to prove equations using diagrams, part 1",
+   "domain": "epatters.org",
+   "score": 50,
+   "comments": 4,
+   "author": "frostbyte7",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 20,
-   "story_id": 50413822,
-   "title": "OpenAI raises $11B at a $1.25T valuation",
-   "domain": "247wallst.com",
-   "score": 147,
-   "comments": 159,
-   "author": "armcat",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415817,
+   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "domain": "wsj.com",
+   "score": 57,
+   "comments": 59,
+   "author": "zzzeek",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 21,
-   "story_id": 50404747,
-   "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
-   "domain": "newyorkfed.org",
-   "score": 70,
-   "comments": 46,
-   "author": "tylerdane",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50406670,
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "domain": "blog.bosscher.ch",
+   "score": 742,
+   "comments": 129,
+   "author": "LaurensBER",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 22,
-   "story_id": 50413885,
-   "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
-   "domain": "taskandpurpose.com",
-   "score": 39,
-   "comments": 29,
-   "author": "bushwart",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50412072,
+   "title": "JIT bitmap text rendering for microcontrollers",
+   "domain": "linebender.org",
+   "score": 84,
+   "comments": 15,
+   "author": "dmit",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 23,
-   "story_id": 50352518,
-   "title": "Quadrillion-parameter transformers and how to train them",
-   "domain": "qlabs.sh",
-   "score": 60,
-   "comments": 47,
-   "author": "frozenseven",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50407882,
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "domain": "apiiro.com",
+   "score": 540,
+   "comments": 384,
+   "author": "shmulc",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 24,
-   "story_id": 50358094,
-   "title": "Tasfer: a text editor drawn on a 2D canvas",
-   "domain": "hamza.se",
-   "score": 66,
-   "comments": 46,
-   "author": "hamza512b",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50411467,
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "domain": "lorekit.io",
+   "score": 154,
+   "comments": 101,
+   "author": "mthines",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 25,
-   "story_id": 50378974,
-   "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
-   "domain": "readonlymemo.com",
-   "score": 57,
-   "comments": 12,
-   "author": "speckx",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50366902,
+   "title": "Clj.rs \u2013 a Clojure dialect implemented in Rust",
+   "domain": "clj.rs",
+   "score": 145,
+   "comments": 56,
+   "author": "simonpure",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 26,
-   "story_id": 50371360,
-   "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
-   "domain": "itsnicethat.com",
-   "score": 41,
-   "comments": 11,
-   "author": "bryanrasmussen",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50415281,
+   "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+   "domain": "bloomberg.com",
+   "score": 62,
+   "comments": 10,
+   "author": "mgh2",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 27,
-   "story_id": 50377661,
-   "title": "Uranium cubes reveal why the German nuclear project failed",
-   "domain": "arstechnica.com",
-   "score": 194,
-   "comments": 127,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50416471,
+   "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+   "domain": "spacex.com",
+   "score": 14,
+   "comments": 3,
+   "author": "spikels",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 28,
-   "story_id": 50403097,
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "domain": "8rank.ai",
-   "score": 813,
-   "comments": 433,
-   "author": "infwhispers",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50412152,
+   "title": "Petered",
+   "domain": "aworkinglibrary.com",
+   "score": 146,
+   "comments": 88,
+   "author": "adrianhoward",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 29,
-   "story_id": 50403507,
-   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-   "domain": "windowslatest.com",
-   "score": 415,
-   "comments": 418,
-   "author": "thunderbong",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50404747,
+   "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
+   "domain": "newyorkfed.org",
+   "score": 80,
+   "comments": 52,
+   "author": "tylerdane",
+   "snapshot_at": "2026-11-08T20:43:35"
   },
   {
    "rank": 30,
-   "story_id": 50408713,
-   "title": "Making any integer with four 2s (2025)",
-   "domain": "eli.thegreenplace.net",
-   "score": 186,
-   "comments": 50,
-   "author": "germanrabbit",
-   "snapshot_at": "2026-11-08T18:11:32"
+   "story_id": 50412318,
+   "title": "Person of Interest",
+   "domain": "krthr.co",
+   "score": 272,
+   "comments": 179,
+   "author": "krthr",
+   "snapshot_at": "2026-11-08T20:43:35"
   }
  ],
  "quality": {
@@ -609,10 +609,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 5347,
-   "fct_stories": 1259
+   "stg_snapshots": 5446,
+   "fct_stories": 1280
   },
-  "newest_snapshot_at": "2026-11-08T18:11:32+00:00",
+  "newest_snapshot_at": "2026-11-08T20:43:35+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }

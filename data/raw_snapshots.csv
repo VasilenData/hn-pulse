@@ -5346,3 +5346,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-08T18:11:32+00:00,98,50352701,The Flash C Compiler,https://blog.adafruit.com/2026/10/31/flash-c-compiler/,AlexeyBrin,108,56,2026-11-03T14:49:42+00:00
 2026-11-08T18:11:32+00:00,99,50389370,Kugelblitz – Mac-Native Google Earth Alternative,https://apps.metaebene.me/en/kugelblitz,luoc,272,67,2026-11-06T07:47:38+00:00
 2026-11-08T18:11:32+00:00,100,50370787,The typo generation is damaging literature,https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature,bryanrasmussen,71,81,2026-11-04T20:05:56+00:00
+2026-11-08T20:43:35+00:00,1,50415628,Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders,https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers,TheWiggles,315,198,2026-11-08T18:16:07+00:00
+2026-11-08T20:43:35+00:00,2,50416363,How I Fight AI Brain Fry,https://sergeykuhne.com/blog/fighting-ai-brain-fry,kyunez,34,20,2026-11-08T19:37:42+00:00
+2026-11-08T20:43:35+00:00,3,50416053,"Dux: Free, open-source Wayland desktop shell with file manager and theming",https://duxlabs.dev/,indigodaddy,58,18,2026-11-08T19:08:51+00:00
+2026-11-08T20:43:35+00:00,4,50416801,Nvidia Board of Directors Is Investigating Jensen Huang,https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors,vincentchau,52,15,2026-11-08T20:26:43+00:00
+2026-11-08T20:43:35+00:00,5,50416158,Outlook.com Is Quietly Rejecting Email from Domains Without DMARC,https://mailroute.net/blog/outlook-rejecting-email-without-dmarc,xmddmx,69,58,2026-11-08T19:20:32+00:00
+2026-11-08T20:43:35+00:00,6,50368481,Declarative Dragging,https://declarative-dragging.github.io/,smusamashah,104,5,2026-11-04T17:05:07+00:00
+2026-11-08T20:43:35+00:00,7,50415172,RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC,https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/,randycupertino,77,25,2026-11-08T17:20:29+00:00
+2026-11-08T20:43:35+00:00,8,50411961,"Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",https://github.com/synchopate/llama-modchip,joshcsimmons,295,112,2026-11-08T10:22:04+00:00
+2026-11-08T20:43:35+00:00,9,50412067,Writing as a thinking tool,http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html,jruohonen,207,72,2026-11-08T10:41:52+00:00
+2026-11-08T20:43:35+00:00,10,50415135,A Little Snitch for Windows,https://packethound.app/,BadBoyBubby,52,26,2026-11-08T17:16:07+00:00
+2026-11-08T20:43:35+00:00,11,50372838,"Edward Hopper's Iconic Painting, ""Nighthawks",https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/,prismatic,14,0,2026-11-04T23:23:08+00:00
+2026-11-08T20:43:35+00:00,12,50389923,The Reconstruction of Torn Documents,https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/,jacquesm,70,42,2026-11-06T09:05:18+00:00
+2026-11-08T20:43:35+00:00,13,50413769,I'm not a fan of Deno's security model (2024),https://goldstein.lol/posts/deno-security/,maxloh,60,24,2026-11-08T14:42:38+00:00
+2026-11-08T20:43:35+00:00,14,50362963,Show HN: Vegetable Gardening for Engineers,https://jrcpl.us/contrib/2020/gardening-for-engineers/,jrcplus,95,19,2026-11-04T08:54:27+00:00
+2026-11-08T20:43:35+00:00,15,50415078,A field guide to CAPTCHA types and how they break,https://github.com/vsmutok/FuckCaptcha,vasylsmutok,31,7,2026-11-08T17:09:55+00:00
+2026-11-08T20:43:35+00:00,16,50410107,"Goodbye Claude, hello Pi",https://caleb.software/posts/claude-to-pi.html,karagenit,623,401,2026-11-08T03:11:48+00:00
+2026-11-08T20:43:35+00:00,17,50366821,Porting Android 16 to my blind mother's keypad phone,https://z1x.us/blog/four-hundred-bucks-of-e-waste,z1xus,123,38,2026-11-04T15:18:59+00:00
+2026-11-08T20:43:35+00:00,18,50415750,Playing Zork 1 on a CP/M emulator on Linux (2021),https://kevinboone.me/cpmzork.html,linuxkernal,13,6,2026-11-08T18:33:50+00:00
+2026-11-08T20:43:35+00:00,19,50412830,"How to prove equations using diagrams, part 1",https://www.epatters.org/post/e-graphs-1/,frostbyte7,50,4,2026-11-08T12:51:38+00:00
+2026-11-08T20:43:35+00:00,20,50415817,Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It,https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c,zzzeek,57,59,2026-11-08T18:43:07+00:00
+2026-11-08T20:43:35+00:00,21,50406670,What I run on my $10 USD OpenStick homelab,https://blog.bosscher.ch/posts/openstick/,LaurensBER,742,129,2026-11-07T18:12:12+00:00
+2026-11-08T20:43:35+00:00,22,50412072,JIT bitmap text rendering for microcontrollers,https://linebender.org/blog/jit-bitmap-text/,dmit,84,15,2026-11-08T10:42:15+00:00
+2026-11-08T20:43:35+00:00,23,50407882,"Claude Code's ""Don't Ask Again"" exposes passwords in 1,122 public GitHub files",https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again,shmulc,540,384,2026-11-07T20:45:32+00:00
+2026-11-08T20:43:35+00:00,24,50411467,Agent memory needs its OpenTelemetry moment,https://www.lorekit.io/blog/open-agent-memory-format,mthines,154,101,2026-11-08T08:40:23+00:00
+2026-11-08T20:43:35+00:00,25,50366902,Clj.rs – a Clojure dialect implemented in Rust,https://clj.rs/,simonpure,145,56,2026-11-04T15:23:16+00:00
+2026-11-08T20:43:35+00:00,26,50415281,Ads in Popular Apps Give Police a Powerful Tool to Spy on Users,https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/,mgh2,62,10,2026-11-08T17:32:55+00:00
+2026-11-08T20:43:35+00:00,27,50416471,Starship Flight 15 on 11/13 plans to catch both booster and ship,https://www.spacex.com/launches/starship-flight-15,spikels,14,3,2026-11-08T19:49:46+00:00
+2026-11-08T20:43:35+00:00,28,50412152,Petered,https://aworkinglibrary.com/writing/petered,adrianhoward,146,88,2026-11-08T10:56:43+00:00
+2026-11-08T20:43:35+00:00,29,50404747,The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf],https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf,tylerdane,80,52,2026-11-07T14:18:45+00:00
+2026-11-08T20:43:35+00:00,30,50412318,Person of Interest,https://krthr.co/person-of-interest/,krthr,272,179,2026-11-08T11:23:28+00:00
+2026-11-08T20:43:35+00:00,31,50358094,Tasfer: a text editor drawn on a 2D canvas,https://www.hamza.se/blog/tasfer,hamza512b,82,49,2026-11-03T20:58:40+00:00
+2026-11-08T20:43:35+00:00,32,50406222,"MaxxBench – ""Nice DeepSWE score. But is it true?""",https://maxxbench.unlap.ai/research/why-maxxbench/,antiuniverse,380,101,2026-11-07T17:19:00+00:00
+2026-11-08T20:43:35+00:00,33,50377661,Uranium cubes reveal why the German nuclear project failed,https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/,rbanffy,201,142,2026-11-05T10:52:04+00:00
+2026-11-08T20:43:35+00:00,34,50378974,Finding Xanadu: Inside a JRPG classic translation 15 years in the making,https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/,speckx,67,14,2026-11-05T13:44:07+00:00
+2026-11-08T20:43:35+00:00,35,50408713,Making any integer with four 2s (2025),https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/,germanrabbit,200,53,2026-11-07T22:38:58+00:00
+2026-11-08T20:43:35+00:00,36,50380051,Mizu – zero-copy parallel R and Python over shared memory,https://github.com/shikokuchuo/pymizu,cscheid,68,10,2026-11-05T15:09:04+00:00
+2026-11-08T20:43:35+00:00,37,50416293,PDP-8/E Restoration Log,https://www.ricomputermuseum.org/collections-gallery/equipment/dec-pdp-8e/pdp-8e-restoration-log,andrewstuart,5,0,2026-11-08T19:31:19+00:00
+2026-11-08T20:43:35+00:00,38,50410249,ISponsorBlockTV: SponsorBlock client for all YouTube TV clients,https://github.com/dmunozv04/isponsorblocktv,xnx,116,50,2026-11-08T03:47:19+00:00
+2026-11-08T20:43:35+00:00,39,50416263,Fishermen find Royal Caribbean cruise ship employee in water 20 miles off coast,https://www.cbsnews.com/losangeles/news/newport-beach-fishermen-find-man-treading-water-royal-caribbean-cruise-ship-employee/,tosh,10,1,2026-11-08T19:28:37+00:00
+2026-11-08T20:43:35+00:00,40,50371360,New typeface using intricate designs from Shakespeare's First Folio (2023),https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323,bryanrasmussen,43,11,2026-11-04T20:53:54+00:00
+2026-11-08T20:43:35+00:00,41,50370793,Nyquist Limit:The frequency of changes in tech is invalidating our understanding,https://www.ryanprior.com/posts/nyquist-limit-frequency-of-changes-in-tech-invalidates-understanding/,evakhoury,54,23,2026-11-04T20:07:01+00:00
+2026-11-08T20:43:35+00:00,42,50406292,"Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",https://github.com/hedgerow-dev/coldframe,hedgerow-dev,271,62,2026-11-07T17:27:30+00:00
+2026-11-08T20:43:35+00:00,43,50408931,GitHub New pull request overview page in public preview,https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/,xiaoyu2006,173,120,2026-11-07T23:09:40+00:00
+2026-11-08T20:43:35+00:00,44,50416386,Systemd Loves Rust,https://amutable.com/blog/systemd-loves-rust,birdculture,6,1,2026-11-08T19:40:03+00:00
+2026-11-08T20:43:35+00:00,45,50409856,Consumer brain wave headsets threaten privacy,https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F,maxall4,112,86,2026-11-08T02:02:38+00:00
+2026-11-08T20:43:35+00:00,46,50415498,"The efficiency trap: why optimising everything can backfire, badly",https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly,billybuckwheat,16,0,2026-11-08T17:59:23+00:00
+2026-11-08T20:43:35+00:00,47,50401867,Asahi Linux Progress Linux 7.3,https://asahilinux.org/2026/11/progress-report-7-3/,ackyshake,408,380,2026-11-07T05:20:18+00:00
+2026-11-08T20:43:35+00:00,48,50416679,Nvidia Board to Probe Spying Case After CEO Admits Affair,https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity,specialp,17,3,2026-11-08T20:14:16+00:00
+2026-11-08T20:43:35+00:00,49,50411083,WaveDudeNext 2D Wave Simulator,https://github.com/graealex/WaveDudeNext,sweetdingoes,45,10,2026-11-08T07:09:02+00:00
+2026-11-08T20:43:35+00:00,50,50410359,Kirlian Photography: Building Your Own Equipment,https://imagesco.com/articles/kirlian/kirlian-photography.html,joebig,67,21,2026-11-08T04:14:12+00:00
+2026-11-08T20:43:35+00:00,51,50413885,Drones built to look like birds evaded detection at Air Force tech exercise,https://taskandpurpose.com/news/drone-mimicking-bird-test/,bushwart,50,38,2026-11-08T15:00:42+00:00
+2026-11-08T20:43:35+00:00,52,50404599,The $8 Linux Computer (2022),http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html,zenincognito,251,96,2026-11-07T14:00:20+00:00
+2026-11-08T20:43:35+00:00,53,50351954,Amsterdam School,https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html,bondarchuk,60,17,2026-11-03T13:50:19+00:00
+2026-11-08T20:43:35+00:00,54,50406563,The end of Microsoft Research's AI Frontiers group,https://hunch.net/?p=13764006,srean,486,302,2026-11-07T18:02:17+00:00
+2026-11-08T20:43:35+00:00,55,50406111,Apple’s grey list: Words and phrases your iPhone won’t help you spell,https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you,user_7832,516,334,2026-11-07T17:06:36+00:00
+2026-11-08T20:43:35+00:00,56,50403066,Running a law firm on Free software,https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/,DeepLogin,294,139,2026-11-07T09:39:06+00:00
+2026-11-08T20:43:35+00:00,57,50405782,Every processor die anyone has photographed and given away,https://sheets.works/data-viz/cpu-dies,user_7832,144,32,2026-11-07T16:21:36+00:00
+2026-11-08T20:43:35+00:00,58,50408961,Commodore PET – The Worlds First Personal Computer,https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/,andsoitis,70,35,2026-11-07T23:15:34+00:00
+2026-11-08T20:43:35+00:00,59,50396064,We know 15k websites are infected. how do we tell them?,https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/,speckx,220,181,2026-11-06T18:13:35+00:00
+2026-11-08T20:43:35+00:00,60,50413822,OpenAI raises $11B at a $1.25T valuation,https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/,armcat,171,193,2026-11-08T14:49:23+00:00
+2026-11-08T20:43:35+00:00,61,50352518,Quadrillion-parameter transformers and how to train them,https://qlabs.sh/research/parameters,frozenseven,64,57,2026-11-03T14:37:17+00:00
+2026-11-08T20:43:35+00:00,62,50403052,Need for Speed Underground 2 online in the browser,https://nfsu2.xyz/,fluxusars,1104,277,2026-11-07T09:36:36+00:00
+2026-11-08T20:43:35+00:00,63,50406319,Five memorable books about programming (2008),https://prog21.dadgum.com/19.html,andsoitis,131,84,2026-11-07T17:30:49+00:00
+2026-11-08T20:43:35+00:00,64,50361657,Text.js: Build full-stack React apps that render inside console.log,https://textjs.org/,nateb2022,117,51,2026-11-04T04:59:36+00:00
+2026-11-08T20:43:35+00:00,65,50402212,The Components of Agent Memory,https://www.anthropic.com/research/components-of-agent-memory,geoffbp,172,99,2026-11-07T06:39:04+00:00
+2026-11-08T20:43:35+00:00,66,50405789,How Long Can Life Wait?,https://mceglowski.substack.com/p/how-long-can-life-wait,Ariarule,147,98,2026-11-07T16:22:59+00:00
+2026-11-08T20:43:35+00:00,67,50406502,"GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor,andsoitis,64,21,2026-11-07T17:54:56+00:00
+2026-11-08T20:43:35+00:00,68,50399933,Libghostty 1.0,https://mitchellh.com/writing/libghostty-1-0,mfiguiere,1068,193,2026-11-06T23:30:52+00:00
+2026-11-08T20:43:35+00:00,69,50416103,"Etsy changes terms to train AI on your creations, while blocking you doing it [video]",https://www.youtube.com/watch?v=zrlLUUdqDJI,fortran77,4,0,2026-11-08T19:14:41+00:00
+2026-11-08T20:43:35+00:00,70,50405674,Terry Pratchett's Study,https://www.sussi.dk/terry-pratchetts-study,ColinWright,141,45,2026-11-07T16:05:45+00:00
+2026-11-08T20:43:35+00:00,71,50384263,What do the next 4000 emoji look like?,https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look,lacieargyle,96,100,2026-11-05T20:46:26+00:00
+2026-11-08T20:43:35+00:00,72,50403507,"Every Windows 11 app should kill Electron, and Discord just showed why",https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/,thunderbong,443,454,2026-11-07T11:11:15+00:00
+2026-11-08T20:43:35+00:00,73,50403097,Every Mac comes with an (undocumented) family member classifier,https://8rank.ai/game/apple-intelligence-personal-knowledge-graph,infwhispers,835,438,2026-11-07T09:46:03+00:00
+2026-11-08T20:43:35+00:00,74,50405172,Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack,https://www.retrosongbird.com/,hentrep,85,19,2026-11-07T15:06:54+00:00
+2026-11-08T20:43:35+00:00,75,50358337,Turning every radio into a radar,https://tiaminetworks.com/turning-every-radio-into-a-radar/,hasley,77,24,2026-11-03T21:18:48+00:00
+2026-11-08T20:43:35+00:00,76,50360044,Multi-Column Different-Speed Scrolling,https://blog.master.dev/multi-column-different-speed-scrolling/,ibobev,7,2,2026-11-04T00:16:33+00:00
+2026-11-08T20:43:35+00:00,77,50408750,IRA Velinsky – Commodore's Industrial Designer,https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/,erickhill,39,2,2026-11-07T22:45:39+00:00
+2026-11-08T20:43:35+00:00,78,50387381,Earliest evidence of cannabis use found in ancient Siberian tomb,https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl,mooreds,49,47,2026-11-06T02:27:08+00:00
+2026-11-08T20:43:35+00:00,79,50408082,Show HN: Where Were We,https://wherewerewe.app/,zkiihne,53,18,2026-11-07T21:08:35+00:00
+2026-11-08T20:43:35+00:00,80,50378228,sshole,https://sshhole.com,josemrb,2975,747,2026-11-05T12:19:02+00:00
+2026-11-08T20:43:35+00:00,81,50414331,UK House of Lords to propose mandatory CSAM detection software on smartphones,https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign,iamnothere,67,68,2026-11-08T15:57:37+00:00
+2026-11-08T20:43:35+00:00,82,50416787,Nvidia Opens Investigation into Jensen Huang's Relationship with Chinese Spy,https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html,Aboutplants,10,2,2026-11-08T20:25:56+00:00
+2026-11-08T20:43:35+00:00,83,50397219,Firecracker VM Escape: PwnEscape Part 2,https://pwn.ai/blog/firecracker-escape,SerCe,287,138,2026-11-06T19:33:38+00:00
+2026-11-08T20:43:35+00:00,84,50413732,"Sunshine Atlas – the climate of 3,833 destinations, month by month",https://sunshineatlas.com/,momentmaker,10,6,2026-11-08T14:37:27+00:00
+2026-11-08T20:43:35+00:00,85,50412760,Anthropic strikes $3.4B deal to generate gas-fired power for data centres,https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0,mraniki,36,25,2026-11-08T12:41:25+00:00
+2026-11-08T20:43:35+00:00,86,50356037,ToothPaste,https://brisk4t.github.io/blog/toothpaste/,speckx,105,19,2026-11-03T18:27:27+00:00
+2026-11-08T20:43:35+00:00,88,50405263,"Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",https://github.com/Video-Rebirth/hyperflow-h3-flash,jiant,74,14,2026-11-07T15:16:01+00:00
+2026-11-08T20:43:35+00:00,89,50410253,Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU,https://github.com/AmSach/maple,AmSach,19,5,2026-11-08T03:48:04+00:00
+2026-11-08T20:43:35+00:00,90,50409855,"ZapFast: A fast, native WhatsApp client in Rust and egui",https://github.com/crmne/zapfast,handfuloflight,97,81,2026-11-08T02:02:27+00:00
+2026-11-08T20:43:35+00:00,91,50416770,FBI arrests man accused of using Steam games to drain victims' crypto wallets,https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/,paulpauper,3,0,2026-11-08T20:23:54+00:00
+2026-11-08T20:43:35+00:00,92,50385272,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,motoroco,1599,530,2026-11-05T22:17:15+00:00
+2026-11-08T20:43:35+00:00,93,50397099,GitHub's new Git storage architecture,https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/,DAlperin,235,72,2026-11-06T19:24:21+00:00
+2026-11-08T20:43:35+00:00,94,50395183,Notes on San Marino,https://mattlakeman.org/2026/11/05/notes-on-san-marino/,yorwba,157,53,2026-11-06T17:12:05+00:00
+2026-11-08T20:43:35+00:00,95,50380246,"Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/,Bender,62,37,2026-11-05T15:22:18+00:00
+2026-11-08T20:43:35+00:00,96,50401740,"A barbarian tribe's mythic origin story is true, ancient DNA reveals",https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals,benbreen,249,245,2026-11-07T04:54:36+00:00
+2026-11-08T20:43:35+00:00,97,50391456,Tesla to wind down Cybertruck production,https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817,PLenz,1147,2071,2026-11-06T12:13:51+00:00
+2026-11-08T20:43:35+00:00,98,50397429,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,https://hightouch.com/blog/llm-judges-identity-resolution,theanomaly,594,153,2026-11-06T19:48:51+00:00
+2026-11-08T20:43:35+00:00,99,50394855,First steps in bare-metal programming using UEFI,https://kevinboone.me/efitest_index.html,LaSombra,251,56,2026-11-06T16:50:29+00:00
+2026-11-08T20:43:35+00:00,100,50369283,8088 Domination Post-Mortem,https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/,cosmojg,86,16,2026-11-04T18:06:14+00:00
