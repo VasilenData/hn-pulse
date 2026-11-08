@@ -21,8 +21,8 @@ MAX_AGE_HOURS = 1.0  # the gate runs straight after extract, so the newest snaps
 
 
 def latest_snapshot(raw: str = RAW) -> datetime:
-    con = duckdb.connect()
-    ts = con.execute("select max(cast(snapshot_at as timestamptz)) from read_csv_auto(?, header=true)", [raw]).fetchone()[0]
+    with duckdb.connect() as con:
+        ts = con.execute("select max(cast(snapshot_at as timestamptz)) from read_csv_auto(?, header=true)", [raw]).fetchone()[0]
     return ts.astimezone(timezone.utc)
 
 
@@ -51,15 +51,18 @@ def contracts_enforced(path: str = MANIFEST) -> tuple[int, int]:
     return sum(1 for n in nodes if n["contract"]["enforced"]), len(nodes)
 
 
-def build() -> dict:
+def build(db_path: str = DB_PATH, raw: str = RAW, run_results: str = RUN_RESULTS, manifest: str = MANIFEST) -> dict:
     """The block shown in the dashboard's pipeline-health section. Raises if dbt artefacts are missing."""
-    run = summarise_run()
-    enforced, models = contracts_enforced()
-    con = duckdb.connect(DB_PATH, read_only=True)
+    run = summarise_run(run_results)
+    enforced, models = contracts_enforced(manifest)
+    con = duckdb.connect(db_path, read_only=True)
     rows = {t: con.execute(f"select count(*) from {t}").fetchone()[0] for t in ("stg_snapshots", "fct_stories")}
     con.close()
+    newest = latest_snapshot(raw)
     return {"tests": run["tests"], "models": run["models"], "contracts_enforced": enforced, "models_total": models,
-            "rows": rows, "newest_snapshot_age_hours": age_hours(latest_snapshot())}
+            "rows": rows, "newest_snapshot_at": newest.isoformat(timespec="seconds"),
+            # Deprecated: retained for cached dashboard clients. New clients calculate current age from the timestamp.
+            "newest_snapshot_age_hours": age_hours(newest)}
 
 
 def gate(raw: str = RAW, max_age: float = MAX_AGE_HOURS) -> int:

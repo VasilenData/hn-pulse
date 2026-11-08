@@ -1,6 +1,8 @@
 import json
 from datetime import datetime, timedelta, timezone
 
+import duckdb
+
 import lineage
 import quality
 
@@ -22,6 +24,32 @@ def test_gate_passes_on_fresh_data(tmp_path):
     f = tmp_path / "raw.csv"
     f.write_text(f"snapshot_at,rank\n{now},1\n")
     assert quality.gate(str(f), max_age=1.0) == 0
+
+
+def test_health_export_preserves_absolute_snapshot_time(tmp_path):
+    """An exported age freezes; an absolute UTC timestamp can be aged by any reader."""
+    raw = tmp_path / "raw.csv"
+    raw.write_text("snapshot_at,rank\n2026-01-01T12:00:00+02:00,1\n2026-01-01T11:00:00Z,2\n")
+    db = tmp_path / "sample.duckdb"
+    with duckdb.connect(str(db)) as con:
+        con.execute("create table stg_snapshots as select * from range(2)")
+        con.execute("create table fct_stories as select * from range(1)")
+    results = tmp_path / "run_results.json"
+    results.write_text(json.dumps({"results": [{"unique_id": "test.x.example", "status": "pass"}]}))
+    manifest = tmp_path / "manifest.json"
+    manifest.write_text(json.dumps({"nodes": {
+        "model.x.example": {"resource_type": "model", "contract": {"enforced": True}},
+    }}))
+
+    report = quality.build(str(db), str(raw), str(results), str(manifest))
+
+    assert report["newest_snapshot_at"] == "2026-01-01T11:00:00+00:00"
+    # Older cached pages call .toFixed() on this numeric field during a rolling deployment.
+    assert isinstance(report["newest_snapshot_age_hours"], (int, float))
+    expected_age = (datetime.now(timezone.utc) - datetime.fromisoformat(report["newest_snapshot_at"])).total_seconds() / 3600
+    assert abs(report["newest_snapshot_age_hours"] - expected_age) < 0.02
+    assert report["rows"] == {"stg_snapshots": 2, "fct_stories": 1}
+    assert json.loads(json.dumps(report))["newest_snapshot_at"] == report["newest_snapshot_at"]
 
 
 def test_summarise_run_counts_tests_and_models(tmp_path):
