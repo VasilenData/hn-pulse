@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T19:26:56+00:00",
+ "generated_at": "2026-11-08T00:39:44+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -70,26 +70,39 @@
    "distinct_stories": 150,
    "avg_score": 215.5,
    "avg_comments": 111.6
+  },
+  {
+   "day": "2026-11-08",
+   "snapshots": 1,
+   "distinct_stories": 99,
+   "avg_score": 203.8,
+   "avg_comments": 107.6
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 75,
-   "avg_peak_score": 165.7,
-   "total_comments": 4805
+   "avg_peak_score": 168.0,
+   "total_comments": 4844
   },
   {
    "domain": "arstechnica.com",
-   "stories": 19,
-   "avg_peak_score": 126.2,
-   "total_comments": 1724
+   "stories": 20,
+   "avg_peak_score": 122.5,
+   "total_comments": 1735
   },
   {
    "domain": "theguardian.com",
    "stories": 17,
-   "avg_peak_score": 87.2,
-   "total_comments": 1412
+   "avg_peak_score": 101.6,
+   "total_comments": 1579
+  },
+  {
+   "domain": "twitter.com",
+   "stories": 16,
+   "avg_peak_score": 85.1,
+   "total_comments": 862
   },
   {
    "domain": "nytimes.com",
@@ -100,14 +113,8 @@
   {
    "domain": "reuters.com",
    "stories": 15,
-   "avg_peak_score": 119.6,
-   "total_comments": 1006
-  },
-  {
-   "domain": "twitter.com",
-   "stories": 15,
-   "avg_peak_score": 90.3,
-   "total_comments": 862
+   "avg_peak_score": 120.1,
+   "total_comments": 1010
   },
   {
    "domain": "wired.com",
@@ -118,8 +125,14 @@
   {
    "domain": "arxiv.org",
    "stories": 10,
-   "avg_peak_score": 113.2,
+   "avg_peak_score": 113.3,
    "total_comments": 316
+  },
+  {
+   "domain": "bbc.com",
+   "stories": 10,
+   "avg_peak_score": 103.4,
+   "total_comments": 1392
   },
   {
    "domain": "theregister.com",
@@ -132,12 +145,6 @@
    "stories": 9,
    "avg_peak_score": 147.6,
    "total_comments": 507
-  },
-  {
-   "domain": "bbc.com",
-   "stories": 9,
-   "avg_peak_score": 114.0,
-   "total_comments": 1386
   },
   {
    "domain": "youtube.com",
@@ -167,8 +174,8 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 31,
-   "avg_peak_score": 120.8
+   "stories": 32,
+   "avg_peak_score": 117.3
   },
   {
    "posted_hour_utc": 1,
@@ -178,414 +185,414 @@
   {
    "posted_hour_utc": 2,
    "stories": 23,
-   "avg_peak_score": 78.8
+   "avg_peak_score": 81.1
   },
   {
    "posted_hour_utc": 3,
-   "stories": 30,
-   "avg_peak_score": 89.4
+   "stories": 31,
+   "avg_peak_score": 86.9
   },
   {
    "posted_hour_utc": 4,
    "stories": 22,
-   "avg_peak_score": 111.1
+   "avg_peak_score": 114.0
   },
   {
    "posted_hour_utc": 5,
    "stories": 20,
-   "avg_peak_score": 68.3
+   "avg_peak_score": 71.9
   },
   {
    "posted_hour_utc": 6,
    "stories": 17,
-   "avg_peak_score": 152.2
+   "avg_peak_score": 153.3
   },
   {
    "posted_hour_utc": 7,
    "stories": 26,
-   "avg_peak_score": 212.8
+   "avg_peak_score": 213.3
   },
   {
    "posted_hour_utc": 8,
    "stories": 19,
-   "avg_peak_score": 144.5
+   "avg_peak_score": 144.6
   },
   {
    "posted_hour_utc": 9,
    "stories": 30,
-   "avg_peak_score": 152.8
+   "avg_peak_score": 165.1
   },
   {
    "posted_hour_utc": 10,
-   "stories": 24,
-   "avg_peak_score": 228.3
+   "stories": 25,
+   "avg_peak_score": 221.4
   },
   {
    "posted_hour_utc": 11,
    "stories": 37,
-   "avg_peak_score": 191.9
+   "avg_peak_score": 196.5
   },
   {
    "posted_hour_utc": 12,
    "stories": 39,
-   "avg_peak_score": 279.1
+   "avg_peak_score": 279.7
   },
   {
    "posted_hour_utc": 13,
    "stories": 53,
-   "avg_peak_score": 168.8
+   "avg_peak_score": 168.9
   },
   {
    "posted_hour_utc": 14,
    "stories": 90,
-   "avg_peak_score": 176.2
+   "avg_peak_score": 177.1
   },
   {
    "posted_hour_utc": 15,
-   "stories": 114,
-   "avg_peak_score": 141.2
+   "stories": 116,
+   "avg_peak_score": 139.9
   },
   {
    "posted_hour_utc": 16,
    "stories": 106,
-   "avg_peak_score": 133.9
+   "avg_peak_score": 136.3
   },
   {
    "posted_hour_utc": 17,
-   "stories": 92,
-   "avg_peak_score": 147.1
+   "stories": 93,
+   "avg_peak_score": 152.0
   },
   {
    "posted_hour_utc": 18,
    "stories": 76,
-   "avg_peak_score": 134.5
+   "avg_peak_score": 141.5
   },
   {
    "posted_hour_utc": 19,
-   "stories": 76,
-   "avg_peak_score": 203.6
+   "stories": 78,
+   "avg_peak_score": 198.9
   },
   {
    "posted_hour_utc": 20,
-   "stories": 78,
-   "avg_peak_score": 107.2
+   "stories": 81,
+   "avg_peak_score": 106.7
   },
   {
    "posted_hour_utc": 21,
-   "stories": 65,
-   "avg_peak_score": 173.3
+   "stories": 73,
+   "avg_peak_score": 156.2
   },
   {
    "posted_hour_utc": 22,
-   "stories": 47,
-   "avg_peak_score": 119.1
+   "stories": 50,
+   "avg_peak_score": 113.1
   },
   {
    "posted_hour_utc": 23,
-   "stories": 40,
-   "avg_peak_score": 142.1
+   "stories": 42,
+   "avg_peak_score": 138.0
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
    "story_id": 50406563,
-   "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-   "domain": "businessexaminer.ca",
-   "score": 100,
-   "comments": 24,
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "domain": "hunch.net",
+   "score": 344,
+   "comments": 200,
    "author": "srean",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 2,
-   "story_id": 50406589,
-   "title": "The End of AI Frontiers",
-   "domain": "hunch.net",
-   "score": 71,
-   "comments": 20,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50408931,
+   "title": "GitHub New pull request overview page in public preview",
+   "domain": "github.blog",
+   "score": 32,
+   "comments": 22,
+   "author": "xiaoyu2006",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 3,
    "story_id": 50406670,
-   "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+   "title": "What I run on my $10 USD OpenStick homelab",
    "domain": "blog.bosscher.ch",
-   "score": 62,
-   "comments": 10,
+   "score": 307,
+   "comments": 76,
    "author": "LaurensBER",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 4,
-   "story_id": 50406292,
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "domain": "github.com",
-   "score": 87,
-   "comments": 21,
-   "author": "hedgerow-dev",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50408713,
+   "title": "Making any integer with four 2s (2025)",
+   "domain": "eli.thegreenplace.net",
+   "score": 41,
+   "comments": 8,
+   "author": "germanrabbit",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 5,
-   "story_id": 50406222,
-   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-   "domain": "maxxbench.unlap.ai",
-   "score": 65,
-   "comments": 10,
-   "author": "antiuniverse",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50407882,
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "domain": "apiiro.com",
+   "score": 131,
+   "comments": 96,
+   "author": "shmulc",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 6,
-   "story_id": 50404599,
-   "title": "The $8 Linux Computer (2022)",
-   "domain": "thelittleengineerthatcould.blogspot.com",
-   "score": 154,
-   "comments": 62,
-   "author": "zenincognito",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50406111,
+   "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
+   "domain": "theguardian.com",
+   "score": 332,
+   "comments": 224,
+   "author": "user_7832",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 7,
-   "story_id": 50406319,
-   "title": "Five Memorable Books About Programming",
-   "domain": "prog21.dadgum.com",
-   "score": 25,
-   "comments": 6,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50406222,
+   "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
+   "domain": "maxxbench.unlap.ai",
+   "score": 184,
+   "comments": 55,
+   "author": "antiuniverse",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 8,
-   "story_id": 50403052,
-   "title": "Need for Speed Underground 2 online in the browser",
-   "domain": "nfsu2.xyz",
-   "score": 595,
-   "comments": 176,
-   "author": "fluxusars",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50406292,
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "domain": "github.com",
+   "score": 185,
+   "comments": 39,
+   "author": "hedgerow-dev",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 9,
-   "story_id": 50405789,
-   "title": "How Long Can Life Wait?",
-   "domain": "mceglowski.substack.com",
-   "score": 69,
-   "comments": 24,
-   "author": "Ariarule",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50377661,
+   "title": "Uranium cubes reveal why the German nuclear project failed",
+   "domain": "arstechnica.com",
+   "score": 51,
+   "comments": 11,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 10,
-   "story_id": 50370787,
-   "title": "The Typo Generation Is Damaging Literature",
-   "domain": "metropolitanreview.org",
-   "score": 16,
-   "comments": 7,
-   "author": "bryanrasmussen",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50403052,
+   "title": "Need for Speed Underground 2 online in the browser",
+   "domain": "nfsu2.xyz",
+   "score": 787,
+   "comments": 224,
+   "author": "fluxusars",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 11,
-   "story_id": 50399933,
-   "title": "Libghostty 1.0",
-   "domain": "mitchellh.com",
-   "score": 957,
-   "comments": 162,
-   "author": "mfiguiere",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50358337,
+   "title": "Turning Every Radio into a Radar",
+   "domain": "tiaminetworks.com",
+   "score": 19,
+   "comments": 5,
+   "author": "hasley",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 12,
-   "story_id": 50361657,
-   "title": "Text.js: Build full-stack React apps that render inside console.log",
-   "domain": "textjs.org",
-   "score": 54,
-   "comments": 23,
-   "author": "nateb2022",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50361212,
+   "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
+   "domain": "bournemouth.ac.uk",
+   "score": 9,
+   "comments": 0,
+   "author": "gmays",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 13,
-   "story_id": 50403066,
-   "title": "Running a law firm on Free software",
-   "domain": "decoded.legal",
-   "score": 173,
-   "comments": 81,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50408350,
+   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+   "domain": "eyesrhythm.com",
+   "score": 22,
+   "comments": 6,
+   "author": "prnysoni",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 14,
-   "story_id": 50405782,
-   "title": "Every processor die anyone has photographed and given away",
-   "domain": "sheets.works",
-   "score": 20,
-   "comments": 4,
-   "author": "user_7832",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50406319,
+   "title": "Five memorable books about programming (2008)",
+   "domain": "prog21.dadgum.com",
+   "score": 79,
+   "comments": 51,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 15,
-   "story_id": 50405678,
-   "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
-   "domain": "kevinboone.me",
-   "score": 121,
-   "comments": 76,
-   "author": "andsoitis",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50405172,
+   "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+   "domain": "retrosongbird.com",
+   "score": 30,
+   "comments": 8,
+   "author": "hentrep",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 16,
-   "story_id": 50352791,
-   "title": "British Library Legal deposit and web archiving",
-   "domain": "bl.uk",
-   "score": 48,
-   "comments": 24,
-   "author": "robtherobber",
-   "snapshot_at": "2026-11-07T19:26:50"
-  },
-  {
-   "rank": 17,
    "story_id": 50403097,
    "title": "Every Mac comes with an (undocumented) family member classifier",
    "domain": "8rank.ai",
-   "score": 468,
-   "comments": 272,
+   "score": 582,
+   "comments": 333,
    "author": "infwhispers",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "snapshot_at": "2026-11-08T00:39:37"
+  },
+  {
+   "rank": 17,
+   "story_id": 50404599,
+   "title": "The $8 Linux Computer (2022)",
+   "domain": "thelittleengineerthatcould.blogspot.com",
+   "score": 192,
+   "comments": 84,
+   "author": "zenincognito",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 18,
-   "story_id": 50405263,
-   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-   "domain": "github.com",
-   "score": 21,
-   "comments": 8,
-   "author": "jiant",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50403507,
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "domain": "windowslatest.com",
+   "score": 201,
+   "comments": 196,
+   "author": "thunderbong",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 19,
-   "story_id": 50358094,
-   "title": "Tasfer: a text editor drawn on a 2D canvas",
-   "domain": "hamza.se",
-   "score": 47,
-   "comments": 21,
-   "author": "hamza512b",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50406502,
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+   "domain": "atlasobscura.com",
+   "score": 39,
+   "comments": 14,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 20,
-   "story_id": 50361417,
-   "title": "Building the NBC News Big Board",
-   "domain": "ejfox.com",
-   "score": 54,
-   "comments": 20,
-   "author": "whalesalad",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50405789,
+   "title": "How Long Can Life Wait?",
+   "domain": "mceglowski.substack.com",
+   "score": 120,
+   "comments": 69,
+   "author": "Ariarule",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 21,
-   "story_id": 50357763,
-   "title": "Optimising the Rail Cube",
-   "domain": "owenlacey.dev",
-   "score": 16,
-   "comments": 1,
-   "author": "owenlacey",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50408750,
+   "title": "IRA Velinsky \u2013 Commodore's Industrial Designer",
+   "domain": "commodore.ca",
+   "score": 7,
+   "comments": 0,
+   "author": "erickhill",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 22,
-   "story_id": 50397429,
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "domain": "hightouch.com",
-   "score": 564,
-   "comments": 138,
-   "author": "theanomaly",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50361657,
+   "title": "Text.js: Build full-stack React apps that render inside console.log",
+   "domain": "textjs.org",
+   "score": 80,
+   "comments": 47,
+   "author": "nateb2022",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 23,
-   "story_id": 50404747,
-   "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
-   "domain": "newyorkfed.org",
-   "score": 28,
-   "comments": 20,
-   "author": "tylerdane",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50408104,
+   "title": "Shadow of the Sun (2021)",
+   "domain": "mattlakeman.org",
+   "score": 18,
+   "comments": 4,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 24,
-   "story_id": 50406111,
-   "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
-   "domain": "theguardian.com",
-   "score": 86,
-   "comments": 57,
+   "story_id": 50405782,
+   "title": "Every processor die anyone has photographed and given away",
+   "domain": "sheets.works",
+   "score": 69,
+   "comments": 16,
    "author": "user_7832",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 25,
-   "story_id": 50356037,
-   "title": "ToothPaste",
-   "domain": "brisk4t.github.io",
-   "score": 80,
-   "comments": 17,
-   "author": "speckx",
-   "snapshot_at": "2026-11-07T19:26:50"
-  },
-  {
-   "rank": 26,
    "story_id": 50405674,
    "title": "Terry Pratchett's Study",
    "domain": "sussi.dk",
-   "score": 12,
-   "comments": 1,
+   "score": 91,
+   "comments": 24,
    "author": "ColinWright",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "snapshot_at": "2026-11-08T00:39:37"
+  },
+  {
+   "rank": 26,
+   "story_id": 50408129,
+   "title": "MeccanicOS",
+   "domain": "meccanicos.com",
+   "score": 14,
+   "comments": 4,
+   "author": "tomcam",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 27,
-   "story_id": 50354763,
-   "title": "ZeBridge \u2013 PostgreSQL replicas on devices, synchronized over NATS",
-   "domain": "github.com",
-   "score": 15,
-   "comments": 1,
-   "author": "ndrean",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50403066,
+   "title": "Running a law firm on Free software",
+   "domain": "decoded.legal",
+   "score": 229,
+   "comments": 110,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 28,
-   "story_id": 50377613,
-   "title": "Show HN: Spindle \u2013 a full-featured, type-safe web framework for OCaml 5",
-   "domain": "github.com",
-   "score": 51,
-   "comments": 8,
-   "author": "zaiev",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50401867,
+   "title": "Asahi Linux Progress Linux 7.3",
+   "domain": "asahilinux.org",
+   "score": 309,
+   "comments": 253,
+   "author": "ackyshake",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 29,
-   "story_id": 50360810,
-   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-   "domain": "smithsonianmag.com",
-   "score": 188,
-   "comments": 26,
-   "author": "derbOac",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50401740,
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "domain": "science.org",
+   "score": 206,
+   "comments": 184,
+   "author": "benbreen",
+   "snapshot_at": "2026-11-08T00:39:37"
   },
   {
    "rank": 30,
-   "story_id": 50388001,
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "domain": "reuters.com",
-   "score": 395,
-   "comments": 320,
-   "author": "ChrisArchitect",
-   "snapshot_at": "2026-11-07T19:26:50"
+   "story_id": 50408961,
+   "title": "Commodore PET \u2013 The Worlds First Personal Computer",
+   "domain": "commodore.ca",
+   "score": 3,
+   "comments": 0,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-08T00:39:37"
   }
  ],
  "quality": {
@@ -602,8 +609,8 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 4753,
-   "fct_stories": 1183
+   "stg_snapshots": 4852,
+   "fct_stories": 1207
   },
   "newest_snapshot_age_hours": 0.0
  }
