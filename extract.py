@@ -1,6 +1,9 @@
 """Extract: snapshot the current Hacker News top stories into an append-only CSV."""
 import csv
+import math
 import os
+import shutil
+import tempfile
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
@@ -36,22 +39,52 @@ def parse_item(item: dict, rank: int, snapshot_at: str) -> dict | None:
 
 
 def extract(top_n: int = TOP_N) -> list[dict]:
+    if not isinstance(top_n, int) or isinstance(top_n, bool) or not 1 <= top_n <= TOP_N:
+        raise ValueError(f"top_n must be an integer between 1 and {TOP_N}")
     snapshot_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
-    ids = fetch_json("topstories")[:top_n]
+    ids = fetch_json("topstories")
+    if not isinstance(ids, list):
+        raise ValueError("The top-stories response must be a list of story IDs")
+    ids = ids[:top_n]
+    if any(type(story_id) is not int or story_id <= 0 for story_id in ids) or len(ids) != len(set(ids)):
+        raise ValueError("The top-stories response contains invalid or duplicate story IDs")
     with ThreadPoolExecutor(max_workers=16) as pool:
         items = list(pool.map(lambda i: fetch_json(f"item/{i}"), ids))
     rows = [parse_item(item, rank, snapshot_at) for rank, item in enumerate(items, start=1)]
-    return [r for r in rows if r]
+    rows = [r for r in rows if r]
+    # Match the dbt completeness gate before touching append-only history. An empty
+    # run must not succeed merely because an older snapshot is still recent.
+    minimum = math.ceil(top_n * 0.9)
+    if len(rows) < minimum:
+        raise ValueError(f"Incomplete snapshot: collected {len(rows)} stories; expected at least {minimum}")
+    return rows
 
 
 def append_snapshot(rows: list[dict], path: str = RAW_PATH) -> int:
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    new_file = not os.path.exists(path)
-    with open(path, "a", newline="", encoding="utf-8") as fh:
-        writer = csv.DictWriter(fh, fieldnames=FIELDS)
-        if new_file:
-            writer.writeheader()
-        writer.writerows(rows)
+    if not rows:
+        raise ValueError("Cannot append an empty snapshot")
+    directory = os.path.dirname(path) or "."
+    os.makedirs(directory, exist_ok=True)
+    new_file = not os.path.exists(path) or os.path.getsize(path) == 0
+    temporary = None
+    try:
+        # Keep incomplete writes out of history: a partial snapshot would keep
+        # failing the historical dbt completeness check on every later run.
+        with tempfile.NamedTemporaryFile(mode="w", newline="", encoding="utf-8", dir=directory, delete=False) as fh:
+            temporary = fh.name
+            if not new_file:
+                with open(path, newline="", encoding="utf-8") as previous:
+                    shutil.copyfileobj(previous, fh)
+            writer = csv.DictWriter(fh, fieldnames=FIELDS)
+            if new_file:
+                writer.writeheader()
+            writer.writerows(rows)
+            fh.flush()
+            os.fsync(fh.fileno())
+        os.replace(temporary, path)
+    finally:
+        if temporary is not None and os.path.exists(temporary):
+            os.unlink(temporary)
     return len(rows)
 
 

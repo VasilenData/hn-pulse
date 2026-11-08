@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timedelta, timezone
 
 import duckdb
+import pytest
 
 import lineage
 import quality
@@ -24,6 +25,32 @@ def test_gate_passes_on_fresh_data(tmp_path):
     f = tmp_path / "raw.csv"
     f.write_text(f"snapshot_at,rank\n{now},1\n")
     assert quality.gate(str(f), max_age=1.0) == 0
+
+
+def test_gate_fails_on_future_snapshot(tmp_path):
+    future = (datetime.now(timezone.utc) + timedelta(hours=1)).isoformat()
+    raw = tmp_path / "raw.csv"
+    raw.write_text(f"snapshot_at,rank\n{future},1\n")
+    assert quality.gate(str(raw)) == 1
+
+
+def test_gate_compares_unrounded_age(tmp_path):
+    old = (datetime.now(timezone.utc) - timedelta(hours=1, seconds=1)).isoformat()
+    raw = tmp_path / "raw.csv"
+    raw.write_text(f"snapshot_at,rank\n{old},1\n")
+    assert quality.gate(str(raw), max_age=1.0) == 1
+
+
+@pytest.mark.parametrize("contents", ["snapshot_at,rank\n", "snapshot_at,rank\n,1\n", "snapshot_at,rank\ninvalid,1\n"])
+def test_gate_fails_cleanly_when_no_valid_timestamp_exists(tmp_path, contents, capsys):
+    raw = tmp_path / "raw.csv"
+    raw.write_text(contents)
+    assert quality.gate(str(raw)) == 1
+    assert "FRESHNESS GATE FAILED" in capsys.readouterr().out
+
+
+def test_gate_fails_cleanly_when_raw_file_is_missing(tmp_path):
+    assert quality.gate(str(tmp_path / "missing.csv")) == 1
 
 
 def test_health_export_preserves_absolute_snapshot_time(tmp_path):

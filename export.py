@@ -1,6 +1,7 @@
 """Export: read the dbt marts from DuckDB and write the JSON that powers the dashboard."""
 import json
 import os
+import tempfile
 from datetime import datetime, timezone
 
 import duckdb
@@ -14,23 +15,34 @@ MARTS = ["mart_daily_summary", "mart_top_domains", "mart_hourly_activity", "mart
 
 
 def export(db_path: str = DB_PATH, out_path: str = OUT_PATH) -> dict:
-    con = duckdb.connect(db_path, read_only=True)
     payload = {"generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat()}
-    for mart in MARTS:
-        cur = con.execute(f"select * from {mart}")
-        cols = [c[0] for c in cur.description]
-        payload[mart] = [
-            {c: (v.isoformat() if hasattr(v, "isoformat") else v) for c, v in zip(cols, row)}
-            for row in cur.fetchall()
-        ]
-    con.close()
+    ordering = ["day", "stories desc, avg_peak_score desc, domain", "posted_hour_utc", "rank"]
+    with duckdb.connect(db_path, read_only=True) as con:
+        for mart, order in zip(MARTS, ordering):
+            cur = con.execute(f"select * from {mart} order by {order}")
+            cols = [c[0] for c in cur.description]
+            payload[mart] = [
+                {c: (v.isoformat() if hasattr(v, "isoformat") else v) for c, v in zip(cols, row)}
+                for row in cur.fetchall()
+            ]
     try:
-        payload["quality"] = quality.build()
+        payload["quality"] = quality.build(db_path=db_path)
     except FileNotFoundError:  # exporting without a preceding dbt build (e.g. in unit tests)
         payload["quality"] = None
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as fh:
-        json.dump(payload, fh, indent=1, default=str)
+    directory = os.path.dirname(out_path) or "."
+    os.makedirs(directory, exist_ok=True)
+    temporary = None
+    try:
+        # A reader sees either the previous complete export or the new one.
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=directory, delete=False) as fh:
+            temporary = fh.name
+            json.dump(payload, fh, indent=1, default=str, allow_nan=False)
+            fh.flush()
+            os.fsync(fh.fileno())
+        os.replace(temporary, out_path)
+    finally:
+        if temporary is not None and os.path.exists(temporary):
+            os.unlink(temporary)
     return payload
 
 
