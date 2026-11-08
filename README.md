@@ -10,6 +10,8 @@ An end-to-end data engineering project: a scheduled pipeline snapshots the Hacke
 
 **Operating status:** GitHub Actions runs the public pipeline every three hours. GitHub Pages serves the dashboard. The Airflow DAG runs locally and is not the scheduler for the live site.
 
+**Operating record:** The [8 November 2026 review](docs/operations-review-2026-11-08.md) records 50 successful runs out of 52 completed pipeline runs in a bounded API history, explains the two failures and Pages cancellations, and documents a separate synthetic recovery exercise. This is a completed-run success rate, not uptime.
+
 ## Architecture
 
 ```mermaid
@@ -98,10 +100,12 @@ docs/freshness.mjs     browser-clock freshness assessment
 docs/dashboard-data.mjs export validation and bounded fetch requests
 test_export.py         atomic publication and export-order regression tests
 tests_js/              dashboard freshness and refresh regression tests
-.github/workflows/    scheduled pipeline + publishing
+.github/workflows/    pull-request checks + scheduled pipeline + publishing
 ```
 
 ## Limits and next steps
+Pull requests run lint, Python and dashboard regressions, and a dbt build against the committed snapshot data. These checks have read-only repository permissions and do not call the live API or publish dashboard updates.
+
 This is a small public-data product, not a large-scale throughput benchmark or an employer production system. The dataset grows with each successful run: current snapshot totals are displayed on the [dashboard](https://vasilendata.github.io/hn-pulse/), and row/story counts are in `quality.rows` in the dated [JSON export](docs/data.json). A passing last build does not guarantee the next scheduled run will succeed.
 
 GitHub Actions scheduling can be delayed and has no project-specific uptime guarantee. The browser's freshness assessment depends on the reader's device clock; it is not an external alerting service. A useful next step is independent failure/overdue-publication alerting. A cloud-warehouse port would also require validating SQL types, model behavior, permissions, and costs, rather than only changing the dbt profile.
