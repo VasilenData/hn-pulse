@@ -1,4 +1,4 @@
-"""Airflow DAG: extract HN top stories -> dbt build (models + tests) -> export dashboard JSON."""
+"""Local Airflow DAG: extract -> freshness gate -> dbt build -> export dashboard JSON."""
 from datetime import datetime, timedelta
 
 from airflow import DAG
@@ -17,10 +17,11 @@ with DAG(
     tags=["portfolio", "dbt"],
 ) as dag:
     extract = BashOperator(task_id="extract", bash_command=f"cd {PROJECT} && python extract.py")
+    freshness_gate = BashOperator(task_id="freshness_gate", bash_command=f"cd {PROJECT} && python quality.py gate")
     dbt_build = BashOperator(
         task_id="dbt_build",
         bash_command=f"cd {PROJECT} && dbt build --profiles-dir .",
     )
     export = BashOperator(task_id="export_dashboard_json", bash_command=f"cd {PROJECT} && python export.py")
 
-    extract >> dbt_build >> export
+    extract >> freshness_gate >> dbt_build >> export
