@@ -83,6 +83,7 @@ td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 <script type="module">
 import {assessFreshness, formatAge, freshnessMessage} from './freshness.mjs';
+import {fetchDashboardData} from './dashboard-data.mjs';
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let data=null,refreshFailed=false,refreshing=false,charts=[];
@@ -97,14 +98,15 @@ function renderDashboard(d){
   const days=d.mart_daily_summary, fp=d.mart_front_page_now;
   const snaps=days.reduce((a,x)=>a+x.snapshots,0);
   const top=fp[0]||{};
-  document.getElementById('kpis').innerHTML=[[snaps,'Snapshots collected'],[days.length,days.length===1?'Day of data':'Days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'Average score, front page'],[top.score||0,'Score of the #1 story']]
+  document.getElementById('kpis').innerHTML=[[snaps,'Snapshots collected'],[days.length,days.length===1?'Day of data':'Days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'Average score, front page'],[fp.length?top.score:'—',fp.length?`Score of the #${top.rank} story`:'Highest-ranked story score']]
    .map(([v,l])=>`<div><dt>${l}</dt><dd>${v}</dd></div>`).join('');
   const q=d.quality,rows=[];
   if(q){const t=q.tests,n=t.pass+t.warn+t.fail+t.error;
     rows.push([`${t.pass} of ${n}`,t.fail+t.error?'data tests passed (some failed)':'data tests passed'],[`${q.contracts_enforced} of ${q.models_total}`,'models have an enforced schema contract']);}
   document.getElementById('hl').innerHTML=rows.map(([a,b])=>`<div><dt>${b}</dt><dd>${a}</dd></div>`).join('')+'<div><dt>since the newest snapshot</dt><dd id="snapshot-age">Checking</dd></div>'+(q?`<div><dt>in ${q.rows.fct_stories.toLocaleString('en')} tracked stories</dt><dd>${q.rows.stg_snapshots.toLocaleString('en')} rows</dd></div>`:'');
-  renderFreshness();
-  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td class="rk">${x.rank}</td><td class="t">${esc(x.title)}</td><td class="dom">${esc(x.domain)}</td><td class="r">${x.score}</td><td class="r">${x.comments}</td></tr>`).join('');
+  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td class="rk">${x.rank}</td><td class="t">${esc(x.title ?? 'Untitled story')}</td><td class="dom">${esc(x.domain)}</td><td class="r">${x.score}</td><td class="r">${x.comments}</td></tr>`).join('');
+}
+function renderCharts(d){
   // Health and tabular data remain readable if the external chart library is unavailable.
   if(typeof Chart!=='function')return;
   charts.forEach(chart=>chart.destroy());
@@ -119,11 +121,10 @@ async function refreshDashboard(){
   if(refreshing)return;
   refreshing=true;
   try{
-    const response=await fetch('data.json',{cache:'no-store'});
-    if(!response.ok)throw new Error('Export unavailable');
-    const next=await response.json();
-    if(typeof next.generated_at!=='string'||!['mart_daily_summary','mart_front_page_now','mart_top_domains','mart_hourly_activity'].every(key=>Array.isArray(next[key])))throw new Error('Invalid export');
-    data=next;refreshFailed=false;renderDashboard(data);document.getElementById('load-error')?.remove();
+    const next=await fetchDashboardData();
+    renderDashboard(next);data=next;refreshFailed=false;renderFreshness();document.getElementById('load-error')?.remove();
+    // A chart error must not turn a successful data refresh into a failed refresh.
+    try{renderCharts(data);}catch(error){console.warn('Charts could not be rendered',error);}
   }catch{
     if(data){refreshFailed=true;renderFreshness();}
     else if(!document.getElementById('load-error')){
