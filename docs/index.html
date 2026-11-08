@@ -59,6 +59,7 @@ footer.f{padding:28px 0 56px;color:var(--muted);font-size:.875rem;max-width:48re
 .hl dt{color:var(--muted);font-size:.875rem;order:2}
 .hl dd{margin:0 0 .15rem;font-size:1.25rem;font-weight:600;color:var(--ink)}
 .hl div{display:flex;flex-direction:column}
+#freshness-status[data-state="stale"],#freshness-status[data-state="unknown"],#freshness-status[data-state="clock-skew"]{color:#F3C47B}
 [hidden]{display:none!important}
 
 td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var(--muted)}td.rk{color:var(--muted);width:2.5rem;font-variant-numeric:tabular-nums}
@@ -67,39 +68,74 @@ td.t{max-width:34rem}td.dom{font-family:var(--mono);font-size:.8125rem;color:var
 </style></head><body><div class="wrap">
 <nav class="top" aria-label="Portfolio"><a href="https://vasilendata.github.io/">&larr; Vasilen Kanchev</a><span>Data engineering project</span></nav>
 <header class="pg"><h1>HN Pulse</h1>
-<p class="sub">A scheduled pipeline snapshots the Hacker News front page, models it with dbt (with automated tests), and publishes the results here. Last refresh: <b id="gen" class="num">loading</b> UTC. <a href="https://github.com/VasilenData/hn-pulse">Source on GitHub</a></p>
+<p class="sub">A scheduled pipeline snapshots the Hacker News front page, models it with dbt (with automated tests), and publishes the results here. Last data export: <b id="gen" class="num">loading</b> UTC. <a href="https://github.com/VasilenData/hn-pulse">Source on GitHub</a></p>
 <dl class="find" id="kpis" aria-label="Key figures"></dl></header>
 <main id="main">
 <section class="blk"><div class="two">
 <div><h2>Which sites reach the front page most</h2><p class="n">Stories per domain, top 15.</p><div class="cv"><canvas id="c1" role="img" aria-label="Bar chart of top domains by stories on the front page"></canvas></div></div>
 <div><h2>When posts score highest</h2><p class="n">Average peak score by posting hour (UTC).</p><div class="cv"><canvas id="c2" role="img" aria-label="Line chart of average peak score by posting hour"></canvas></div></div>
 </div></section>
-<section class="blk" id="health"><h2>Pipeline health</h2><p class="n">Computed by the last run, which publishes this page only when every check passes.</p><dl class="hl" id="hl"></dl><p class="n"><a href="https://github.com/VasilenData/hn-pulse/blob/main/LINEAGE.md">See the model lineage</a> and the <a href="https://github.com/VasilenData/hn-pulse/blob/main/models/schema.yml">data contracts</a>.</p></section>
-<section class="blk"><h2>Front page right now</h2><p class="n">Top 30 stories at the latest snapshot.</p><div class="scroll" style="min-height:1450px"><table id="t"><thead><tr><th>Rank</th><th>Title</th><th>Domain</th><th class="r">Score</th><th class="r">Comments</th></tr></thead><tbody></tbody></table></div></section>
+<section class="blk" id="health"><h2>Pipeline health</h2><p class="n">Checks reflect the last exported run. Snapshot age updates every minute; this page checks for a newer export every five minutes while visible.</p><dl class="hl" id="hl"></dl><p class="n" id="freshness-status" role="status" aria-live="polite">Checking data freshness.</p><p class="n"><a href="https://github.com/VasilenData/hn-pulse/blob/main/LINEAGE.md">See the model lineage</a>, the <a href="https://github.com/VasilenData/hn-pulse/blob/main/models/schema.yml">data contracts</a>, and the <a href="https://github.com/VasilenData/hn-pulse/actions/workflows/pipeline.yml">latest pipeline runs</a>.</p></section>
+<section class="blk"><h2>Latest collected front page</h2><p class="n">Top 30 stories at the latest snapshot.</p><div class="scroll" style="min-height:1450px"><table id="t"><thead><tr><th>Rank</th><th>Title</th><th>Domain</th><th class="r">Score</th><th class="r">Comments</th></tr></thead><tbody></tbody></table></div></section>
 </main>
 <footer class="f">Stack: Python · DuckDB · dbt · Airflow (local orchestration) · GitHub Actions · GitHub Pages. Data: <a href="https://github.com/HackerNews/API">Hacker News API</a>.</footer>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
-<script>
+<script type="module">
+import {assessFreshness, formatAge, freshnessMessage} from './freshness.mjs';
 const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
-fetch('data.json').then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{
-  const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let data=null,refreshFailed=false,refreshing=false,charts=[];
+function renderFreshness(){
+  if(!data)return;
+  const result=assessFreshness(data),status=document.getElementById('freshness-status');
+  document.getElementById('snapshot-age').textContent=formatAge(result.snapshotAgeHours);
+  status.textContent=freshnessMessage(result,refreshFailed);status.dataset.state=result.state;
+}
+function renderDashboard(d){
   document.getElementById('gen').textContent=d.generated_at.replace('T',' ').slice(0,16);
   const days=d.mart_daily_summary, fp=d.mart_front_page_now;
   const snaps=days.reduce((a,x)=>a+x.snapshots,0);
   const top=fp[0]||{};
-  [[snaps,'Snapshots collected'],[days.length,days.length===1?'Day of data':'Days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'Average score, front page'],[top.score||0,'Score of the #1 story']]
-   .forEach(([v,l])=>document.getElementById('kpis').insertAdjacentHTML('beforeend',`<div><dt>${l}</dt><dd>${v}</dd></div>`));
+  document.getElementById('kpis').innerHTML=[[snaps,'Snapshots collected'],[days.length,days.length===1?'Day of data':'Days of data'],[fp.length?Math.round(fp.reduce((a,x)=>a+x.score,0)/fp.length):0,'Average score, front page'],[top.score||0,'Score of the #1 story']]
+   .map(([v,l])=>`<div><dt>${l}</dt><dd>${v}</dd></div>`).join('');
+  const q=d.quality,rows=[];
+  if(q){const t=q.tests,n=t.pass+t.warn+t.fail+t.error;
+    rows.push([`${t.pass} of ${n}`,t.fail+t.error?'data tests passed (some failed)':'data tests passed'],[`${q.contracts_enforced} of ${q.models_total}`,'models have an enforced schema contract']);}
+  document.getElementById('hl').innerHTML=rows.map(([a,b])=>`<div><dt>${b}</dt><dd>${a}</dd></div>`).join('')+'<div><dt>since the newest snapshot</dt><dd id="snapshot-age">Checking</dd></div>'+(q?`<div><dt>in ${q.rows.fct_stories.toLocaleString('en')} tracked stories</dt><dd>${q.rows.stg_snapshots.toLocaleString('en')} rows</dd></div>`:'');
+  renderFreshness();
+  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td class="rk">${x.rank}</td><td class="t">${esc(x.title)}</td><td class="dom">${esc(x.domain)}</td><td class="r">${x.score}</td><td class="r">${x.comments}</td></tr>`).join('');
+  // Health and tabular data remain readable if the external chart library is unavailable.
+  if(typeof Chart!=='function')return;
+  charts.forEach(chart=>chart.destroy());
   const mut=css('--muted'),rule=css('--rule'),sig=css('--signal'),teal=css('--teal');
   Chart.defaults.font.family="'Public Sans',system-ui,sans-serif";Chart.defaults.font.size=13;Chart.defaults.color=mut;
   const ax=(o={})=>({ticks:{color:mut,font:{size:12}},grid:{color:rule,drawTicks:false},border:{display:false},...o});
   const base={plugins:{legend:{display:false}}};
-  new Chart(c1,{type:'bar',data:{labels:d.mart_top_domains.map(x=>x.domain),datasets:[{data:d.mart_top_domains.map(x=>x.stories),backgroundColor:teal,borderRadius:2}]},options:{...base,indexAxis:'y',aspectRatio:.95,scales:{x:ax({title:{display:true,text:'Stories'},ticks:{precision:0,color:mut}}),y:{...ax(),grid:{display:false},ticks:{autoSkip:false,color:mut,font:{size:12}}}}}});
-  new Chart(c2,{type:'line',data:{labels:d.mart_hourly_activity.map(x=>String(x.posted_hour_utc).padStart(2,'0')+':00'),datasets:[{data:d.mart_hourly_activity.map(x=>x.avg_peak_score),borderColor:teal,backgroundColor:teal+'26',fill:true,borderWidth:2,pointRadius:2,tension:.25}]},options:{...base,aspectRatio:.95,scales:{x:ax({ticks:{maxTicksLimit:8,color:mut}}),y:ax({title:{display:true,text:'Average peak score'}})}}});
-  const q=d.quality;
-  if(q){const t=q.tests,n=t.pass+t.warn+t.fail+t.error,age=q.newest_snapshot_age_hours;
-    const rows=[[`${t.pass} of ${n}`,t.fail+t.error?'data tests passed (some failed)':'data tests passed'],[`${q.contracts_enforced} of ${q.models_total}`,'models have an enforced schema contract'],[age<1?'under 1 hour':age.toFixed(1)+' hours','since the newest snapshot'],[`${q.rows.stg_snapshots.toLocaleString('en')} rows`,`in ${q.rows.fct_stories.toLocaleString('en')} tracked stories`]];
-    document.getElementById('hl').innerHTML=rows.map(([a,b])=>`<div><dt>${b}</dt><dd>${a}</dd></div>`).join('');document.getElementById('health').hidden=false}
-  document.querySelector('#t tbody').innerHTML=fp.map(x=>`<tr><td class="rk">${x.rank}</td><td class="t">${esc(x.title)}</td><td class="dom">${esc(x.domain)}</td><td class="r">${x.score}</td><td class="r">${x.comments}</td></tr>`).join('');
-}).catch(()=>{document.getElementById('gen').textContent='unavailable';document.getElementById('main').insertAdjacentHTML('afterbegin','<div class="err" role="alert">The pipeline data did not load. Reload the page; if it still fails, check the latest run in the GitHub Actions tab of the source repository.</div>')});
+  charts=[new Chart(document.getElementById('c1'),{type:'bar',data:{labels:d.mart_top_domains.map(x=>x.domain),datasets:[{data:d.mart_top_domains.map(x=>x.stories),backgroundColor:teal,borderRadius:2}]},options:{...base,indexAxis:'y',aspectRatio:.95,scales:{x:ax({title:{display:true,text:'Stories'},ticks:{precision:0,color:mut}}),y:{...ax(),grid:{display:false},ticks:{autoSkip:false,color:mut,font:{size:12}}}}}}),
+    new Chart(document.getElementById('c2'),{type:'line',data:{labels:d.mart_hourly_activity.map(x=>String(x.posted_hour_utc).padStart(2,'0')+':00'),datasets:[{data:d.mart_hourly_activity.map(x=>x.avg_peak_score),borderColor:teal,backgroundColor:teal+'26',fill:true,borderWidth:2,pointRadius:2,tension:.25}]},options:{...base,aspectRatio:.95,scales:{x:ax({ticks:{maxTicksLimit:8,color:mut}}),y:ax({title:{display:true,text:'Average peak score'}})}}})];
+}
+async function refreshDashboard(){
+  if(refreshing)return;
+  refreshing=true;
+  try{
+    const response=await fetch('data.json',{cache:'no-store'});
+    if(!response.ok)throw new Error('Export unavailable');
+    const next=await response.json();
+    if(typeof next.generated_at!=='string'||!['mart_daily_summary','mart_front_page_now','mart_top_domains','mart_hourly_activity'].every(key=>Array.isArray(next[key])))throw new Error('Invalid export');
+    data=next;refreshFailed=false;renderDashboard(data);document.getElementById('load-error')?.remove();
+  }catch{
+    if(data){refreshFailed=true;renderFreshness();}
+    else if(!document.getElementById('load-error')){
+      document.getElementById('gen').textContent='unavailable';
+      document.getElementById('freshness-status').textContent='Freshness unavailable: the pipeline data could not be loaded.';
+      document.getElementById('freshness-status').dataset.state='unknown';
+      document.getElementById('main').insertAdjacentHTML('afterbegin','<div class="err" id="load-error" role="alert">The pipeline data did not load. This page will retry; you can also check the latest run in the GitHub Actions tab of the source repository.</div>');
+    }
+  }finally{refreshing=false;}
+}
+refreshDashboard();
+setInterval(renderFreshness,60_000);
+setInterval(()=>{if(document.visibilityState==='visible')refreshDashboard();},5*60_000);
+document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')refreshDashboard();});
 </script></body></html>
