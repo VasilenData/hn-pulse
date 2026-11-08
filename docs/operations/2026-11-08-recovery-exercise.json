@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "evidence_type": "executed_simulation",
+  "simulation_notice": "This is an intentionally injected local exercise with synthetic data, not a production incident or real operating history.",
+  "status": "passed",
+  "started_at_utc": "2026-11-08T17:19:28+00:00",
+  "finished_at_utc": "2026-11-08T17:19:29+00:00",
+  "local_git_head": "8eebe7fed55e014984638fc6d86a51a5598521df",
+  "source_sha256_before": {
+    "export.py": "7403e47c4923a00b9ccc812bef5d68efa43b94ab24f8212027ef7d7a5cb1bc53",
+    "quality.py": "b593e953572be5c6d564ba1357cc6e8c47cb5e2a2076a0894d5d366f76c160a7",
+    "docs/index.html": "a6906121988ef30ca56232445ff209a2e426d76943aa757ec9dd58149bfd0f53",
+    "docs/dashboard-data.mjs": "4dbce870638b7f43bcabe05a2d28367571d6ef04ae16261aa1f7e4bb6da69b69",
+    "docs/freshness.mjs": "0af329ef6e7886589b920b07693064ddf8339f84b1728f7b123d93c4cca64e94",
+    "docs/data.json": "9fafe41cfdc1d8f0c601ac2e42621e658a148efa4772f3214de5af77a84183ef",
+    "data/raw_snapshots.csv": "8385c4ef87c980f4a17ca96265abef116792f7a08b7fae2b5ff4ee6035140631"
+  },
+  "source_sha256_after": {
+    "export.py": "7403e47c4923a00b9ccc812bef5d68efa43b94ab24f8212027ef7d7a5cb1bc53",
+    "quality.py": "b593e953572be5c6d564ba1357cc6e8c47cb5e2a2076a0894d5d366f76c160a7",
+    "docs/index.html": "a6906121988ef30ca56232445ff209a2e426d76943aa757ec9dd58149bfd0f53",
+    "docs/dashboard-data.mjs": "4dbce870638b7f43bcabe05a2d28367571d6ef04ae16261aa1f7e4bb6da69b69",
+    "docs/freshness.mjs": "0af329ef6e7886589b920b07693064ddf8339f84b1728f7b123d93c4cca64e94",
+    "docs/data.json": "9fafe41cfdc1d8f0c601ac2e42621e658a148efa4772f3214de5af77a84183ef",
+    "data/raw_snapshots.csv": "8385c4ef87c980f4a17ca96265abef116792f7a08b7fae2b5ff4ee6035140631"
+  },
+  "repository_unchanged": true,
+  "source_note": "Local HEAD predates the uncommitted tested files. File hashes identify the exact exercised code; no clean-checkout claim is made.",
+  "runtime": {
+    "python": "3.12.14",
+    "duckdb": "2.0.0",
+    "node": "v24.22.1"
+  },
+  "export_failure": {
+    "expected_exception": {
+      "type": "OSError",
+      "message": "SIMULATED: interrupted temporary JSON write"
+    },
+    "injected_partial_bytes": 14,
+    "before": {
+      "sha256": "a48ad54e52a69406ef43300c4ca6104ebffe6e56b4d9469f3fe94979fd31f256",
+      "bytes": 800,
+      "front_page_rows": 2,
+      "daily_rows": 1,
+      "domain_rows": 1,
+      "hourly_rows": 1,
+      "first_story_title": "SIMULATED: initial story",
+      "quality_is_null": true
+    },
+    "after_failure": {
+      "sha256": "a48ad54e52a69406ef43300c4ca6104ebffe6e56b4d9469f3fe94979fd31f256",
+      "bytes": 800,
+      "front_page_rows": 2,
+      "daily_rows": 1,
+      "domain_rows": 1,
+      "hourly_rows": 1,
+      "first_story_title": "SIMULATED: initial story",
+      "quality_is_null": true
+    },
+    "last_good_bytes_preserved": true,
+    "temporary_files_remaining": 0,
+    "recovered": {
+      "sha256": "f192c0aa11ab06b21bd27a4c9ecbeee2a10735e2949ae92f3f5a26cb23c2412a",
+      "bytes": 999,
+      "front_page_rows": 3,
+      "daily_rows": 1,
+      "domain_rows": 1,
+      "hourly_rows": 1,
+      "first_story_title": "SIMULATED: recovered story",
+      "quality_is_null": true
+    }
+  },
+  "frontend_invalid_payload": {
+    "evidence_type": "executed_simulation",
+    "harness": "real inline dashboard module with minimal DOM and synthetic fetch responses",
+    "status": "passed",
+    "expected_rejection": {
+      "name": "Error",
+      "message": "The dashboard export has invalid data"
+    },
+    "before": {
+      "table_sha256": "5a92526871055a0f6c5a9f64cabb4689e04d79c3cf7998bc20c4753e4f7b569d",
+      "table_bytes": 299,
+      "table_rows": 2,
+      "kpi_sha256": "e369c6a2eacf1b3ae0a05bbb29f555baa8befb8d62bf78e23361fa8afb7e9fad",
+      "kpi_bytes": 198,
+      "generated_label": "2026-11-08 17:19",
+      "freshness_message": "Data update overdue. The displayed snapshot or export is at least 6 hours old. Scheduled every 3 hours; flagged overdue after 6 hours."
+    },
+    "after_invalid_payload": {
+      "table_sha256": "5a92526871055a0f6c5a9f64cabb4689e04d79c3cf7998bc20c4753e4f7b569d",
+      "table_bytes": 299,
+      "table_rows": 2,
+      "kpi_sha256": "e369c6a2eacf1b3ae0a05bbb29f555baa8befb8d62bf78e23361fa8afb7e9fad",
+      "kpi_bytes": 198,
+      "generated_label": "2026-11-08 17:19",
+      "freshness_message": "Data update overdue. The displayed snapshot or export is at least 6 hours old. Scheduled every 3 hours; flagged overdue after 6 hours. Could not check for a newer export; showing the last data loaded."
+    },
+    "after_recovery": {
+      "table_sha256": "fbd067cab883c01e97ae22c364a351c7468d87659c7be5b56c2543ab51fd843d",
+      "table_bytes": 447,
+      "table_rows": 3,
+      "kpi_sha256": "ff107a42962debb331f051eb15d82a31473eec492922e82f0e64b3ce8c110ec3",
+      "kpi_bytes": 198,
+      "generated_label": "2026-11-08 17:19",
+      "freshness_message": "Data update overdue. The displayed snapshot or export is at least 6 hours old. Scheduled every 3 hours; flagged overdue after 6 hours."
+    },
+    "last_good_table_and_kpis_preserved": true,
+    "warning_displayed": true,
+    "recovery_loaded": true
+  },
+  "limitations": [
+    "No production state, live API extraction, real GitHub failure, deployment, or external alert was exercised.",
+    "Frontend execution uses the real dashboard script with a minimal DOM harness; it is not visual browser QA.",
+    "Synthetic health metadata is null. No dbt test outcomes or production row counts are fabricated.",
+    "This does not establish downtime, mean time to recovery, an SLA, or a long-term reliability rate."
+  ],
+  "source_provenance": {
+    "checked_on_utc": "2026-11-08",
+    "clean_clone_head": "595c6c4c83e4f05082316b0130de3f29a5941f1f",
+    "clean_clone_status": "",
+    "exercised_source_matches_clean_clone_after_line_ending_normalization": true,
+    "source_change_commit": "71f77ee863c4c395948542200f1107c843cabbb9",
+    "publication_commit": "595c6c4c83e4f05082316b0130de3f29a5941f1f",
+    "comparisons": {
+      "export.py": {
+        "exercised_sha256": "7403e47c4923a00b9ccc812bef5d68efa43b94ab24f8212027ef7d7a5cb1bc53",
+        "clean_clone_sha256": "7403e47c4923a00b9ccc812bef5d68efa43b94ab24f8212027ef7d7a5cb1bc53",
+        "bytes_match": true,
+        "lf_normalized_match": true,
+        "lf_normalized_sha256": "35823d3260f82d6febe37134cd344db6af06f51c2cf5d5caa9845110442e5115"
+      },
+      "quality.py": {
+        "exercised_sha256": "b593e953572be5c6d564ba1357cc6e8c47cb5e2a2076a0894d5d366f76c160a7",
+        "clean_clone_sha256": "b593e953572be5c6d564ba1357cc6e8c47cb5e2a2076a0894d5d366f76c160a7",
+        "bytes_match": true,
+        "lf_normalized_match": true,
+        "lf_normalized_sha256": "fe6745da66891da51ffab0289123bb7eb55b890a5dabf83612727533d3922ed0"
+      },
+      "docs/index.html": {
+        "exercised_sha256": "a6906121988ef30ca56232445ff209a2e426d76943aa757ec9dd58149bfd0f53",
+        "clean_clone_sha256": "a6906121988ef30ca56232445ff209a2e426d76943aa757ec9dd58149bfd0f53",
+        "bytes_match": true,
+        "lf_normalized_match": true,
+        "lf_normalized_sha256": "55bcb85d991fdd8f9f1e67f1c4c6d4f41d4ae2054cd524626eacd30cdb554012"
+      },
+      "docs/dashboard-data.mjs": {
+        "exercised_sha256": "4dbce870638b7f43bcabe05a2d28367571d6ef04ae16261aa1f7e4bb6da69b69",
+        "clean_clone_sha256": "b3fe503b354a9c23115cc9b583a1ccd796f6be05db25e39d66b6cee979159f09",
+        "bytes_match": false,
+        "lf_normalized_match": true,
+        "lf_normalized_sha256": "4dbce870638b7f43bcabe05a2d28367571d6ef04ae16261aa1f7e4bb6da69b69"
+      },
+      "docs/freshness.mjs": {
+        "exercised_sha256": "0af329ef6e7886589b920b07693064ddf8339f84b1728f7b123d93c4cca64e94",
+        "clean_clone_sha256": "0af329ef6e7886589b920b07693064ddf8339f84b1728f7b123d93c4cca64e94",
+        "bytes_match": true,
+        "lf_normalized_match": true,
+        "lf_normalized_sha256": "a3cf6251d47a16196d4cb40beb55f46ffbf82903b79fbb3449a8fd05b1287682"
+      }
+    },
+    "note": "All five exercised implementation files match the clean latest-main clone after CRLF-to-LF normalization. Four match byte-for-byte; docs/dashboard-data.mjs differs only in line endings. Exact exercised hashes remain in the drill result."
+  }
+}
