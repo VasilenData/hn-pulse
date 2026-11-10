@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T03:36:08+00:00",
+ "generated_at": "2026-11-10T14:56:18+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -87,18 +87,24 @@
   },
   {
    "day": "2026-11-10",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 154.3,
-   "avg_comments": 102.3
+   "snapshots": 2,
+   "distinct_stories": 136,
+   "avg_score": 172.9,
+   "avg_comments": 109.1
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 101,
-   "avg_peak_score": 147.8,
-   "total_comments": 5788
+   "stories": 102,
+   "avg_peak_score": 150.6,
+   "total_comments": 5961
+  },
+  {
+   "domain": "nytimes.com",
+   "stories": 21,
+   "avg_peak_score": 235.8,
+   "total_comments": 1887
   },
   {
    "domain": "arstechnica.com",
@@ -113,16 +119,10 @@
    "total_comments": 1720
   },
   {
-   "domain": "nytimes.com",
-   "stories": 19,
-   "avg_peak_score": 257.0,
-   "total_comments": 1854
-  },
-  {
    "domain": "twitter.com",
    "stories": 19,
-   "avg_peak_score": 115.2,
-   "total_comments": 1412
+   "avg_peak_score": 123.0,
+   "total_comments": 1615
   },
   {
    "domain": "reuters.com",
@@ -133,8 +133,14 @@
   {
    "domain": "arxiv.org",
    "stories": 12,
-   "avg_peak_score": 109.9,
-   "total_comments": 358
+   "avg_peak_score": 110.1,
+   "total_comments": 362
+  },
+  {
+   "domain": "youtube.com",
+   "stories": 12,
+   "avg_peak_score": 55.2,
+   "total_comments": 259
   },
   {
    "domain": "wired.com",
@@ -155,12 +161,6 @@
    "total_comments": 1003
   },
   {
-   "domain": "youtube.com",
-   "stories": 11,
-   "avg_peak_score": 54.7,
-   "total_comments": 228
-  },
-  {
    "domain": "theregister.com",
    "stories": 10,
    "avg_peak_score": 91.7,
@@ -173,440 +173,440 @@
    "total_comments": 356
   },
   {
+   "domain": "anthropic.com",
+   "stories": 9,
+   "avg_peak_score": 225.7,
+   "total_comments": 1681
+  },
+  {
    "domain": "spectrum.ieee.org",
    "stories": 9,
    "avg_peak_score": 224.3,
    "total_comments": 1147
-  },
-  {
-   "domain": "phoronix.com",
-   "stories": 9,
-   "avg_peak_score": 38.9,
-   "total_comments": 140
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 39,
-   "avg_peak_score": 115.2
+   "avg_peak_score": 125.4
   },
   {
    "posted_hour_utc": 1,
-   "stories": 32,
-   "avg_peak_score": 161.0
+   "stories": 33,
+   "avg_peak_score": 159.5
   },
   {
    "posted_hour_utc": 2,
-   "stories": 29,
-   "avg_peak_score": 75.7
+   "stories": 30,
+   "avg_peak_score": 73.6
   },
   {
    "posted_hour_utc": 3,
-   "stories": 41,
-   "avg_peak_score": 91.4
+   "stories": 42,
+   "avg_peak_score": 96.3
   },
   {
    "posted_hour_utc": 4,
-   "stories": 25,
-   "avg_peak_score": 112.9
+   "stories": 26,
+   "avg_peak_score": 109.8
   },
   {
    "posted_hour_utc": 5,
-   "stories": 25,
-   "avg_peak_score": 68.9
+   "stories": 27,
+   "avg_peak_score": 71.9
   },
   {
    "posted_hour_utc": 6,
-   "stories": 18,
-   "avg_peak_score": 147.0
+   "stories": 20,
+   "avg_peak_score": 159.7
   },
   {
    "posted_hour_utc": 7,
-   "stories": 32,
-   "avg_peak_score": 209.0
+   "stories": 33,
+   "avg_peak_score": 208.1
   },
   {
    "posted_hour_utc": 8,
-   "stories": 25,
-   "avg_peak_score": 136.5
+   "stories": 26,
+   "avg_peak_score": 136.1
   },
   {
    "posted_hour_utc": 9,
-   "stories": 36,
-   "avg_peak_score": 166.1
+   "stories": 38,
+   "avg_peak_score": 161.0
   },
   {
    "posted_hour_utc": 10,
-   "stories": 31,
-   "avg_peak_score": 222.0
+   "stories": 36,
+   "avg_peak_score": 198.8
   },
   {
    "posted_hour_utc": 11,
-   "stories": 42,
-   "avg_peak_score": 196.9
+   "stories": 45,
+   "avg_peak_score": 187.0
   },
   {
    "posted_hour_utc": 12,
-   "stories": 45,
-   "avg_peak_score": 276.9
+   "stories": 50,
+   "avg_peak_score": 263.4
   },
   {
    "posted_hour_utc": 13,
-   "stories": 62,
-   "avg_peak_score": 152.5
+   "stories": 64,
+   "avg_peak_score": 149.6
   },
   {
    "posted_hour_utc": 14,
-   "stories": 100,
-   "avg_peak_score": 168.9
+   "stories": 104,
+   "avg_peak_score": 164.2
   },
   {
    "posted_hour_utc": 15,
-   "stories": 133,
-   "avg_peak_score": 135.0
+   "stories": 134,
+   "avg_peak_score": 135.6
   },
   {
    "posted_hour_utc": 16,
-   "stories": 115,
-   "avg_peak_score": 135.8
+   "stories": 116,
+   "avg_peak_score": 135.6
   },
   {
    "posted_hour_utc": 17,
-   "stories": 108,
-   "avg_peak_score": 159.7
+   "stories": 109,
+   "avg_peak_score": 161.2
   },
   {
    "posted_hour_utc": 18,
    "stories": 103,
-   "avg_peak_score": 142.3
+   "avg_peak_score": 152.2
   },
   {
    "posted_hour_utc": 19,
    "stories": 96,
-   "avg_peak_score": 187.9
+   "avg_peak_score": 190.4
   },
   {
    "posted_hour_utc": 20,
-   "stories": 92,
-   "avg_peak_score": 109.6
+   "stories": 93,
+   "avg_peak_score": 109.1
   },
   {
    "posted_hour_utc": 21,
-   "stories": 89,
-   "avg_peak_score": 137.2
+   "stories": 90,
+   "avg_peak_score": 136.8
   },
   {
    "posted_hour_utc": 22,
    "stories": 57,
-   "avg_peak_score": 139.9
+   "avg_peak_score": 141.5
   },
   {
    "posted_hour_utc": 23,
    "stories": 49,
-   "avg_peak_score": 147.2
+   "avg_peak_score": 153.0
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50429068,
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "domain": "anthropic.com",
-   "score": 255,
-   "comments": 629,
-   "author": "lairv",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50439193,
+   "title": "AlphaProof Code",
+   "domain": "deepmind.google",
+   "score": 260,
+   "comments": 98,
+   "author": "ilreb",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 2,
-   "story_id": 50431058,
-   "title": "USPS now offers official ZIP Code boundary polygons",
-   "domain": "postalpro.usps.com",
-   "score": 516,
-   "comments": 267,
-   "author": "munro",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50412554,
+   "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+   "domain": "neongd.com",
+   "score": 35,
+   "comments": 2,
+   "author": "jaypatelani",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 3,
-   "story_id": 50429734,
-   "title": "E-means: Outperforming k-means in one-tenth the epochs",
-   "domain": "e-means.github.io",
-   "score": 297,
-   "comments": 23,
-   "author": "porridgeraisin",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50436640,
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "domain": "strandsagents.com",
+   "score": 475,
+   "comments": 173,
+   "author": "aloukissas",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 4,
-   "story_id": 50427362,
-   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-   "domain": "payments.ca",
-   "score": 483,
-   "comments": 266,
-   "author": "ocd",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50429068,
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "domain": "anthropic.com",
+   "score": 738,
+   "comments": 894,
+   "author": "lairv",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 5,
-   "story_id": 50424581,
-   "title": "Foldable Flight: The Best Paper Airplanes",
-   "domain": "foldableflight.com",
-   "score": 880,
-   "comments": 141,
-   "author": "vismit2000",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50437790,
+   "title": "Queens Public library under ransomware attack e-borrowing suspended",
+   "domain": "connect.queenslibrary.org",
+   "score": 98,
+   "comments": 71,
+   "author": "rustyhancock",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 6,
-   "story_id": 50434264,
-   "title": "Horible public key tricks",
-   "domain": "maurycyz.com",
-   "score": 52,
-   "comments": 21,
-   "author": "Curiositry",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50439000,
+   "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+   "domain": "github.com",
+   "score": 88,
+   "comments": 48,
+   "author": "CoderLuii",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 7,
-   "story_id": 50434310,
-   "title": "Locating the source of a mysterious beep",
-   "domain": "simonwillison.net",
-   "score": 37,
-   "comments": 16,
-   "author": "bigwheels",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50440668,
+   "title": "The U.S. Is Driving Away Young Scientists",
+   "domain": "nytimes.com",
+   "score": 39,
+   "comments": 23,
+   "author": "digital55",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 8,
-   "story_id": 50433541,
-   "title": "Exact \u2013 a new cross platform UI framework",
-   "domain": "github.com",
-   "score": 76,
-   "comments": 31,
-   "author": "vmg12",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50410329,
+   "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
+   "domain": "nytimes.com",
+   "score": 30,
+   "comments": 10,
+   "author": "benbreen",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 9,
-   "story_id": 50425847,
-   "title": "The Race to Build a \"Find My\" for AI Chips",
-   "domain": "spectrum.ieee.org",
-   "score": 9,
-   "comments": 1,
-   "author": "oldnetguy",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50431058,
+   "title": "USPS now offers official ZIP Code boundary polygons",
+   "domain": "postalpro.usps.com",
+   "score": 680,
+   "comments": 345,
+   "author": "munro",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 10,
-   "story_id": 50426175,
-   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-   "domain": "anthropocenemagazine.org",
-   "score": 286,
-   "comments": 185,
-   "author": "speckx",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50439695,
+   "title": "Ableton Live 13",
+   "domain": "ableton.com",
+   "score": 93,
+   "comments": 100,
+   "author": "phaser",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 11,
-   "story_id": 50429430,
-   "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-   "domain": "infineon.com",
-   "score": 112,
-   "comments": 64,
-   "author": "sshah03",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50436410,
+   "title": "Your TV can see through walls",
+   "domain": "maurycyz.com",
+   "score": 207,
+   "comments": 84,
+   "author": "Curiositry",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 12,
-   "story_id": 50411106,
-   "title": "Never Gonna Print You Up",
-   "domain": "dixken.de",
-   "score": 19,
-   "comments": 0,
-   "author": "ta988",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50438377,
+   "title": "'C:\\> FORMAT C:' \u2013 relax, it's just a screen saver",
+   "domain": "fakedos.com",
+   "score": 40,
+   "comments": 27,
+   "author": "TheIncredibleCh",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 13,
-   "story_id": 50386246,
-   "title": "A primer on GPUs and kernel optimization",
-   "domain": "nabo.dev",
-   "score": 103,
-   "comments": 12,
-   "author": "nomi_uw",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50414117,
+   "title": "Show HN: Ghanaian street games you can play in the browser",
+   "domain": "ghanastreetgames.com",
+   "score": 40,
+   "comments": 8,
+   "author": "samuelaidoo45",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 14,
-   "story_id": 50433659,
-   "title": "Fable 5.2 one-shotted my nephew's dream game",
-   "domain": "notesbylex.com",
-   "score": 229,
-   "comments": 153,
-   "author": "lexandstuff",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50431075,
+   "title": "Here comes the sun[light]:An ambient Daylight Clock with time and space controls",
+   "domain": "hannahilea.com",
+   "score": 8,
+   "comments": 0,
+   "author": "evakhoury",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 15,
-   "story_id": 50432831,
-   "title": "TPU 8tx and TPU 8i Max",
-   "domain": "blog.google",
-   "score": 225,
-   "comments": 67,
-   "author": "_benx_",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50424581,
+   "title": "Foldable Flight: The Best Paper Airplanes",
+   "domain": "foldableflight.com",
+   "score": 1118,
+   "comments": 156,
+   "author": "vismit2000",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 16,
-   "story_id": 50429024,
-   "title": "Muse Ember: Our smallest, most efficient model",
-   "domain": "research.meta.ai",
-   "score": 261,
-   "comments": 110,
-   "author": "dvaplima",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50426294,
+   "title": "Taking another shot at the cheap IP camera, part 2",
+   "domain": "ericswpark.com",
+   "score": 7,
+   "comments": 0,
+   "author": "ericswpark",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 17,
-   "story_id": 50429426,
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "domain": "github.com",
-   "score": 462,
-   "comments": 111,
-   "author": "gf74918",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50434310,
+   "title": "Locating the source of a mysterious beep",
+   "domain": "simonwillison.net",
+   "score": 258,
+   "comments": 131,
+   "author": "bigwheels",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 18,
-   "story_id": 50428907,
-   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-   "domain": "watched.earth",
-   "score": 246,
-   "comments": 45,
-   "author": "a585gupt",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50392733,
+   "title": "How hard is it to check for whitespace?",
+   "domain": "serce.me",
+   "score": 82,
+   "comments": 18,
+   "author": "theanonymousone",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 19,
-   "story_id": 50430991,
-   "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-   "domain": "parkgraph.com",
-   "score": 63,
-   "comments": 44,
-   "author": "parkgraph",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50437106,
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "domain": "notion.com",
+   "score": 100,
+   "comments": 33,
+   "author": "werrett",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 20,
-   "story_id": 50431144,
-   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-   "domain": "artificialanalysis.ai",
-   "score": 302,
-   "comments": 226,
-   "author": "theanonymousone",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50427362,
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "domain": "payments.ca",
+   "score": 559,
+   "comments": 321,
+   "author": "ocd",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 21,
-   "story_id": 50430621,
-   "title": "CUI \u2013 Native UI components for C",
-   "domain": "yappologistic.github.io",
-   "score": 160,
-   "comments": 85,
-   "author": "hilti",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50429734,
+   "title": "E-means: Outperforming k-means in one-tenth the epochs",
+   "domain": "e-means.github.io",
+   "score": 449,
+   "comments": 57,
+   "author": "porridgeraisin",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 22,
-   "story_id": 50429636,
-   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-   "domain": "meowdisplay.app",
-   "score": 78,
+   "story_id": 50408336,
+   "title": "Billion Watts in the Speaker [video]",
+   "domain": "youtube.com",
+   "score": 60,
    "comments": 31,
-   "author": "raiseCatError",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "author": "Element_",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 23,
-   "story_id": 50409444,
-   "title": "A renowned scientist, a deadly snakebite, and a diary that documented it (2025)",
-   "domain": "cbsnews.com",
-   "score": 16,
-   "comments": 12,
-   "author": "areoform",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50439805,
+   "title": "Don't buy AR glasses",
+   "domain": "blog.yaros.ae",
+   "score": 95,
+   "comments": 99,
+   "author": "Bluestein",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 24,
-   "story_id": 50426681,
-   "title": "On Being an Engineer in 2026",
-   "domain": "twitter.com",
-   "score": 47,
-   "comments": 65,
-   "author": "talboren",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50439448,
+   "title": "Let over Lambda\u201350 Years of Lisp (2008)",
+   "domain": "letoverlambda.com",
+   "score": 7,
+   "comments": 0,
+   "author": "theanonymousone",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 25,
-   "story_id": 50405274,
-   "title": "An ode to livelyness analysis; SSA to registers",
-   "domain": "xnacly.me",
-   "score": 34,
-   "comments": 0,
-   "author": "xnacly",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50434264,
+   "title": "Horible public key tricks",
+   "domain": "maurycyz.com",
+   "score": 208,
+   "comments": 72,
+   "author": "Curiositry",
+   "snapshot_at": "2026-11-10T14:56:09"
+  },
+  {
+   "rank": 26,
+   "story_id": 50435898,
+   "title": "Ultorg: The User Interface for Relational Databases",
+   "domain": "ultorg.com",
+   "score": 111,
+   "comments": 33,
+   "author": "Ivoah",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 27,
-   "story_id": 50424157,
-   "title": "What is malloc doing, anyway?",
-   "domain": "benmandrew.com",
-   "score": 231,
-   "comments": 62,
-   "author": "benmandrew",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50437752,
+   "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+   "domain": "news.exeter.ac.uk",
+   "score": 106,
+   "comments": 129,
+   "author": "giuliomagnifico",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 28,
-   "story_id": 50429812,
-   "title": "Show HN: Someone Was Here \u2013 Find out who used your Mac while you were away",
-   "domain": "someonewashere.app",
-   "score": 71,
-   "comments": 26,
-   "author": "4onthefloor124",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50439284,
+   "title": "What's new in the .NET 11 runtime",
+   "domain": "learn.microsoft.com",
+   "score": 46,
+   "comments": 11,
+   "author": "stevefan1999",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 29,
-   "story_id": 50411515,
-   "title": "Deuterium's Impact on OLED Displays (2024)",
-   "domain": "oled-info.com",
-   "score": 35,
-   "comments": 13,
-   "author": "zeristor",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50436706,
+   "title": "ClickHouse Acquires Xata",
+   "domain": "xata.io",
+   "score": 72,
+   "comments": 7,
+   "author": "mebcitto",
+   "snapshot_at": "2026-11-10T14:56:09"
   },
   {
    "rank": 30,
-   "story_id": 50429144,
-   "title": "Show HN: STE80 Humanizer \u2013 de-AI text by writing 80% of the way to ASD-STE100",
-   "domain": "github.com",
-   "score": 67,
-   "comments": 20,
-   "author": "Dodaios",
-   "snapshot_at": "2026-11-10T03:36:01"
-  },
-  {
-   "rank": 31,
-   "story_id": 50435660,
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-   "domain": "cnbc.com",
-   "score": 4,
-   "comments": 0,
-   "author": "lxm",
-   "snapshot_at": "2026-11-10T03:36:01"
+   "story_id": 50426175,
+   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+   "domain": "anthropocenemagazine.org",
+   "score": 335,
+   "comments": 227,
+   "author": "speckx",
+   "snapshot_at": "2026-11-10T14:56:09"
   }
  ],
  "quality": {
@@ -623,10 +623,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 5843,
-   "fct_stories": 1424
+   "stg_snapshots": 5942,
+   "fct_stories": 1460
   },
-  "newest_snapshot_at": "2026-11-10T03:36:01+00:00",
+  "newest_snapshot_at": "2026-11-10T14:56:09+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
