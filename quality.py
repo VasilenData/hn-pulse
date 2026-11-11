@@ -89,5 +89,31 @@ def gate(raw: str = RAW, max_age: float = MAX_AGE_HOURS) -> int:
     return 0
 
 
+
+
+def assert_publishable(report: dict) -> None:
+    """Reject absent, failed or partial dbt health before replacing public JSON.
+
+    Warnings retain dbt's non-blocking semantics. Full model coverage and enforced
+    contracts are required; this is not proof against manually altered tables.
+    """
+    try:
+        tests, models = report["tests"], report["models"]
+        counts = [tests[key] for key in ("pass", "warn", "fail", "error")]
+        counts += [models[key] for key in ("success", "error")]
+        counts += [report["models_total"], report["contracts_enforced"]]
+        if any(type(value) is not int or value < 0 for value in counts):
+            raise ValueError("health counts must be non-negative integers")
+        if tests["fail"] or tests["error"] or models["error"]:
+            raise ValueError("dbt build contains failed or errored results")
+        if tests["pass"] + tests["warn"] == 0:
+            raise ValueError("dbt build has no completed data tests")
+        total = report["models_total"]
+        if total == 0 or models["success"] != total or report["contracts_enforced"] != total:
+            raise ValueError("dbt model build or contract coverage is incomplete")
+    except (KeyError, TypeError, ValueError) as error:
+        raise ValueError(f"Publication withheld: {error}") from error
+
+
 if __name__ == "__main__":
     sys.exit(gate() if sys.argv[1:] == ["gate"] else print(json.dumps(build(), indent=1)))

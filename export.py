@@ -25,10 +25,10 @@ def export(db_path: str = DB_PATH, out_path: str = OUT_PATH) -> dict:
                 {c: (v.isoformat() if hasattr(v, "isoformat") else v) for c, v in zip(cols, row)}
                 for row in cur.fetchall()
             ]
-    try:
-        payload["quality"] = quality.build(db_path=db_path)
-    except FileNotFoundError:  # exporting without a preceding dbt build (e.g. in unit tests)
-        payload["quality"] = None
+    # Direct CLI calls must honor the same publication gate as orchestration.
+    # Missing health artifacts or a partial/failed dbt build cannot look fresh.
+    payload["quality"] = quality.build(db_path=db_path)
+    quality.assert_publishable(payload["quality"])
     directory = os.path.dirname(out_path) or "."
     os.makedirs(directory, exist_ok=True)
     temporary = None
