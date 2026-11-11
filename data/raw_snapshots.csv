@@ -6238,3 +6238,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-11T15:58:27+00:00,98,50432637,Ergodic Literature,https://en.wikipedia.org/wiki/Ergodic_literature,aragonite,32,9,2026-11-09T21:40:51+00:00
 2026-11-11T15:58:27+00:00,99,50439686,AI Users have workdays up to 90 min longer than non-users,https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/,gosen,59,25,2026-11-10T12:57:24+00:00
 2026-11-11T15:58:27+00:00,100,50428907,"Show HN: Every satellite that passed over any place this week, and its photos",https://www.watched.earth,a585gupt,476,81,2026-11-09T17:51:31+00:00
+2026-11-11T17:10:44+00:00,1,50455394,A false smoke alarm almost drowned Jane Street's only NYC datacenter,https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/,mbac32768,38,10,2026-11-11T16:38:44+00:00
+2026-11-11T17:10:44+00:00,2,50452455,"Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",https://pietromiotti.com/latest/maya-site/?maya,eyvindn,701,261,2026-11-11T12:05:22+00:00
+2026-11-11T17:10:44+00:00,3,50453763,Pharo in the Browser with WebAssembly,https://massimo-nocentini.github.io/pharo-vm/world.html,xkriva11,79,17,2026-11-11T14:21:27+00:00
+2026-11-11T17:10:44+00:00,4,50453637,Atuin Threads: All your agent sessions on every machine,https://blog.atuin.sh/threads-agent-sessions/,linsomniac,90,34,2026-11-11T14:10:46+00:00
+2026-11-11T17:10:44+00:00,5,50453288,Hyper-Realistic Sand with WebGL2,https://av.github.io/safe-sand/,everlier,115,20,2026-11-11T13:39:29+00:00
+2026-11-11T17:10:44+00:00,6,50452655,Can a Linear Program Do Weight-Space Programming?,https://nathan.rs/posts/weight-space-lp/,emschwartz,157,26,2026-11-11T12:30:17+00:00
+2026-11-11T17:10:44+00:00,7,50451903,Using voltage glitching to unleash the A100 in my mining card,https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/,lae,165,60,2026-11-11T10:48:40+00:00
+2026-11-11T17:10:44+00:00,8,50453229,"Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",https://github.com/0xdeadf1sh/AssemblyForNeovim,0xdeadf1sh,46,4,2026-11-11T13:34:24+00:00
+2026-11-11T17:10:44+00:00,9,50452652,We need more goat sacrifices,https://www.experimental-history.com/p/we-need-more-goat-sacrifices,iamnothere,94,57,2026-11-11T12:29:48+00:00
+2026-11-11T17:10:44+00:00,10,50453474,I asked every TV manufacturer 17 questions about how they spy on you,https://www.theverge.com/tech/1012372/tv-privacy-acr-questions,Brajeshwar,206,106,2026-11-11T13:56:05+00:00
+2026-11-11T17:10:44+00:00,11,50454951,"Show HN: Klad, a paint app your coding agent can drive (source-available)",https://github.com/klad-app/klad,ambewas,10,2,2026-11-11T16:00:50+00:00
+2026-11-11T17:10:44+00:00,12,50454823,The Computer Graphics Book of Knowledge,https://www.cs.cmu.edu/~ph/nyit/masson/history.htm,num42,10,0,2026-11-11T15:50:02+00:00
+2026-11-11T17:10:44+00:00,13,50449748,Protecting SSH Keys with macOS Secure Enclave,https://gatezh.com/posts/macos-secure-enclave-ssh-keys/,js2,347,124,2026-11-11T04:28:57+00:00
+2026-11-11T17:10:44+00:00,14,50453555,Apple is killing its Support Community forum next week,https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down,saikatsg,160,84,2026-11-11T14:02:11+00:00
+2026-11-11T17:10:44+00:00,15,50454995,The hardest notes to find on the guitar fretboard,https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard,udit99,9,4,2026-11-11T16:05:18+00:00
+2026-11-11T17:10:44+00:00,17,50453080,EventSourcingDB 1.3.0 Is Available,https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available,goloroden,25,1,2026-11-11T13:19:45+00:00
+2026-11-11T17:10:44+00:00,18,50416640,Peer-to-peer WebRTC connections with built-in signaling and discovery,https://github.com/lukks/like-webrtc,LuKks,41,12,2026-11-08T20:10:06+00:00
+2026-11-11T17:10:44+00:00,19,50453171,Attention to Mamba: A Recipe for Cross-Architecture Distillation,https://machinelearning.apple.com/research/attention-mamba-distillation,zerop,24,1,2026-11-11T13:29:46+00:00
+2026-11-11T17:10:44+00:00,20,50455358,Reddit Migration's Impact on Lemmy (2023),https://www.jmis.org/archive/view_article?pid=jmis-10-4-333,Rochus,5,1,2026-11-11T16:35:38+00:00
+2026-11-11T17:10:44+00:00,21,50455332,Why aren't we shipping faster now?,https://cabird.com/talks/shipping-faster/,azhenley,35,46,2026-11-11T16:33:28+00:00
+2026-11-11T17:10:44+00:00,22,50452496,Next-Level Benchmarking Overfitting – Thomas Neumann,http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html,artrax,50,9,2026-11-11T12:09:49+00:00
+2026-11-11T17:10:44+00:00,23,50446520,Apple has new Mac app coming to make running local AI models easy,https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/,linolevan,450,467,2026-11-10T21:25:03+00:00
+2026-11-11T17:10:44+00:00,24,50445401,Scion is back and is going to sell a kei truck in America,https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/,NaOH,541,373,2026-11-10T19:50:46+00:00
+2026-11-11T17:10:44+00:00,25,50452742,"Open research, stronger privacy: Making Firefox users harder to fingerprint",https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/,Vinnl,118,27,2026-11-11T12:44:06+00:00
+2026-11-11T17:10:44+00:00,26,50434313,Welcome to Ed and Sam's great adventure,https://www.hintz.org/trip/,mooreds,6,1,2026-11-10T00:11:09+00:00
+2026-11-11T17:10:44+00:00,27,50452224,Physically Controllable Relighting of Photographs,https://yaksoy.github.io/PhysicalRelighting/,summarity,49,10,2026-11-11T11:38:43+00:00
+2026-11-11T17:10:44+00:00,28,50449891,Show HN: Black Ops II statically recompiled to native ARM64 macOS,https://github.com/adrbn/bo2-mac,adrbn,115,48,2026-11-11T04:56:47+00:00
+2026-11-11T17:10:44+00:00,29,50441181,A Brain Teaser of an Obituary,https://www.nytimes.com/2026/11/10/obituaries/steve-selvin-dead.html,droidjj,3,0,2026-11-10T14:49:46+00:00
+2026-11-11T17:10:44+00:00,30,50446246,Six Math Essentials,https://teorth.github.io/tao-web/six-math-essentials.html,digital55,320,58,2026-11-10T20:58:44+00:00
+2026-11-11T17:10:44+00:00,31,50444129,Starlink Mini 2,https://starlink.com/mini-2,robertjfclarke,489,549,2026-11-10T18:22:32+00:00
+2026-11-11T17:10:44+00:00,32,50450007,Greg Kurtzer's Ginux is now a userspace kernel,https://github.com/gmkurtzer/ginux,d3Xt3r,110,72,2026-11-11T05:25:54+00:00
+2026-11-11T17:10:44+00:00,33,50448921,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,palsecam,238,54,2026-11-11T01:56:31+00:00
+2026-11-11T17:10:44+00:00,34,50443824,Synaptics patent claims stop work on DisplayLink drivers,https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/,speckx,465,257,2026-11-10T18:02:02+00:00
+2026-11-11T17:10:44+00:00,35,50435962,Make this forward pass as fast as possible,https://ianbarber.blog/2026/11/09/make-this-forward-pass-as-fast-as-possible/,matt_d,30,5,2026-11-10T04:10:36+00:00
+2026-11-11T17:10:44+00:00,36,50427107,Why I wrote the BEAM book (2025),https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/,zenincognito,173,36,2026-11-09T15:41:35+00:00
+2026-11-11T17:10:44+00:00,37,50393070,"Why Amstrad chose the 3"" drives",https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/,Skyfall106,80,32,2026-11-06T14:56:07+00:00
+2026-11-11T17:10:44+00:00,38,50443427,Val Town is winding down,https://blog.val.town/winding-down,tosh,417,100,2026-11-10T17:31:14+00:00
+2026-11-11T17:10:44+00:00,39,50443812,"Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",https://github.com/GoogleChrome/modern-web-guidance,paulirish,416,138,2026-11-10T18:01:15+00:00
+2026-11-11T17:10:44+00:00,40,50441707,Smart home devices should work without the internet,https://docodethatmatters.com/home-automation-overnight-success/,skittleson,1115,406,2026-11-10T15:25:20+00:00
+2026-11-11T17:10:44+00:00,41,50453176,Show HN: I created a library for correctly using SQLite in Go programs,https://github.com/cattlecloud/litesql,sethops1,9,0,2026-11-11T13:30:26+00:00
+2026-11-11T17:10:44+00:00,42,50443716,"Claude Whiteboards, Claude Sheets, and Claude Data",https://claude.com/resources/articles/sheets-whiteboards-data,Yorothegoat,273,204,2026-11-10T17:55:07+00:00
+2026-11-11T17:10:44+00:00,43,50452407,In Defense of Giving a Shit,https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/,mrkn1,85,72,2026-11-11T12:00:45+00:00
+2026-11-11T17:10:44+00:00,44,50452394,"JSON vs. jsonb in Postgres: size and speed, measured",https://now-next.nl/en/insights/postgresql-json-vs-jsonb-measured/,plaur782,10,0,2026-11-11T11:59:20+00:00
+2026-11-11T17:10:44+00:00,45,50442736,.name Grandfathered,https://neil.fraser.name/news/2026/11/10/,p4bl0,911,197,2026-11-10T16:37:44+00:00
+2026-11-11T17:10:44+00:00,46,50452313,"Zellij 0.46: built-in terminal, attention inbox, session previews",https://zellij.dev/news/terminal-inbox-session-previews/,worble,17,4,2026-11-11T11:50:52+00:00
+2026-11-11T17:10:44+00:00,47,50447074,Tracking Anthropic-discovered vulnerabilities,https://www.vulncheck.com/blog/anthropic-glasswing-november-update,panic,438,210,2026-11-10T22:17:56+00:00
+2026-11-11T17:10:44+00:00,48,50406224,Hacking the Meta Ray-Ban smartglasses,https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/,moooooky,137,47,2026-11-07T17:19:02+00:00
+2026-11-11T17:10:44+00:00,49,50453148,Lunch with Alan Kay: how to become educated enough to invent the future (2019),https://stevekrouse.com/syndicated/alan-kay-lunch,andsoitis,6,0,2026-11-11T13:28:01+00:00
+2026-11-11T17:10:44+00:00,50,50433216,Process Explorer for macOS,https://github.com/microsoft/Procexp-Mac,ingve,228,74,2026-11-09T22:30:41+00:00
+2026-11-11T17:10:44+00:00,51,50452214,"KaiT2en, Linux on T2 MacBook pros",https://kait2en.org/,B4uler5,8,2,2026-11-11T11:37:00+00:00
+2026-11-11T17:10:44+00:00,52,50451950,MacroHands: 3D hands and camera pose from egocentric video,https://macrodata.co/blog/macrohands-3d-hands-and-camera-pose-from-egocentric-video,tomaspduarte,12,0,2026-11-11T10:56:54+00:00
+2026-11-11T17:10:44+00:00,53,50414657,A Compendium of Abandoned Greenhouses,https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/,ohjeez,67,8,2026-11-08T16:30:04+00:00
+2026-11-11T17:10:44+00:00,54,50429210,A ZIP-style Prolog VM for trilog,https://github.com/no382001/zipc,triska,33,10,2026-11-09T18:10:30+00:00
+2026-11-11T17:10:44+00:00,55,50447036,$30M Raised to Redo the CPU,https://tendrils.co/blog/2026-11-10/30m-raised,shioyama,131,137,2026-11-10T22:14:03+00:00
+2026-11-11T17:10:44+00:00,56,50448340,LLMs Play Zachtronics' TIS-100,https://tis-100.wincon.dev/,fairestvalue,85,20,2026-11-11T00:37:05+00:00
+2026-11-11T17:10:44+00:00,57,50443090,AMD's Zen 6 Family: Feeding the Beast,https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast,pixelpoet,252,108,2026-11-10T17:02:32+00:00
+2026-11-11T17:10:44+00:00,58,50424581,Foldable Flight: The Best Paper Airplanes,https://www.foldableflight.com,vismit2000,1236,167,2026-11-09T12:19:22+00:00
+2026-11-11T17:10:44+00:00,59,50414004,"""Jumping genes"" helped ants evolve after the extinction of the dinosaurs",https://www.uni-muenster.de/news/view.php?cmdid=15659&utm_source=join1440&utm_medium=email&utm_placement=newsletter&user_id=66c4bf745d78644b3aa57b08,gmays,25,3,2026-11-08T15:16:37+00:00
+2026-11-11T17:10:44+00:00,60,50453368,CVE-2026-119618 (critical): mod_HTTP2: heap corruption and RCE in assign_headers,https://httpd.apache.org/security/vulnerabilities_24.html,klaas-,4,1,2026-11-11T13:47:26+00:00
+2026-11-11T17:10:44+00:00,61,50441518,"Show HN: Valencia, Spain in Sim City/Isometric View",https://tinyvalencia.com/,leugim,242,61,2026-11-10T15:12:16+00:00
+2026-11-11T17:10:44+00:00,62,50452230,"Show HN: ThingStudio, Node-RED style programming for microcontrollers",https://thingstudio.net/,mkarliner,10,2,2026-11-11T11:39:15+00:00
+2026-11-11T17:10:44+00:00,63,50410329,Simon Winchester has died,https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html,benbreen,104,33,2026-11-08T04:07:21+00:00
+2026-11-11T17:10:44+00:00,64,50382401,I deleted all my SSH keys,https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/,speckx,271,147,2026-11-05T18:17:51+00:00
+2026-11-11T17:10:44+00:00,65,50439088,Small-Grid Wraparound Cellular Automata,https://justismills.substack.com/p/small-grid-wraparound-cellular-automata,surprisetalk,14,0,2026-11-10T12:00:08+00:00
+2026-11-11T17:10:44+00:00,66,50449275,"To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna,Metacelsus,146,142,2026-11-11T02:57:08+00:00
+2026-11-11T17:10:44+00:00,67,50444684,A comprehensive study of how fingerprintable users are,https://fingerprinting.study/,tomrittervg,124,62,2026-11-10T19:03:54+00:00
+2026-11-11T17:10:44+00:00,68,50438480,What constant surveillance is doing to children and parents,https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/,FinnLobsien,259,290,2026-11-10T10:47:18+00:00
+2026-11-11T17:10:44+00:00,69,50437242,M John Harrison becomes first science fiction author to win the Booker,https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize,sorokod,164,119,2026-11-10T07:40:52+00:00
+2026-11-11T17:10:44+00:00,70,50452895,Gen X will outnumber Baby Boomers in US Congress,https://www.ctinsider.com/columnist/article/gen-x-boomers-congress-2027-22522678.php,heresie-dabord,16,11,2026-11-11T13:01:29+00:00
+2026-11-11T17:10:44+00:00,71,50437790,Queens Public Library under ransomware attack,https://connect.queenslibrary.org/,rustyhancock,205,114,2026-11-10T09:04:39+00:00
+2026-11-11T17:10:44+00:00,72,50439193,AlphaProof Code,https://deepmind.google/blog/introducing-alphaproof-code/,ilreb,663,187,2026-11-10T12:11:12+00:00
+2026-11-11T17:10:44+00:00,73,50442225,Announcing .NET 11,https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/,runesoerensen,229,284,2026-11-10T16:01:27+00:00
+2026-11-11T17:10:44+00:00,74,50450729,"Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",https://github.com/NeuraCryption/SPECTRA,NeuraCryption,14,0,2026-11-11T07:39:12+00:00
+2026-11-11T17:10:44+00:00,75,50410587,Pinot Noir: inside the criminal gangs making fake wine,https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine,axiomdata316,71,39,2026-11-08T05:13:25+00:00
+2026-11-11T17:10:44+00:00,76,50445013,What objective is reasoning solving?,https://alexwang.ai/posts/reasoning-as-pathfinding/,gmays,152,70,2026-11-10T19:25:14+00:00
+2026-11-11T17:10:44+00:00,77,50442426,Blender 5.3 released with Gaussian Splat support,https://www.blender.org/download/releases/5-3/,amlib,478,71,2026-11-10T16:15:43+00:00
+2026-11-11T17:10:44+00:00,78,50455063,Agents now make up the majority of web traffic,"https://substackcdn.com/image/fetch/$s_!Ltiv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5d257dd-d9c7-413e-9b2f-80979f411960_4096x1817.png",goatley,6,2,2026-11-11T16:11:34+00:00
+2026-11-11T17:10:44+00:00,79,50437752,Fossil CO2 emissions decrease in 2026,https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/,giuliomagnifico,179,241,2026-11-10T08:59:41+00:00
+2026-11-11T17:10:44+00:00,80,50450268,Subagents Conwidered Harmful,https://nikvdp.com/notes/subagents-considered-harmful/,nikvdp,20,7,2026-11-11T06:21:36+00:00
+2026-11-11T17:10:44+00:00,81,50449080,Hooked on Tuna,https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428,dnetesn,41,16,2026-11-11T02:23:25+00:00
+2026-11-11T17:10:44+00:00,82,50429068,Claude Fable 5.2 and Mythos 5.2,https://www.anthropic.com/claude-fable-and-mythos-5-2,lairv,906,1029,2026-11-09T18:01:10+00:00
+2026-11-11T17:10:44+00:00,83,50412554,NetBSD 11 desktop on a Raspberry Pi 4,https://neongd.com/articles/netbsd11-rpi4.gmi,jaypatelani,141,85,2026-11-08T12:07:17+00:00
+2026-11-11T17:10:44+00:00,84,50438318,AI usage generates a fragile codebase,https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/,plun9,614,579,2026-11-10T10:25:58+00:00
+2026-11-11T17:10:44+00:00,85,50436640,Amazon saves millions by replacing Sonnet 4.6 with Strands Decider,https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/,aloukissas,715,256,2026-11-10T06:01:08+00:00
+2026-11-11T17:10:44+00:00,86,50436410,Your TV can see through walls (2025),https://maurycyz.com/projects/fading/,Curiositry,270,131,2026-11-10T05:24:45+00:00
+2026-11-11T17:10:44+00:00,87,50408336,Billion Watts in the Speaker [video],https://www.youtube.com/watch?v=PHOcTXYaMfg,Element_,112,57,2026-11-07T21:45:50+00:00
+2026-11-11T17:10:44+00:00,88,50443714,An Open Field Guide to Inference Engineering,https://docs.modelplane.ai/guides/inference-guide,d-ramdass,91,10,2026-11-10T17:55:07+00:00
+2026-11-11T17:10:44+00:00,89,50452389,Show HN: NoDOM high performance WASM UI kit for DuckDB-WASM,https://osullivj.github.io/nodom_ukprop/,osullivj,4,0,2026-11-11T11:58:56+00:00
+2026-11-11T17:10:44+00:00,90,50447363,The Surprising Effectiveness of Deleting Weights in LLM Post-Training,https://arxiv.org/abs/2611.10866,theanonymousone,28,0,2026-11-10T22:44:49+00:00
+2026-11-11T17:10:44+00:00,91,50446219,Sherman Anti-Trust Act (1890),https://www.archives.gov/milestone-documents/sherman-anti-trust-act,hashmap,86,54,2026-11-10T20:56:16+00:00
+2026-11-11T17:10:44+00:00,92,50452257,Show HN: Aq – an attention queue TUI for Claude Code,https://github.com/nodo-labs-uk/attention-queue,orbis-tertius,8,0,2026-11-11T11:43:35+00:00
+2026-11-11T17:10:44+00:00,93,50426294,"Taking another shot at the cheap IP camera, part 2",https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/,ericswpark,132,40,2026-11-09T14:40:42+00:00
+2026-11-11T17:10:44+00:00,94,50445279,Research taste in history: the importance of learning Babylonian math,https://resobscura.substack.com/p/research-taste-in-history-the-importance,benbreen,34,2,2026-11-10T19:42:44+00:00
+2026-11-11T17:10:44+00:00,95,50443587,Life on Claude Nine,https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html,reasonableklout,122,81,2026-11-10T17:44:44+00:00
+2026-11-11T17:10:44+00:00,96,50454609,The end of cheap money is coming for corporate America,https://www.ft.com/content/50c43ffc-2a91-43ee-8eb7-a19531278b97,toomuchtodo,9,1,2026-11-11T15:31:57+00:00
+2026-11-11T17:10:44+00:00,97,50452040,"Show HN: Pots – Open-source Grok Bot alternative, used by 6 startups for a month",https://github.com/Crokily/pi-durable-bot,Crokily,5,1,2026-11-11T11:11:34+00:00
+2026-11-11T17:10:44+00:00,98,50424188,Plane lifted into back garden as bunker takes shape,https://www.bbc.co.uk/news/articles/cqkgjv4pj023o,edward,60,53,2026-11-09T11:35:59+00:00
+2026-11-11T17:10:44+00:00,99,50405611,A failed experiment in laptop cooling (2025),https://kevinboone.me/failed_cooling.html,andsoitis,63,66,2026-11-07T15:57:29+00:00
+2026-11-11T17:10:44+00:00,100,50431058,USPS now offers official ZIP Code boundary polygons,https://postalpro.usps.com/zcb,munro,729,394,2026-11-09T19:58:59+00:00
