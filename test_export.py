@@ -1,4 +1,8 @@
 import json
+from copy import deepcopy
+
+HEALTH = {"tests": {"pass": 27, "warn": 0, "fail": 0, "error": 0},
+          "models": {"success": 6, "error": 0}, "models_total": 6, "contracts_enforced": 6}
 
 import duckdb
 import pytest
@@ -22,7 +26,7 @@ def test_export_orders_front_page_and_uses_selected_database(mart_database, tmp_
 
     def build(**kwargs):
         calls.append(kwargs)
-        return {"source": "selected database"}
+        return {**HEALTH, "source": "selected database"}
 
     monkeypatch.setattr(exporter.quality, "build", build)
     output = tmp_path / "public" / "data.json"
@@ -37,7 +41,7 @@ def test_failed_serialization_preserves_previous_export(mart_database, tmp_path,
     output = tmp_path / "data.json"
     previous = '{"previous": "complete export"}'
     output.write_text(previous)
-    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: {})
+    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: HEALTH)
 
     def interrupted_dump(payload, stream, **kwargs):
         stream.write('{"partial":')
@@ -55,7 +59,45 @@ def test_nonfinite_metric_cannot_replace_valid_json(mart_database, tmp_path, mon
         con.execute("update mart_hourly_activity set avg_peak_score = 'NaN'::double")
     output = tmp_path / "data.json"
     output.write_text('{}')
-    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: {})
+    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: HEALTH)
     with pytest.raises(ValueError):
         exporter.export(mart_database, str(output))
     assert output.read_text() == '{}'
+
+
+@pytest.mark.parametrize("section,key,value", [
+    ("tests", "fail", 1), ("tests", "error", 1), ("models", "error", 1),
+    ("models", "success", 5), ("tests", "pass", 0),
+    ("tests", "pass", -1), ("models", "success", True),
+    (None, "contracts_enforced", 5), (None, "models_total", 0),
+])
+def test_failed_or_partial_dbt_build_cannot_publish(mart_database, tmp_path, monkeypatch, section, key, value):
+    health = deepcopy(HEALTH)
+    (health[section] if section else health)[key] = value
+    output = tmp_path / "data.json"
+    output.write_bytes(b'{"previous":"valid"}')
+    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: health)
+    with pytest.raises(ValueError, match="Publication withheld"):
+        exporter.export(mart_database, str(output))
+    assert output.read_bytes() == b'{"previous":"valid"}'
+
+
+def test_missing_dbt_artifacts_preserve_last_export(mart_database, tmp_path, monkeypatch):
+    output = tmp_path / "data.json"
+    output.write_bytes(b'{"previous":"valid"}')
+    def missing(**kwargs):
+        raise FileNotFoundError("run_results.json missing")
+    monkeypatch.setattr(exporter.quality, "build", missing)
+    with pytest.raises(FileNotFoundError):
+        exporter.export(mart_database, str(output))
+    assert output.read_bytes() == b'{"previous":"valid"}'
+
+
+def test_repaired_build_can_publish_after_failure(mart_database, tmp_path, monkeypatch):
+    output = tmp_path / "data.json"
+    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: {})
+    with pytest.raises(ValueError, match="Publication withheld"):
+        exporter.export(mart_database, str(output))
+    assert not output.exists()
+    monkeypatch.setattr(exporter.quality, "build", lambda **kwargs: HEALTH)
+    assert exporter.export(mart_database, str(output))["quality"] == HEALTH
