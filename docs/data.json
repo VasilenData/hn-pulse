@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T18:03:30+00:00",
+ "generated_at": "2026-11-12T19:57:06+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -101,36 +101,36 @@
   },
   {
    "day": "2026-11-12",
-   "snapshots": 4,
-   "distinct_stories": 170,
-   "avg_score": 212.3,
-   "avg_comments": 104.1
+   "snapshots": 5,
+   "distinct_stories": 193,
+   "avg_score": 212.2,
+   "avg_comments": 106.2
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 130,
-   "avg_peak_score": 146.7,
-   "total_comments": 7087
+   "stories": 133,
+   "avg_peak_score": 147.5,
+   "total_comments": 7220
   },
   {
    "domain": "nytimes.com",
+   "stories": 26,
+   "avg_peak_score": 213.1,
+   "total_comments": 2459
+  },
+  {
+   "domain": "theguardian.com",
    "stories": 24,
-   "avg_peak_score": 210.4,
-   "total_comments": 2044
+   "avg_peak_score": 91.2,
+   "total_comments": 1840
   },
   {
    "domain": "twitter.com",
    "stories": 23,
    "avg_peak_score": 114.3,
    "total_comments": 1825
-  },
-  {
-   "domain": "theguardian.com",
-   "stories": 23,
-   "avg_peak_score": 94.7,
-   "total_comments": 1840
   },
   {
    "domain": "arstechnica.com",
@@ -140,9 +140,9 @@
   },
   {
    "domain": "reuters.com",
-   "stories": 16,
-   "avg_peak_score": 112.9,
-   "total_comments": 1015
+   "stories": 17,
+   "avg_peak_score": 106.6,
+   "total_comments": 1017
   },
   {
    "domain": "arxiv.org",
@@ -153,8 +153,14 @@
   {
    "domain": "bloomberg.com",
    "stories": 13,
-   "avg_peak_score": 61.6,
+   "avg_peak_score": 61.9,
    "total_comments": 1005
+  },
+  {
+   "domain": "tomshardware.com",
+   "stories": 12,
+   "avg_peak_score": 114.6,
+   "total_comments": 516
   },
   {
    "domain": "youtube.com",
@@ -175,12 +181,6 @@
    "total_comments": 1407
   },
   {
-   "domain": "tomshardware.com",
-   "stories": 11,
-   "avg_peak_score": 83.9,
-   "total_comments": 365
-  },
-  {
    "domain": "theregister.com",
    "stories": 11,
    "avg_peak_score": 83.8,
@@ -189,14 +189,14 @@
   {
    "domain": "spectrum.ieee.org",
    "stories": 10,
-   "avg_peak_score": 206.1,
-   "total_comments": 1182
+   "avg_peak_score": 206.7,
+   "total_comments": 1199
   },
   {
    "domain": "wsj.com",
    "stories": 10,
-   "avg_peak_score": 183.0,
-   "total_comments": 2097
+   "avg_peak_score": 183.3,
+   "total_comments": 2102
   }
  ],
  "mart_hourly_activity": [
@@ -213,7 +213,7 @@
   {
    "posted_hour_utc": 2,
    "stories": 38,
-   "avg_peak_score": 76.1
+   "avg_peak_score": 76.4
   },
   {
    "posted_hour_utc": 3,
@@ -228,17 +228,17 @@
   {
    "posted_hour_utc": 5,
    "stories": 34,
-   "avg_peak_score": 68.8
+   "avg_peak_score": 69.0
   },
   {
    "posted_hour_utc": 6,
    "stories": 24,
-   "avg_peak_score": 159.0
+   "avg_peak_score": 161.2
   },
   {
    "posted_hour_utc": 7,
    "stories": 38,
-   "avg_peak_score": 225.0
+   "avg_peak_score": 225.2
   },
   {
    "posted_hour_utc": 8,
@@ -253,67 +253,67 @@
   {
    "posted_hour_utc": 10,
    "stories": 44,
-   "avg_peak_score": 208.8
+   "avg_peak_score": 211.1
   },
   {
    "posted_hour_utc": 11,
    "stories": 58,
-   "avg_peak_score": 161.4
+   "avg_peak_score": 162.7
   },
   {
    "posted_hour_utc": 12,
    "stories": 63,
-   "avg_peak_score": 260.0
+   "avg_peak_score": 260.1
   },
   {
    "posted_hour_utc": 13,
    "stories": 76,
-   "avg_peak_score": 165.8
+   "avg_peak_score": 172.8
   },
   {
    "posted_hour_utc": 14,
    "stories": 125,
-   "avg_peak_score": 149.7
+   "avg_peak_score": 151.2
   },
   {
    "posted_hour_utc": 15,
-   "stories": 157,
-   "avg_peak_score": 133.4
+   "stories": 158,
+   "avg_peak_score": 133.5
   },
   {
    "posted_hour_utc": 16,
    "stories": 138,
-   "avg_peak_score": 138.6
+   "avg_peak_score": 139.5
   },
   {
    "posted_hour_utc": 17,
-   "stories": 125,
-   "avg_peak_score": 155.2
+   "stories": 128,
+   "avg_peak_score": 152.5
   },
   {
    "posted_hour_utc": 18,
-   "stories": 117,
-   "avg_peak_score": 165.2
+   "stories": 130,
+   "avg_peak_score": 158.0
   },
   {
    "posted_hour_utc": 19,
-   "stories": 112,
-   "avg_peak_score": 178.8
+   "stories": 116,
+   "avg_peak_score": 173.4
   },
   {
    "posted_hour_utc": 20,
    "stories": 108,
-   "avg_peak_score": 105.8
+   "avg_peak_score": 106.1
   },
   {
    "posted_hour_utc": 21,
-   "stories": 98,
-   "avg_peak_score": 140.5
+   "stories": 99,
+   "avg_peak_score": 139.6
   },
   {
    "posted_hour_utc": 22,
-   "stories": 69,
-   "avg_peak_score": 169.6
+   "stories": 70,
+   "avg_peak_score": 167.6
   },
   {
    "posted_hour_utc": 23,
@@ -325,302 +325,302 @@
   {
    "rank": 1,
    "story_id": 50467087,
-   "title": "NVIDIA Announces CEO Transition",
-   "domain": "nvidianews.nvidia.com",
-   "score": 1599,
-   "comments": 1672,
+   "title": "Jensen Huang resigns",
+   "domain": "apnews.com",
+   "score": 2109,
+   "comments": 2129,
    "author": "lldb",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 2,
-   "story_id": 50465829,
-   "title": "Anthropic IPO",
-   "domain": "ipo.anthropic.com",
-   "score": 624,
-   "comments": 630,
-   "author": "josephljohnston",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471793,
+   "title": "Rust 1.100.0",
+   "domain": "github.com",
+   "score": 260,
+   "comments": 55,
+   "author": "thesuperbigfrog",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 3,
-   "story_id": 50467618,
-   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-   "domain": "moddb.com",
-   "score": 139,
-   "comments": 46,
-   "author": "klaussilveira",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50472490,
+   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+   "domain": "smithsonianmag.com",
+   "score": 38,
+   "comments": 7,
+   "author": "cybermango",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 4,
-   "story_id": 50468888,
-   "title": "I'm making LLMs work on small and old devices",
-   "domain": "github.com",
-   "score": 97,
-   "comments": 34,
-   "author": "mrashad74",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50472260,
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "domain": "antigravity.google",
+   "score": 44,
+   "comments": 6,
+   "author": "jonbaer",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 5,
-   "story_id": 50467460,
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "domain": "chipsandcheese.com",
-   "score": 112,
-   "comments": 1,
-   "author": "dverlaeckt80",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471431,
+   "title": "Gemini 4 Hydrogen",
+   "domain": "blog.google",
+   "score": 296,
+   "comments": 188,
+   "author": "dvaplima",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 6,
-   "story_id": 50468944,
-   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-   "domain": "github.com",
-   "score": 51,
-   "comments": 12,
-   "author": "Qision",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471668,
+   "title": "Ask HN: Microsoft/Azure Outage?",
+   "domain": "news.ycombinator.com",
+   "score": 241,
+   "comments": 116,
+   "author": "nazgulsenpai",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 7,
-   "story_id": 50470975,
-   "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
-   "domain": "blog.cip.org",
-   "score": 9,
-   "comments": 2,
-   "author": "frantj",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50470488,
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "domain": "github.com",
+   "score": 90,
+   "comments": 29,
+   "author": "simpsoka",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 8,
-   "story_id": 50465352,
-   "title": "Why Writing Correct Software Is Hard",
-   "domain": "pron.github.io",
-   "score": 277,
-   "comments": 119,
-   "author": "AriFordsham",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471731,
+   "title": "Outlook is down, and so is Microsoft's status page",
+   "domain": "gvwire.com",
+   "score": 184,
+   "comments": 54,
+   "author": "dkpk",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 9,
-   "story_id": 50467439,
-   "title": "Libreagi \u2013 Save OSS Models",
-   "domain": "libreagi.com",
-   "score": 72,
-   "comments": 16,
-   "author": "satuke",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50467618,
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+   "domain": "moddb.com",
+   "score": 195,
+   "comments": 65,
+   "author": "klaussilveira",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 10,
-   "story_id": 50467869,
-   "title": "Running web sites makes me not want to",
-   "domain": "lowkey.party",
-   "score": 55,
-   "comments": 30,
-   "author": "speckx",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50468888,
+   "title": "I'm making LLMs work on small and old devices",
+   "domain": "github.com",
+   "score": 171,
+   "comments": 65,
+   "author": "mrashad74",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 11,
-   "story_id": 50469994,
-   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-   "domain": "ign.com",
-   "score": 87,
-   "comments": 47,
-   "author": "CharlesW",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471761,
+   "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+   "domain": "mehmetince.net",
+   "score": 25,
+   "comments": 1,
+   "author": "ozirus",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 12,
-   "story_id": 50468720,
-   "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-   "domain": "doug.sh",
-   "score": 41,
-   "comments": 18,
-   "author": "dougcalobrisi",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50467460,
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "domain": "chipsandcheese.com",
+   "score": 142,
+   "comments": 1,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 13,
-   "story_id": 50470445,
-   "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-   "domain": "easel.sh",
-   "score": 26,
-   "comments": 9,
-   "author": "seanw265",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471281,
+   "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+   "domain": "news.ycombinator.com",
+   "score": 14,
+   "comments": 3,
+   "author": "alireza_msh",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 14,
-   "story_id": 50467305,
-   "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-   "domain": "spectrum.ieee.org",
-   "score": 42,
-   "comments": 35,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50458849,
+   "title": "Relax: JIT compiler for Rust to reduce build times",
+   "domain": "makepad.github.io",
+   "score": 40,
+   "comments": 14,
+   "author": "adamnemecek",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 15,
-   "story_id": 50438261,
-   "title": "Socratic Tutor",
+   "story_id": 50471650,
+   "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
    "domain": "github.com",
-   "score": 556,
-   "comments": 129,
-   "author": "tosh",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "score": 33,
+   "comments": 3,
+   "author": "miguelrios",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 16,
-   "story_id": 50425017,
-   "title": "A live tree of systemd jobs on the boot console",
-   "domain": "codeberg.org",
-   "score": 289,
-   "comments": 108,
-   "author": "orhunp_",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50459508,
+   "title": "Words of warning about radiocarbon dating medieval human bones",
+   "domain": "nature.com",
+   "score": 14,
+   "comments": 3,
+   "author": "gumby",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 17,
-   "story_id": 50470762,
-   "title": "Paths in Pieces",
-   "domain": "stoppels.ch",
-   "score": 8,
-   "comments": 0,
-   "author": "acossta",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50468944,
+   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+   "domain": "github.com",
+   "score": 75,
+   "comments": 18,
+   "author": "Qision",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 18,
-   "story_id": 50465453,
-   "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-   "domain": "curtin.edu.au",
-   "score": 84,
-   "comments": 46,
-   "author": "giuliomagnifico",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50465352,
+   "title": "Why Writing Correct Software Is Hard",
+   "domain": "pron.github.io",
+   "score": 314,
+   "comments": 139,
+   "author": "AriFordsham",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 19,
-   "story_id": 50436363,
-   "title": "Decoding REXPaint Files in Odin",
-   "domain": "tylerelton.com",
-   "score": 11,
-   "comments": 1,
-   "author": "tylerelton",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50469994,
+   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+   "domain": "ign.com",
+   "score": 173,
+   "comments": 108,
+   "author": "CharlesW",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 20,
-   "story_id": 50459745,
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "domain": "mcmillen.dev",
-   "score": 549,
-   "comments": 73,
-   "author": "zenincognito",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50467439,
+   "title": "Libreagi \u2013 Save OSS Models",
+   "domain": "libreagi.com",
+   "score": 89,
+   "comments": 21,
+   "author": "satuke",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 21,
-   "story_id": 50457344,
-   "title": "Pulling the Lever in a Subway Problem",
-   "domain": "jefftk.com",
-   "score": 18,
-   "comments": 15,
-   "author": "NaOH",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50470445,
+   "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+   "domain": "easel.sh",
+   "score": 50,
+   "comments": 18,
+   "author": "seanw265",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 22,
-   "story_id": 50462177,
-   "title": "Critical RCE Vulnerability in Apache HTTP Server",
-   "domain": "wiz.io",
-   "score": 334,
-   "comments": 174,
-   "author": "soheilpro",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50465829,
+   "title": "Anthropic IPO",
+   "domain": "ipo.anthropic.com",
+   "score": 699,
+   "comments": 703,
+   "author": "josephljohnston",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 23,
-   "story_id": 50456631,
-   "title": "AWS emulator",
+   "story_id": 50438261,
+   "title": "Socratic Tutor",
    "domain": "github.com",
-   "score": 947,
-   "comments": 259,
-   "author": "super_linear",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "score": 603,
+   "comments": 136,
+   "author": "tosh",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 24,
-   "story_id": 50467880,
-   "title": "Show HN: AI Red Lines \u2013 write down what would make you act on AI",
-   "domain": "yourairedlines.com",
-   "score": 20,
-   "comments": 10,
-   "author": "ap11071",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50471621,
+   "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+   "domain": "nytimes.com",
+   "score": 60,
+   "comments": 14,
+   "author": "tedd4u",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 25,
-   "story_id": 50431237,
-   "title": "Creating Worlds: Runes and Spells Prototype",
-   "domain": "fractalkitty.com",
-   "score": 5,
-   "comments": 2,
-   "author": "evakhoury",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50467297,
+   "title": "Our software engineering interviews are changing a little",
+   "domain": "blog.janestreet.com",
+   "score": 114,
+   "comments": 99,
+   "author": "maitland",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 26,
-   "story_id": 50431971,
-   "title": "Making a \u20ac40 USB-C hub work as a Nintendo Switch 2 dock",
-   "domain": "blog.nozomi.space",
-   "score": 121,
-   "comments": 41,
-   "author": "mkopec",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50425017,
+   "title": "A live tree of systemd jobs on the boot console",
+   "domain": "codeberg.org",
+   "score": 315,
+   "comments": 119,
+   "author": "orhunp_",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 27,
-   "story_id": 50415379,
-   "title": "Show HN: Build a PC in 3D in the Browser",
-   "domain": "buildcores.com",
-   "score": 39,
-   "comments": 12,
-   "author": "ozaiworld",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50468720,
+   "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+   "domain": "doug.sh",
+   "score": 59,
+   "comments": 23,
+   "author": "dougcalobrisi",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 28,
-   "story_id": 50455394,
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "domain": "michael.bacarella.com",
-   "score": 562,
-   "comments": 262,
-   "author": "mbac32768",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50470762,
+   "title": "Paths in Pieces",
+   "domain": "stoppels.ch",
+   "score": 17,
+   "comments": 0,
+   "author": "acossta",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 29,
-   "story_id": 50445279,
-   "title": "Research taste in history: the importance of learning Babylonian math",
-   "domain": "resobscura.substack.com",
-   "score": 50,
-   "comments": 7,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50467305,
+   "title": "Electric ship batteries promise compact, cooler power",
+   "domain": "spectrum.ieee.org",
+   "score": 48,
+   "comments": 52,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-12T19:57:00"
   },
   {
    "rank": 30,
-   "story_id": 50456791,
-   "title": "Gemini Decisions API",
-   "domain": "blog.google",
-   "score": 539,
-   "comments": 154,
-   "author": "iamdelirium",
-   "snapshot_at": "2026-11-12T18:03:22"
+   "story_id": 50465453,
+   "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+   "domain": "curtin.edu.au",
+   "score": 102,
+   "comments": 54,
+   "author": "giuliomagnifico",
+   "snapshot_at": "2026-11-12T19:57:00"
   }
  ],
  "quality": {
@@ -637,10 +637,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 6734,
-   "fct_stories": 1704
+   "stg_snapshots": 6833,
+   "fct_stories": 1727
   },
-  "newest_snapshot_at": "2026-11-12T18:03:22+00:00",
+  "newest_snapshot_at": "2026-11-12T19:57:00+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
