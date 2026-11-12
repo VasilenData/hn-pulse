@@ -116,7 +116,17 @@ GitHub Actions scheduling can be delayed and has no project-specific uptime guar
 
 [`monitor.yml`](.github/workflows/monitor.yml) is a separate hourly workflow that reads the live Pages `data.json`; it does not extract or run dbt. `python monitor.py` checks both source and export timestamps against a six-hour limit. Fresh observations pass; overdue, malformed, future-dated or unreachable exports fail the workflow. Every run saves a timestamped JSON observation as a 30-day Actions artifact, including failures. A network failure is labelled `unavailable`, not evidence of stale data.
 
-This adds monitoring independent of the data pipeline, but it shares GitHub's scheduler and is not an independent uptime service. A delayed/missing monitor run cannot report itself. No webhook, issue, email or other outbound notification channel is configured. Monitor results are observations, not a new uptime or SLA claim; the dated operating review remains historical.
+This GitHub workflow adds monitoring independent of the data pipeline, but it shares GitHub's scheduler. A delayed/missing monitor run cannot report itself. Monitor results are observations, not a new uptime or SLA claim; the dated operating review remains historical.
+
+### Independent monitor and controlled incident delivery
+
+[`monitor_worker.py`](monitor_worker.py) adds a separately deployable cron worker with a stricter public-export contract, durable SQLite incident/outbox state, bounded requests, and Resend/SMTP email adapters. Failed delivery remains pending; repeated unhealthy checks produce one incident alert, followed by an ordered recovery notification. Stable event IDs support retry deduplication; generic SMTP is at-least-once, and Resend's deduplication window is 24 hours.
+
+The [controlled HTTP delivery drill](docs/monitor-drill-2026-11-12.json) used real local requests and a synthetic stale source. Its receiver got one alert and one recovery across four checks, with state reopened between checks and the live export untouched. This demonstrates the local delivery path, not hosted email delivery or long-term uptime. [Deployment, incident response and current evidence scope](docs/INDEPENDENT_MONITOR.md) document the independent Railway schedule, durable volume and email setup.
+
+### Source-change impact
+
+The dbt manifest now includes the public JSON and dashboard as [owned downstream exposures](models/exposures.yml). After `dbt parse --profiles-dir .`, run `python lineage.py --impact stg_snapshots --column score` to see affected models, tests and published consumers. This is conservative **model-level** impact: the changed column is checked against the contract, but all dependent models are included. It does not claim automatic column-level SQL lineage.
 
 ---
 Built by [Vasilen Kanchev](https://vasilendata.github.io) · [LinkedIn](https://www.linkedin.com/in/vasilenkanchev/)
