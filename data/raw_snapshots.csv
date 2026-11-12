@@ -6535,3 +6535,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-12T11:18:23+00:00,98,50429068,Claude Fable 5.2 and Mythos 5.2,https://www.anthropic.com/claude-fable-and-mythos-5-2,lairv,913,1044,2026-11-09T18:01:10+00:00
 2026-11-12T11:18:23+00:00,99,50439193,AlphaProof Code,https://deepmind.google/blog/introducing-alphaproof-code/,ilreb,673,195,2026-11-10T12:11:12+00:00
 2026-11-12T11:18:23+00:00,100,50448340,LLMs Play Zachtronics' TIS-100,https://tis-100.wincon.dev/,fairestvalue,91,22,2026-11-11T00:37:05+00:00
+2026-11-12T17:41:00+00:00,1,50467087,NVIDIA Announces CEO Transition,https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition,lldb,1513,1259,2026-11-12T13:52:29+00:00
+2026-11-12T17:41:00+00:00,2,50465829,Anthropic IPO,https://ipo.anthropic.com/us/,josephljohnston,577,605,2026-11-12T11:46:41+00:00
+2026-11-12T17:41:00+00:00,3,50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,klaussilveira,123,42,2026-11-12T14:18:49+00:00
+2026-11-12T17:41:00+00:00,4,50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,mrashad74,70,18,2026-11-12T15:23:10+00:00
+2026-11-12T17:41:00+00:00,5,50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,dverlaeckt80,100,1,2026-11-12T14:12:37+00:00
+2026-11-12T17:41:00+00:00,6,50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,Qision,39,8,2026-11-12T15:25:52+00:00
+2026-11-12T17:41:00+00:00,7,50465352,Why Writing Correct Software Is Hard,https://pron.github.io/posts/correctness-and-complexity,AriFordsham,272,115,2026-11-12T10:28:26+00:00
+2026-11-12T17:41:00+00:00,8,50467439,Libreagi – Save OSS Models,https://libreagi.com/,satuke,67,16,2026-11-12T14:11:58+00:00
+2026-11-12T17:41:00+00:00,9,50470445,AWS Lambda Web Functions keep billing memory ~7 minutes after the last request,https://www.easel.sh/blog/lambda-web-functions-idle-memory,seanw265,17,8,2026-11-12T16:59:26+00:00
+2026-11-12T17:41:00+00:00,10,50468720,Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux,https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/,dougcalobrisi,36,14,2026-11-12T15:14:52+00:00
+2026-11-12T17:41:00+00:00,11,50469994,Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep,https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep,CharlesW,60,25,2026-11-12T16:29:13+00:00
+2026-11-12T17:41:00+00:00,12,50467869,Running web sites makes me not want to,https://lowkey.party/running-web-sites-makes-me-not-want-to,speckx,43,25,2026-11-12T14:30:38+00:00
+2026-11-12T17:41:00+00:00,13,50438261,Socratic Tutor,https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md,tosh,546,128,2026-11-10T10:18:22+00:00
+2026-11-12T17:41:00+00:00,14,50467305,"Electric Ship Batteries Promise Compact, Cooler Power",https://spectrum.ieee.org/electric-ship-batteries,rbanffy,39,33,2026-11-12T14:06:03+00:00
+2026-11-12T17:41:00+00:00,15,50425017,A live tree of systemd jobs on the boot console,https://codeberg.org/wvhulle/bootvine,orhunp_,280,108,2026-11-09T13:02:44+00:00
+2026-11-12T17:41:00+00:00,16,50465453,Researchers discover rare star system that emits radio signals every 8 minutes,https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/,giuliomagnifico,81,44,2026-11-12T10:46:20+00:00
+2026-11-12T17:41:00+00:00,17,50470762,Paths in Pieces,https://stoppels.ch/2026/11/12/paths-in-pieces.html,acossta,4,0,2026-11-12T17:19:39+00:00
+2026-11-12T17:41:00+00:00,18,50436363,Decoding REXPaint Files in Odin,https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/,tylerelton,8,1,2026-11-10T05:18:42+00:00
+2026-11-12T17:41:00+00:00,19,50431237,Creating Worlds: Runes and Spells Prototype,https://www.fractalkitty.com/creating-worlds-runes-and-spells/,evakhoury,4,0,2026-11-09T20:11:02+00:00
+2026-11-12T17:41:00+00:00,20,50459745,93% of paint splatters are valid Perl programs (2019),https://www.mcmillen.dev/sigbovik/,zenincognito,547,73,2026-11-11T22:34:23+00:00
+2026-11-12T17:41:00+00:00,21,50457344,Pulling the Lever in a Subway Problem,https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem,NaOH,15,10,2026-11-11T19:22:09+00:00
+2026-11-12T17:41:00+00:00,22,50462177,Critical RCE Vulnerability in Apache HTTP Server,https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability,soheilpro,329,171,2026-11-12T02:11:11+00:00
+2026-11-12T17:41:00+00:00,23,50456631,AWS emulator,https://github.com/aws/aws-emulator,super_linear,940,259,2026-11-11T18:21:38+00:00
+2026-11-12T17:41:00+00:00,24,50431971,Making a €40 USB-C hub work as a Nintendo Switch 2 dock,http://blog.nozomi.space/posts/sw2_dock/,mkopec,115,37,2026-11-09T20:54:02+00:00
+2026-11-12T17:41:00+00:00,25,50467880,Show HN: AI Red Lines – write down what would make you act on AI,https://yourairedlines.com,ap11071,16,10,2026-11-12T14:31:21+00:00
+2026-11-12T17:41:00+00:00,26,50469007,Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games,https://fable52.games,felixne,48,45,2026-11-12T15:30:01+00:00
+2026-11-12T17:41:00+00:00,27,50415379,Show HN: Build a PC in 3D in the Browser,https://www.buildcores.com,ozaiworld,34,11,2026-11-08T17:45:08+00:00
+2026-11-12T17:41:00+00:00,28,50467297,Our software engineering interviews are changing (a little),https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/,maitland,86,74,2026-11-12T14:05:28+00:00
+2026-11-12T17:41:00+00:00,29,50455394,A false smoke alarm almost drowned Jane Street's only NYC datacenter,https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/,mbac32768,555,261,2026-11-11T16:38:44+00:00
+2026-11-12T17:41:00+00:00,30,50445279,Research taste in history: the importance of learning Babylonian math,https://resobscura.substack.com/p/research-taste-in-history-the-importance,benbreen,48,6,2026-11-10T19:42:44+00:00
+2026-11-12T17:41:00+00:00,31,50456791,Gemini Decisions API,https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/,iamdelirium,533,154,2026-11-11T18:32:42+00:00
+2026-11-12T17:41:00+00:00,32,50467763,"PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/,plaur782,65,8,2026-11-12T14:25:23+00:00
+2026-11-12T17:41:00+00:00,33,50463540,I'm Working on a FOSS Linux Pinbal Simulation Engine,https://www.getlazarus.org/forums/topic/17/,sysrpl,106,36,2026-11-12T05:49:34+00:00
+2026-11-12T17:41:00+00:00,34,50406043,The largest open-source DLE collection,https://github.com/trizoza/dles/blob/main/assets/daily-games/DLES.md,trizoza,9,2,2026-11-07T16:58:23+00:00
+2026-11-12T17:41:00+00:00,35,50458900,United Airlines bans AI agents from booking flights on behalf of travelers,https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/,herpderperator,639,666,2026-11-11T21:24:35+00:00
+2026-11-12T17:41:00+00:00,36,50450488,Tim Peters has died,https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028,ayhanfuat,1373,173,2026-11-11T07:03:17+00:00
+2026-11-12T17:41:00+00:00,37,50459485,Lock Your GitHub Actions,https://hugovk.dev/blog/2026/lock-github-actions/,gslin,318,62,2026-11-11T22:16:41+00:00
+2026-11-12T17:41:00+00:00,39,50458208,Emacs in the Age of Magic,https://commandlinesystems.com/magic.txt,ggcr,295,142,2026-11-11T20:26:32+00:00
+2026-11-12T17:41:00+00:00,40,50468901,Show HN: I built a calendar app that gives each event its own to-do list,https://apps.apple.com/ph/app/daily-planner-tasks-zesfy/id6479947874,whereinside,3,0,2026-11-12T15:24:17+00:00
+2026-11-12T17:41:00+00:00,41,50468687,"Roadside investigations of psyllids, ants and eucs",https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/,caminanteblanco,4,1,2026-11-12T15:13:06+00:00
+2026-11-12T17:41:00+00:00,42,50468904,Jensen Huang Was the Face of the A.I. Boom Powering the U.S. Economy,https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html,jbegley,17,6,2026-11-12T15:24:21+00:00
+2026-11-12T17:41:00+00:00,43,50441350,Show HN: Aircad – Professional drafting and 3D modeling in the browser,https://aircad.com,peetle,80,38,2026-11-10T15:01:19+00:00
+2026-11-12T17:41:00+00:00,44,50467539,20 Years of Pyrolog,https://pypy.org/posts/2026/11/20-years-of-pyrolog.html,lumpa,9,0,2026-11-12T14:15:28+00:00
+2026-11-12T17:41:00+00:00,45,50457618,The Utah Teapot,https://graphics.cs.utah.edu/teapot/,cobbal,180,44,2026-11-11T19:45:10+00:00
+2026-11-12T17:41:00+00:00,46,50467383,"ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser",https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/,wondersky,8,0,2026-11-12T14:09:35+00:00
+2026-11-12T17:41:00+00:00,47,50416606,"Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",https://www.researchgate.net/publication/319702287_THE_HISTORY_OF_EARLY_LOW_FREQUENCY_RADIO_ASTRONOMY_IN_AUSTRALIA_8_GROTE_REBER_AND_THE_%27SQUARE_KILOMETRE_ARRAY%27_NEAR_BOTHWELL_TASMANIA_IN_THE_1960s_AND_1970s,NaOH,21,2,2026-11-08T20:04:36+00:00
+2026-11-12T17:41:00+00:00,48,50470457,People Wouldn't Rather Have Higher Relative Income in a Poorer Society,https://www.richardhanania.com/p/no-people-wouldnt-rather-have-higher,paulpauper,5,1,2026-11-12T17:00:02+00:00
+2026-11-12T17:41:00+00:00,49,50467886,30 years of Internet transfers with curl,https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/,lumpa,22,0,2026-11-12T14:31:32+00:00
+2026-11-12T17:41:00+00:00,50,50467953,A teacher that made $20M a year making videos for babies,https://www.readfounded.com/p/baby-einstein,jcox06,3,0,2026-11-12T14:35:32+00:00
+2026-11-12T17:41:00+00:00,51,50460154,A general purpose Apple Silicon layer for x86-64 PCs,https://github.com/tylertms/Stela,iceboundrock,130,54,2026-11-11T23:02:38+00:00
+2026-11-12T17:41:00+00:00,52,50468766,The Confidential Payments Meta and TikTok Made to Addicted Teens,https://www.bloomberg.com/news/articles/2026-11-12/meta-tiktok-payouts-reveal-cost-to-settle-social-media-addiction-suits,toomuchtodo,13,1,2026-11-12T15:17:09+00:00
+2026-11-12T17:41:00+00:00,53,50455633,"Faster Retrieval for Better, More Efficient RAG",https://machinelearning.apple.com/research/faster-retrieval,zerop,226,38,2026-11-11T16:57:45+00:00
+2026-11-12T17:41:00+00:00,54,50438958,"Legocam: My Lego webcam from 2000, working on a modern Mac",https://blog.benjamin.ie/legocam,benkelly,46,36,2026-11-10T11:46:09+00:00
+2026-11-12T17:41:00+00:00,55,50454625,"Show HN: Yogurt – Free, private, open-source alternative to Granola",https://github.com/FrigadeHQ/yogurt,brownrout,280,108,2026-11-11T15:33:06+00:00
+2026-11-12T17:41:00+00:00,56,50469591,"Amazon's Ring debuts security robots, including a drone",https://www.nbcnews.com/tech/tech-news/amazons-ring-debuts-security-robots-drone-rcna608538,gmays,6,0,2026-11-12T16:02:57+00:00
+2026-11-12T17:41:00+00:00,57,50468545,The CFPB says it's looking out for consumers. Data tells a different story,https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/cfpb-consumer-financial-protection-bureau-consumers,howard941,15,0,2026-11-12T15:05:18+00:00
+2026-11-12T17:41:00+00:00,58,50458166,"Huawei releases MACaQ, its internal quantizer for local inference",https://github.com/huawei-csl/MACaQ,thefox96,126,31,2026-11-11T20:23:57+00:00
+2026-11-12T17:41:00+00:00,59,50446520,Apple has new Mac app coming to make running local AI models easy,https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/,linolevan,548,550,2026-11-10T21:25:03+00:00
+2026-11-12T17:41:00+00:00,60,50453637,Atuin Threads: All your agent sessions on every machine,https://blog.atuin.sh/threads-agent-sessions/,linsomniac,228,83,2026-11-11T14:10:46+00:00
+2026-11-12T17:41:00+00:00,61,50462375,Lean Grimoire,https://terrytao.wordpress.com/2026/11/11/lean-grimoire/,smilelamp,57,9,2026-11-12T02:36:48+00:00
+2026-11-12T17:41:00+00:00,62,50457230,Show HN: I recreated Papers Please but you're deciding which YC startups to fund,https://termsheetplease.com/,bolau,234,92,2026-11-11T19:12:16+00:00
+2026-11-12T17:41:00+00:00,63,50452652,We need more goat sacrifices,https://www.experimental-history.com/p/we-need-more-goat-sacrifices,iamnothere,212,132,2026-11-11T12:29:48+00:00
+2026-11-12T17:41:00+00:00,64,50463103,Darling Development Update – Q4 2026,https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/,tech234a,31,6,2026-11-12T04:32:31+00:00
+2026-11-12T17:41:00+00:00,65,50420905,Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923),https://publicdomainreview.org/collection/marian-wawrzeniecki/,lermontov,53,13,2026-11-09T03:57:57+00:00
+2026-11-12T17:41:00+00:00,66,50455811,Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents,,alanjm23,58,47,2026-11-11T17:11:56+00:00
+2026-11-12T17:41:00+00:00,67,50415162,I gave an agent a lakehouse and control of my garden,https://jatorre.github.io/garden/,jatorre,126,62,2026-11-08T17:19:06+00:00
+2026-11-12T17:41:00+00:00,68,50412715,How to make a CNC plasma cutter with high-frequency start,https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html,edward,44,12,2026-11-08T12:34:04+00:00
+2026-11-12T17:41:00+00:00,69,50459321,Jensen Huang said to have had relationship with executive who reports to him,https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html,louiereederson,396,509,2026-11-11T22:03:58+00:00
+2026-11-12T17:41:00+00:00,70,50435240,A Brief History of Sierra Online (2017),https://retrofreakreviews.com/2017/01/30/sierra-retrospective/,freshtake,57,24,2026-11-10T02:12:48+00:00
+2026-11-12T17:41:00+00:00,71,50454995,The hardest notes to find on the guitar,https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard,udit99,71,88,2026-11-11T16:05:18+00:00
+2026-11-12T17:41:00+00:00,72,50459703,Nvidia is preparing to oust Jensen Huang,https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad,jbredeche,1205,1599,2026-11-11T22:31:06+00:00
+2026-11-12T17:41:00+00:00,73,50467593,Jensen Huang Resigns as Nvidia CEO After Affairs,https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns,speckx,20,2,2026-11-12T14:17:39+00:00
+2026-11-12T17:41:00+00:00,74,50469203,Chicago schools tell Google they'd rather lose Search than be forced to use AI,https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html,healsdata,7,1,2026-11-12T15:40:37+00:00
+2026-11-12T17:41:00+00:00,75,50433042,Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding,https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding,rmason,64,30,2026-11-09T22:15:13+00:00
+2026-11-12T17:41:00+00:00,76,50467932,Nvidia's Disappearing Singapore Sales Deepen Mystery Around Megaspeed,https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180,doener,9,0,2026-11-12T14:34:24+00:00
+2026-11-12T17:41:00+00:00,77,50449440,"The Apple Support Community will permanently close on November 20, 2026",https://discussions.apple.com/welcome,tech234a,160,229,2026-11-11T03:26:51+00:00
+2026-11-12T17:41:00+00:00,78,50453763,Pharo in the Browser with WebAssembly,https://massimo-nocentini.github.io/pharo-vm/world.html,xkriva11,131,37,2026-11-11T14:21:27+00:00
+2026-11-12T17:41:00+00:00,79,50424581,Foldable Flight: The Best Paper Airplanes,https://www.foldableflight.com,vismit2000,1259,167,2026-11-09T12:19:22+00:00
+2026-11-12T17:41:00+00:00,80,50441707,Smart home devices should work without the internet,https://docodethatmatters.com/home-automation-overnight-success/,skittleson,1178,441,2026-11-10T15:25:20+00:00
+2026-11-12T17:41:00+00:00,81,50448921,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,palsecam,278,69,2026-11-11T01:56:31+00:00
+2026-11-12T17:41:00+00:00,82,50435712,Stingray Fish Laser,https://www.stingray.no/en/technology/,tptacek,31,36,2026-11-10T03:29:55+00:00
+2026-11-12T17:41:00+00:00,83,50413487,The Learjet Repo Man (2009),https://www.salon.com/2009/06/06/lear_jet_repo_man/,HR01,44,12,2026-11-08T14:06:18+00:00
+2026-11-12T17:41:00+00:00,84,50453288,Hyper-realistic sand with WebGL2,https://av.github.io/safe-sand/,everlier,429,79,2026-11-11T13:39:29+00:00
+2026-11-12T17:41:00+00:00,85,50452455,My AI agents found an unmapped Maya site?,https://pietromiotti.com/latest/maya-site,eyvindn,1023,384,2026-11-11T12:05:22+00:00
+2026-11-12T17:41:00+00:00,86,50428619,Did Life Begin in an RNA World?,https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/,acossta,79,65,2026-11-09T17:27:24+00:00
+2026-11-12T17:41:00+00:00,87,50460887,Porting my Electron app to Rust: 675 MB to 91 MB,https://sayjot.xyz/blog/rust-port,mohakbajaj,34,4,2026-11-12T00:03:20+00:00
+2026-11-12T17:41:00+00:00,88,50461919,A2UI 1.0,https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/,zeroasterisk,36,6,2026-11-12T01:42:01+00:00
+2026-11-12T17:41:00+00:00,89,50453171,Attention to Mamba: A Recipe for Cross-Architecture Distillation,https://machinelearning.apple.com/research/attention-mamba-distillation,zerop,73,5,2026-11-11T13:29:46+00:00
+2026-11-12T17:41:00+00:00,90,50443716,"Claude Whiteboards, Claude Sheets, and Claude Data",https://claude.com/resources/articles/sheets-whiteboards-data,Yorothegoat,288,217,2026-11-10T17:55:07+00:00
+2026-11-12T17:41:00+00:00,91,50455332,"AI, activity, and outcomes in software engineering",https://cabird.com/talks/shipping-faster/,azhenley,124,109,2026-11-11T16:33:28+00:00
+2026-11-12T17:41:00+00:00,92,50451903,Using voltage glitching to unleash the A100 in my mining card,https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/,lae,333,129,2026-11-11T10:48:40+00:00
+2026-11-12T17:41:00+00:00,93,50442736,.name Grandfathered,https://neil.fraser.name/news/2026/11/10/,p4bl0,927,206,2026-11-10T16:37:44+00:00
+2026-11-12T17:41:00+00:00,94,50454823,The Computer Graphics Book of Knowledge,https://www.cs.cmu.edu/~ph/nyit/masson/history.htm,num42,79,19,2026-11-11T15:50:02+00:00
+2026-11-12T17:41:00+00:00,95,50467599,Simple 8085 Computer,https://www.hackster.io/mit41301/simple-8085-computer-9fe156,AlexeyBrin,7,0,2026-11-12T14:18:04+00:00
+2026-11-12T17:41:00+00:00,96,50453229,"Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",https://github.com/0xdeadf1sh/AssemblyForNeovim,0xdeadf1sh,103,19,2026-11-11T13:34:24+00:00
+2026-11-12T17:41:00+00:00,97,50427107,Why I wrote the BEAM book (2025),https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/,zenincognito,201,48,2026-11-09T15:41:35+00:00
+2026-11-12T17:41:00+00:00,98,50449891,Show HN: Black Ops II statically recompiled to native ARM64 macOS,https://github.com/adrbn/bo2-mac,adrbn,148,65,2026-11-11T04:56:47+00:00
+2026-11-12T17:41:00+00:00,99,50416365,Optimizing Reference Deletions in Git,https://nayak.im/posts/optimizing-reference-deletion/,nayak,36,1,2026-11-08T19:37:42+00:00
+2026-11-12T17:41:00+00:00,100,50457669,IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality,"https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",gok,56,31,2026-11-11T19:47:59+00:00
