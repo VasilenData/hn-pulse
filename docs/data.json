@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T00:46:21+00:00",
+ "generated_at": "2026-11-12T11:18:31+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -101,24 +101,24 @@
   },
   {
    "day": "2026-11-12",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 179.0,
-   "avg_comments": 82.7
+   "snapshots": 2,
+   "distinct_stories": 128,
+   "avg_score": 204.5,
+   "avg_comments": 97.9
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 124,
-   "avg_peak_score": 142.6,
-   "total_comments": 6736
+   "stories": 127,
+   "avg_peak_score": 145.4,
+   "total_comments": 6919
   },
   {
    "domain": "nytimes.com",
    "stories": 23,
-   "avg_peak_score": 225.3,
-   "total_comments": 2044
+   "avg_peak_score": 235.1,
+   "total_comments": 2375
   },
   {
    "domain": "twitter.com",
@@ -135,8 +135,8 @@
   {
    "domain": "theguardian.com",
    "stories": 22,
-   "avg_peak_score": 98.2,
-   "total_comments": 1839
+   "avg_peak_score": 98.3,
+   "total_comments": 1840
   },
   {
    "domain": "reuters.com",
@@ -182,8 +182,8 @@
   },
   {
    "domain": "theregister.com",
-   "stories": 10,
-   "avg_peak_score": 91.7,
+   "stories": 11,
+   "avg_peak_score": 83.8,
    "total_comments": 571
   },
   {
@@ -195,50 +195,50 @@
   {
    "domain": "anthropic.com",
    "stories": 9,
-   "avg_peak_score": 244.3,
-   "total_comments": 1816
+   "avg_peak_score": 245.1,
+   "total_comments": 1831
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 42,
-   "avg_peak_score": 122.0
+   "stories": 43,
+   "avg_peak_score": 119.5
   },
   {
    "posted_hour_utc": 1,
-   "stories": 35,
-   "avg_peak_score": 158.7
+   "stories": 37,
+   "avg_peak_score": 152.1
   },
   {
    "posted_hour_utc": 2,
-   "stories": 35,
-   "avg_peak_score": 70.0
+   "stories": 38,
+   "avg_peak_score": 72.7
   },
   {
    "posted_hour_utc": 3,
-   "stories": 44,
-   "avg_peak_score": 95.9
+   "stories": 48,
+   "avg_peak_score": 91.7
   },
   {
    "posted_hour_utc": 4,
-   "stories": 30,
-   "avg_peak_score": 116.1
+   "stories": 31,
+   "avg_peak_score": 113.9
   },
   {
    "posted_hour_utc": 5,
-   "stories": 31,
-   "avg_peak_score": 71.0
+   "stories": 33,
+   "avg_peak_score": 68.7
   },
   {
    "posted_hour_utc": 6,
-   "stories": 23,
-   "avg_peak_score": 153.3
+   "stories": 24,
+   "avg_peak_score": 159.0
   },
   {
    "posted_hour_utc": 7,
-   "stories": 37,
-   "avg_peak_score": 214.9
+   "stories": 38,
+   "avg_peak_score": 221.4
   },
   {
    "posted_hour_utc": 8,
@@ -247,380 +247,380 @@
   },
   {
    "posted_hour_utc": 9,
-   "stories": 38,
-   "avg_peak_score": 163.9
+   "stories": 39,
+   "avg_peak_score": 159.8
   },
   {
    "posted_hour_utc": 10,
-   "stories": 40,
-   "avg_peak_score": 204.4
+   "stories": 43,
+   "avg_peak_score": 198.2
   },
   {
    "posted_hour_utc": 11,
-   "stories": 56,
-   "avg_peak_score": 155.1
+   "stories": 57,
+   "avg_peak_score": 152.9
   },
   {
    "posted_hour_utc": 12,
-   "stories": 62,
-   "avg_peak_score": 260.1
+   "stories": 63,
+   "avg_peak_score": 259.3
   },
   {
    "posted_hour_utc": 13,
-   "stories": 74,
-   "avg_peak_score": 142.2
+   "stories": 75,
+   "avg_peak_score": 143.6
   },
   {
    "posted_hour_utc": 14,
    "stories": 110,
-   "avg_peak_score": 163.3
+   "avg_peak_score": 163.8
   },
   {
    "posted_hour_utc": 15,
    "stories": 147,
-   "avg_peak_score": 138.8
+   "avg_peak_score": 139.8
   },
   {
    "posted_hour_utc": 16,
    "stories": 134,
-   "avg_peak_score": 139.5
+   "avg_peak_score": 141.1
   },
   {
    "posted_hour_utc": 17,
-   "stories": 119,
-   "avg_peak_score": 160.5
+   "stories": 121,
+   "avg_peak_score": 159.4
   },
   {
    "posted_hour_utc": 18,
    "stories": 117,
-   "avg_peak_score": 159.9
+   "avg_peak_score": 163.7
   },
   {
    "posted_hour_utc": 19,
    "stories": 111,
-   "avg_peak_score": 177.9
+   "avg_peak_score": 179.8
   },
   {
    "posted_hour_utc": 20,
-   "stories": 105,
-   "avg_peak_score": 105.0
+   "stories": 106,
+   "avg_peak_score": 105.9
   },
   {
    "posted_hour_utc": 21,
    "stories": 98,
-   "avg_peak_score": 136.8
+   "avg_peak_score": 139.5
   },
   {
    "posted_hour_utc": 22,
    "stories": 69,
-   "avg_peak_score": 143.4
+   "avg_peak_score": 164.8
   },
   {
    "posted_hour_utc": 23,
-   "stories": 54,
-   "avg_peak_score": 140.9
+   "stories": 55,
+   "avg_peak_score": 141.1
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50459745,
-   "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-   "domain": "mcmillen.dev",
-   "score": 88,
-   "comments": 17,
-   "author": "zenincognito",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50438261,
+   "title": "Jane Street: Socratic Tutor",
+   "domain": "github.com",
+   "score": 261,
+   "comments": 63,
+   "author": "tosh",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 2,
-   "story_id": 50456631,
-   "title": "AWS emulator",
-   "domain": "github.com",
-   "score": 631,
-   "comments": 209,
-   "author": "super_linear",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50425017,
+   "title": "A live tree of systemd jobs on the boot console",
+   "domain": "codeberg.org",
+   "score": 103,
+   "comments": 31,
+   "author": "orhunp_",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 3,
-   "story_id": 50450488,
-   "title": "Tim Peters has died",
-   "domain": "discuss.python.org",
-   "score": 819,
-   "comments": 86,
-   "author": "ayhanfuat",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50465352,
+   "title": "Why Writing Correct Software Is Hard",
+   "domain": "pron.github.io",
+   "score": 14,
+   "comments": 1,
+   "author": "AriFordsham",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 4,
-   "story_id": 50458900,
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "domain": "cbsnews.com",
-   "score": 315,
-   "comments": 294,
-   "author": "herpderperator",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50450488,
+   "title": "Tim Peters has died",
+   "domain": "discuss.python.org",
+   "score": 1239,
+   "comments": 136,
+   "author": "ayhanfuat",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 5,
-   "story_id": 50459485,
-   "title": "Lock Your GitHub Actions",
-   "domain": "hugovk.dev",
-   "score": 97,
-   "comments": 18,
-   "author": "gslin",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50459745,
+   "title": "93% of paint splatters are valid Perl programs (2019)",
+   "domain": "mcmillen.dev",
+   "score": 451,
+   "comments": 58,
+   "author": "zenincognito",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 6,
-   "story_id": 50455394,
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "domain": "michael.bacarella.com",
-   "score": 396,
-   "comments": 196,
-   "author": "mbac32768",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50462177,
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "domain": "wiz.io",
+   "score": 227,
+   "comments": 109,
+   "author": "soheilpro",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 7,
-   "story_id": 50456791,
-   "title": "Gemini Decisions API",
-   "domain": "blog.google",
-   "score": 242,
-   "comments": 76,
-   "author": "iamdelirium",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50456631,
+   "title": "AWS emulator",
+   "domain": "github.com",
+   "score": 865,
+   "comments": 237,
+   "author": "super_linear",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 8,
-   "story_id": 50459776,
-   "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-   "domain": "twitter.com",
-   "score": 210,
-   "comments": 149,
-   "author": "alexmolas",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50455394,
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "domain": "michael.bacarella.com",
+   "score": 499,
+   "comments": 238,
+   "author": "mbac32768",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 9,
-   "story_id": 50458208,
-   "title": "Emacs in the Age of Magic",
-   "domain": "commandlinesystems.com",
-   "score": 133,
-   "comments": 48,
-   "author": "ggcr",
-   "snapshot_at": "2026-11-12T00:46:13"
-  },
-  {
-   "rank": 10,
-   "story_id": 50460154,
-   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-   "domain": "github.com",
-   "score": 27,
-   "comments": 10,
-   "author": "iceboundrock",
-   "snapshot_at": "2026-11-12T00:46:13"
-  },
-  {
-   "rank": 11,
-   "story_id": 50457230,
-   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-   "domain": "termsheetplease.com",
-   "score": 158,
-   "comments": 72,
-   "author": "bolau",
-   "snapshot_at": "2026-11-12T00:46:13"
-  },
-  {
-   "rank": 12,
-   "story_id": 50458166,
-   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-   "domain": "github.com",
-   "score": 52,
-   "comments": 18,
-   "author": "thefox96",
-   "snapshot_at": "2026-11-12T00:46:13"
-  },
-  {
-   "rank": 13,
-   "story_id": 50457618,
-   "title": "The Utah Teapot",
-   "domain": "graphics.cs.utah.edu",
-   "score": 62,
-   "comments": 14,
-   "author": "cobbal",
-   "snapshot_at": "2026-11-12T00:46:13"
-  },
-  {
-   "rank": 14,
    "story_id": 50459703,
    "title": "Nvidia is preparing to oust Jensen Huang",
    "domain": "wsj.com",
-   "score": 371,
-   "comments": 369,
+   "score": 1063,
+   "comments": 1421,
    "author": "jbredeche",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "snapshot_at": "2026-11-12T11:18:23"
+  },
+  {
+   "rank": 10,
+   "story_id": 50456791,
+   "title": "Gemini Decisions API",
+   "domain": "blog.google",
+   "score": 444,
+   "comments": 138,
+   "author": "iamdelirium",
+   "snapshot_at": "2026-11-12T11:18:23"
+  },
+  {
+   "rank": 11,
+   "story_id": 50416606,
+   "title": "Grote Reber and the 'Square Kilometre Array' Near Bothwell, Tasmania (2017)",
+   "domain": "researchgate.net",
+   "score": 7,
+   "comments": 0,
+   "author": "NaOH",
+   "snapshot_at": "2026-11-12T11:18:23"
+  },
+  {
+   "rank": 12,
+   "story_id": 50458900,
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "domain": "cbsnews.com",
+   "score": 563,
+   "comments": 567,
+   "author": "herpderperator",
+   "snapshot_at": "2026-11-12T11:18:23"
+  },
+  {
+   "rank": 13,
+   "story_id": 50463540,
+   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+   "domain": "getlazarus.org",
+   "score": 48,
+   "comments": 21,
+   "author": "sysrpl",
+   "snapshot_at": "2026-11-12T11:18:23"
+  },
+  {
+   "rank": 14,
+   "story_id": 50459485,
+   "title": "Lock Your GitHub Actions",
+   "domain": "hugovk.dev",
+   "score": 262,
+   "comments": 53,
+   "author": "gslin",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 15,
-   "story_id": 50435240,
-   "title": "A Brief History of Sierra Online (2017)",
-   "domain": "retrofreakreviews.com",
-   "score": 18,
-   "comments": 0,
-   "author": "freshtake",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50458208,
+   "title": "Emacs in the Age of Magic",
+   "domain": "commandlinesystems.com",
+   "score": 244,
+   "comments": 108,
+   "author": "ggcr",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 16,
-   "story_id": 50455633,
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "domain": "machinelearning.apple.com",
-   "score": 143,
-   "comments": 24,
-   "author": "zerop",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50415162,
+   "title": "I gave an agent a lakehouse and control of my garden",
+   "domain": "jatorre.github.io",
+   "score": 100,
+   "comments": 46,
+   "author": "jatorre",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 17,
-   "story_id": 50452455,
-   "title": "My AI agents found an unmapped Maya site?",
-   "domain": "pietromiotti.com",
-   "score": 918,
-   "comments": 335,
-   "author": "eyvindn",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50457618,
+   "title": "The Utah Teapot",
+   "domain": "graphics.cs.utah.edu",
+   "score": 151,
+   "comments": 34,
+   "author": "cobbal",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 18,
-   "story_id": 50453288,
-   "title": "Hyper-Realistic Sand with WebGL2",
-   "domain": "av.github.io",
-   "score": 294,
-   "comments": 62,
-   "author": "everlier",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50438958,
+   "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+   "domain": "blog.benjamin.ie",
+   "score": 24,
+   "comments": 20,
+   "author": "benkelly",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 19,
-   "story_id": 50433042,
-   "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-   "domain": "agweb.com",
-   "score": 39,
-   "comments": 24,
-   "author": "rmason",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50460154,
+   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+   "domain": "github.com",
+   "score": 113,
+   "comments": 44,
+   "author": "iceboundrock",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 20,
-   "story_id": 50454625,
-   "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
-   "domain": "github.com",
-   "score": 161,
-   "comments": 71,
-   "author": "brownrout",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50463103,
+   "title": "Darling Development Update \u2013 Q4 2026",
+   "domain": "blog.darlinghq.org",
+   "score": 27,
+   "comments": 6,
+   "author": "tech234a",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 21,
-   "story_id": 50455811,
-   "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
-   "domain": "news.ycombinator.com",
-   "score": 45,
-   "comments": 36,
-   "author": "alanjm23",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50453288,
+   "title": "Hyper-Realistic Sand with WebGL2",
+   "domain": "av.github.io",
+   "score": 391,
+   "comments": 74,
+   "author": "everlier",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 22,
-   "story_id": 50453637,
-   "title": "Atuin Threads: All your agent sessions on every machine",
-   "domain": "blog.atuin.sh",
-   "score": 189,
-   "comments": 69,
-   "author": "linsomniac",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50452455,
+   "title": "My AI agents found an unmapped Maya site?",
+   "domain": "pietromiotti.com",
+   "score": 996,
+   "comments": 365,
+   "author": "eyvindn",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 23,
-   "story_id": 50422216,
-   "title": "Making the Iron Giant Live",
-   "domain": "animationobsessive.substack.com",
-   "score": 5,
-   "comments": 0,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50428619,
+   "title": "Did Life Begin in an RNA World?",
+   "domain": "quantamagazine.org",
+   "score": 63,
+   "comments": 30,
+   "author": "acossta",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 24,
-   "story_id": 50454995,
-   "title": "The hardest notes to find on the guitar",
-   "domain": "gitori.com",
-   "score": 49,
-   "comments": 59,
-   "author": "udit99",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50455633,
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "domain": "machinelearning.apple.com",
+   "score": 210,
+   "comments": 38,
+   "author": "zerop",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 25,
-   "story_id": 50416365,
-   "title": "Optimizing Reference Deletions in Git",
-   "domain": "nayak.im",
-   "score": 18,
-   "comments": 0,
-   "author": "nayak",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50420905,
+   "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
+   "domain": "publicdomainreview.org",
+   "score": 33,
+   "comments": 8,
+   "author": "lermontov",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 26,
-   "story_id": 50459321,
-   "title": "Jensen Huang said to have had relationship with executive who reports to him",
-   "domain": "nytimes.com",
-   "score": 145,
-   "comments": 130,
-   "author": "louiereederson",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50462375,
+   "title": "Lean Grimoire",
+   "domain": "terrytao.wordpress.com",
+   "score": 41,
+   "comments": 8,
+   "author": "smilelamp",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 27,
-   "story_id": 50452655,
-   "title": "Can a Linear Program Do Weight-Space Programming?",
-   "domain": "nathan.rs",
-   "score": 236,
-   "comments": 35,
-   "author": "emschwartz",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50454625,
+   "title": "Show HN: Yogurt \u2013 Free, private, open-source alternative to Granola",
+   "domain": "github.com",
+   "score": 246,
+   "comments": 95,
+   "author": "brownrout",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 28,
-   "story_id": 50457669,
-   "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-   "domain": "newsroom.ibm.com",
-   "score": 46,
-   "comments": 23,
-   "author": "gok",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "story_id": 50458166,
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "domain": "github.com",
+   "score": 111,
+   "comments": 26,
+   "author": "thefox96",
+   "snapshot_at": "2026-11-12T11:18:23"
   },
   {
    "rank": 29,
-   "story_id": 50449440,
-   "title": "The Apple Support Community will permanently close on November 20, 2026",
-   "domain": "discussions.apple.com",
-   "score": 110,
-   "comments": 208,
-   "author": "tech234a",
-   "snapshot_at": "2026-11-12T00:46:13"
-  },
-  {
-   "rank": 30,
    "story_id": 50451903,
    "title": "Using voltage glitching to unleash the A100 in my mining card",
    "domain": "blog.kate.land",
-   "score": 257,
-   "comments": 104,
+   "score": 310,
+   "comments": 123,
    "author": "lae",
-   "snapshot_at": "2026-11-12T00:46:13"
+   "snapshot_at": "2026-11-12T11:18:23"
+  },
+  {
+   "rank": 30,
+   "story_id": 50452655,
+   "title": "Can a Linear Program Do Weight-Space Programming?",
+   "domain": "nathan.rs",
+   "score": 285,
+   "comments": 40,
+   "author": "emschwartz",
+   "snapshot_at": "2026-11-12T11:18:23"
   }
  ],
  "quality": {
@@ -637,10 +637,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 6437,
-   "fct_stories": 1638
+   "stg_snapshots": 6536,
+   "fct_stories": 1664
   },
-  "newest_snapshot_at": "2026-11-12T00:46:13+00:00",
+  "newest_snapshot_at": "2026-11-12T11:18:23+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
