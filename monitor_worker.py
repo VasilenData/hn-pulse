@@ -104,6 +104,17 @@ def connect(path):
           kind TEXT NOT NULL, body TEXT NOT NULL, attempts INTEGER NOT NULL DEFAULT 0,
           delivered_at TEXT, receipt TEXT, retry_at TEXT, lease_until TEXT, last_error TEXT);
     """)
+    # Older state volumes predate fencing tokens. Serialize schema inspection and
+    # migration so two starting processes cannot both attempt the ALTER.
+    con.execute("BEGIN IMMEDIATE")
+    try:
+        if "lease_token" not in {row["name"] for row in con.execute("PRAGMA table_info(outbox)")}:
+            con.execute("ALTER TABLE outbox ADD COLUMN lease_token TEXT")
+        con.commit()
+    except BaseException:
+        con.rollback()
+        con.close()
+        raise
     return con
 
 
@@ -259,22 +270,34 @@ def deliver(con, transport, now=None):
         if not row or (row["retry_at"] and datetime.fromisoformat(row["retry_at"]) > now) or (row["lease_until"] and datetime.fromisoformat(row["lease_until"]) > now):
             con.commit()
             break
-        con.execute("UPDATE outbox SET attempts=attempts+1, lease_until=? WHERE id=?",
-                    ((now + timedelta(minutes=5)).isoformat(), row["id"]))
+        token = str(uuid.uuid4())
+        con.execute("UPDATE outbox SET attempts=attempts+1, lease_until=?,lease_token=? WHERE id=?",
+                    ((now + timedelta(minutes=5)).isoformat(), token, row["id"]))
         con.commit()
         try:
             receipt = transport(json.loads(row["body"]))
+            if not isinstance(receipt, dict) or receipt.get("accepted") is not True:
+                raise ValueError("Transport did not confirm acceptance")
+            serialized_receipt = json.dumps(receipt, sort_keys=True, allow_nan=False)
         except Exception as error:
             # Deliberately exclude exception text (SMTP response may include a recipient).
             delay = min(3600, 60 * 2 ** min(row["attempts"], 6))
-            con.execute("UPDATE outbox SET retry_at=?,lease_until=NULL,last_error=? WHERE id=?",
-                        ((now + timedelta(seconds=delay)).isoformat(), type(error).__name__, row["id"]))
-            results.append({"id": row["id"], "accepted": False, "error": type(error).__name__})
+            changed = con.execute("UPDATE outbox SET retry_at=?,lease_until=NULL,lease_token=NULL,last_error=? "
+                                  "WHERE id=? AND lease_token=? AND delivered_at IS NULL",
+                                  ((now + timedelta(seconds=delay)).isoformat(), type(error).__name__, row["id"], token)).rowcount
+            results.append({"id": row["id"], "accepted": False, "recorded": bool(changed),
+                            "error": type(error).__name__ if changed else "LeaseLost"})
             break
         else:
-            con.execute("UPDATE outbox SET delivered_at=?,receipt=?,lease_until=NULL,retry_at=NULL,last_error=NULL WHERE id=?",
-                        (now.isoformat(), json.dumps(receipt, sort_keys=True), row["id"]))
-            results.append({"id": row["id"], **receipt})
+            changed = con.execute("UPDATE outbox SET delivered_at=?,receipt=?,lease_until=NULL,lease_token=NULL,"
+                                  "retry_at=NULL,last_error=NULL WHERE id=? AND lease_token=? AND delivered_at IS NULL",
+                                  (now.isoformat(), serialized_receipt, row["id"], token)).rowcount
+            results.append({"id": row["id"], **receipt, "recorded": bool(changed)})
+            if not changed:
+                # A newer attempt owns the state. Provider acceptance is still
+                # true, but this expired worker must not acknowledge or drain it.
+                results[-1]["error"] = "LeaseLost"
+                break
     return results
 
 

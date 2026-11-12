@@ -94,6 +94,96 @@ def test_send_then_process_death_is_retried_with_same_event_identity(tmp_path):
     con.close()
 
 
+@pytest.mark.parametrize("stale_success", [False, True])
+def test_expired_sender_cannot_clear_newer_claim_or_release_recovery(tmp_path, stale_success):
+    path = tmp_path / "state.sqlite"
+    first, second = worker.connect(path), worker.connect(path)
+    alert = worker.record(first, report())
+    worker.record(first, report("fresh", 1))
+    claimed = {}
+
+    def old_transport(event):
+        assert event["id"] == alert["id"]
+        # The second worker takes over after the first lease expires, then dies
+        # before recording acceptance. No sleep or probabilistic scheduling.
+        with pytest.raises(SystemExit):
+            worker.deliver(second, lambda e: (_ for _ in ()).throw(SystemExit()), NOW + timedelta(minutes=6))
+        claimed.update(dict(second.execute("SELECT * FROM outbox WHERE id=?", (event["id"],)).fetchone()))
+        if stale_success:
+            return {"accepted": True, "message_id": "expired-worker-receipt"}
+        raise TimeoutError("expired worker must not clear the replacement claim")
+
+    results = worker.deliver(first, old_transport, NOW)
+    assert results[0]["recorded"] is False
+    assert results[0]["error"] == "LeaseLost"
+    assert results[0]["accepted"] is stale_success
+    current = dict(second.execute("SELECT * FROM outbox WHERE id=?", (alert["id"],)).fetchone())
+    assert current == claimed
+    assert current["attempts"] == 2 and current["delivered_at"] is None
+    assert worker.deliver(first, lambda e: pytest.fail("replacement lease must block sending"), NOW + timedelta(minutes=7)) == []
+    sent = []
+    worker.deliver(second, lambda e: sent.append(e) or {"accepted": True}, NOW + timedelta(minutes=12))
+    assert [event["kind"] for event in sent] == ["alert", "recovery"]
+    assert sent[0]["id"] == alert["id"]
+    first.close()
+    second.close()
+
+
+def test_stale_acknowledgement_cannot_overwrite_newer_delivery_receipt(tmp_path):
+    path = tmp_path / "state.sqlite"
+    first, second = worker.connect(path), worker.connect(path)
+    event = worker.record(first, report())
+
+    def old_transport(_):
+        worker.deliver(second, lambda e: {"accepted": True, "message_id": "newer-receipt"}, NOW + timedelta(minutes=6))
+        return {"accepted": True, "message_id": "stale-receipt"}
+
+    result = worker.deliver(first, old_transport, NOW)[0]
+    assert result["accepted"] is True and result["recorded"] is False
+    row = second.execute("SELECT * FROM outbox WHERE id=?", (event["id"],)).fetchone()
+    assert json.loads(row["receipt"])["message_id"] == "newer-receipt"
+    assert row["delivered_at"] == (NOW + timedelta(minutes=6)).isoformat()
+    assert row["lease_token"] is None
+    first.close()
+    second.close()
+
+
+@pytest.mark.parametrize("receipt", [None, {"accepted": False}, {"accepted": 1},
+                                    {"accepted": True, "invalid": float("nan")}, {"accepted": True, "invalid": object()}])
+def test_invalid_acceptance_receipt_cannot_acknowledge_alert_or_release_recovery(tmp_path, receipt):
+    con = worker.connect(tmp_path / "state.sqlite")
+    worker.record(con, report())
+    worker.record(con, report("fresh", 1))
+    send = MagicMock(return_value=receipt)
+    result = worker.deliver(con, send, NOW + timedelta(minutes=2))
+    assert send.call_count == 1
+    assert result[0]["accepted"] is False
+    assert result[0]["recorded"] is True
+    assert con.execute("SELECT COUNT(*) FROM outbox WHERE delivered_at IS NULL").fetchone()[0] == 2
+    pending = con.execute("SELECT * FROM outbox ORDER BY sequence LIMIT 1").fetchone()
+    assert pending["receipt"] is None and pending["retry_at"] is not None and pending["lease_token"] is None
+    con.close()
+
+
+def test_old_state_schema_migrates_without_losing_pending_event_or_lease(tmp_path):
+    path = tmp_path / "state.sqlite"
+    con = worker.connect(path)
+    event = worker.record(con, report())
+    con.execute("ALTER TABLE outbox DROP COLUMN lease_token")
+    lease = (NOW + timedelta(minutes=5)).isoformat()
+    con.execute("UPDATE outbox SET attempts=1,lease_until=? WHERE id=?", (lease, event["id"]))
+    before = dict(con.execute("SELECT * FROM outbox").fetchone())
+    con.close()
+    con = worker.connect(path)
+    after = dict(con.execute("SELECT * FROM outbox").fetchone())
+    assert after.pop("lease_token") is None
+    assert after == before
+    assert worker.deliver(con, lambda e: pytest.fail("old active lease must survive migration"), NOW) == []
+    result = worker.deliver(con, lambda e: {"accepted": True}, NOW + timedelta(minutes=6))
+    assert result[0]["id"] == event["id"] and result[0]["recorded"] is True
+    con.close()
+
+
 def test_stale_result_or_different_source_cannot_close_live_incident(tmp_path):
     con = worker.connect(tmp_path / "state.sqlite")
     worker.record(con, report())

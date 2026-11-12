@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "scope": "Controlled offline SQLite exercise with synthetic observations and test-double transports; no outbound requests or live state changes",
+  "observed_at": "2026-11-12T19:55:25.774590+00:00",
+  "baseline_git_revision": "8378b0f1a03dd22dc0526913fd639a9cdbe0fb47",
+  "baseline_worker_sha256": "482cada392d1760bdc4f7ed4b41e3998fb68d69d5513633f5ce27dc77835591e",
+  "fixed_worker_sha256": "6081ac61bc10df2e063f6ce1c23d99bcaf210018f24b721c360871759e34ca43",
+  "synchronization": "The expired transport invokes a second real SQLite connection at a synthetic +6 minute clock, then reports failure after the replacement claim is committed.",
+  "before": {
+    "replacement_lease_until": "2026-11-12T13:11:00+00:00",
+    "after_expired_worker_completion": null,
+    "replacement_lease_preserved": false,
+    "attempts": 2
+  },
+  "after": {
+    "replacement_lease_until": "2026-11-12T13:11:00+00:00",
+    "after_expired_worker_completion": "2026-11-12T13:11:00+00:00",
+    "replacement_lease_preserved": true,
+    "attempts": 2
+  },
+  "limits": [
+    "Logical clock advances, not a six-minute wall-clock measurement.",
+    "No provider delivery or outage was exercised.",
+    "At-least-once transport delivery still permits duplicate sends after lease expiry."
+  ]
+}
