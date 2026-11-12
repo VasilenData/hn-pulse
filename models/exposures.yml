@@ -1,0 +1,29 @@
+version: 2
+
+exposures:
+  - name: public_dashboard_export
+    label: Validated JSON export
+    type: application
+    maturity: medium
+    url: https://vasilendata.github.io/hn-pulse/data.json
+    description: The atomic JSON artifact consumed by the dashboard and publication monitors.
+    depends_on:
+      - ref('mart_daily_summary')
+      - ref('mart_front_page_now')
+      - ref('mart_top_domains')
+      - ref('mart_hourly_activity')
+    owner:
+      name: Vasilen Kanchev
+  - name: public_dashboard
+    label: HN Pulse live dashboard
+    type: dashboard
+    maturity: medium
+    url: https://vasilendata.github.io/hn-pulse/
+    description: Front-page stories, domain frequency, posting-hour scores and data-health indicators.
+    depends_on:
+      - ref('mart_daily_summary')
+      - ref('mart_front_page_now')
+      - ref('mart_top_domains')
+      - ref('mart_hourly_activity')
+    owner:
+      name: Vasilen Kanchev
