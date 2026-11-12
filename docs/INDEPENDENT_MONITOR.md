@@ -57,6 +57,29 @@ failed attempts use backoff capped at one hour. At most four events are attempte
 per invocation. Observations are retained for 90 days; incident and delivery
 records remain until deliberately archived by the operator.
 
+Every send attempt has its own fencing token. Success and failure updates apply
+only while that token still owns the pending event. If a slow worker finishes
+after another worker has taken over its expired lease, it cannot clear the new
+lease, replace the new receipt or continue draining the outbox. Its result records
+`recorded: false` and `LeaseLost`; a successful provider acceptance remains
+`accepted: true` even when that stale worker cannot acknowledge it locally.
+Transport responses must explicitly confirm acceptance and contain a valid JSON
+receipt before the event can be acknowledged.
+
+The [controlled two-connection exercise](outbox-fencing-2026-11-12.json) reproduces
+the previous bug: an expired sender's failure cleared a replacement worker's
+lease. With fencing, the replacement lease survives. Regression tests also cover
+stale success, preservation of a newer receipt, invalid acceptance receipts,
+ordered recovery after takeover and migration of pending legacy state. These are
+offline SQLite tests with logical clock advances and test-double transports, not
+new live email deliveries or a measured provider outage.
+
+On first open, a transaction adds the nullable `lease_token` column to existing
+state without dropping observations, events, receipts or an unexpired legacy
+lease. Stop old workers before upgrading: the fencing guarantee requires every
+writer to use the updated code. Keep the single-replica/non-overlapping deployment
+rule; fencing is a recovery safeguard, not a recommendation to add replicas.
+
 Delivery is **at least once**, not universally exactly once. If the provider
 accepts a message and the worker dies before saving the receipt, the same event
 ID is retried. Generic SMTP may deliver a duplicate. Resend's idempotency keys
