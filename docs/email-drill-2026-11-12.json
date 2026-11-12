@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "scope": "controlled synthetic outage; live publication untouched",
+  "started_at": "2026-11-12T17:53:57.172605+00:00",
+  "completed_at": "2026-11-12T17:53:57.608983+00:00",
+  "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+  "fixture_sha256": "cdf6a1274515eadac5a8e9986e6a124915d776779c5d93fc47ef2b50e0267218",
+  "transport": "configured_email",
+  "email_inbox_receipt_verified": false,
+  "persistent_state_reopened_each_step": true,
+  "live_or_committed_export_modified": false,
+  "steps": [
+    {
+      "step": "healthy",
+      "observation": {
+        "checked_at": "2026-11-12T17:53:57.173263+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333833333333,
+        "source_age_hours": 1.000000005,
+        "generated_at": "2026-11-12T17:51:57.173245+00:00",
+        "newest_snapshot_at": "2026-11-12T16:53:57.173245+00:00",
+        "status": "fresh",
+        "payload_sha256": "b00841c8888723d74fca1fe7603739e38180b9fa2a27233aef2780b57238f067",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:32797/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": null,
+      "deliveries": [],
+      "pending_notifications": 0
+    },
+    {
+      "step": "source_overdue",
+      "observation": {
+        "checked_at": "2026-11-12T17:53:57.232599+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.033333340833333336,
+        "source_age_hours": 7.0000000075,
+        "generated_at": "2026-11-12T17:51:57.232572+00:00",
+        "newest_snapshot_at": "2026-11-12T10:53:57.232572+00:00",
+        "status": "overdue",
+        "payload_sha256": "d4b4ef23a1e35ea1583970b785762de752fc66c1598d5b80603579348934155b",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:32797/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": "alert",
+      "deliveries": [
+        {
+          "id": "1da095f8-75cc-45be-8c4b-a8e2da900581:alert",
+          "transport": "resend",
+          "accepted": true,
+          "message_id": "01a1d0e5-1862-71d4-8343-f7fbf2e3fd40"
+        }
+      ],
+      "pending_notifications": 0
+    },
+    {
+      "step": "same_incident",
+      "observation": {
+        "checked_at": "2026-11-12T17:53:57.417473+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333972222222,
+        "source_age_hours": 7.000000006388889,
+        "generated_at": "2026-11-12T17:51:57.417450+00:00",
+        "newest_snapshot_at": "2026-11-12T10:53:57.417450+00:00",
+        "status": "overdue",
+        "payload_sha256": "72a224de47e5f50c7da53045aefe9fe079dc4aa8a6cfddb488863500e33af077",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:32797/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": null,
+      "deliveries": [],
+      "pending_notifications": 0
+    },
+    {
+      "step": "recovered",
+      "observation": {
+        "checked_at": "2026-11-12T17:53:57.421804+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333777777778,
+        "source_age_hours": 1.0000000044444444,
+        "generated_at": "2026-11-12T17:51:57.421788+00:00",
+        "newest_snapshot_at": "2026-11-12T16:53:57.421788+00:00",
+        "status": "fresh",
+        "payload_sha256": "aea619db6541f502f9ebb19af3b884e2c598a26b43fbe9ec95aadf044dd49dc9",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:32797/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": "recovery",
+      "deliveries": [
+        {
+          "id": "1da095f8-75cc-45be-8c4b-a8e2da900581:recovery",
+          "transport": "resend",
+          "accepted": true,
+          "message_id": "01a1d0e5-1915-7928-bb03-7681146d4995"
+        }
+      ],
+      "pending_notifications": 0
+    }
+  ],
+  "received": [],
+  "limits": [
+    "Manual checks; does not measure the scheduled detection interval.",
+    "Provider acceptance does not establish inbox delivery or human acknowledgement.",
+    "No claim about real provider outages, long-term uptime, or source data loss."
+  ]
+}

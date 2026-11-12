@@ -6,11 +6,11 @@ An end-to-end data engineering project: a scheduled pipeline snapshots the Hacke
 
 **Live dashboard: https://vasilendata.github.io/hn-pulse/**
 
-**Stack:** Python · DuckDB · dbt · GitHub Actions · GitHub Pages. Apache Airflow is an optional local orchestration example.
+**Stack:** Python · DuckDB · dbt · GitHub Actions · GitHub Pages · Railway · SQLite · Resend. Apache Airflow is an optional local orchestration example.
 
-**Operating status:** GitHub Actions runs the public pipeline every three hours. GitHub Pages serves the dashboard. The Airflow DAG runs locally and is not the scheduler for the live site.
+**Operating status:** GitHub Actions is scheduled to run the public pipeline every three hours; actual starts can be delayed. GitHub Pages serves the dashboard. A separate Railway cron checks the public export twice hourly and sends incident/recovery emails through Resend. The Airflow DAG runs locally and is not the scheduler for the live site.
 
-**Operating record:** The [8 November 2026 review](docs/operations-review-2026-11-08.md) records 50 successful runs out of 52 completed pipeline runs in a bounded API history, explains the two failures and Pages cancellations, and documents a separate synthetic recovery exercise. This is a completed-run success rate, not uptime.
+**Operating evidence:** The [12 November 2026 review](docs/operations-review-2026-11-12.md) records an independently detected 6.38-hour stale export, restored publication, durable alert/recovery delivery across hosted restarts, and an email drill with verified inbox receipt. The earlier [8 November review](docs/operations-review-2026-11-08.md) covers 50 successful runs out of 52 completed pipeline runs. These are dated observations, not uptime or detection-time guarantees.
 
 ## Architecture
 
@@ -25,6 +25,10 @@ flowchart TD
     J --> D{"27 dbt tests pass?"}
     D -->|Yes| E["JSON export and quality report"]
     E --> F["GitHub Pages dashboard"]
+    K["Railway cron: independent scheduler"] --> L["Public export contract and freshness"]
+    F --> L
+    L --> M["SQLite incidents and durable outbox"]
+    M --> N["Resend alert and recovery emails"]
 ```
 
 ## Data quality: five layers of defence
@@ -122,7 +126,7 @@ This GitHub workflow adds monitoring independent of the data pipeline, but it sh
 
 [`monitor_worker.py`](monitor_worker.py) adds a separately deployable cron worker with a stricter public-export contract, durable SQLite incident/outbox state, bounded requests, and Resend/SMTP email adapters. Failed delivery remains pending; repeated unhealthy checks produce one incident alert, followed by an ordered recovery notification. Stable event IDs support retry deduplication; generic SMTP is at-least-once, and Resend's deduplication window is 24 hours.
 
-The [controlled HTTP delivery drill](docs/monitor-drill-2026-11-12.json) used real local requests and a synthetic stale source. Its receiver got one alert and one recovery across four checks, with state reopened between checks and the live export untouched. This demonstrates the local delivery path, not hosted email delivery or long-term uptime. [Deployment, incident response and current evidence scope](docs/INDEPENDENT_MONITOR.md) document the independent Railway schedule, durable volume and email setup.
+The [dated operating review](docs/operations-review-2026-11-12.md) separates real observations from exercises: Railway detected an actual 6.38-hour-old publication, then a later invocation reopened persistent state and delivered the queued alert before recovery. A separate [controlled email drill](docs/email-drill-2026-11-12.json) produced one alert and one recovery, both verified in the owner-controlled inbox. The [local HTTP drill](docs/monitor-drill-2026-11-12.json) also checks repeat-incident suppression. Neither exercise changed the live export. [Deployment, incident response and delivery limits](docs/INDEPENDENT_MONITOR.md) include the 24-hour idempotency window and the monitor’s own scheduler dependency.
 
 ### Source-change impact
 

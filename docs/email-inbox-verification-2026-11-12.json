@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "scope": "Separate inbox observation; process evidence is preserved unchanged",
+  "date_utc": "2026-11-12",
+  "method": "Browser inspection of the intended owner-controlled Gmail inbox by the deployment operator",
+  "controlled_drill": {
+    "incident_id": "1da095f8-75cc-45be-8c4b-a8e2da900581",
+    "displayed_received_time_utc_minute": "17:53",
+    "messages": [
+      {
+        "kind": "alert",
+        "subject": "[CONTROLLED DRILL] HN Pulse alert: overdue",
+        "provider_message_id": "01a1d0e5-1862-71d4-8343-f7fbf2e3fd40",
+        "inbox_presence_verified": true
+      },
+      {
+        "kind": "recovery",
+        "subject": "[CONTROLLED DRILL] HN Pulse recovery: fresh",
+        "provider_message_id": "01a1d0e5-1915-7928-bb03-7681146d4995",
+        "inbox_presence_verified": true
+      }
+    ]
+  },
+  "limits": [
+    "The displayed inbox time has minute precision; this is not a measured delivery-latency benchmark.",
+    "No claim that the recipient read or acted on the email.",
+    "Inbox screenshots are retained privately, because the inbox contains unrelated messages."
+  ],
+  "actual_incident": {
+    "incident_id": "4d28d417-4147-4092-93aa-a0f1c0132796",
+    "displayed_received_time_utc_minute": "17:55",
+    "messages": [
+      {
+        "kind": "alert",
+        "observed_at": "2026-11-12T17:41:21.622132+00:00",
+        "subject": "HN Pulse alert: overdue",
+        "provider_message_id": "01a1d0e6-acab-7da3-b6db-b1456fe1b2c3",
+        "inbox_presence_verified": true,
+        "message_body_opened_and_verified": true
+      },
+      {
+        "kind": "recovery",
+        "observed_at": "2026-11-12T17:55:40.606987+00:00",
+        "subject": "HN Pulse recovery: fresh",
+        "provider_message_id": "01a1d0e6-ad4a-70e8-94e6-f30991996e36",
+        "inbox_presence_verified": true,
+        "message_body_opened_and_verified": true
+      }
+    ]
+  }
+}
