@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "scope": "controlled synthetic outage; live publication untouched",
+  "started_at": "2026-11-12T17:29:40.736222+00:00",
+  "completed_at": "2026-11-12T17:29:40.796664+00:00",
+  "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+  "fixture_sha256": "6b8748238100c408ab5059486f22ff48bd9b764c26e88e4cee50c324adce3f3c",
+  "transport": "local_http_receiver",
+  "email_inbox_receipt_verified": false,
+  "persistent_state_reopened_each_step": true,
+  "live_or_committed_export_modified": false,
+  "steps": [
+    {
+      "step": "healthy",
+      "observation": {
+        "checked_at": "2026-11-12T17:29:40.738224+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333333333333,
+        "source_age_hours": 1.0,
+        "generated_at": "2026-11-12T17:27:40.738224+00:00",
+        "newest_snapshot_at": "2026-11-12T16:29:40.738224+00:00",
+        "status": "fresh",
+        "payload_sha256": "21ac5dc9873ba49ded4a94dc4f330ead110de7e6ee5add0b79438c44dd72cd76",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:56842/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": null,
+      "deliveries": [],
+      "pending_notifications": 0
+    },
+    {
+      "step": "source_overdue",
+      "observation": {
+        "checked_at": "2026-11-12T17:29:40.752242+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333333333333,
+        "source_age_hours": 7.0,
+        "generated_at": "2026-11-12T17:27:40.752242+00:00",
+        "newest_snapshot_at": "2026-11-12T10:29:40.752242+00:00",
+        "status": "overdue",
+        "payload_sha256": "9dd9d94593b33b5c5843f7b24e8355fb0ccdad8b99545614fb3945a518d752a0",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:56842/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": "alert",
+      "deliveries": [
+        {
+          "id": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa:alert",
+          "transport": "webhook",
+          "accepted": true,
+          "http_status": 202
+        }
+      ],
+      "pending_notifications": 0
+    },
+    {
+      "step": "same_incident",
+      "observation": {
+        "checked_at": "2026-11-12T17:29:40.780620+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333333333333,
+        "source_age_hours": 7.0,
+        "generated_at": "2026-11-12T17:27:40.780620+00:00",
+        "newest_snapshot_at": "2026-11-12T10:29:40.780620+00:00",
+        "status": "overdue",
+        "payload_sha256": "c918dfa769cf2d0d73bd602dc5b2296d7711f063c9feebb4f354d193992c0d6c",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:56842/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": null,
+      "deliveries": [],
+      "pending_notifications": 0
+    },
+    {
+      "step": "recovered",
+      "observation": {
+        "checked_at": "2026-11-12T17:29:40.787644+00:00",
+        "max_age_hours": 6,
+        "publication_age_hours": 0.03333333333333333,
+        "source_age_hours": 1.0,
+        "generated_at": "2026-11-12T17:27:40.787644+00:00",
+        "newest_snapshot_at": "2026-11-12T16:29:40.787644+00:00",
+        "status": "fresh",
+        "payload_sha256": "ee8982baedb2b67bbc60c0b6ad129dbe0501567e65915bd98acc1896b57ad086",
+        "payload_bytes": 11306,
+        "url": "http://127.0.0.1:56842/data.json",
+        "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62"
+      },
+      "transition": "recovery",
+      "deliveries": [
+        {
+          "id": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa:recovery",
+          "transport": "webhook",
+          "accepted": true,
+          "http_status": 202
+        }
+      ],
+      "pending_notifications": 0
+    }
+  ],
+  "received": [
+    {
+      "received_at": "2026-11-12T17:29:40.779619+00:00",
+      "idempotency_key": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa:alert",
+      "event": {
+        "id": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa:alert",
+        "incident_id": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa",
+        "kind": "alert",
+        "observation": {
+          "checked_at": "2026-11-12T17:29:40.752242+00:00",
+          "generated_at": "2026-11-12T17:27:40.752242+00:00",
+          "max_age_hours": 6,
+          "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+          "newest_snapshot_at": "2026-11-12T10:29:40.752242+00:00",
+          "payload_bytes": 11306,
+          "payload_sha256": "9dd9d94593b33b5c5843f7b24e8355fb0ccdad8b99545614fb3945a518d752a0",
+          "publication_age_hours": 0.03333333333333333,
+          "source_age_hours": 7.0,
+          "status": "overdue",
+          "url": "http://127.0.0.1:56842/data.json"
+        },
+        "scope": "controlled-drill"
+      }
+    },
+    {
+      "received_at": "2026-11-12T17:29:40.794658+00:00",
+      "idempotency_key": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa:recovery",
+      "event": {
+        "id": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa:recovery",
+        "incident_id": "8e80dc72-77f6-49e8-b9e1-5fcbf46d35fa",
+        "kind": "recovery",
+        "observation": {
+          "checked_at": "2026-11-12T17:29:40.787644+00:00",
+          "generated_at": "2026-11-12T17:27:40.787644+00:00",
+          "max_age_hours": 6,
+          "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+          "newest_snapshot_at": "2026-11-12T16:29:40.787644+00:00",
+          "payload_bytes": 11306,
+          "payload_sha256": "ee8982baedb2b67bbc60c0b6ad129dbe0501567e65915bd98acc1896b57ad086",
+          "publication_age_hours": 0.03333333333333333,
+          "source_age_hours": 1.0,
+          "status": "fresh",
+          "url": "http://127.0.0.1:56842/data.json"
+        },
+        "scope": "controlled-drill"
+      }
+    }
+  ],
+  "limits": [
+    "Manual checks; does not measure the scheduled detection interval.",
+    "Provider acceptance does not establish inbox delivery or human acknowledgement.",
+    "No claim about real provider outages, long-term uptime, or source data loss."
+  ]
+}
