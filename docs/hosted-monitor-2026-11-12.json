@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "scope": "Dated operating observations; not an uptime or scheduled-delivery SLA",
+  "recorded_date": "2026-11-12",
+  "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+  "hosted_scheduler": {
+    "provider": "Railway",
+    "deployment_id": "5bf4b055-d719-456c-9e67-3617505c7961",
+    "source_commit": "ca093df6803fe93606380fec37d938a0b1d5b0c4",
+    "cron": "11,41 * * * *",
+    "timezone": "UTC",
+    "configuration_method": "direct service settings; legacy railwayConfigFile rejected",
+    "state_mount": "/state",
+    "volume_capacity_mb": 100,
+    "memory_ceiling_gb": 0.25,
+    "vcpu_ceiling": 0.25,
+    "replicas": 1,
+    "restart_policy": "NEVER",
+    "process_deadline_seconds": 120,
+    "observed_build_completed_at": "2026-11-12T17:38:31.784643892Z"
+  },
+  "scheduled_observation": {
+    "logged_at": "2026-11-12T17:41:22.556593366Z",
+    "observation": {
+      "checked_at": "2026-11-12T17:41:21.622132+00:00",
+      "generated_at": "2026-11-12T11:18:31+00:00",
+      "max_age_hours": 6,
+      "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+      "newest_snapshot_at": "2026-11-12T11:18:23+00:00",
+      "payload_bytes": 13210,
+      "payload_sha256": "cdf6a1274515eadac5a8e9986e6a124915d776779c5d93fc47ef2b50e0267218",
+      "publication_age_hours": 6.38072837,
+      "source_age_hours": 6.3829505922222225,
+      "status": "overdue",
+      "url": "https://vasilendata.github.io/hn-pulse/data.json"
+    },
+    "transition": "alert",
+    "notification_mode": "observe_only",
+    "pending_notifications": 1,
+    "deliveries": [],
+    "process_exit_code": 1,
+    "provider_status": "CRASHED",
+    "status_explanation": "Intentional nonzero exit for overdue source/pending notifications; no Python exception in this invocation."
+  },
+  "publication_recovery": {
+    "pipeline": {
+      "id": 43271946360,
+      "url": "https://github.com/VasilenData/hn-pulse/actions/runs/43271946360",
+      "source_commit": "e05763b94a6b886e6d89a87fd858849e639419c2",
+      "conclusion": "success"
+    },
+    "pages": {
+      "id": 43272034846,
+      "url": "https://github.com/VasilenData/hn-pulse/actions/runs/43272034846",
+      "source_commit": "4254670f2b4830aa3c781d75b626c830249a82c3",
+      "conclusion": "success",
+      "reported_success_at": "2026-11-12T17:41:53.8480102Z"
+    },
+    "github_monitor": {
+      "id": 43272431970,
+      "url": "https://github.com/VasilenData/hn-pulse/actions/runs/43272431970",
+      "source_commit": "4254670f2b4830aa3c781d75b626c830249a82c3",
+      "conclusion": "success",
+      "checked_at": "2026-11-12T17:43:39.451879+00:00"
+    },
+    "independent_local_observation": {
+      "checked_at": "2026-11-12T17:54:15.017087+00:00",
+      "generated_at": "2026-11-12T17:41:06+00:00",
+      "newest_snapshot_at": "2026-11-12T17:41:00+00:00",
+      "payload_bytes": 13298,
+      "payload_sha256": "ec67f383c699eb7a8115ad36a2b1bc39c40604353c2ed80cd23424330278307c",
+      "status": "fresh",
+      "transition": "recovery",
+      "notification_mode": "observe_only",
+      "pending_notifications": 2,
+      "deliveries": []
+    }
+  },
+  "limits": [
+    "The first scheduled observation was observe-only; its alert was delivered later from the durable outbox.",
+    "The 17:55 hosted recovery was manually invoked; it does not measure scheduled detection latency.",
+    "Provider acceptance and independently observed inbox receipt are recorded separately.",
+    "Scheduled GitHub run gaps were observed; the infrastructure root cause is not established.",
+    "The normal merge-triggered pipeline recovered freshness; missing historical snapshots cannot be reconstructed from the current HN API.",
+    "Resource settings are ceilings, not measured consumption or cost.",
+    "One day of operation does not establish uptime or detection guarantees."
+  ],
+  "hosted_recovery": {
+    "deployment_id": "88378897-c054-4d6d-9076-c7ad7c190fbf",
+    "scope": "Manually invoked normal worker; reopened actual live monitor state on the mounted volume",
+    "evidence_file": "hosted-recovery-2026-11-12.json",
+    "checked_at": "2026-11-12T17:55:40.606987+00:00",
+    "transition": "recovery",
+    "resend_acceptances_in_order": [
+      "alert",
+      "recovery"
+    ],
+    "pending_notifications": 0
+  },
+  "restored_configuration": {
+    "verified_at": "2026-11-12T17:56:53Z",
+    "source_commit": "e05763b94a6b886e6d89a87fd858849e639419c2",
+    "start_command": "timeout 120s python monitor_worker.py",
+    "cron_utc": "11,41 * * * *",
+    "restart_policy": "NEVER",
+    "memory_bytes_ceiling": 250000000,
+    "vcpu_ceiling": 0.25,
+    "state_mount": "/state",
+    "staged_changes": null,
+    "notification_mode": "resend",
+    "deployment_id": "43db091f-4dfa-4cb0-aefd-90503ff78722",
+    "deployment_status": "SUCCESS",
+    "deployment_created_at": "2026-11-12T17:56:17Z",
+    "public_domain": null,
+    "inbox_verification_evidence": "email-inbox-verification-2026-11-12.json"
+  }
+}

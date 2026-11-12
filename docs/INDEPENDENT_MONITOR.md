@@ -1,7 +1,7 @@
 # Independent publication monitoring
 
 The existing hourly GitHub workflow remains useful as an observation history. The
-new worker can run on a separate provider and notify the owner when the public
+worker runs on Railway and notifies the owner through Resend when the public
 export becomes overdue, malformed or unavailable. It does not extract data, run
 dbt, write to GitHub or modify the live dashboard.
 
@@ -15,10 +15,16 @@ dbt, write to GitHub or modify the live dashboard.
   recovery, repeated observations, replay after a crash, strict output checks and
   email request construction. SMTP/Resend tests use test doubles; these do not
   prove real email delivery.
-- Independent hosting and an actual sending account are deployment steps. Until a
-  dated hosted observation and email receipt are recorded, do not describe this as
-  a continuously operated external alerting service. Provider acceptance is not
-  evidence of inbox delivery or a human reading the message.
+- The [12 November operating review](operations-review-2026-11-12.md) records
+  an actual scheduled Railway observation, a real stale-publication incident,
+  recovery with the persistent outbox, and restored normal cron configuration.
+- The [hosted email drill](email-drill-2026-11-12.json) recorded two Resend
+  acceptances. Both controlled messages were separately verified in the
+  owner-controlled Gmail inbox; [receipt verification](email-inbox-verification-2026-11-12.json)
+  remains separate from the process-generated JSON. The drill process cannot
+  inspect an inbox, so its original inbox-verification field stays false.
+- These are dated observations, not evidence of long-term uptime. Provider
+  acceptance alone is not evidence of inbox delivery or a human acknowledgement.
 
 ## Checks and the contract
 
@@ -67,7 +73,7 @@ to `NEVER` in the service settings. The deployment connector rejected the legacy
 `railwayConfigFile` setting on 12 November 2026; `railway.monitor.json` is retained
 only as a legacy configuration example, not evidence of an applied deployment.
 Mount one persistent volume at `/state`, use one replica and keep cron runs non-overlapping.
-The proposed schedule is minute 11 and 41 of every hour; it is a schedule, not a
+The configured schedule is minute 11 and 41 of every hour; it is a schedule, not a
 guaranteed detection time. No HTTP domain, public port or database proxy is needed.
 Suggested initial bounds: 0.25 GB RAM and 0.25 vCPU. Observe actual consumption;
 these are resource ceilings, not measured usage or a price estimate.

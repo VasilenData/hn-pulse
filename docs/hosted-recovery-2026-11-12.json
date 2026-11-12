@@ -1,0 +1,32 @@
+{
+  "deliveries": [
+    {
+      "accepted": true,
+      "id": "4d28d417-4147-4092-93aa-a0f1c0132796:alert",
+      "message_id": "01a1d0e6-acab-7da3-b6db-b1456fe1b2c3",
+      "transport": "resend"
+    },
+    {
+      "accepted": true,
+      "id": "4d28d417-4147-4092-93aa-a0f1c0132796:recovery",
+      "message_id": "01a1d0e6-ad4a-70e8-94e6-f30991996e36",
+      "transport": "resend"
+    }
+  ],
+  "notification_mode": "resend",
+  "observation": {
+    "checked_at": "2026-11-12T17:55:40.606987+00:00",
+    "generated_at": "2026-11-12T17:41:06+00:00",
+    "max_age_hours": 6,
+    "monitor_code_sha256": "ecdc42ad33f761cb3eabdbd6aa441f1978bc84c9a5253d9d633868c32e071a62",
+    "newest_snapshot_at": "2026-11-12T17:41:00+00:00",
+    "payload_bytes": 13298,
+    "payload_sha256": "ec67f383c699eb7a8115ad36a2b1bc39c40604353c2ed80cd23424330278307c",
+    "publication_age_hours": 0.2429463852777778,
+    "source_age_hours": 0.24461305194444444,
+    "status": "fresh",
+    "url": "https://vasilendata.github.io/hn-pulse/data.json"
+  },
+  "pending_notifications": 0,
+  "transition": "recovery"
+}
