@@ -126,6 +126,8 @@ This GitHub workflow adds monitoring independent of the data pipeline, but it sh
 
 [`monitor_worker.py`](monitor_worker.py) adds a separately deployable cron worker with a stricter public-export contract, durable SQLite incident/outbox state, bounded requests, and Resend/SMTP email adapters. Failed delivery remains pending; repeated unhealthy checks produce one incident alert, followed by an ordered recovery notification. Stable event IDs support retry deduplication; generic SMTP is at-least-once, and Resend's deduplication window is 24 hours.
 
+Outbox delivery now uses per-attempt fencing tokens: an expired worker cannot clear a replacement worker's lease or overwrite its receipt. A [controlled offline reproduction](docs/outbox-fencing-2026-11-12.json) demonstrates the original race and the fix using two real SQLite connections. Provider acceptance and durable local acknowledgement remain separate, and no exactly-once delivery claim is made.
+
 The [dated operating review](docs/operations-review-2026-11-12.md) separates real observations from exercises: Railway detected an actual 6.38-hour-old publication, then a later invocation reopened persistent state and delivered the queued alert before recovery. A separate [controlled email drill](docs/email-drill-2026-11-12.json) produced one alert and one recovery, both verified in the owner-controlled inbox. The [local HTTP drill](docs/monitor-drill-2026-11-12.json) also checks repeat-incident suppression. Neither exercise changed the live export. [Deployment, incident response and delivery limits](docs/INDEPENDENT_MONITOR.md) include the 24-hour idempotency window and the monitor’s own scheduler dependency.
 
 ### Source-change impact
