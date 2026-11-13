@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T01:51:24+00:00",
+ "generated_at": "2026-11-13T11:03:00+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -108,35 +108,35 @@
   },
   {
    "day": "2026-11-13",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 221.3,
-   "avg_comments": 111.1
+   "snapshots": 2,
+   "distinct_stories": 125,
+   "avg_score": 244.8,
+   "avg_comments": 122.3
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 135,
-   "avg_peak_score": 149.5,
-   "total_comments": 7412
+   "stories": 137,
+   "avg_peak_score": 150.8,
+   "total_comments": 7539
   },
   {
    "domain": "nytimes.com",
    "stories": 27,
-   "avg_peak_score": 209.0,
+   "avg_peak_score": 209.7,
    "total_comments": 2506
   },
   {
    "domain": "twitter.com",
-   "stories": 25,
-   "avg_peak_score": 106.6,
-   "total_comments": 1832
+   "stories": 26,
+   "avg_peak_score": 115.8,
+   "total_comments": 2079
   },
   {
    "domain": "theguardian.com",
-   "stories": 24,
-   "avg_peak_score": 91.3,
+   "stories": 25,
+   "avg_peak_score": 88.0,
    "total_comments": 1840
   },
   {
@@ -148,8 +148,14 @@
   {
    "domain": "reuters.com",
    "stories": 18,
-   "avg_peak_score": 103.2,
-   "total_comments": 1041
+   "avg_peak_score": 117.9,
+   "total_comments": 1334
+  },
+  {
+   "domain": "bloomberg.com",
+   "stories": 14,
+   "avg_peak_score": 59.1,
+   "total_comments": 1008
   },
   {
    "domain": "arxiv.org",
@@ -158,10 +164,10 @@
    "total_comments": 362
   },
   {
-   "domain": "bloomberg.com",
+   "domain": "bbc.com",
    "stories": 13,
-   "avg_peak_score": 62.0,
-   "total_comments": 1005
+   "avg_peak_score": 89.2,
+   "total_comments": 1464
   },
   {
    "domain": "youtube.com",
@@ -170,22 +176,16 @@
    "total_comments": 285
   },
   {
-   "domain": "tomshardware.com",
-   "stories": 12,
-   "avg_peak_score": 114.6,
-   "total_comments": 516
-  },
-  {
    "domain": "wired.com",
-   "stories": 11,
-   "avg_peak_score": 327.4,
-   "total_comments": 2489
+   "stories": 12,
+   "avg_peak_score": 351.3,
+   "total_comments": 2944
   },
   {
-   "domain": "bbc.com",
+   "domain": "tomshardware.com",
    "stories": 11,
-   "avg_peak_score": 96.7,
-   "total_comments": 1407
+   "avg_peak_score": 83.9,
+   "total_comments": 365
   },
   {
    "domain": "theregister.com",
@@ -196,8 +196,8 @@
   {
    "domain": "spectrum.ieee.org",
    "stories": 10,
-   "avg_peak_score": 207.8,
-   "total_comments": 1224
+   "avg_peak_score": 208.9,
+   "total_comments": 1230
   },
   {
    "domain": "wsj.com",
@@ -215,419 +215,419 @@
   {
    "posted_hour_utc": 1,
    "stories": 38,
-   "avg_peak_score": 148.8
+   "avg_peak_score": 149.0
   },
   {
    "posted_hour_utc": 2,
-   "stories": 38,
-   "avg_peak_score": 76.8
+   "stories": 41,
+   "avg_peak_score": 88.5
   },
   {
    "posted_hour_utc": 3,
-   "stories": 48,
-   "avg_peak_score": 92.3
+   "stories": 51,
+   "avg_peak_score": 91.3
   },
   {
    "posted_hour_utc": 4,
-   "stories": 31,
-   "avg_peak_score": 114.1
+   "stories": 34,
+   "avg_peak_score": 110.8
   },
   {
    "posted_hour_utc": 5,
-   "stories": 34,
-   "avg_peak_score": 69.4
+   "stories": 37,
+   "avg_peak_score": 75.6
   },
   {
    "posted_hour_utc": 6,
-   "stories": 24,
-   "avg_peak_score": 162.3
+   "stories": 27,
+   "avg_peak_score": 152.3
   },
   {
    "posted_hour_utc": 7,
-   "stories": 39,
-   "avg_peak_score": 219.9
+   "stories": 41,
+   "avg_peak_score": 211.8
   },
   {
    "posted_hour_utc": 8,
-   "stories": 28,
-   "avg_peak_score": 131.1
+   "stories": 29,
+   "avg_peak_score": 127.0
   },
   {
    "posted_hour_utc": 9,
-   "stories": 39,
-   "avg_peak_score": 159.8
+   "stories": 41,
+   "avg_peak_score": 153.4
   },
   {
    "posted_hour_utc": 10,
-   "stories": 44,
-   "avg_peak_score": 213.7
+   "stories": 46,
+   "avg_peak_score": 209.7
   },
   {
    "posted_hour_utc": 11,
    "stories": 58,
-   "avg_peak_score": 164.8
+   "avg_peak_score": 166.9
   },
   {
    "posted_hour_utc": 12,
    "stories": 65,
-   "avg_peak_score": 253.2
+   "avg_peak_score": 254.0
   },
   {
    "posted_hour_utc": 13,
    "stories": 76,
-   "avg_peak_score": 184.5
+   "avg_peak_score": 193.1
   },
   {
    "posted_hour_utc": 14,
    "stories": 125,
-   "avg_peak_score": 153.2
+   "avg_peak_score": 154.5
   },
   {
    "posted_hour_utc": 15,
    "stories": 159,
-   "avg_peak_score": 134.0
+   "avg_peak_score": 134.9
   },
   {
    "posted_hour_utc": 16,
    "stories": 139,
-   "avg_peak_score": 139.6
+   "avg_peak_score": 140.1
   },
   {
    "posted_hour_utc": 17,
    "stories": 128,
-   "avg_peak_score": 154.9
+   "avg_peak_score": 156.6
   },
   {
    "posted_hour_utc": 18,
    "stories": 130,
-   "avg_peak_score": 169.6
+   "avg_peak_score": 177.2
   },
   {
    "posted_hour_utc": 19,
    "stories": 123,
-   "avg_peak_score": 167.4
+   "avg_peak_score": 171.0
   },
   {
    "posted_hour_utc": 20,
    "stories": 113,
-   "avg_peak_score": 102.6
+   "avg_peak_score": 103.0
   },
   {
    "posted_hour_utc": 21,
-   "stories": 105,
-   "avg_peak_score": 136.6
+   "stories": 106,
+   "avg_peak_score": 139.2
   },
   {
    "posted_hour_utc": 22,
    "stories": 71,
-   "avg_peak_score": 166.1
+   "avg_peak_score": 166.4
   },
   {
    "posted_hour_utc": 23,
-   "stories": 58,
-   "avg_peak_score": 135.7
+   "stories": 59,
+   "avg_peak_score": 138.6
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50467087,
-   "title": "Jensen Huang resigns",
-   "domain": "apnews.com",
-   "score": 2955,
-   "comments": 2794,
-   "author": "lldb",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50481187,
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "domain": "status.claude.com",
+   "score": 140,
+   "comments": 87,
+   "author": "__vivek",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 2,
-   "story_id": 50472038,
-   "title": "Rust 1.100",
-   "domain": "blog.rust-lang.org",
-   "score": 420,
-   "comments": 172,
-   "author": "mbStavola",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50467087,
+   "title": "Jensen Huang resigns",
+   "domain": "apnews.com",
+   "score": 3598,
+   "comments": 3168,
+   "author": "lldb",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 3,
-   "story_id": 50472260,
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "domain": "antigravity.google",
-   "score": 304,
-   "comments": 72,
-   "author": "jonbaer",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50478515,
+   "title": "IceWM",
+   "domain": "ice-wm.org",
+   "score": 194,
+   "comments": 99,
+   "author": "inatreecrown2",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 4,
-   "story_id": 50470488,
-   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-   "domain": "github.com",
-   "score": 340,
-   "comments": 138,
-   "author": "simpsoka",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50480480,
+   "title": "The Dawn of the Data Intelligence Engineer",
+   "domain": "motherduck.com",
+   "score": 35,
+   "comments": 32,
+   "author": "jonbaer",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 5,
-   "story_id": 50472490,
-   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-   "domain": "smithsonianmag.com",
-   "score": 199,
-   "comments": 94,
-   "author": "cybermango",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50472038,
+   "title": "Rust 1.100",
+   "domain": "blog.rust-lang.org",
+   "score": 701,
+   "comments": 262,
+   "author": "mbStavola",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 6,
-   "story_id": 50474361,
-   "title": "Foundation Models framework",
-   "domain": "developer.apple.com",
-   "score": 128,
-   "comments": 16,
-   "author": "kermatt",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50477649,
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "domain": "brave.com",
+   "score": 111,
+   "comments": 74,
+   "author": "sjdh76",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 7,
-   "story_id": 50471731,
-   "title": "Service degradation on Microsoft 365",
-   "domain": "status.cloud.microsoft",
-   "score": 510,
-   "comments": 466,
-   "author": "dkpk",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50470488,
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "domain": "github.com",
+   "score": 539,
+   "comments": 184,
+   "author": "simpsoka",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 8,
-   "story_id": 50474311,
-   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-   "domain": "synthanatomy.com",
-   "score": 96,
-   "comments": 88,
-   "author": "anigbrowl",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50472260,
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "domain": "antigravity.google",
+   "score": 422,
+   "comments": 117,
+   "author": "jonbaer",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 9,
    "story_id": 50475713,
    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "domain": "edge0.ai",
-   "score": 41,
-   "comments": 12,
+   "score": 264,
+   "comments": 74,
    "author": "sroussey",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 10,
-   "story_id": 50471761,
-   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-   "domain": "mehmetince.net",
-   "score": 145,
-   "comments": 20,
-   "author": "ozirus",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50472490,
+   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+   "domain": "smithsonianmag.com",
+   "score": 320,
+   "comments": 131,
+   "author": "cybermango",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 11,
-   "story_id": 50468888,
-   "title": "I'm making LLMs work on small and old devices",
-   "domain": "github.com",
-   "score": 279,
-   "comments": 95,
-   "author": "mrashad74",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50481220,
+   "title": "Claude Is Down",
+   "domain": "status.claude.com",
+   "score": 64,
+   "comments": 45,
+   "author": "cornfieldlabs",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 12,
-   "story_id": 50467618,
-   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-   "domain": "moddb.com",
-   "score": 239,
-   "comments": 82,
-   "author": "klaussilveira",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50473190,
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "domain": "reuters.com",
+   "score": 290,
+   "comments": 311,
+   "author": "jbredeche",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 13,
-   "story_id": 50458849,
-   "title": "Relax: JIT compiler for Rust to reduce build times",
-   "domain": "makepad.github.io",
-   "score": 118,
-   "comments": 50,
-   "author": "adamnemecek",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50477714,
+   "title": "Switcher (2004)",
+   "domain": "folklore.org",
+   "score": 101,
+   "comments": 29,
+   "author": "sammatilda",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 14,
-   "story_id": 50473888,
-   "title": "Announcement: Conductor Is Back",
-   "domain": "twitter.com",
-   "score": 8,
-   "comments": 1,
-   "author": "jahala",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50468888,
+   "title": "I'm making LLMs work on small and old devices",
+   "domain": "github.com",
+   "score": 380,
+   "comments": 135,
+   "author": "mrashad74",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 15,
-   "story_id": 50465352,
-   "title": "Writing correct software is hard and math alone won\u2019t help us (2016)",
-   "domain": "pron.github.io",
-   "score": 358,
-   "comments": 168,
-   "author": "AriFordsham",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50471731,
+   "title": "Service degradation on Microsoft 365",
+   "domain": "status.cloud.microsoft",
+   "score": 922,
+   "comments": 801,
+   "author": "dkpk",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 16,
-   "story_id": 50471431,
-   "title": "Gemini 4 Hydrogen",
-   "domain": "blog.google",
-   "score": 464,
-   "comments": 297,
-   "author": "dvaplima",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50474361,
+   "title": "Foundation Models framework",
+   "domain": "developer.apple.com",
+   "score": 215,
+   "comments": 31,
+   "author": "kermatt",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 17,
-   "story_id": 50454700,
-   "title": "Before Pixels: Speed-Minder",
-   "domain": "unsung.aresluna.org",
-   "score": 15,
-   "comments": 0,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50479098,
+   "title": "Global Microsoft Outage",
+   "domain": "cnn.com",
+   "score": 124,
+   "comments": 64,
+   "author": "TechTechTech",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 18,
-   "story_id": 50467460,
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "domain": "chipsandcheese.com",
-   "score": 187,
-   "comments": 2,
-   "author": "dverlaeckt80",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50471761,
+   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+   "domain": "mehmetince.net",
+   "score": 198,
+   "comments": 38,
+   "author": "ozirus",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 19,
-   "story_id": 50474883,
-   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "domain": "unemploymentlabs.com",
-   "score": 170,
-   "comments": 47,
-   "author": "firloop",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50467618,
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+   "domain": "moddb.com",
+   "score": 274,
+   "comments": 102,
+   "author": "klaussilveira",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 20,
-   "story_id": 50460263,
-   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-   "domain": "github.com",
-   "score": 9,
-   "comments": 0,
-   "author": "jjba23",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50479721,
+   "title": "TSMC Hacked",
+   "domain": "sec.gov",
+   "score": 70,
+   "comments": 9,
+   "author": "gmays",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 21,
-   "story_id": 50476586,
-   "title": "Chicago schools to Google \u2013 we'd rather lose Search than be forced to accept AI",
-   "domain": "techspot.com",
-   "score": 25,
-   "comments": 4,
-   "author": "thunderbong",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50478609,
+   "title": "Microsoft Outlook/365 still down after 12 hours",
+   "domain": "twitter.com",
+   "score": 323,
+   "comments": 230,
+   "author": "player85",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 22,
    "story_id": 50465829,
    "title": "Anthropic IPO",
    "domain": "ipo.anthropic.com",
-   "score": 821,
-   "comments": 806,
+   "score": 941,
+   "comments": 869,
    "author": "josephljohnston",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 23,
-   "story_id": 50471281,
-   "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
-   "domain": "news.ycombinator.com",
-   "score": 37,
-   "comments": 9,
-   "author": "alirezamshi",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50477231,
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "domain": "wired.com",
+   "score": 615,
+   "comments": 455,
+   "author": "lavendermon",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 24,
-   "story_id": 50439283,
-   "title": "Safety in Algae Home Experiments",
-   "domain": "chillphysicsenjoyer.substack.com",
-   "score": 28,
-   "comments": 2,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50458849,
+   "title": "Relax: JIT compiler for Rust to reduce build times",
+   "domain": "makepad.github.io",
+   "score": 163,
+   "comments": 76,
+   "author": "adamnemecek",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 25,
-   "story_id": 50459508,
-   "title": "Words of warning about radiocarbon dating medieval human bones",
-   "domain": "nature.com",
-   "score": 55,
-   "comments": 9,
-   "author": "gumby",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50460263,
+   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+   "domain": "github.com",
+   "score": 59,
+   "comments": 8,
+   "author": "jjba23",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 26,
    "story_id": 50471650,
    "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
    "domain": "github.com",
-   "score": 76,
-   "comments": 16,
+   "score": 108,
+   "comments": 28,
    "author": "miguelrios",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 27,
-   "story_id": 50472505,
-   "title": "Distributed Ray Tracer",
-   "domain": "ray.hatchet.run",
-   "score": 36,
-   "comments": 12,
-   "author": "juliusgeo",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50467460,
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "domain": "chipsandcheese.com",
+   "score": 221,
+   "comments": 6,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 28,
-   "story_id": 50466410,
-   "title": "Adapting CPython for Yk",
-   "domain": "tratt.net",
-   "score": 42,
-   "comments": 2,
-   "author": "frostbyte7",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50471431,
+   "title": "Gemini 4 Hydrogen",
+   "domain": "blog.google",
+   "score": 532,
+   "comments": 334,
+   "author": "dvaplima",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 29,
-   "story_id": 50467297,
-   "title": "Our software engineering interviews are changing a little",
-   "domain": "blog.janestreet.com",
-   "score": 170,
-   "comments": 163,
-   "author": "maitland",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "story_id": 50471281,
+   "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
+   "domain": "news.ycombinator.com",
+   "score": 46,
+   "comments": 11,
+   "author": "alirezamshi",
+   "snapshot_at": "2026-11-13T11:02:54"
   },
   {
    "rank": 30,
-   "story_id": 50468944,
-   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+   "story_id": 50474586,
+   "title": "Show HN: RealtimeVAD \u2013 trading false positives for 110ms earlier end-of-speech",
    "domain": "github.com",
-   "score": 107,
-   "comments": 24,
-   "author": "Qision",
-   "snapshot_at": "2026-11-13T01:51:16"
+   "score": 26,
+   "comments": 5,
+   "author": "koljab",
+   "snapshot_at": "2026-11-13T11:02:54"
   }
  ],
  "quality": {
@@ -644,10 +644,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 7031,
-   "fct_stories": 1757
+   "stg_snapshots": 7130,
+   "fct_stories": 1781
   },
-  "newest_snapshot_at": "2026-11-13T01:51:16+00:00",
+  "newest_snapshot_at": "2026-11-13T11:02:54+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
