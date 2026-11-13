@@ -7129,3 +7129,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-13T11:02:54+00:00,98,50457230,Show HN: I recreated Papers Please but you're deciding which YC startups to fund,https://termsheetplease.com/,bolau,239,93,2026-11-11T19:12:16+00:00
 2026-11-13T11:02:54+00:00,99,50448921,A great old-timey game-programming hack (2013),https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html,palsecam,285,72,2026-11-11T01:56:31+00:00
 2026-11-13T11:02:54+00:00,100,50467953,A teacher that made $20M a year making videos for babies,https://www.readfounded.com/p/baby-einstein,jcox06,20,4,2026-11-12T14:35:32+00:00
+2026-11-13T19:45:01+00:00,1,50487185,"After 600 experiments, here's what I discovered about JEPA world models",https://haddyalchaer.com/jepa,halcdev,108,22,2026-11-13T17:55:28+00:00
+2026-11-13T19:45:01+00:00,2,50474959,Reverse engineering my Coway air purifier to ditch the cloud,https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/,scottjg,554,157,2026-11-12T22:03:09+00:00
+2026-11-13T19:45:01+00:00,3,50488325,FM-1 Workbench,https://open.m-vave.com/fm1-workbench,simonebrunozzi,15,4,2026-11-13T19:14:02+00:00
+2026-11-13T19:45:01+00:00,4,50482379,"Doomsday: Friday, 13 November, A.D. 2026 (1960)",https://www.science.org/doi/10.1126/science.132.3436.1291,voxleone,381,267,2026-11-13T12:10:24+00:00
+2026-11-13T19:45:01+00:00,5,50487854,The avalanche that hit math is coming for AI development,https://www.dwarkesh.com/p/rsi,crescit_eundo,36,28,2026-11-13T18:39:42+00:00
+2026-11-13T19:45:01+00:00,6,50487605,"Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",https://toninoble.com/post/ctrlc-ctrlv-ctrlcve,dethmasque,19,3,2026-11-13T18:23:49+00:00
+2026-11-13T19:45:01+00:00,7,50487228,Show HN: Isometric SF – A pixel-art map of the SF Bay Area,https://isometricsf.com/,juscha1,47,17,2026-11-13T17:58:37+00:00
+2026-11-13T19:45:01+00:00,8,50484235,A technical vision for the Haskell ecosystem,https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078,cosmic_quanta,133,54,2026-11-13T14:43:12+00:00
+2026-11-13T19:45:01+00:00,9,50486748,"AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths,bookofjoe,180,42,2026-11-13T17:30:10+00:00
+2026-11-13T19:45:01+00:00,10,50487762,Models can now transmit viruses in weight-space,https://www.alphaxiv.org/abs/2611.weight-space-misfolding,mkglees,50,26,2026-11-13T18:33:35+00:00
+2026-11-13T19:45:01+00:00,11,50487522,It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad,https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/,BobaFloutist,81,35,2026-11-13T18:18:37+00:00
+2026-11-13T19:45:01+00:00,12,50484007,Lonewolf 0.3 – A standalone XMPP server written in Rust,https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0,ortuman,100,24,2026-11-13T14:28:40+00:00
+2026-11-13T19:45:01+00:00,13,50484650,"Minnesota guitarist's ""palmfrets"" invention strikes a new chord",https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord,bookofjoe,63,48,2026-11-13T15:08:07+00:00
+2026-11-13T19:45:01+00:00,14,50486482,LibreOffice actually works 365 days a year,https://twitter.com/LibreOffice/status/2121205272479998268,mksaunders2,566,194,2026-11-13T17:09:58+00:00
+2026-11-13T19:45:01+00:00,15,50478515,IceWM,https://ice-wm.org/,inatreecrown2,346,195,2026-11-13T04:54:53+00:00
+2026-11-13T19:45:01+00:00,16,50483959,CERN Built the Large Hadron Collider's Next-Gen Magnets,https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets,marc__1,42,3,2026-11-13T14:25:46+00:00
+2026-11-13T19:45:01+00:00,17,50487184,OpenAI disbands its robotics team as its general models start running robots,https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/,sshah03,46,14,2026-11-13T17:55:23+00:00
+2026-11-13T19:45:01+00:00,18,50485295,Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers,https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e,dvaplima,147,56,2026-11-13T15:52:04+00:00
+2026-11-13T19:45:01+00:00,19,50486521,Concurrent Shell Command Queues,https://emmer.dev/blog/concurrent-shell-command-queues/,speckx,11,5,2026-11-13T17:13:01+00:00
+2026-11-13T19:45:01+00:00,20,50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,mbStavola,862,310,2026-11-12T18:39:05+00:00
+2026-11-13T19:45:01+00:00,21,50481187,"Elevated errors on claude.ai, Claude Code, and platform.claude.com",https://status.claude.com/incidents/nn11wk485zfn,__vivek,460,373,2026-11-13T10:18:13+00:00
+2026-11-13T19:45:01+00:00,22,50486258,Apify Security Incident,https://status.apify.com/incidents/sxd1dj5j6749,cynicalpeace,60,8,2026-11-13T16:55:59+00:00
+2026-11-13T19:45:01+00:00,23,50477649,Brave Search API now accepts agentic payments via the x402 protocol,https://brave.com/blog/search-api-agentic-payments/,sjdh76,249,140,2026-11-13T03:08:08+00:00
+2026-11-13T19:45:01+00:00,24,50483611,Why Zig over C for Systems Programming,https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/,torutofu,194,164,2026-11-13T14:01:13+00:00
+2026-11-13T19:45:01+00:00,25,50484960,Why is Google cutting off Search from AI-free schools? Here are some theories,https://text.npr.org/nx-s1-6029408,kamaraju,108,105,2026-11-13T15:29:10+00:00
+2026-11-13T19:45:01+00:00,26,50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,simpsoka,711,231,2026-11-12T17:02:42+00:00
+2026-11-13T19:45:01+00:00,27,50486178,"North Korean hackers used fake video calls in $400M crypto hack, says FBI",https://www.bbc.com/news/articles/cqdj1ellpd70o,saikiran91,62,20,2026-11-13T16:50:22+00:00
+2026-11-13T19:45:01+00:00,28,50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,lldb,3981,3384,2026-11-12T13:52:29+00:00
+2026-11-13T19:45:01+00:00,29,50477714,Switcher (2004),https://folklore.org/Switcher.html,sammatilda,139,41,2026-11-13T03:14:59+00:00
+2026-11-13T19:45:01+00:00,30,50481870,AI is destroying the trust between writers and readers,https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/,FinnLobsien,262,156,2026-11-13T11:13:46+00:00
+2026-11-13T19:45:01+00:00,31,50473190,"Former Nvidia CEO Huang had a relationship with a second employee, sources say",https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/,jbredeche,439,468,2026-11-12T19:51:33+00:00
+2026-11-13T19:45:01+00:00,32,50472260,Gemini 4 Hydrogen and Orchestrator,https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/,jonbaer,490,160,2026-11-12T18:52:01+00:00
+2026-11-13T19:45:01+00:00,33,50472490,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/,cybermango,385,183,2026-11-12T19:05:33+00:00
+2026-11-13T19:45:01+00:00,34,50475713,Edge0-145B: Frontier AI Capabilities on Your Own Computer,https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer,sroussey,330,100,2026-11-12T23:06:17+00:00
+2026-11-13T19:45:01+00:00,35,50487688,Microsoft outage gives customers a crash course in dependence on Redmond,https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805,nephihaha,12,0,2026-11-13T18:29:16+00:00
+2026-11-13T19:45:01+00:00,36,50486489,Arm boss Rene Haas approached in Nvidia CEO search,https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926,bazzmt,60,62,2026-11-13T17:10:33+00:00
+2026-11-13T19:45:01+00:00,37,50480480,The Dawn of the Data Intelligence Engineer,https://motherduck.com/blog/the-data-intelligence-engineer/,jonbaer,127,76,2026-11-13T09:08:18+00:00
+2026-11-13T19:45:01+00:00,38,50451943,"Show HN: Log every LLM call with tokens, cost, latency, and time to first token",https://github.com/garritfra/llmtee,garritfra,5,1,2026-11-11T10:55:46+00:00
+2026-11-13T19:45:01+00:00,39,50471731,Service degradation on Microsoft 365,https://status.cloud.microsoft/,dkpk,1139,955,2026-11-12T18:20:48+00:00
+2026-11-13T19:45:01+00:00,40,50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,mrashad74,462,176,2026-11-12T15:23:10+00:00
+2026-11-13T19:45:01+00:00,41,50483533,US test reactor cleared for operations,https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations,PaulHoule,69,26,2026-11-13T13:54:49+00:00
+2026-11-13T19:45:01+00:00,42,50474361,Foundation Models framework,https://developer.apple.com/foundation-models-framework/,kermatt,261,35,2026-11-12T21:13:26+00:00
+2026-11-13T19:45:01+00:00,43,50484496,EU Digital Identity Wallet rollout: every EU state on one board,https://myid.ie/business/eu-digital-wallet-tracker/,mooreds,110,74,2026-11-13T14:58:07+00:00
+2026-11-13T19:45:01+00:00,44,50487469,Are we just going to ignore that books are destroyed for AI?,https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/,nyxtom,18,22,2026-11-13T18:14:38+00:00
+2026-11-13T19:45:01+00:00,45,50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,klaussilveira,304,121,2026-11-12T14:18:49+00:00
+2026-11-13T19:45:01+00:00,46,50471761,Turning a 22-year-old Postgres type-confusion primitive into RCE,https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/,ozirus,227,40,2026-11-12T18:22:22+00:00
+2026-11-13T19:45:01+00:00,47,50471650,"Show HN: AgentRun – open-source, Self-improving Managed Agents",https://github.com/Parcha-ai/agentrun/blob/main/README.md,miguelrios,133,35,2026-11-12T18:15:48+00:00
+2026-11-13T19:45:01+00:00,48,50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,dverlaeckt80,239,8,2026-11-12T14:12:37+00:00
+2026-11-13T19:45:01+00:00,49,50458849,Relax: JIT compiler for Rust to reduce build times,https://makepad.github.io/relax/,adamnemecek,176,102,2026-11-11T21:20:01+00:00
+2026-11-13T19:45:01+00:00,50,50460263,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",https://github.com/jjba23/sift,jjba23,80,12,2026-11-11T23:09:27+00:00
+2026-11-13T19:45:01+00:00,51,50484658,"Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",https://www.youtube.com/watch?v=IRK8h67ol7Q,helloplanets,135,107,2026-11-13T15:08:44+00:00
+2026-11-13T19:45:01+00:00,52,50478609,Microsoft Outlook/365 still down after 12 hours,https://twitter.com/MSFT365Status/status/2121079061774491735,player85,448,296,2026-11-13T05:08:23+00:00
+2026-11-13T19:45:01+00:00,53,50471431,Gemini 4 Hydrogen,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/,dvaplima,555,345,2026-11-12T18:01:48+00:00
+2026-11-13T19:45:01+00:00,54,50485318,"MS Office alternative Euro-Office gets Windows, macOS, and Linux desktop app",https://www.neowin.net/news/microsoft-office-alternative-euro-office-gets-windows-macos-and-linux-desktop-app/,bundie,21,2,2026-11-13T15:52:52+00:00
+2026-11-13T19:45:01+00:00,55,50479098,Global Microsoft Outage,https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk,TechTechTech,277,174,2026-11-13T06:18:23+00:00
+2026-11-13T19:45:01+00:00,56,50467297,Our software engineering interviews are changing a little,https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/,maitland,246,222,2026-11-12T14:05:28+00:00
+2026-11-13T19:45:01+00:00,57,50482455,Show HN: Reflota – Open-source data recovery for NTFS/FAT disks with phased copy,https://github.com/Christ10-8/reflota,christ_dev,25,3,2026-11-13T12:17:52+00:00
+2026-11-13T19:45:01+00:00,58,50484006,The 42-Year Journey to Bring 'Neuromancer' to the Screen,https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/,Brajeshwar,88,69,2026-11-13T14:28:32+00:00
+2026-11-13T19:45:01+00:00,59,50471281,Show HN: Kapso – Iterative learning from enterprise data,,alirezamshi,56,11,2026-11-12T17:51:23+00:00
+2026-11-13T19:45:01+00:00,60,50477231,Nvidia employees petition to bring back Jensen Huang,https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/,lavendermon,767,627,2026-11-13T02:16:24+00:00
+2026-11-13T19:45:01+00:00,61,50465453,Researchers discover rare star system that emits radio signals every 8 minutes,https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/,giuliomagnifico,137,67,2026-11-12T10:46:20+00:00
+2026-11-13T19:45:01+00:00,62,50467439,Libreagi – Save OSS Models,https://libreagi.com/,satuke,151,31,2026-11-12T14:11:58+00:00
+2026-11-13T19:45:01+00:00,63,50450488,Tim Peters has died,https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028,ayhanfuat,1422,193,2026-11-11T07:03:17+00:00
+2026-11-13T19:45:01+00:00,64,50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,Qision,126,27,2026-11-12T15:25:52+00:00
+2026-11-13T19:45:01+00:00,65,50488174,Russia strikes hospital in central Kyiv after SpaceX system falters again,https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails,cdrnsf,17,0,2026-11-13T19:03:08+00:00
+2026-11-13T19:45:01+00:00,66,50482175,"Study Hard, Get a Career, Get Ahead? It's Not What It Used to Be",https://www.nytimes.com/2026/11/13/world/europe/education-meritocracy.html,pseudolus,39,37,2026-11-13T11:50:00+00:00
+2026-11-13T19:45:01+00:00,67,50474883,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,https://unemploymentlabs.com/checkpoint-forensics,firloop,349,145,2026-11-12T21:56:11+00:00
+2026-11-13T19:45:01+00:00,68,50466410,Adapting CPython for Yk,https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html,frostbyte7,77,6,2026-11-12T12:51:38+00:00
+2026-11-13T19:45:01+00:00,69,50472506,Vibes Don't Maintain,https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html,dxs,108,42,2026-11-12T19:06:29+00:00
+2026-11-13T19:45:01+00:00,70,50431971,Making a €40 USB-C hub work as a Nintendo Switch 2 dock,http://blog.nozomi.space/posts/sw2_dock/,mkopec,169,64,2026-11-09T20:54:02+00:00
+2026-11-13T19:45:01+00:00,71,50481220,Claude Is Down,https://status.claude.com/history,cornfieldlabs,191,164,2026-11-13T10:20:09+00:00
+2026-11-13T19:45:01+00:00,72,50467305,"Electric ship batteries promise compact, cooler power",https://spectrum.ieee.org/electric-ship-batteries,rbanffy,72,91,2026-11-12T14:06:03+00:00
+2026-11-13T19:45:01+00:00,73,50465352,Writing correct software is hard and math alone won’t help us (2016),https://pron.github.io/posts/correctness-and-complexity,AriFordsham,364,182,2026-11-12T10:28:26+00:00
+2026-11-13T19:45:01+00:00,74,50483512,macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64,https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable,Brajeshwar,15,0,2026-11-13T13:53:34+00:00
+2026-11-13T19:45:01+00:00,75,50446520,Apple has new Mac app coming to make running local AI models easy,https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/,linolevan,561,557,2026-11-10T21:25:03+00:00
+2026-11-13T19:45:01+00:00,77,50486978,354 dark web vendors and buyers arrested in Europol-coordinated global crackdown,https://www.europol.europa.eu/media-press/newsroom/news/354-dark-web-vendors-and-buyers-arrested-in-europol-coordinated-global-crackdown,jruohonen,6,0,2026-11-13T17:42:19+00:00
+2026-11-13T19:45:01+00:00,78,50459508,Words of warning about radiocarbon dating medieval human bones,https://www.nature.com/articles/s40494-026-02958-x,gumby,79,20,2026-11-11T22:18:37+00:00
+2026-11-13T19:45:01+00:00,79,50438261,Socratic Tutor,https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md,tosh,693,165,2026-11-10T10:18:22+00:00
+2026-11-13T19:45:01+00:00,80,50456631,AWS emulator,https://github.com/aws/aws-emulator,super_linear,982,265,2026-11-11T18:21:38+00:00
+2026-11-13T19:45:01+00:00,81,50480647,I wrote Jensen Huang's biography – here's what led to his downfall,https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html,chvid,5,6,2026-11-13T09:26:21+00:00
+2026-11-13T19:45:01+00:00,82,50465829,Anthropic IPO,https://ipo.anthropic.com/us/,josephljohnston,988,899,2026-11-12T11:46:41+00:00
+2026-11-13T19:45:01+00:00,83,50474586,Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech,https://github.com/KoljaB/RealtimeVAD,koljab,29,7,2026-11-12T21:30:57+00:00
+2026-11-13T19:45:01+00:00,84,50468720,Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux,https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/,dougcalobrisi,92,37,2026-11-12T15:14:52+00:00
+2026-11-13T19:45:01+00:00,85,50473888,Announcement: Conductor Is Back,https://twitter.com/charlieholtz/status/2120973052024598620,jahala,34,21,2026-11-12T20:37:55+00:00
+2026-11-13T19:45:01+00:00,86,50485280,Nvidia Employees Petition for Jensen Huang's Return,https://daringfireball.net/linked/2026/11/13/nvidia-petition,chmaynard,7,1,2026-11-13T15:51:01+00:00
+2026-11-13T19:45:01+00:00,87,50474926,Librem 5 v2: A phone that frees us all,https://puri.sm/librem-5-v2-crowdfunding-campaign/,weightedreply,46,26,2026-11-12T21:59:49+00:00
+2026-11-13T19:45:01+00:00,88,50459745,93% of paint splatters are valid Perl programs (2019),https://www.mcmillen.dev/sigbovik/,zenincognito,581,79,2026-11-11T22:34:23+00:00
+2026-11-13T19:45:01+00:00,89,50486637,"Yang-Mills, OpenAI proof, and the mass gap problem",https://huggingface.co/blog/dlouapre/yang-mills-openai,pretext,8,0,2026-11-13T17:21:32+00:00
+2026-11-13T19:45:01+00:00,90,50484421,"U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",,moonypto,157,182,2026-11-13T14:53:32+00:00
+2026-11-13T19:45:01+00:00,91,50463540,I'm Working on a FOSS Linux Pinbal Simulation Engine,https://www.getlazarus.org/forums/topic/17/,sysrpl,129,45,2026-11-12T05:49:34+00:00
+2026-11-13T19:45:01+00:00,92,50415162,I gave an agent a lakehouse and control of my garden,https://jatorre.github.io/garden/,jatorre,143,76,2026-11-08T17:19:06+00:00
+2026-11-13T19:45:01+00:00,93,50455633,"Faster Retrieval for Better, More Efficient RAG",https://machinelearning.apple.com/research/faster-retrieval,zerop,237,39,2026-11-11T16:57:45+00:00
+2026-11-13T19:45:01+00:00,94,50470343,Show HN: Apron Chat Protocol,https://apron.chat/,shazow,53,2,2026-11-12T16:52:31+00:00
+2026-11-13T19:45:01+00:00,95,50424581,Foldable Flight: The Best Paper Airplanes,https://www.foldableflight.com,vismit2000,1273,168,2026-11-09T12:19:22+00:00
+2026-11-13T19:45:01+00:00,96,50486387,Claude Is Superhuman at Translating Poetry Now,https://lettersfrombethlehem.substack.com/p/claude-is-superhuman-at-translating,speckx,6,0,2026-11-13T17:04:15+00:00
+2026-11-13T19:45:01+00:00,97,50425017,A live tree of systemd jobs on the boot console,https://codeberg.org/wvhulle/bootvine,orhunp_,371,150,2026-11-09T13:02:44+00:00
+2026-11-13T19:45:01+00:00,98,50454625,"Show HN: Yogurt – Free, private, open-source alternative to Granola",https://github.com/FrigadeHQ/yogurt,brownrout,296,113,2026-11-11T15:33:06+00:00
+2026-11-13T19:45:01+00:00,99,50439283,Safety in Algae Home Experiments,https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments,surprisetalk,40,6,2026-11-10T12:20:06+00:00
+2026-11-13T19:45:01+00:00,100,50474311,AI is turning Apple's app review process into a nightmare for synth developers,https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html,anigbrowl,194,227,2026-11-12T21:09:49+00:00

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T11:03:00+00:00",
+ "generated_at": "2026-11-13T19:45:07+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -108,36 +108,36 @@
   },
   {
    "day": "2026-11-13",
-   "snapshots": 2,
-   "distinct_stories": 125,
-   "avg_score": 244.8,
-   "avg_comments": 122.3
+   "snapshots": 3,
+   "distinct_stories": 167,
+   "avg_score": 257.3,
+   "avg_comments": 131.3
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 137,
-   "avg_peak_score": 150.8,
-   "total_comments": 7539
+   "stories": 140,
+   "avg_peak_score": 150.9,
+   "total_comments": 7676
   },
   {
    "domain": "nytimes.com",
-   "stories": 27,
-   "avg_peak_score": 209.7,
-   "total_comments": 2506
+   "stories": 29,
+   "avg_peak_score": 196.8,
+   "total_comments": 2549
   },
   {
    "domain": "twitter.com",
-   "stories": 26,
-   "avg_peak_score": 115.8,
-   "total_comments": 2079
+   "stories": 27,
+   "avg_peak_score": 137.2,
+   "total_comments": 2342
   },
   {
    "domain": "theguardian.com",
-   "stories": 25,
-   "avg_peak_score": 88.0,
-   "total_comments": 1840
+   "stories": 27,
+   "avg_peak_score": 88.8,
+   "total_comments": 1882
   },
   {
    "domain": "arstechnica.com",
@@ -148,8 +148,20 @@
   {
    "domain": "reuters.com",
    "stories": 18,
-   "avg_peak_score": 117.9,
-   "total_comments": 1334
+   "avg_peak_score": 126.2,
+   "total_comments": 1491
+  },
+  {
+   "domain": "bbc.com",
+   "stories": 14,
+   "avg_peak_score": 87.3,
+   "total_comments": 1484
+  },
+  {
+   "domain": "youtube.com",
+   "stories": 14,
+   "avg_peak_score": 61.1,
+   "total_comments": 392
   },
   {
    "domain": "bloomberg.com",
@@ -158,46 +170,34 @@
    "total_comments": 1008
   },
   {
+   "domain": "wired.com",
+   "stories": 13,
+   "avg_peak_score": 342.8,
+   "total_comments": 3185
+  },
+  {
+   "domain": "tomshardware.com",
+   "stories": 13,
+   "avg_peak_score": 106.9,
+   "total_comments": 516
+  },
+  {
    "domain": "arxiv.org",
    "stories": 13,
    "avg_peak_score": 103.8,
    "total_comments": 362
   },
   {
-   "domain": "bbc.com",
-   "stories": 13,
-   "avg_peak_score": 89.2,
-   "total_comments": 1464
-  },
-  {
-   "domain": "youtube.com",
-   "stories": 13,
-   "avg_peak_score": 55.4,
-   "total_comments": 285
-  },
-  {
-   "domain": "wired.com",
-   "stories": 12,
-   "avg_peak_score": 351.3,
-   "total_comments": 2944
-  },
-  {
-   "domain": "tomshardware.com",
-   "stories": 11,
-   "avg_peak_score": 83.9,
-   "total_comments": 365
-  },
-  {
    "domain": "theregister.com",
-   "stories": 11,
-   "avg_peak_score": 83.8,
+   "stories": 12,
+   "avg_peak_score": 77.8,
    "total_comments": 571
   },
   {
    "domain": "spectrum.ieee.org",
-   "stories": 10,
-   "avg_peak_score": 208.9,
-   "total_comments": 1230
+   "stories": 11,
+   "avg_peak_score": 193.9,
+   "total_comments": 1241
   },
   {
    "domain": "wsj.com",
@@ -220,32 +220,32 @@
   {
    "posted_hour_utc": 2,
    "stories": 41,
-   "avg_peak_score": 88.5
+   "avg_peak_score": 92.2
   },
   {
    "posted_hour_utc": 3,
    "stories": 51,
-   "avg_peak_score": 91.3
+   "avg_peak_score": 94.8
   },
   {
    "posted_hour_utc": 4,
    "stories": 34,
-   "avg_peak_score": 110.8
+   "avg_peak_score": 115.3
   },
   {
    "posted_hour_utc": 5,
    "stories": 37,
-   "avg_peak_score": 75.6
+   "avg_peak_score": 79.1
   },
   {
    "posted_hour_utc": 6,
    "stories": 27,
-   "avg_peak_score": 152.3
+   "avg_peak_score": 157.9
   },
   {
    "posted_hour_utc": 7,
    "stories": 41,
-   "avg_peak_score": 211.8
+   "avg_peak_score": 212.0
   },
   {
    "posted_hour_utc": 8,
@@ -254,380 +254,380 @@
   },
   {
    "posted_hour_utc": 9,
-   "stories": 41,
-   "avg_peak_score": 153.4
+   "stories": 42,
+   "avg_peak_score": 152.1
   },
   {
    "posted_hour_utc": 10,
-   "stories": 46,
-   "avg_peak_score": 209.7
+   "stories": 47,
+   "avg_peak_score": 215.3
   },
   {
    "posted_hour_utc": 11,
-   "stories": 58,
-   "avg_peak_score": 166.9
+   "stories": 60,
+   "avg_peak_score": 167.1
   },
   {
    "posted_hour_utc": 12,
-   "stories": 65,
-   "avg_peak_score": 254.0
+   "stories": 67,
+   "avg_peak_score": 252.6
   },
   {
    "posted_hour_utc": 13,
-   "stories": 76,
-   "avg_peak_score": 193.1
+   "stories": 78,
+   "avg_peak_score": 194.2
   },
   {
    "posted_hour_utc": 14,
-   "stories": 125,
-   "avg_peak_score": 154.5
+   "stories": 132,
+   "avg_peak_score": 153.2
   },
   {
    "posted_hour_utc": 15,
-   "stories": 159,
-   "avg_peak_score": 134.9
+   "stories": 165,
+   "avg_peak_score": 133.5
   },
   {
    "posted_hour_utc": 16,
-   "stories": 139,
-   "avg_peak_score": 140.1
+   "stories": 141,
+   "avg_peak_score": 139.1
   },
   {
    "posted_hour_utc": 17,
-   "stories": 128,
-   "avg_peak_score": 156.6
+   "stories": 138,
+   "avg_peak_score": 154.1
   },
   {
    "posted_hour_utc": 18,
-   "stories": 130,
-   "avg_peak_score": 177.2
+   "stories": 136,
+   "avg_peak_score": 174.9
   },
   {
    "posted_hour_utc": 19,
-   "stories": 123,
-   "avg_peak_score": 171.0
+   "stories": 125,
+   "avg_peak_score": 170.4
   },
   {
    "posted_hour_utc": 20,
    "stories": 113,
-   "avg_peak_score": 103.0
+   "avg_peak_score": 103.1
   },
   {
    "posted_hour_utc": 21,
    "stories": 106,
-   "avg_peak_score": 139.2
+   "avg_peak_score": 140.5
   },
   {
    "posted_hour_utc": 22,
-   "stories": 71,
-   "avg_peak_score": 166.4
+   "stories": 72,
+   "avg_peak_score": 172.0
   },
   {
    "posted_hour_utc": 23,
    "stories": 59,
-   "avg_peak_score": 138.6
+   "avg_peak_score": 140.1
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50481187,
-   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-   "domain": "status.claude.com",
-   "score": 140,
-   "comments": 87,
-   "author": "__vivek",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487185,
+   "title": "After 600 experiments, here's what I discovered about JEPA world models",
+   "domain": "haddyalchaer.com",
+   "score": 108,
+   "comments": 22,
+   "author": "halcdev",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 2,
-   "story_id": 50467087,
-   "title": "Jensen Huang resigns",
-   "domain": "apnews.com",
-   "score": 3598,
-   "comments": 3168,
-   "author": "lldb",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50474959,
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "domain": "scottjg.com",
+   "score": 554,
+   "comments": 157,
+   "author": "scottjg",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 3,
-   "story_id": 50478515,
-   "title": "IceWM",
-   "domain": "ice-wm.org",
-   "score": 194,
-   "comments": 99,
-   "author": "inatreecrown2",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50488325,
+   "title": "FM-1 Workbench",
+   "domain": "open.m-vave.com",
+   "score": 15,
+   "comments": 4,
+   "author": "simonebrunozzi",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 4,
-   "story_id": 50480480,
-   "title": "The Dawn of the Data Intelligence Engineer",
-   "domain": "motherduck.com",
-   "score": 35,
-   "comments": 32,
-   "author": "jonbaer",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50482379,
+   "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+   "domain": "science.org",
+   "score": 381,
+   "comments": 267,
+   "author": "voxleone",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 5,
-   "story_id": 50472038,
-   "title": "Rust 1.100",
-   "domain": "blog.rust-lang.org",
-   "score": 701,
-   "comments": 262,
-   "author": "mbStavola",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487854,
+   "title": "The avalanche that hit math is coming for AI development",
+   "domain": "dwarkesh.com",
+   "score": 36,
+   "comments": 28,
+   "author": "crescit_eundo",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 6,
-   "story_id": 50477649,
-   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-   "domain": "brave.com",
-   "score": 111,
-   "comments": 74,
-   "author": "sjdh76",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487605,
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+   "domain": "toninoble.com",
+   "score": 19,
+   "comments": 3,
+   "author": "dethmasque",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 7,
-   "story_id": 50470488,
-   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-   "domain": "github.com",
-   "score": 539,
-   "comments": 184,
-   "author": "simpsoka",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487228,
+   "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+   "domain": "isometricsf.com",
+   "score": 47,
+   "comments": 17,
+   "author": "juscha1",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 8,
-   "story_id": 50472260,
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "domain": "antigravity.google",
-   "score": 422,
-   "comments": 117,
-   "author": "jonbaer",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50484235,
+   "title": "A technical vision for the Haskell ecosystem",
+   "domain": "discourse.haskell.org",
+   "score": 133,
+   "comments": 54,
+   "author": "cosmic_quanta",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 9,
-   "story_id": 50475713,
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "domain": "edge0.ai",
-   "score": 264,
-   "comments": 74,
-   "author": "sroussey",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50486748,
+   "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
+   "domain": "theguardian.com",
+   "score": 180,
+   "comments": 42,
+   "author": "bookofjoe",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 10,
-   "story_id": 50472490,
-   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-   "domain": "smithsonianmag.com",
-   "score": 320,
-   "comments": 131,
-   "author": "cybermango",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487762,
+   "title": "Models can now transmit viruses in weight-space",
+   "domain": "alphaxiv.org",
+   "score": 50,
+   "comments": 26,
+   "author": "mkglees",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 11,
-   "story_id": 50481220,
-   "title": "Claude Is Down",
-   "domain": "status.claude.com",
-   "score": 64,
-   "comments": 45,
-   "author": "cornfieldlabs",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487522,
+   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+   "domain": "reddit.com",
+   "score": 81,
+   "comments": 35,
+   "author": "BobaFloutist",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 12,
-   "story_id": 50473190,
-   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-   "domain": "reuters.com",
-   "score": 290,
-   "comments": 311,
-   "author": "jbredeche",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50484007,
+   "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
+   "domain": "github.com",
+   "score": 100,
+   "comments": 24,
+   "author": "ortuman",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 13,
-   "story_id": 50477714,
-   "title": "Switcher (2004)",
-   "domain": "folklore.org",
-   "score": 101,
-   "comments": 29,
-   "author": "sammatilda",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50484650,
+   "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+   "domain": "echopress.com",
+   "score": 63,
+   "comments": 48,
+   "author": "bookofjoe",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 14,
-   "story_id": 50468888,
-   "title": "I'm making LLMs work on small and old devices",
-   "domain": "github.com",
-   "score": 380,
-   "comments": 135,
-   "author": "mrashad74",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50486482,
+   "title": "LibreOffice actually works 365 days a year",
+   "domain": "twitter.com",
+   "score": 566,
+   "comments": 194,
+   "author": "mksaunders2",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 15,
-   "story_id": 50471731,
-   "title": "Service degradation on Microsoft 365",
-   "domain": "status.cloud.microsoft",
-   "score": 922,
-   "comments": 801,
-   "author": "dkpk",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50478515,
+   "title": "IceWM",
+   "domain": "ice-wm.org",
+   "score": 346,
+   "comments": 195,
+   "author": "inatreecrown2",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 16,
-   "story_id": 50474361,
-   "title": "Foundation Models framework",
-   "domain": "developer.apple.com",
-   "score": 215,
-   "comments": 31,
-   "author": "kermatt",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50483959,
+   "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+   "domain": "spectrum.ieee.org",
+   "score": 42,
+   "comments": 3,
+   "author": "marc__1",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 17,
-   "story_id": 50479098,
-   "title": "Global Microsoft Outage",
-   "domain": "cnn.com",
-   "score": 124,
-   "comments": 64,
-   "author": "TechTechTech",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50487184,
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "domain": "fortune.com",
+   "score": 46,
+   "comments": 14,
+   "author": "sshah03",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 18,
-   "story_id": 50471761,
-   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-   "domain": "mehmetince.net",
-   "score": 198,
-   "comments": 38,
-   "author": "ozirus",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50485295,
+   "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+   "domain": "filemanager-cdn.mziq.com",
+   "score": 147,
+   "comments": 56,
+   "author": "dvaplima",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 19,
-   "story_id": 50467618,
-   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-   "domain": "moddb.com",
-   "score": 274,
-   "comments": 102,
-   "author": "klaussilveira",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50486521,
+   "title": "Concurrent Shell Command Queues",
+   "domain": "emmer.dev",
+   "score": 11,
+   "comments": 5,
+   "author": "speckx",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 20,
-   "story_id": 50479721,
-   "title": "TSMC Hacked",
-   "domain": "sec.gov",
-   "score": 70,
-   "comments": 9,
-   "author": "gmays",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50472038,
+   "title": "Rust 1.100",
+   "domain": "blog.rust-lang.org",
+   "score": 862,
+   "comments": 310,
+   "author": "mbStavola",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 21,
-   "story_id": 50478609,
-   "title": "Microsoft Outlook/365 still down after 12 hours",
-   "domain": "twitter.com",
-   "score": 323,
-   "comments": 230,
-   "author": "player85",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50481187,
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "domain": "status.claude.com",
+   "score": 460,
+   "comments": 373,
+   "author": "__vivek",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 22,
-   "story_id": 50465829,
-   "title": "Anthropic IPO",
-   "domain": "ipo.anthropic.com",
-   "score": 941,
-   "comments": 869,
-   "author": "josephljohnston",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50486258,
+   "title": "Apify Security Incident",
+   "domain": "status.apify.com",
+   "score": 60,
+   "comments": 8,
+   "author": "cynicalpeace",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 23,
-   "story_id": 50477231,
-   "title": "Nvidia employees petition to bring back Jensen Huang",
-   "domain": "wired.com",
-   "score": 615,
-   "comments": 455,
-   "author": "lavendermon",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50477649,
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "domain": "brave.com",
+   "score": 249,
+   "comments": 140,
+   "author": "sjdh76",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 24,
-   "story_id": 50458849,
-   "title": "Relax: JIT compiler for Rust to reduce build times",
-   "domain": "makepad.github.io",
-   "score": 163,
-   "comments": 76,
-   "author": "adamnemecek",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50483611,
+   "title": "Why Zig over C for Systems Programming",
+   "domain": "mtsoukalos.eu",
+   "score": 194,
+   "comments": 164,
+   "author": "torutofu",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 25,
-   "story_id": 50460263,
-   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-   "domain": "github.com",
-   "score": 59,
-   "comments": 8,
-   "author": "jjba23",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50484960,
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "domain": "text.npr.org",
+   "score": 108,
+   "comments": 105,
+   "author": "kamaraju",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 26,
-   "story_id": 50471650,
-   "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+   "story_id": 50470488,
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
    "domain": "github.com",
-   "score": 108,
-   "comments": 28,
-   "author": "miguelrios",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "score": 711,
+   "comments": 231,
+   "author": "simpsoka",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 27,
-   "story_id": 50467460,
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "domain": "chipsandcheese.com",
-   "score": 221,
-   "comments": 6,
-   "author": "dverlaeckt80",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50486178,
+   "title": "North Korean hackers used fake video calls in $400M crypto hack, says FBI",
+   "domain": "bbc.com",
+   "score": 62,
+   "comments": 20,
+   "author": "saikiran91",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 28,
-   "story_id": 50471431,
-   "title": "Gemini 4 Hydrogen",
-   "domain": "blog.google",
-   "score": 532,
-   "comments": 334,
-   "author": "dvaplima",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50467087,
+   "title": "Jensen Huang resigns",
+   "domain": "apnews.com",
+   "score": 3981,
+   "comments": 3384,
+   "author": "lldb",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 29,
-   "story_id": 50471281,
-   "title": "Show HN: Kapso \u2013 Iterative learning from enterprise data",
-   "domain": "news.ycombinator.com",
-   "score": 46,
-   "comments": 11,
-   "author": "alirezamshi",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50477714,
+   "title": "Switcher (2004)",
+   "domain": "folklore.org",
+   "score": 139,
+   "comments": 41,
+   "author": "sammatilda",
+   "snapshot_at": "2026-11-13T19:45:01"
   },
   {
    "rank": 30,
-   "story_id": 50474586,
-   "title": "Show HN: RealtimeVAD \u2013 trading false positives for 110ms earlier end-of-speech",
-   "domain": "github.com",
-   "score": 26,
-   "comments": 5,
-   "author": "koljab",
-   "snapshot_at": "2026-11-13T11:02:54"
+   "story_id": 50481870,
+   "title": "AI is destroying the trust between writers and readers",
+   "domain": "theatlantic.com",
+   "score": 262,
+   "comments": 156,
+   "author": "FinnLobsien",
+   "snapshot_at": "2026-11-13T19:45:01"
   }
  ],
  "quality": {
@@ -644,10 +644,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 7130,
-   "fct_stories": 1781
+   "stg_snapshots": 7229,
+   "fct_stories": 1823
   },
-  "newest_snapshot_at": "2026-11-13T11:02:54+00:00",
+  "newest_snapshot_at": "2026-11-13T19:45:01+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
