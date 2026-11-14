@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T01:28:17+00:00",
+ "generated_at": "2026-11-14T10:30:01+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -115,24 +115,24 @@
   },
   {
    "day": "2026-11-14",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 220.4,
-   "avg_comments": 119.5
+   "snapshots": 2,
+   "distinct_stories": 130,
+   "avg_score": 241.0,
+   "avg_comments": 130.9
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 143,
-   "avg_peak_score": 148.3,
-   "total_comments": 7717
+   "stories": 147,
+   "avg_peak_score": 146.9,
+   "total_comments": 7794
   },
   {
    "domain": "twitter.com",
-   "stories": 30,
-   "avg_peak_score": 138.8,
-   "total_comments": 2438
+   "stories": 31,
+   "avg_peak_score": 137.9,
+   "total_comments": 2469
   },
   {
    "domain": "nytimes.com",
@@ -143,8 +143,8 @@
   {
    "domain": "theguardian.com",
    "stories": 27,
-   "avg_peak_score": 94.2,
-   "total_comments": 1931
+   "avg_peak_score": 96.7,
+   "total_comments": 1938
   },
   {
    "domain": "arstechnica.com",
@@ -155,20 +155,26 @@
   {
    "domain": "reuters.com",
    "stories": 20,
-   "avg_peak_score": 115.7,
-   "total_comments": 1510
+   "avg_peak_score": 116.0,
+   "total_comments": 1516
+  },
+  {
+   "domain": "youtube.com",
+   "stories": 15,
+   "avg_peak_score": 68.7,
+   "total_comments": 639
+  },
+  {
+   "domain": "wired.com",
+   "stories": 14,
+   "avg_peak_score": 319.6,
+   "total_comments": 3190
   },
   {
    "domain": "bbc.com",
    "stories": 14,
-   "avg_peak_score": 89.4,
+   "avg_peak_score": 89.9,
    "total_comments": 1498
-  },
-  {
-   "domain": "youtube.com",
-   "stories": 14,
-   "avg_peak_score": 61.1,
-   "total_comments": 392
   },
   {
    "domain": "bloomberg.com",
@@ -177,10 +183,10 @@
    "total_comments": 1008
   },
   {
-   "domain": "wired.com",
+   "domain": "tomshardware.com",
    "stories": 13,
-   "avg_peak_score": 342.8,
-   "total_comments": 3185
+   "avg_peak_score": 106.9,
+   "total_comments": 516
   },
   {
    "domain": "arxiv.org",
@@ -191,20 +197,14 @@
   {
    "domain": "theregister.com",
    "stories": 12,
-   "avg_peak_score": 87.8,
-   "total_comments": 614
-  },
-  {
-   "domain": "tomshardware.com",
-   "stories": 12,
-   "avg_peak_score": 78.2,
-   "total_comments": 365
+   "avg_peak_score": 90.6,
+   "total_comments": 627
   },
   {
    "domain": "spectrum.ieee.org",
    "stories": 11,
-   "avg_peak_score": 196.9,
-   "total_comments": 1245
+   "avg_peak_score": 197.5,
+   "total_comments": 1246
   },
   {
    "domain": "wsj.com",
@@ -216,43 +216,43 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 53,
-   "avg_peak_score": 100.6
+   "stories": 56,
+   "avg_peak_score": 102.5
   },
   {
    "posted_hour_utc": 1,
-   "stories": 42,
-   "avg_peak_score": 136.0
+   "stories": 44,
+   "avg_peak_score": 130.1
   },
   {
    "posted_hour_utc": 2,
-   "stories": 41,
-   "avg_peak_score": 92.2
+   "stories": 49,
+   "avg_peak_score": 100.4
   },
   {
    "posted_hour_utc": 3,
-   "stories": 51,
-   "avg_peak_score": 95.0
+   "stories": 52,
+   "avg_peak_score": 93.4
   },
   {
    "posted_hour_utc": 4,
-   "stories": 34,
-   "avg_peak_score": 115.6
+   "stories": 37,
+   "avg_peak_score": 110.4
   },
   {
    "posted_hour_utc": 5,
-   "stories": 37,
-   "avg_peak_score": 79.1
+   "stories": 39,
+   "avg_peak_score": 75.3
   },
   {
    "posted_hour_utc": 6,
-   "stories": 27,
-   "avg_peak_score": 157.9
+   "stories": 29,
+   "avg_peak_score": 148.3
   },
   {
    "posted_hour_utc": 7,
    "stories": 41,
-   "avg_peak_score": 212.1
+   "avg_peak_score": 212.2
   },
   {
    "posted_hour_utc": 8,
@@ -261,380 +261,380 @@
   },
   {
    "posted_hour_utc": 9,
-   "stories": 42,
-   "avg_peak_score": 152.3
+   "stories": 43,
+   "avg_peak_score": 149.2
   },
   {
    "posted_hour_utc": 10,
    "stories": 47,
-   "avg_peak_score": 216.0
+   "avg_peak_score": 216.1
   },
   {
    "posted_hour_utc": 11,
    "stories": 60,
-   "avg_peak_score": 167.9
+   "avg_peak_score": 168.5
   },
   {
    "posted_hour_utc": 12,
    "stories": 67,
-   "avg_peak_score": 253.6
+   "avg_peak_score": 254.0
   },
   {
    "posted_hour_utc": 13,
-   "stories": 78,
-   "avg_peak_score": 194.6
+   "stories": 79,
+   "avg_peak_score": 192.4
   },
   {
    "posted_hour_utc": 14,
-   "stories": 132,
-   "avg_peak_score": 154.3
+   "stories": 133,
+   "avg_peak_score": 154.0
   },
   {
    "posted_hour_utc": 15,
-   "stories": 165,
-   "avg_peak_score": 134.4
+   "stories": 166,
+   "avg_peak_score": 135.0
   },
   {
    "posted_hour_utc": 16,
    "stories": 141,
-   "avg_peak_score": 139.5
+   "avg_peak_score": 139.6
   },
   {
    "posted_hour_utc": 17,
    "stories": 140,
-   "avg_peak_score": 157.4
+   "avg_peak_score": 159.7
   },
   {
    "posted_hour_utc": 18,
    "stories": 138,
-   "avg_peak_score": 178.3
+   "avg_peak_score": 179.9
   },
   {
    "posted_hour_utc": 19,
    "stories": 132,
-   "avg_peak_score": 167.1
+   "avg_peak_score": 169.0
   },
   {
    "posted_hour_utc": 20,
    "stories": 116,
-   "avg_peak_score": 100.9
+   "avg_peak_score": 101.0
   },
   {
    "posted_hour_utc": 21,
    "stories": 109,
-   "avg_peak_score": 151.0
+   "avg_peak_score": 153.9
   },
   {
    "posted_hour_utc": 22,
-   "stories": 83,
-   "avg_peak_score": 155.2
+   "stories": 84,
+   "avg_peak_score": 156.0
   },
   {
    "posted_hour_utc": 23,
    "stories": 68,
-   "avg_peak_score": 124.4
+   "avg_peak_score": 132.9
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50492315,
-   "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-   "domain": "fox5dc.com",
-   "score": 54,
-   "comments": 9,
-   "author": "snow_mac",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50440709,
+   "title": "Why get an expensive Pi when I have an old phone?",
+   "domain": "so.long.thanks.fish",
+   "score": 57,
+   "comments": 31,
+   "author": "casi",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 2,
-   "story_id": 50489641,
-   "title": "FAA issues national ground stop",
-   "domain": "nbcnews.com",
-   "score": 1291,
-   "comments": 781,
-   "author": "zulln",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50493062,
+   "title": "Ggml v1.0.0",
+   "domain": "github.com",
+   "score": 267,
+   "comments": 43,
+   "author": "cobychapple",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 3,
-   "story_id": 50490593,
-   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-   "domain": "orcasairband.com",
-   "score": 186,
-   "comments": 45,
-   "author": "mmaunder",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50493904,
+   "title": "Monkey Island: all 13 versions side by side",
+   "domain": "monkeyisland.pages.dev",
+   "score": 122,
+   "comments": 23,
+   "author": "maximilianburke",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 4,
-   "story_id": 50491830,
-   "title": "What Happened to 3Com?",
-   "domain": "dfarq.homeip.net",
-   "score": 29,
-   "comments": 10,
-   "author": "gvieri",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50493251,
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "domain": "techpowerup.com",
+   "score": 583,
+   "comments": 341,
+   "author": "speckx",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 5,
-   "story_id": 50491423,
-   "title": "Terminal borders that don't cost a cell",
-   "domain": "joshka.net",
-   "score": 55,
-   "comments": 32,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50489641,
+   "title": "FAA issues national ground stop \u2013\u00a0lifted 4.5 hours later",
+   "domain": "nbcnews.com",
+   "score": 1546,
+   "comments": 1173,
+   "author": "zulln",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 6,
-   "story_id": 50488325,
-   "title": "FM-1 Workbench",
-   "domain": "open.m-vave.com",
-   "score": 180,
-   "comments": 105,
-   "author": "simonebrunozzi",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50491980,
+   "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
+   "domain": "unsloth.ai",
+   "score": 146,
+   "comments": 44,
+   "author": "Retro_Dev",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 7,
-   "story_id": 50488470,
-   "title": "Found: A protein that drives ageing without unleashing inflammation",
-   "domain": "nature.com",
-   "score": 125,
-   "comments": 19,
-   "author": "gumby",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50491423,
+   "title": "Terminal borders that don't cost a cell",
+   "domain": "joshka.net",
+   "score": 261,
+   "comments": 114,
+   "author": "vinhnx",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 8,
-   "story_id": 50474959,
-   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-   "domain": "scottjg.com",
-   "score": 672,
-   "comments": 199,
-   "author": "scottjg",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 9,
-   "story_id": 50487185,
-   "title": "After 600 experiments, here's what I discovered about JEPA world models",
-   "domain": "haddyalchaer.com",
-   "score": 214,
-   "comments": 35,
-   "author": "halcdev",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 10,
-   "story_id": 50491400,
-   "title": "How Not to Build a Music Player",
-   "domain": "alichraghi.github.io",
-   "score": 24,
-   "comments": 6,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 11,
-   "story_id": 50482379,
-   "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-   "domain": "science.org",
-   "score": 447,
-   "comments": 308,
-   "author": "voxleone",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 12,
-   "story_id": 50488464,
-   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-   "domain": "perplexity.ai",
-   "score": 95,
-   "comments": 20,
-   "author": "gmays",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 13,
-   "story_id": 50488835,
-   "title": "Live-migration support in FreeBSD and bhyve coming",
-   "domain": "gyptazy.com",
-   "score": 69,
-   "comments": 16,
-   "author": "JohnDohnBohn",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 14,
-   "story_id": 50492450,
-   "title": "Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop",
-   "domain": "hawaiinewsnow.com",
-   "score": 31,
-   "comments": 7,
-   "author": "taylorfinley",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 16,
-   "story_id": 50492141,
-   "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-   "domain": "alphasignal.ai",
-   "score": 4,
-   "comments": 0,
-   "author": "toppa33",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 17,
-   "story_id": 50487228,
-   "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
-   "domain": "isometricsf.com",
-   "score": 149,
-   "comments": 55,
-   "author": "juscha1",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 18,
-   "story_id": 50487605,
-   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-   "domain": "toninoble.com",
-   "score": 68,
-   "comments": 30,
-   "author": "dethmasque",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 19,
    "story_id": 50491545,
    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
    "domain": "grounds.top",
-   "score": 13,
-   "comments": 2,
+   "score": 148,
+   "comments": 21,
    "author": "gvsi",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 9,
+   "story_id": 50491830,
+   "title": "What happened to 3Com?",
+   "domain": "dfarq.homeip.net",
+   "score": 144,
+   "comments": 74,
+   "author": "gvieri",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 10,
+   "story_id": 50484658,
+   "title": "Jonathan Blow \u2013 If AI solved coding, why is my software still the same? [video]",
+   "domain": "youtube.com",
+   "score": 301,
+   "comments": 353,
+   "author": "helloplanets",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 11,
+   "story_id": 50488470,
+   "title": "Found: A protein that drives ageing without unleashing inflammation",
+   "domain": "nature.com",
+   "score": 203,
+   "comments": 35,
+   "author": "gumby",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 12,
+   "story_id": 50488325,
+   "title": "FM-1 Workbench",
+   "domain": "open.m-vave.com",
+   "score": 238,
+   "comments": 158,
+   "author": "simonebrunozzi",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 13,
+   "story_id": 50490593,
+   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+   "domain": "orcasairband.com",
+   "score": 264,
+   "comments": 61,
+   "author": "mmaunder",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 14,
+   "story_id": 50448432,
+   "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+   "domain": "engineering.fb.com",
+   "score": 16,
+   "comments": 3,
+   "author": "JDevlieghere",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 15,
+   "story_id": 50491400,
+   "title": "How Not to Build a Music Player",
+   "domain": "alichraghi.github.io",
+   "score": 115,
+   "comments": 46,
+   "author": "vinhnx",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 16,
+   "story_id": 50487185,
+   "title": "After 600 experiments, here's what I discovered about JEPA world models",
+   "domain": "haddyalchaer.com",
+   "score": 262,
+   "comments": 41,
+   "author": "halcdev",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 17,
+   "story_id": 50454791,
+   "title": "Service Crew Discovers Rare Yellow Burbot in Oswego Harbor",
+   "domain": "fws.gov",
+   "score": 3,
+   "comments": 0,
+   "author": "tart-lemonade",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 18,
+   "story_id": 50444761,
+   "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+   "domain": "github.com",
+   "score": 34,
+   "comments": 12,
+   "author": "0xdeadf1sh",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 19,
+   "story_id": 50488464,
+   "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+   "domain": "perplexity.ai",
+   "score": 131,
+   "comments": 23,
+   "author": "gmays",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 20,
-   "story_id": 50484235,
-   "title": "A technical vision for the Haskell ecosystem",
-   "domain": "discourse.haskell.org",
-   "score": 178,
-   "comments": 84,
-   "author": "cosmic_quanta",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50487228,
+   "title": "Show HN: Isometric SF \u2013 A pixel-art map of the SF Bay Area",
+   "domain": "isometricsf.com",
+   "score": 213,
+   "comments": 70,
+   "author": "juscha1",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 21,
-   "story_id": 50491295,
-   "title": "Lying to Zed to get its remote server running on FreeBSD",
-   "domain": "hayzam.com",
-   "score": 11,
-   "comments": 3,
-   "author": "arch1e",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50488835,
+   "title": "Live-migration support in FreeBSD and bhyve coming",
+   "domain": "gyptazy.com",
+   "score": 106,
+   "comments": 25,
+   "author": "JohnDohnBohn",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 22,
-   "story_id": 50489652,
-   "title": "All US airports are currently ground stopped",
-   "domain": "twitter.com",
-   "score": 164,
-   "comments": 32,
-   "author": "defly",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50492860,
+   "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+   "domain": "today.ucsd.edu",
+   "score": 136,
+   "comments": 29,
+   "author": "gmays",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 23,
-   "story_id": 50492269,
-   "title": "Show HN: Light control for MacBook charger status light (open-source)",
-   "domain": "github.com",
-   "score": 3,
-   "comments": 0,
-   "author": "toppa33",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 24,
-   "story_id": 50487864,
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "domain": "freightwaves.com",
-   "score": 283,
-   "comments": 162,
-   "author": "crescit_eundo",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 25,
    "story_id": 50484650,
    "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
    "domain": "echopress.com",
-   "score": 134,
-   "comments": 85,
+   "score": 173,
+   "comments": 100,
    "author": "bookofjoe",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 24,
+   "story_id": 50474959,
+   "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+   "domain": "scottjg.com",
+   "score": 751,
+   "comments": 213,
+   "author": "scottjg",
+   "snapshot_at": "2026-11-14T10:29:54"
+  },
+  {
+   "rank": 25,
+   "story_id": 50492315,
+   "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+   "domain": "fox5dc.com",
+   "score": 168,
+   "comments": 60,
+   "author": "snow_mac",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 26,
-   "story_id": 50487762,
-   "title": "Weight Space Misfolding",
-   "domain": "alphaxiv.org",
-   "score": 131,
-   "comments": 46,
-   "author": "mkglees",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50484235,
+   "title": "A technical vision for the Haskell ecosystem",
+   "domain": "discourse.haskell.org",
+   "score": 207,
+   "comments": 123,
+   "author": "cosmic_quanta",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 27,
-   "story_id": 50486748,
-   "title": "AI unlocks G\u00f6del's notebooks, said to contain hundreds of proved theorems",
-   "domain": "theguardian.com",
-   "score": 325,
-   "comments": 91,
-   "author": "bookofjoe",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50462975,
+   "title": "The Other Nefertiti (2015)",
+   "domain": "alloversky.com",
+   "score": 19,
+   "comments": 1,
+   "author": "dmbche",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 28,
-   "story_id": 50487522,
-   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-   "domain": "reddit.com",
-   "score": 278,
-   "comments": 141,
-   "author": "BobaFloutist",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50494696,
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "domain": "news.ycombinator.com",
+   "score": 24,
+   "comments": 27,
+   "author": "shnock",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 29,
-   "story_id": 50484007,
-   "title": "Lonewolf 0.3 \u2013 A standalone XMPP server written in Rust",
-   "domain": "github.com",
-   "score": 129,
-   "comments": 38,
-   "author": "ortuman",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50487605,
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+   "domain": "toninoble.com",
+   "score": 88,
+   "comments": 42,
+   "author": "dethmasque",
+   "snapshot_at": "2026-11-14T10:29:54"
   },
   {
    "rank": 30,
-   "story_id": 50492456,
-   "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-   "domain": "english.nv.ua",
-   "score": 12,
-   "comments": 4,
-   "author": "kaycebasques",
-   "snapshot_at": "2026-11-14T01:28:11"
-  },
-  {
-   "rank": 31,
-   "story_id": 50483959,
-   "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
-   "domain": "spectrum.ieee.org",
-   "score": 75,
-   "comments": 7,
-   "author": "marc__1",
-   "snapshot_at": "2026-11-14T01:28:11"
+   "story_id": 50492950,
+   "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+   "domain": "citizenlab.ca",
+   "score": 102,
+   "comments": 11,
+   "author": "billybuckwheat",
+   "snapshot_at": "2026-11-14T10:29:54"
   }
  ],
  "quality": {
@@ -651,10 +651,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 7328,
-   "fct_stories": 1873
+   "stg_snapshots": 7427,
+   "fct_stories": 1899
   },
-  "newest_snapshot_at": "2026-11-14T01:28:11+00:00",
+  "newest_snapshot_at": "2026-11-14T10:29:54+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
