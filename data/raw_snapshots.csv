@@ -7426,3 +7426,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-14T10:29:54+00:00,98,50471731,Service degradation on Microsoft 365,https://status.cloud.microsoft/,dkpk,1164,985,2026-11-12T18:20:48+00:00
 2026-11-14T10:29:54+00:00,99,50431971,Making a €40 USB-C hub work as a Nintendo Switch 2 dock,http://blog.nozomi.space/posts/sw2_dock/,mkopec,172,64,2026-11-09T20:54:02+00:00
 2026-11-14T10:29:54+00:00,100,50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,Qision,130,28,2026-11-12T15:25:52+00:00
+2026-11-14T18:07:12+00:00,1,50497892,PyPI's redesigned project pages with clearer security signals are now live,https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/,rbanffy,102,38,2026-11-14T15:40:52+00:00
+2026-11-14T18:07:12+00:00,2,50499017,Lovable apps expose passport details and more than 200K private messages,https://www.crissyfield.de/research/lovable-en/,armcat,24,1,2026-11-14T17:43:10+00:00
+2026-11-14T18:07:12+00:00,3,50496976,KDE: The documentary [video],https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c,mrkn1,179,28,2026-11-14T13:43:28+00:00
+2026-11-14T18:07:12+00:00,4,50440709,Why get an expensive Pi when I have an old phone?,https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/,casi,386,233,2026-11-10T14:16:05+00:00
+2026-11-14T18:07:12+00:00,5,50496811,Advancing science and engineering with Antigravity's /teamwork,https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/,acossta,77,20,2026-11-14T13:20:43+00:00
+2026-11-14T18:07:12+00:00,6,50497132,"Show HN: A terminal-native idle factory game, written in Rust with ratatui",https://gitlab.com/snipedbywifi/terminactory,snipedbywifi,89,14,2026-11-14T14:05:54+00:00
+2026-11-14T18:07:12+00:00,7,50441444,Generative AI uses more energy on non-English text,https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/,DeepLogin,104,70,2026-11-10T15:07:28+00:00
+2026-11-14T18:07:12+00:00,8,50497589,Show HN: DeepSeek V3 in ~200 lines of pure Jax,https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax,VaibhaavTiwari,23,0,2026-11-14T15:04:15+00:00
+2026-11-14T18:07:12+00:00,9,50497137,Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6),https://github.com/FURSOY/fursoy-cpu,fursoy,35,9,2026-11-14T14:06:34+00:00
+2026-11-14T18:07:12+00:00,10,50416011,Reverse engineering a vintage diode-transistor logic chip,https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html,dverlaeckt80,26,1,2026-11-08T19:03:48+00:00
+2026-11-14T18:07:12+00:00,11,50493062,Ggml v1.0.0,https://github.com/ggml-org/ggml/releases/tag/v1.0.0,cobychapple,380,64,2026-11-14T02:28:29+00:00
+2026-11-14T18:07:12+00:00,12,50467278,Testing a Trash Can Faraday Cage,https://www.jefftk.com/p/testing-a-trash-can-faraday-cage,torutofu,41,23,2026-11-12T14:04:27+00:00
+2026-11-14T18:07:12+00:00,13,50496602,Tech Companies Are Trying to Shift the Concept of Privacy (Again),https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again,gslin,254,98,2026-11-14T12:45:45+00:00
+2026-11-14T18:07:12+00:00,14,50493904,Monkey Island: all 13 versions side by side,https://monkeyisland.pages.dev/,maximilianburke,365,123,2026-11-14T04:23:30+00:00
+2026-11-14T18:07:12+00:00,15,50497900,Formalizing US Tax Code (Using Lean),https://lexifina.com/blog/formalizing-the-us-tax-code,dnw,64,28,2026-11-14T15:41:20+00:00
+2026-11-14T18:07:12+00:00,16,50497009,Italy fines Meta $887M over Android users' data access,https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/,giuliomagnifico,160,79,2026-11-14T13:48:06+00:00
+2026-11-14T18:07:12+00:00,17,50497147,Show HN: Agweb – a browser for agents that stays out of your way,https://github.com/paul-nameless/agweb,paul_nameless,51,17,2026-11-14T14:08:12+00:00
+2026-11-14T18:07:12+00:00,18,50478632,Let's Write a PostScript Interpreter,https://beyondloom.com/blog/postscript.html,RebelPotato,68,11,2026-11-13T05:12:56+00:00
+2026-11-14T18:07:12+00:00,19,50467987,"C3 0.8.6:Library fetching,30% smaller safe-mode binaries,and stricter type rules",https://c3-lang.org/blog/c3_0_8_6_fetching_libraries/,DASD,13,1,2026-11-12T14:36:55+00:00
+2026-11-14T18:07:12+00:00,20,50497155,Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM,https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/,wondersky,83,39,2026-11-14T14:09:25+00:00
+2026-11-14T18:07:12+00:00,21,50496885,A visual explanation of reinforcement learning,https://aatishb.com/myriad/how-brains-learn/,aatish,44,2,2026-11-14T13:31:06+00:00
+2026-11-14T18:07:12+00:00,22,50491423,Terminal borders that don't cost a cell,https://www.joshka.net/cell-borders/,vinhnx,384,166,2026-11-13T23:06:40+00:00
+2026-11-14T18:07:12+00:00,23,50493251,Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs,https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus,speckx,953,577,2026-11-14T02:52:59+00:00
+2026-11-14T18:07:12+00:00,24,50498063,Italy fines Meta €805M over photo privacy,https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/,jruohonen,99,53,2026-11-14T16:00:14+00:00
+2026-11-14T18:07:12+00:00,25,50491980,Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update,https://unsloth.ai/docs/models/qwen3.8,Retro_Dev,226,71,2026-11-14T00:06:04+00:00
+2026-11-14T18:07:12+00:00,26,50465926,Bilingualism and Denaskuleco,https://pgadey.ca/notes/bilingualism-and-denaskuleco/,surprisetalk,16,12,2026-11-12T12:00:06+00:00
+2026-11-14T18:07:12+00:00,27,50489641,FAA issues national ground stop – lifted 4.5 hours later,https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247,zulln,1622,1251,2026-11-13T21:05:53+00:00
+2026-11-14T18:07:12+00:00,28,50491830,What happened to 3Com?,https://dfarq.homeip.net/what-happened-to-3com/,gvieri,193,111,2026-11-13T23:48:59+00:00
+2026-11-14T18:07:12+00:00,29,50491545,Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop,https://grounds.top/,gvsi,199,24,2026-11-13T23:17:39+00:00
+2026-11-14T18:07:12+00:00,30,50498073,How to Create Your Own Decentralized Messenger Protocol,https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol,fagnerbrack,8,0,2026-11-14T16:01:04+00:00
+2026-11-14T18:07:12+00:00,31,50488470,Found: A protein that drives ageing without unleashing inflammation,https://www.nature.com/articles/d41586-026-03638-3,gumby,244,77,2026-11-13T19:25:21+00:00
+2026-11-14T18:07:12+00:00,32,50444761,Show HN: I have trained 15 blood glucose forecasting models on my own data,https://github.com/0xdeadf1sh/T1DMAI,0xdeadf1sh,85,46,2026-11-10T19:07:53+00:00
+2026-11-14T18:07:12+00:00,33,50488325,FM-1 Workbench,https://open.m-vave.com/fm1-workbench,simonebrunozzi,262,172,2026-11-13T19:14:02+00:00
+2026-11-14T18:07:12+00:00,34,50497416,Demystifying phone unlocking tools: A technical overview,https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/,iloveyoutwo,6,0,2026-11-14T14:44:28+00:00
+2026-11-14T18:07:12+00:00,35,50498718,"With Little Ado, Congress Put God in Pledge in 1954",https://www.nytimes.com/2002/06/28/us/with-little-ado-congress-put-god-in-pledge-in-1954.html,Eridanus2,9,0,2026-11-14T17:16:54+00:00
+2026-11-14T18:07:12+00:00,36,50491400,How Not to Build a Music Player,https://alichraghi.github.io/blog/how-not-to-build-a-music-player/,vinhnx,167,78,2026-11-13T23:04:30+00:00
+2026-11-14T18:07:12+00:00,37,50498051,Smuggling of 1.5M AI GPUs could be the cause of Huang's departure,https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls,marginalia_nu,15,10,2026-11-14T15:58:57+00:00
+2026-11-14T18:07:12+00:00,38,50490593,"Live airband on all frequencies from KORS. Victoria, CA also ground stopped",https://orcasairband.com/,mmaunder,290,67,2026-11-13T22:04:24+00:00
+2026-11-14T18:07:12+00:00,40,50499114,"Claude asked to renumber pages deletes professor's syllabus, year of notes",https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits,gnabgib,5,3,2026-11-14T17:51:13+00:00
+2026-11-14T18:07:12+00:00,41,50454791,Service Crew Discovers Rare Yellow Burbot in Oswego Harbor,https://www.fws.gov/story/2026-11/service-crew-discovers-rare-yellow-burbot-oswego-harbor,tart-lemonade,28,18,2026-11-11T15:47:43+00:00
+2026-11-14T18:07:12+00:00,42,50488464,"Perplexity Decider v1.3: Training, eval, and use cases",https://www.perplexity.ai/hub/blog/perplexity-decider,gmays,143,26,2026-11-13T19:24:47+00:00
+2026-11-14T18:07:12+00:00,43,50496051,Project Zero will disclose vulnerabilities 90 days after reporting,https://projectzero.google/2026/11/disclosure-policy.html,hacb,12,1,2026-11-14T11:13:17+00:00
+2026-11-14T18:07:12+00:00,44,50488835,Live-migration support in FreeBSD and bhyve coming,https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/,JohnDohnBohn,136,43,2026-11-13T19:58:42+00:00
+2026-11-14T18:07:12+00:00,45,50466069,The curious case of the north-east arrow,https://arsh.zip/posts/north-east-arrow/,arshxyz,31,10,2026-11-12T12:14:20+00:00
+2026-11-14T18:07:12+00:00,46,50496763,Show HN: Sauron – Error tracking and product analytics in one self-hosted stack,https://sauron.splimter.com/,splimter,4,1,2026-11-14T13:13:13+00:00
+2026-11-14T18:07:12+00:00,47,50474959,Reverse engineering my Coway air purifier to ditch the cloud,https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/,scottjg,776,215,2026-11-12T22:03:09+00:00
+2026-11-14T18:07:12+00:00,48,50497196,Vercel should fork and maintain Deno,,gfalcao,13,8,2026-11-14T14:15:06+00:00
+2026-11-14T18:07:12+00:00,49,50496562,Agile Manifesto for Agents,https://debarshibasak.github.io/readables/blogs/agent-first-development,debarshri,10,2,2026-11-14T12:38:43+00:00
+2026-11-14T18:07:12+00:00,50,50496187,A few drawings about Linux (2016),https://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/,sammatilda,6,0,2026-11-14T11:36:56+00:00
+2026-11-14T18:07:12+00:00,51,50496159,Light Pollution Map,https://lightpollutionmap.app/,joebig,15,4,2026-11-14T11:30:43+00:00
+2026-11-14T18:07:12+00:00,52,50496525,Why platform teams fail (and AI makes it worse),https://willdady.com/why-platform-teams-fail,Groady,8,1,2026-11-14T12:32:36+00:00
+2026-11-14T18:07:12+00:00,53,50484658,"Jonathan Blow – If AI solved coding, why is my software still the same? [video]",https://www.youtube.com/watch?v=IRK8h67ol7Q,helloplanets,437,618,2026-11-13T15:08:44+00:00
+2026-11-14T18:07:12+00:00,54,50492860,Elephants found to be increasingly isolated leading to fractured social networks,https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks,gmays,175,39,2026-11-14T02:02:42+00:00
+2026-11-14T18:07:12+00:00,55,50448432,Extending LLDB to Debug Applications That Span CPUs and GPUs,https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/,JDevlieghere,29,4,2026-11-11T00:48:14+00:00
+2026-11-14T18:07:12+00:00,56,50496870,Probabilistic Data Structures in Go,https://antonz.org/probabilistic-data-structures/,mfrw,9,0,2026-11-14T13:29:36+00:00
+2026-11-14T18:07:12+00:00,57,50484007,Lonewolf 0.3 – A standalone XMPP server written in Rust,https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0,ortuman,152,53,2026-11-13T14:28:40+00:00
+2026-11-14T18:07:12+00:00,58,50487605,"Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",https://toninoble.com/post/ctrlc-ctrlv-ctrlcve,dethmasque,98,53,2026-11-13T18:23:49+00:00
+2026-11-14T18:07:12+00:00,59,50496705,Show HN: Shotoku – Local-first action governance and budget caps for AI agents,https://www.shotoku.dev/,IssaPrvj,4,0,2026-11-14T13:02:53+00:00
+2026-11-14T18:07:12+00:00,60,50482379,"Doomsday: Friday, 13 November, A.D. 2026 (1960)",https://www.science.org/doi/10.1126/science.132.3436.1291,voxleone,487,335,2026-11-13T12:10:24+00:00
+2026-11-14T18:07:12+00:00,61,50492315,Amtrak booking system experiencing major issues amid nationwide FAA ground stop,https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026,snow_mac,189,74,2026-11-14T00:52:29+00:00
+2026-11-14T18:07:12+00:00,62,50484235,A technical vision for the Haskell ecosystem,https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078,cosmic_quanta,223,147,2026-11-13T14:43:12+00:00
+2026-11-14T18:07:12+00:00,63,50496642,Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you,https://cyberviber.de/,d1351r43,8,1,2026-11-14T12:54:07+00:00
+2026-11-14T18:07:12+00:00,64,50496590,Open-source AI without Jensen,https://www.interconnects.ai/p/open-source-ai-without-jensen,pr337h4m,6,3,2026-11-14T12:44:01+00:00
+2026-11-14T18:07:12+00:00,65,50486748,"AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths,bookofjoe,412,106,2026-11-13T17:30:10+00:00
+2026-11-14T18:07:12+00:00,66,50496544,Air-Traffic Resilience Portfolio,https://tilt.now/tilt/MTwqny,drupeek,5,0,2026-11-14T12:34:07+00:00
+2026-11-14T18:07:12+00:00,67,50487864,$11.4M in Nvidia hardware vanishes during shipment from CA to TX,https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas,crescit_eundo,372,203,2026-11-13T18:40:44+00:00
+2026-11-14T18:07:12+00:00,68,50497041,The Myth of Neutral Code,https://foss.life/notes/2026/the-myth-of-neutral-code/,birdculture,24,14,2026-11-14T13:52:11+00:00
+2026-11-14T18:07:12+00:00,69,50483959,CERN Built the Large Hadron Collider's Next-Gen Magnets,https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets,marc__1,90,9,2026-11-13T14:25:46+00:00
+2026-11-14T18:07:12+00:00,70,50487185,"After 600 experiments, here's what I discovered about JEPA world models",https://haddyalchaer.com/jepa,halcdev,282,46,2026-11-13T17:55:28+00:00
+2026-11-14T18:07:12+00:00,71,50487522,It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad,https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/,BobaFloutist,379,214,2026-11-13T18:18:37+00:00
+2026-11-14T18:07:12+00:00,72,50487762,Weight Space Misfolding,https://www.alphaxiv.org/abs/2611.weight-space-misfolding,mkglees,140,55,2026-11-13T18:33:35+00:00
+2026-11-14T18:07:12+00:00,73,50496385,App like GitHub for your conversations with AI,http://ainiconva.com,charlesamumdemo,4,1,2026-11-14T12:09:08+00:00
+2026-11-14T18:07:12+00:00,74,50492950,Security Agencies Worldwide Found to Use Ad-Based Surveillance System,https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/,billybuckwheat,137,14,2026-11-14T02:15:41+00:00
+2026-11-14T18:07:12+00:00,75,50496289,"So Far, AI Pessimism Is Observationally Equivalent to AI Optimism",https://www.betonit.ai/p/so-far-ai-pessimism-is-observationally,JulianPaul,3,0,2026-11-14T11:53:42+00:00
+2026-11-14T18:07:12+00:00,76,50496285,Global Optimization for Combinatorial Geometry Problems Revisited in Era of LLMs,https://arxiv.org/abs/2601.05943,YeGoblynQueenne,3,0,2026-11-14T11:53:06+00:00
+2026-11-14T18:07:12+00:00,77,50481187,"Elevated errors on claude.ai, Claude Code, and platform.claude.com",https://status.claude.com/incidents/nn11wk485zfn,__vivek,489,390,2026-11-13T10:18:13+00:00
+2026-11-14T18:07:12+00:00,78,50497161,New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details,https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical,arbuge,7,1,2026-11-14T14:10:31+00:00
+2026-11-14T18:07:12+00:00,79,50489652,All US airports are currently ground stopped,https://twitter.com/flightradar24/status/2121347654714077605,defly,207,41,2026-11-13T21:06:52+00:00
+2026-11-14T18:07:12+00:00,80,50486914,DeepSeek Ultrafast,https://github.com/basetenlabs/deepseek-ultrafast,neo2006,67,13,2026-11-13T17:39:03+00:00
+2026-11-14T18:07:12+00:00,81,50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,mbStavola,890,318,2026-11-12T18:39:05+00:00
+2026-11-14T18:07:12+00:00,82,50487228,Show HN: Isometric SF – A pixel-art map of the SF Bay Area,https://isometricsf.com/,juscha1,245,74,2026-11-13T17:58:37+00:00
+2026-11-14T18:07:12+00:00,83,50491295,Lying to Zed to get its remote server running on FreeBSD,https://hayzam.com/blog/03-lying-to-zeds-remote-editor/,arch1e,32,9,2026-11-13T22:54:47+00:00
+2026-11-14T18:07:12+00:00,84,50480480,The Dawn of the Data Intelligence Engineer,https://motherduck.com/blog/the-data-intelligence-engineer/,jonbaer,153,78,2026-11-13T09:08:18+00:00
+2026-11-14T18:07:12+00:00,85,50494244,Transforming Ripgrep's Documentation with AI Automation and MkDocs,https://entropicdrift.com/blog/mkdocs-drift-automation/,ankitg12,12,4,2026-11-14T05:19:51+00:00
+2026-11-14T18:07:12+00:00,86,50492098,Philip Roth and David Remnick getting personal (2001),https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick,Caiero,17,2,2026-11-14T00:21:26+00:00
+2026-11-14T18:07:12+00:00,87,50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,lldb,4040,3445,2026-11-12T13:52:29+00:00
+2026-11-14T18:07:12+00:00,88,50484650,"Minnesota guitarist's ""palmfrets"" invention strikes a new chord",https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord,bookofjoe,194,108,2026-11-13T15:08:07+00:00
+2026-11-14T18:07:12+00:00,89,50490618,End‑to‑End 4‑Bit Training,https://thinkingmachines.ai/blog/end-to-end-4-bit-training/,stokedmartin,20,1,2026-11-13T22:06:35+00:00
+2026-11-14T18:07:12+00:00,90,50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,simpsoka,733,253,2026-11-12T17:02:42+00:00
+2026-11-14T18:07:12+00:00,91,50491097,Claude Meetings,https://claude.com/resources/articles/claude-meetings,hmokiguess,106,86,2026-11-13T22:39:15+00:00
+2026-11-14T18:07:12+00:00,92,50486521,Concurrent Shell Command Queues,https://emmer.dev/blog/concurrent-shell-command-queues/,speckx,49,17,2026-11-13T17:13:01+00:00
+2026-11-14T18:07:12+00:00,93,50497012,Why Every Startup Needs an Origin Myth,https://www.joanwestenberg.com/p/why-every-startup-needs-an-origin,mrkn1,9,0,2026-11-14T13:48:49+00:00
+2026-11-14T18:07:12+00:00,94,50487688,Microsoft outage gives customers a crash course in dependence on Redmond,https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805,nephihaha,180,61,2026-11-13T18:29:16+00:00
+2026-11-14T18:07:12+00:00,95,50481870,AI is destroying the trust between writers and readers,https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/,FinnLobsien,359,227,2026-11-13T11:13:46+00:00
+2026-11-14T18:07:12+00:00,96,50486258,Apify Security Incident,https://status.apify.com/incidents/sxd1dj5j6749,cynicalpeace,96,15,2026-11-13T16:55:59+00:00
+2026-11-14T18:07:12+00:00,97,50493246,Beating the Frontier on NetHack,https://antithesis.com/blog/2026/nethack/,nwjsmith,13,0,2026-11-14T02:51:57+00:00
+2026-11-14T18:07:12+00:00,98,50495509,"Nearly $20M found in Hungary's forests, buildings amid corruption probe",https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings,_tk_,24,2,2026-11-14T09:34:02+00:00
+2026-11-14T18:07:12+00:00,99,50497171,Porting Elite to the Commodore PET the long way [video],https://www.youtube.com/watch?v=6D0yT1bgH0s,sandebert,7,0,2026-11-14T14:11:31+00:00
+2026-11-14T18:07:12+00:00,100,50450488,Tim Peters has died,https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028,ayhanfuat,1432,203,2026-11-11T07:03:17+00:00
