@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T06:38:04+00:00",
+ "generated_at": "2026-11-15T16:23:45+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -122,30 +122,30 @@
   },
   {
    "day": "2026-11-15",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 236.5,
-   "avg_comments": 129.5
+   "snapshots": 2,
+   "distinct_stories": 134,
+   "avg_score": 220.5,
+   "avg_comments": 114.7
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
    "stories": 154,
-   "avg_peak_score": 145.7,
-   "total_comments": 8057
+   "avg_peak_score": 146.8,
+   "total_comments": 8135
   },
   {
    "domain": "nytimes.com",
-   "stories": 31,
-   "avg_peak_score": 185.4,
-   "total_comments": 2552
+   "stories": 33,
+   "avg_peak_score": 179.7,
+   "total_comments": 2622
   },
   {
    "domain": "twitter.com",
-   "stories": 31,
-   "avg_peak_score": 138.2,
-   "total_comments": 2471
+   "stories": 32,
+   "avg_peak_score": 134.1,
+   "total_comments": 2472
   },
   {
    "domain": "theguardian.com",
@@ -155,27 +155,27 @@
   },
   {
    "domain": "arstechnica.com",
-   "stories": 25,
-   "avg_peak_score": 109.7,
-   "total_comments": 1935
+   "stories": 26,
+   "avg_peak_score": 106.1,
+   "total_comments": 1949
   },
   {
    "domain": "reuters.com",
-   "stories": 22,
-   "avg_peak_score": 122.8,
-   "total_comments": 1769
+   "stories": 23,
+   "avg_peak_score": 119.0,
+   "total_comments": 1818
   },
   {
    "domain": "youtube.com",
-   "stories": 16,
-   "avg_peak_score": 75.3,
-   "total_comments": 974
+   "stories": 17,
+   "avg_peak_score": 73.0,
+   "total_comments": 1018
   },
   {
    "domain": "bbc.com",
-   "stories": 15,
-   "avg_peak_score": 84.9,
-   "total_comments": 1499
+   "stories": 16,
+   "avg_peak_score": 80.3,
+   "total_comments": 1501
   },
   {
    "domain": "wired.com",
@@ -216,40 +216,40 @@
   {
    "domain": "wsj.com",
    "stories": 11,
-   "avg_peak_score": 171.5,
-   "total_comments": 2135
+   "avg_peak_score": 173.5,
+   "total_comments": 2151
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 58,
-   "avg_peak_score": 102.0
+   "avg_peak_score": 102.5
   },
   {
    "posted_hour_utc": 1,
    "stories": 50,
-   "avg_peak_score": 117.2
+   "avg_peak_score": 124.9
   },
   {
    "posted_hour_utc": 2,
    "stories": 53,
-   "avg_peak_score": 110.2
+   "avg_peak_score": 115.9
   },
   {
    "posted_hour_utc": 3,
    "stories": 55,
-   "avg_peak_score": 89.5
+   "avg_peak_score": 89.9
   },
   {
    "posted_hour_utc": 4,
-   "stories": 40,
-   "avg_peak_score": 112.4
+   "stories": 41,
+   "avg_peak_score": 113.3
   },
   {
    "posted_hour_utc": 5,
-   "stories": 42,
-   "avg_peak_score": 74.2
+   "stories": 44,
+   "avg_peak_score": 76.7
   },
   {
    "posted_hour_utc": 6,
@@ -258,390 +258,390 @@
   },
   {
    "posted_hour_utc": 7,
-   "stories": 41,
-   "avg_peak_score": 212.3
+   "stories": 42,
+   "avg_peak_score": 209.6
   },
   {
    "posted_hour_utc": 8,
    "stories": 30,
-   "avg_peak_score": 125.3
+   "avg_peak_score": 125.5
   },
   {
    "posted_hour_utc": 9,
-   "stories": 43,
-   "avg_peak_score": 149.7
+   "stories": 46,
+   "avg_peak_score": 143.7
   },
   {
    "posted_hour_utc": 10,
-   "stories": 47,
-   "avg_peak_score": 216.2
+   "stories": 50,
+   "avg_peak_score": 205.8
   },
   {
    "posted_hour_utc": 11,
-   "stories": 66,
-   "avg_peak_score": 158.2
+   "stories": 70,
+   "avg_peak_score": 154.5
   },
   {
    "posted_hour_utc": 12,
-   "stories": 76,
-   "avg_peak_score": 233.1
+   "stories": 80,
+   "avg_peak_score": 224.5
   },
   {
    "posted_hour_utc": 13,
-   "stories": 89,
-   "avg_peak_score": 185.0
+   "stories": 93,
+   "avg_peak_score": 182.4
   },
   {
    "posted_hour_utc": 14,
-   "stories": 144,
-   "avg_peak_score": 151.4
+   "stories": 149,
+   "avg_peak_score": 149.6
   },
   {
    "posted_hour_utc": 15,
-   "stories": 172,
-   "avg_peak_score": 136.6
+   "stories": 174,
+   "avg_peak_score": 135.8
   },
   {
    "posted_hour_utc": 16,
    "stories": 144,
-   "avg_peak_score": 138.4
+   "avg_peak_score": 138.6
   },
   {
    "posted_hour_utc": 17,
-   "stories": 149,
-   "avg_peak_score": 160.0
+   "stories": 150,
+   "avg_peak_score": 161.9
   },
   {
    "posted_hour_utc": 18,
    "stories": 140,
-   "avg_peak_score": 180.9
+   "avg_peak_score": 181.3
   },
   {
    "posted_hour_utc": 19,
    "stories": 136,
-   "avg_peak_score": 167.4
+   "avg_peak_score": 167.6
   },
   {
    "posted_hour_utc": 20,
-   "stories": 116,
-   "avg_peak_score": 101.0
+   "stories": 117,
+   "avg_peak_score": 100.3
   },
   {
    "posted_hour_utc": 21,
-   "stories": 111,
-   "avg_peak_score": 161.7
+   "stories": 112,
+   "avg_peak_score": 164.7
   },
   {
    "posted_hour_utc": 22,
-   "stories": 88,
-   "avg_peak_score": 156.5
+   "stories": 90,
+   "avg_peak_score": 154.7
   },
   {
    "posted_hour_utc": 23,
-   "stories": 69,
-   "avg_peak_score": 136.0
+   "stories": 70,
+   "avg_peak_score": 134.9
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50500963,
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "domain": "spacex.com",
-   "score": 1024,
-   "comments": 684,
-   "author": "ls612",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50507303,
+   "title": "All AI-generated code should be Open Source",
+   "domain": "jakub.jankiewicz.org",
+   "score": 219,
+   "comments": 145,
+   "author": "jcubic",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 2,
-   "story_id": 50499017,
-   "title": "Lovable apps expose passport details and more than 200K private messages",
-   "domain": "crissyfield.de",
-   "score": 750,
-   "comments": 299,
-   "author": "armcat",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50506719,
+   "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+   "domain": "macanorak.com",
+   "score": 169,
+   "comments": 88,
+   "author": "MacAnorak",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 3,
-   "story_id": 50478701,
-   "title": "Memory Safety Bugs in Rust Standard Library",
-   "domain": "forge-blog.github.io",
-   "score": 40,
-   "comments": 5,
-   "author": "pjmlp",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50506894,
+   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+   "domain": "prog21.dadgum.com",
+   "score": 71,
+   "comments": 22,
+   "author": "ksec",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 4,
-   "story_id": 50504072,
-   "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
-   "domain": "github.com",
-   "score": 27,
-   "comments": 9,
-   "author": "MarinhoD",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50507206,
+   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+   "domain": "datatracker.ietf.org",
+   "score": 43,
+   "comments": 18,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 5,
-   "story_id": 50501594,
-   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-   "domain": "retrocomputing.stackexchange.com",
-   "score": 171,
-   "comments": 75,
-   "author": "Skyfall106",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50507553,
+   "title": "Emacs Is My Browser",
+   "domain": "joshblais.com",
+   "score": 19,
+   "comments": 1,
+   "author": "nyc111",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 6,
-   "story_id": 50502988,
-   "title": "Court denies motion to dismiss DRAM price fixing case",
-   "domain": "litnews.ai",
-   "score": 43,
-   "comments": 4,
-   "author": "ybathaee",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50500963,
+   "title": "SpaceX catches the Starship to end Flight 15",
+   "domain": "spacex.com",
+   "score": 1456,
+   "comments": 986,
+   "author": "ls612",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 7,
-   "story_id": 50503930,
-   "title": "Show HN: Turbo-Browser-MCP \u2013 Batch forms, DOM deltas and submit guards for MCP",
-   "domain": "github.com",
-   "score": 19,
+   "story_id": 50506376,
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "domain": "magazine.sebastianraschka.com",
+   "score": 87,
    "comments": 1,
-   "author": "tthanh2k6",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "author": "vismit2000",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 8,
-   "story_id": 50482222,
-   "title": "The Evolving Story of How Chemistry Became Biology",
-   "domain": "quantamagazine.org",
-   "score": 29,
-   "comments": 1,
-   "author": "pseudolus",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50506588,
+   "title": "A NES emulator written in Odin",
+   "domain": "lucypero.com",
+   "score": 47,
+   "comments": 5,
+   "author": "frostbyte7",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 9,
-   "story_id": 50503255,
-   "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-   "domain": "eff.org",
-   "score": 173,
-   "comments": 45,
-   "author": "nobody9999",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50505271,
+   "title": "Why did some Apollo missions carry a grenade launcher?",
+   "domain": "space.stackexchange.com",
+   "score": 136,
+   "comments": 89,
+   "author": "Skyfall106",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 10,
-   "story_id": 50499038,
-   "title": "A family tree of software job titles",
-   "domain": "zwischenzugs.com",
-   "score": 272,
-   "comments": 132,
-   "author": "umerf",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50499017,
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "domain": "crissyfield.de",
+   "score": 938,
+   "comments": 359,
+   "author": "armcat",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 11,
-   "story_id": 50496976,
-   "title": "KDE: The documentary [video]",
-   "domain": "tube.kockatoo.org",
-   "score": 433,
-   "comments": 93,
-   "author": "mrkn1",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50502988,
+   "title": "Court denies motion to dismiss DRAM price fixing case",
+   "domain": "litnews.ai",
+   "score": 363,
+   "comments": 152,
+   "author": "ybathaee",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 12,
-   "story_id": 50501631,
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "domain": "techspot.com",
-   "score": 406,
-   "comments": 199,
-   "author": "madihaa",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50481321,
+   "title": "What thousands of conversations look like inside a language model",
+   "domain": "operator0x.com",
+   "score": 57,
+   "comments": 18,
+   "author": "josip208",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 13,
-   "story_id": 50486880,
-   "title": "One Man's Quest to Create the Perfect Whiskey Glass",
-   "domain": "nytimes.com",
-   "score": 22,
-   "comments": 2,
-   "author": "Kaibeezy",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50501887,
+   "title": "The Telephone Changed the World",
+   "domain": "lithub.com",
+   "score": 23,
+   "comments": 6,
+   "author": "NaOH",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 14,
-   "story_id": 50497892,
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
-   "domain": "blog.pypi.org",
-   "score": 228,
-   "comments": 99,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50475759,
+   "title": "Chasing an audio artifact on power loss",
+   "domain": "subalpinecircuits.com",
+   "score": 30,
+   "comments": 1,
+   "author": "ireflect",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 15,
-   "story_id": 50483431,
-   "title": "500 Lines or Less A 3D Modeller",
-   "domain": "aosabook.org",
-   "score": 37,
-   "comments": 4,
-   "author": "myth_drannon",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50506180,
+   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+   "domain": "nytimes.com",
+   "score": 173,
+   "comments": 64,
+   "author": "JumpCrisscross",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 16,
-   "story_id": 50503465,
-   "title": "My favourite modern NES games",
-   "domain": "jordi.inversethought.com",
-   "score": 21,
-   "comments": 0,
-   "author": "jordigh",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50463399,
+   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "domain": "youtube.com",
+   "score": 30,
+   "comments": 9,
+   "author": "envoked",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 17,
-   "story_id": 50440709,
-   "title": "Why get an expensive Pi when I have an old phone?",
-   "domain": "so.long.thanks.fish",
-   "score": 537,
-   "comments": 293,
-   "author": "casi",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50457979,
+   "title": "How to read codes from (many) IR remote controls with as little code as possible",
+   "domain": "bitbanksoftware.blogspot.com",
+   "score": 17,
+   "comments": 4,
+   "author": "speckx",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 18,
-   "story_id": 50497589,
-   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-   "domain": "github.com",
-   "score": 217,
-   "comments": 14,
-   "author": "VaibhaavTiwari",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50482279,
+   "title": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
+   "domain": "niklasroy.com",
+   "score": 34,
+   "comments": 1,
+   "author": "r0r0",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 19,
-   "story_id": 50475692,
-   "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
-   "domain": "boldentrance.com",
-   "score": 24,
-   "comments": 0,
-   "author": "CharlesW",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50474529,
+   "title": "Handwritten 200-year-old dismissal notice found on roof tile",
+   "domain": "bbc.co.uk",
+   "score": 51,
+   "comments": 32,
+   "author": "nephihaha",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 20,
-   "story_id": 50496811,
-   "title": "Advancing science and engineering with Antigravity's /teamwork",
-   "domain": "research.google",
-   "score": 189,
-   "comments": 40,
-   "author": "acossta",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50501594,
+   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+   "domain": "retrocomputing.stackexchange.com",
+   "score": 273,
+   "comments": 142,
+   "author": "Skyfall106",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 21,
-   "story_id": 50455732,
-   "title": "Oxford Molecular Motors",
-   "domain": "physics.ox.ac.uk",
-   "score": 34,
-   "comments": 5,
-   "author": "handfuloflight",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50503465,
+   "title": "My favourite modern NES games",
+   "domain": "jordi.inversethought.com",
+   "score": 166,
+   "comments": 23,
+   "author": "jordigh",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 22,
-   "story_id": 50496051,
-   "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-   "domain": "projectzero.google",
-   "score": 223,
-   "comments": 85,
-   "author": "hacb",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50452037,
+   "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+   "domain": "ardc.net",
+   "score": 56,
+   "comments": 5,
+   "author": "tejtm",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 23,
-   "story_id": 50441444,
-   "title": "Generative AI uses more energy on non-English text",
-   "domain": "news.umich.edu",
-   "score": 198,
-   "comments": 104,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50481056,
+   "title": "Strictly monotonic timestamps and gapless sequences in Rust",
+   "domain": "tsoracle.rs",
+   "score": 28,
+   "comments": 14,
+   "author": "znano",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 24,
-   "story_id": 50448895,
-   "title": "The Sicilian Citrus Family Tree",
-   "domain": "notesfromtheroad.com",
-   "score": 58,
-   "comments": 20,
-   "author": "wmchen",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50496976,
+   "title": "KDE: The documentary [video]",
+   "domain": "tube.kockatoo.org",
+   "score": 540,
+   "comments": 122,
+   "author": "mrkn1",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 25,
-   "story_id": 50453901,
-   "title": "Seagate's new hybrid drive raises some old questions",
-   "domain": "arstechnica.com",
-   "score": 91,
-   "comments": 41,
-   "author": "PaulHoule",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50499038,
+   "title": "A family tree of software job titles",
+   "domain": "zwischenzugs.com",
+   "score": 384,
+   "comments": 190,
+   "author": "umerf",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 26,
-   "story_id": 50502839,
-   "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-   "domain": "bobbiec.github.io",
-   "score": 27,
-   "comments": 5,
-   "author": "bobbiechen",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50504718,
+   "title": "Book list for streetfighting computer scientists",
+   "domain": "nick-black.com",
+   "score": 97,
+   "comments": 36,
+   "author": "num42",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 27,
-   "story_id": 50471874,
-   "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
-   "domain": "esquire.com",
-   "score": 133,
-   "comments": 76,
-   "author": "NaOH",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50484234,
+   "title": "Semicircle Packing",
+   "domain": "rorz.io",
+   "score": 69,
+   "comments": 8,
+   "author": "sarreph",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 28,
-   "story_id": 50467278,
-   "title": "Testing a trash can Faraday cage",
-   "domain": "jefftk.com",
-   "score": 72,
-   "comments": 57,
-   "author": "torutofu",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50504277,
+   "title": "Disk encryption on NetBSD \u2013 achieving secrecy",
+   "domain": "netbsd.org",
+   "score": 75,
+   "comments": 15,
+   "author": "jaypatelani",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 29,
-   "story_id": 50503588,
-   "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-   "domain": "wsj.com",
-   "score": 52,
-   "comments": 29,
-   "author": "lxm",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50440709,
+   "title": "Why get an expensive Pi when I have an old phone?",
+   "domain": "so.long.thanks.fish",
+   "score": 600,
+   "comments": 318,
+   "author": "casi",
+   "snapshot_at": "2026-11-15T16:23:38"
   },
   {
    "rank": 30,
-   "story_id": 50497132,
-   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-   "domain": "gitlab.com",
-   "score": 152,
-   "comments": 37,
-   "author": "snipedbywifi",
-   "snapshot_at": "2026-11-15T06:37:57"
+   "story_id": 50482222,
+   "title": "The Evolving Story of How Chemistry Became Biology",
+   "domain": "quantamagazine.org",
+   "score": 84,
+   "comments": 19,
+   "author": "pseudolus",
+   "snapshot_at": "2026-11-15T16:23:38"
   }
  ],
  "quality": {
@@ -658,10 +658,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 7724,
-   "fct_stories": 1988
+   "stg_snapshots": 7823,
+   "fct_stories": 2023
   },
-  "newest_snapshot_at": "2026-11-15T06:37:57+00:00",
+  "newest_snapshot_at": "2026-11-15T16:23:38+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
