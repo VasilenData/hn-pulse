@@ -7822,3 +7822,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-15T16:23:38+00:00,98,50491980,Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update,https://unsloth.ai/docs/models/qwen3.8,Retro_Dev,254,83,2026-11-14T00:06:04+00:00
 2026-11-15T16:23:38+00:00,99,50488470,Found: A protein that drives ageing without unleashing inflammation,https://www.nature.com/articles/d41586-026-03638-3,gumby,255,96,2026-11-13T19:25:21+00:00
 2026-11-15T16:23:38+00:00,100,50464467,Possible Futures,https://borretti.me/article/possible-futures,varjag,83,88,2026-11-12T08:21:51+00:00
+2026-11-15T22:51:29+00:00,1,50511395,Old Bitly Links Are Being Hijacked,https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/,hspeiser,24,12,2026-11-15T22:11:43+00:00
+2026-11-15T22:51:29+00:00,2,50509308,A short explainer on how El Niño works [video],https://www.youtube.com/watch?v=7_JF3etiAv8,nharada,130,41,2026-11-15T18:23:21+00:00
+2026-11-15T22:51:29+00:00,3,50510799,Your Agent Will Pick the Hackable One,https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/,tensafefrogs,49,29,2026-11-15T21:10:39+00:00
+2026-11-15T22:51:29+00:00,4,50509837,Protomaps: Self-hosting map tiles has gotten cheap and easy,https://bruceroettgers.eu/blog/protomaps/,bcye,66,14,2026-11-15T19:26:22+00:00
+2026-11-15T22:51:29+00:00,5,50509023,'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can,https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html,gumby,117,87,2026-11-15T17:53:31+00:00
+2026-11-15T22:51:29+00:00,6,50506719,The MacBook Pro's OLED PWM problem,https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/,MacAnorak,374,202,2026-11-15T13:15:22+00:00
+2026-11-15T22:51:29+00:00,7,50509972,"Handwriting, as a Font",https://ductus.sorenblank.com,coinfused,44,8,2026-11-15T19:42:13+00:00
+2026-11-15T22:51:29+00:00,8,50510296,WebGL Flight Simulator with seed generated terrain,https://baron.by.dai.studio/,ranger_danger,30,7,2026-11-15T20:20:05+00:00
+2026-11-15T22:51:29+00:00,9,50463399,Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video],https://www.youtube.com/watch?v=WPj3aQ-xxpI,envoked,280,148,2026-11-12T05:29:24+00:00
+2026-11-15T22:51:29+00:00,10,50509416,Eclipse Mosquitto – An open source MQTT broker,https://github.com/eclipse-mosquitto/mosquitto,gregsadetsky,52,19,2026-11-15T18:36:40+00:00
+2026-11-15T22:51:29+00:00,11,50509411,Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests,https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html,DeepLogin,275,139,2026-11-15T18:36:10+00:00
+2026-11-15T22:51:29+00:00,12,50506894,Things That Turbo Pascal Is Smaller Than (2011),https://prog21.dadgum.com/116.html,ksec,178,89,2026-11-15T13:44:16+00:00
+2026-11-15T22:51:29+00:00,13,50507553,Emacs Is My Browser,https://joshblais.com/blog/emacs-as-my-browser/,nyc111,161,81,2026-11-15T15:21:21+00:00
+2026-11-15T22:51:29+00:00,14,50506376,Understanding Positional Embeddings in Modern LLMs,https://magazine.sebastianraschka.com/p/understanding-positional-embeddings,vismit2000,184,23,2026-11-15T12:14:06+00:00
+2026-11-15T22:51:29+00:00,15,50510442,"Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch,jonbaer,61,22,2026-11-15T20:37:28+00:00
+2026-11-15T22:51:29+00:00,16,50508715,Clice v1.0 Released: Welcome to Modern C++,https://ykiko.me/en/articles/2105384023094834022/,molenzwiebel,68,43,2026-11-15T17:22:32+00:00
+2026-11-15T22:51:29+00:00,17,50452621,Notes on Mathematics for Engineers (1959) [pdf],https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf,the-mitr,59,15,2026-11-11T12:25:42+00:00
+2026-11-15T22:51:29+00:00,18,50465522,Aspidistra: A British wartime radio transmitter used for MitM attacks,https://en.wikipedia.org/wiki/Aspidistra_(transmitter),BoxOfRain,10,0,2026-11-12T10:58:00+00:00
+2026-11-15T22:51:29+00:00,19,50492012,Keylogger Detection and Containment [pdf],https://www.cs.vu.nl/~ast/Theses/ortolani-thesis.pdf,movsx,4,1,2026-11-14T00:10:15+00:00
+2026-11-15T22:51:29+00:00,20,50465676,Eval Awareness vs. Eval Paranoia,https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia,ezrasu,38,17,2026-11-12T11:23:02+00:00
+2026-11-15T22:51:29+00:00,21,50507303,All AI-generated code should be Open Source,https://jakub.jankiewicz.org/blog/ai-code-open-source/,jcubic,1015,563,2026-11-15T14:46:58+00:00
+2026-11-15T22:51:29+00:00,22,50505271,Why did some Apollo missions carry a grenade launcher? (2019),https://space.stackexchange.com/questions/37775,Skyfall106,213,141,2026-11-15T09:06:43+00:00
+2026-11-15T22:51:29+00:00,23,50511072,"Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/,rexbee,21,9,2026-11-15T21:38:11+00:00
+2026-11-15T22:51:29+00:00,24,50488916,Your room can be as bright as the outdoors (2019),https://www.benkuhn.net/lux/,mday404,64,41,2026-11-13T20:05:20+00:00
+2026-11-15T22:51:29+00:00,25,50468445,Bullet Dodged,https://idiotking.org/archives/2026/10/bullet-dodged-3/,surprisetalk,35,28,2026-11-12T15:00:11+00:00
+2026-11-15T22:51:29+00:00,26,50506588,A NES emulator written in Odin,https://lucypero.com/lucynes.html,frostbyte7,97,34,2026-11-15T12:51:47+00:00
+2026-11-15T22:51:29+00:00,27,50500963,SpaceX catches the Starship to end Flight 15,https://www.spacex.com/launches/starship-flight-15,ls612,1617,1190,2026-11-14T21:22:24+00:00
+2026-11-15T22:51:29+00:00,28,50467539,20 Years of Pyrolog,https://pypy.org/posts/2026/11/20-years-of-pyrolog.html,lumpa,66,4,2026-11-12T14:15:28+00:00
+2026-11-15T22:51:29+00:00,29,50481321,What thousands of conversations look like inside a language model,https://operator0x.com/field-notes/qwen-conversation-state-space/,josip208,104,29,2026-11-13T10:26:01+00:00
+2026-11-15T22:51:29+00:00,30,50510005,"Do House members' stock trades beat the market? A test of 8,900 trades",https://arkanumdata.com/research/house-trades,Bluestein,92,98,2026-11-15T19:46:02+00:00
+2026-11-15T22:51:29+00:00,31,50510042,"Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",,snirgbs,34,8,2026-11-15T19:49:28+00:00
+2026-11-15T22:51:29+00:00,32,50506180,Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business,https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html,JumpCrisscross,440,190,2026-11-15T11:40:51+00:00
+2026-11-15T22:51:29+00:00,33,50501594,How did Woz write the Apple 1 BASIC before building the computer? (2021),https://retrocomputing.stackexchange.com/questions/17957,Skyfall106,308,162,2026-11-14T22:22:49+00:00
+2026-11-15T22:51:29+00:00,34,50475759,Chasing an audio artifact on power loss,https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/,ireflect,52,7,2026-11-12T23:11:25+00:00
+2026-11-15T22:51:29+00:00,35,50499017,Lovable apps expose passport details and more than 200K private messages,https://www.crissyfield.de/research/lovable-en/,armcat,970,368,2026-11-14T17:43:10+00:00
+2026-11-15T22:51:29+00:00,36,50502988,Court denies motion to dismiss DRAM price fixing case,https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal,ybathaee,481,212,2026-11-15T01:18:36+00:00
+2026-11-15T22:51:29+00:00,37,50503465,My favourite modern NES games,https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/,jordigh,197,39,2026-11-15T02:41:25+00:00
+2026-11-15T22:51:29+00:00,38,50457979,How to read codes from (many) IR remote controls with as little code as possible,https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html,speckx,57,9,2026-11-11T20:09:34+00:00
+2026-11-15T22:51:29+00:00,39,50474529,Handwritten 200-year-old dismissal notice found on roof tile,https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o,nephihaha,75,48,2026-11-12T21:27:01+00:00
+2026-11-15T22:51:29+00:00,40,50501887,How the Telephone Changed the World,https://lithub.com/how-the-telephone-changed-the-world/,NaOH,47,32,2026-11-14T22:56:09+00:00
+2026-11-15T22:51:29+00:00,41,50504277,Disk encryption on NetBSD – achieving secrecy,https://netbsd.org/~nia/disk-encrypt/,jaypatelani,91,17,2026-11-15T05:29:54+00:00
+2026-11-15T22:51:29+00:00,42,50452037,Open-Source HF Communications for Remote Communities and Experimenters,https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/,tejtm,78,12,2026-11-11T11:11:22+00:00
+2026-11-15T22:51:29+00:00,43,50506940,"Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",https://github.com/db-branch/db-branch,nu_nu11,28,7,2026-11-15T13:50:51+00:00
+2026-11-15T22:51:29+00:00,44,50482279,Show HN: Carton Clock – A working pendulum clock made from empty drink cartons,https://www.niklasroy.com/carton-clock/,r0r0,73,2,2026-11-13T12:00:18+00:00
+2026-11-15T22:51:29+00:00,45,50484234,Semicircle Packing,https://rorz.io/writing/semicircle-packing,sarreph,98,10,2026-11-13T14:42:57+00:00
+2026-11-15T22:51:29+00:00,46,50482222,The Evolving Story of How Chemistry Became Biology,https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/,pseudolus,101,25,2026-11-13T11:55:19+00:00
+2026-11-15T22:51:29+00:00,47,50510843,NoisyTCP,https://twitter.com/v4bel/status/2122006607378972745,george_max,11,3,2026-11-15T21:15:50+00:00
+2026-11-15T22:51:29+00:00,48,50504718,Book list for streetfighting computer scientists,https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists,num42,122,41,2026-11-15T07:08:50+00:00
+2026-11-15T22:51:29+00:00,49,50483431,500 Lines or Less A 3D Modeller,https://aosabook.org/en/500L/a-3d-modeller.html,myth_drannon,97,19,2026-11-13T13:47:42+00:00
+2026-11-15T22:51:29+00:00,50,50481056,Strictly monotonic timestamps and gapless sequences in Rust,https://tsoracle.rs/,znano,38,15,2026-11-13T10:04:37+00:00
+2026-11-15T22:51:29+00:00,51,50474883,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,https://unemploymentlabs.com/checkpoint-forensics,firloop,430,181,2026-11-12T21:56:11+00:00
+2026-11-15T22:51:29+00:00,52,50503255,We're Asking an Appeals Court to Require a Warrant for ALPR Searches,https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches,nobody9999,332,109,2026-11-15T02:00:54+00:00
+2026-11-15T22:51:29+00:00,53,50507791,'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story,https://www.commondreams.org/news/duffy-ground-stop-explanation,mikestew,133,39,2026-11-15T15:45:42+00:00
+2026-11-15T22:51:29+00:00,54,50509967,ULA suffers first total mission failure with loss of Vulcan rocket carrying 40 A,https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/,bookmtn,14,1,2026-11-15T19:41:26+00:00
+2026-11-15T22:51:29+00:00,55,50448895,The Sicilian Citrus Family Tree,https://www.notesfromtheroad.com/europa/citrus-family-tree.html,wmchen,110,39,2026-11-11T01:52:00+00:00
+2026-11-15T22:51:29+00:00,56,50506767,Abyssal Garden: A dreamy underwater world you can swim through (96 KB HTML),https://github.com/Noniv/abyssal-garden,soheilpro,26,1,2026-11-15T13:24:33+00:00
+2026-11-15T22:51:29+00:00,57,50499038,A family tree of software job titles,https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/,umerf,431,205,2026-11-14T17:45:19+00:00
+2026-11-15T22:51:29+00:00,58,50467278,Testing a trash can Faraday cage,https://www.jefftk.com/p/testing-a-trash-can-faraday-cage,torutofu,91,66,2026-11-12T14:04:27+00:00
+2026-11-15T22:51:29+00:00,59,50509779,Email addresses used in Euro school bomb hoaxes spotted in old infostealer logs,https://www.theregister.com/cyber-crime/2026/11/13/email-addresses-used-in-european-school-bomb-hoaxes-spotted-in-old-infostealer-logs/5309765,nephihaha,8,0,2026-11-15T19:19:42+00:00
+2026-11-15T22:51:29+00:00,60,50497416,Demystifying phone unlocking tools: A technical overview,https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/,iloveyoutwo,140,17,2026-11-14T14:44:28+00:00
+2026-11-15T22:51:29+00:00,61,50496976,KDE: The documentary [video],https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c,mrkn1,557,131,2026-11-14T13:43:28+00:00
+2026-11-15T22:51:29+00:00,62,50453901,Seagate's new hybrid drive raises some old questions,https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/,PaulHoule,102,58,2026-11-11T14:32:09+00:00
+2026-11-15T22:51:29+00:00,63,50440709,Why get an expensive Pi when I have an old phone?,https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/,casi,614,320,2026-11-10T14:16:05+00:00
+2026-11-15T22:51:29+00:00,64,50507716,Uber confirms hackers stole drivers' license information in breach,https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/,gnabgib,34,3,2026-11-15T15:37:19+00:00
+2026-11-15T22:51:29+00:00,65,50475692,Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt,https://boldentrance.com/astro-spiral-the-greatest-car-stunt/,CharlesW,52,12,2026-11-12T23:04:23+00:00
+2026-11-15T22:51:29+00:00,66,50497132,"Show HN: A terminal-native idle factory game, written in Rust with ratatui",https://gitlab.com/snipedbywifi/terminactory,snipedbywifi,164,40,2026-11-14T14:05:54+00:00
+2026-11-15T22:51:29+00:00,67,50455732,Oxford Molecular Motors,https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor,handfuloflight,73,18,2026-11-11T17:06:08+00:00
+2026-11-15T22:51:29+00:00,68,50510215,Repurposing Thin Clients,https://www.parkytowers.me.uk/thin/,rbanffy,6,1,2026-11-15T20:10:28+00:00
+2026-11-15T22:51:29+00:00,69,50471874,"'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/,NaOH,165,100,2026-11-12T18:28:06+00:00
+2026-11-15T22:51:29+00:00,70,50416011,Reverse engineering a vintage diode-transistor logic chip,https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html,dverlaeckt80,118,9,2026-11-08T19:03:48+00:00
+2026-11-15T22:51:29+00:00,71,50503930,"Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",https://github.com/Tthanh2k6/turbo-browser-mcp,tthanh2k6,46,9,2026-11-15T04:09:11+00:00
+2026-11-15T22:51:29+00:00,72,50502839,Show HN: A custom font based on the Jamaican flag alphabet,https://bobbiec.github.io/jamaican-font.html,bobbiechen,53,7,2026-11-15T00:56:45+00:00
+2026-11-15T22:51:29+00:00,73,50509465,Vulcan vehicle suffered an anomaly 10 minutes into the flight,https://twitter.com/ulalaunch/status/2122034531658076417,logifail,12,4,2026-11-15T18:41:57+00:00
+2026-11-15T22:51:29+00:00,74,50496885,A visual explanation of reinforcement learning,https://aatishb.com/myriad/how-brains-learn/,aatish,160,9,2026-11-14T13:31:06+00:00
+2026-11-15T22:51:29+00:00,75,50509754,Argentina's austerity-hit economy reels towards recession,https://www.reuters.com/world/americas/argentinas-austerity-hit-economy-reels-towards-recession-testing-milei-ahead-2026-11-02/,doener,5,0,2026-11-15T19:15:42+00:00
+2026-11-15T22:51:29+00:00,77,50497892,PyPI's redesigned project pages with clearer security signals are now live,https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/,rbanffy,271,129,2026-11-14T15:40:52+00:00
+2026-11-15T22:51:29+00:00,78,50510157,Ethiopia Banned Petrol Cars but Climate Was Never the Real Story,https://www.energytransitionafrica.com/insights/article/ethiopia-ev-ban-explainer-africa-energy-transition-2026,e12e,9,0,2026-11-15T20:03:23+00:00
+2026-11-15T22:51:29+00:00,79,50443331,"A rare glimpse inside the high-risk, high-reward Hormuz trade",https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade,everybodyknows,103,91,2026-11-10T17:21:48+00:00
+2026-11-15T22:51:29+00:00,80,50496051,Project Zero will disclose vulnerabilities 90 days after reporting,https://projectzero.google/2026/11/disclosure-policy.html,hacb,304,185,2026-11-14T11:13:17+00:00
+2026-11-15T22:51:29+00:00,81,50509953,Parents pay $75k for Alpha's AI school. Half of its students missed math target,https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/,vrganj,56,59,2026-11-15T19:39:46+00:00
+2026-11-15T22:51:29+00:00,82,50510309,1561 Celestial Phenomenon over Nuremberg,https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg,baxtr,4,1,2026-11-15T20:21:16+00:00
+2026-11-15T22:51:29+00:00,83,50499723,"LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379,gnabgib,281,174,2026-11-14T18:56:47+00:00
+2026-11-15T22:51:29+00:00,84,50509883,Jensen Huang discusses comeback as Nvidia CEO with allies,https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1,eyalitki,82,73,2026-11-15T19:31:11+00:00
+2026-11-15T22:51:29+00:00,85,50508089,Ask HN: What does building hardware with AI look like?,,mjs06,5,0,2026-11-15T16:17:53+00:00
+2026-11-15T22:51:29+00:00,86,50441444,Generative AI uses more energy on non-English text,https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/,DeepLogin,231,124,2026-11-10T15:07:28+00:00
+2026-11-15T22:51:29+00:00,87,50493062,Ggml v1.0.0,https://github.com/ggml-org/ggml/releases/tag/v1.0.0,cobychapple,415,68,2026-11-14T02:28:29+00:00
+2026-11-15T22:51:29+00:00,88,50493904,Monkey Island: all 13 versions side by side,https://monkeyisland.pages.dev/,maximilianburke,500,156,2026-11-14T04:23:30+00:00
+2026-11-15T22:51:29+00:00,89,50497589,Show HN: DeepSeek V3 in ~200 lines of pure Jax,https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax,VaibhaavTiwari,271,27,2026-11-14T15:04:15+00:00
+2026-11-15T22:51:29+00:00,90,50497137,Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6),https://github.com/FURSOY/fursoy-cpu,fursoy,84,36,2026-11-14T14:06:34+00:00
+2026-11-15T22:51:29+00:00,91,50496811,Advancing science and engineering with Antigravity's /teamwork,https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/,acossta,212,49,2026-11-14T13:20:43+00:00
+2026-11-15T22:51:29+00:00,92,50511459,Eric Trump-backed robot soldier startup can't pay staff; founder embezzled $4.6M,https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html,mikhael,6,0,2026-11-15T22:21:08+00:00
+2026-11-15T22:51:29+00:00,93,50506978,Amiga Studio: IDE for making games and apps for Amiga and C64 in assembler or C,https://piershaw.itch.io/amiga-studio-ide,doener,18,1,2026-11-15T13:57:43+00:00
+2026-11-15T22:51:29+00:00,94,50498073,How to Create Your Own Decentralized Messenger Protocol,https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol,fagnerbrack,83,18,2026-11-14T16:01:04+00:00
+2026-11-15T22:51:29+00:00,95,50503097,Show HN: Umbrella – macOS app to capture audio from any app,https://umbrella.pixelegg.me/,threcius,26,9,2026-11-15T01:35:20+00:00
+2026-11-15T22:51:29+00:00,96,50474959,Reverse engineering my Coway air purifier to ditch the cloud,https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/,scottjg,794,224,2026-11-12T22:03:09+00:00
+2026-11-15T22:51:29+00:00,97,50509869,"Ten years, thousands of staff, and a billion dollars: inside Grand Theft Auto VI",https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games,JSR_FDED,3,0,2026-11-15T19:29:44+00:00
+2026-11-15T22:51:29+00:00,98,50497147,Show HN: Agweb – a browser for agents that stays out of your way,https://github.com/paul-nameless/agweb,paul_nameless,107,36,2026-11-14T14:08:12+00:00
+2026-11-15T22:51:29+00:00,99,50503241,What a task costs on Opus 5.5,https://claude.dev/blog/what-a-task-costs-on-opus-5-5/,gmays,23,20,2026-11-15T01:57:36+00:00
+2026-11-15T22:51:29+00:00,100,50478701,Memory Safety Bugs in Rust Standard Library,https://forge-blog.github.io/posts/rust-std-memory-safety/,pjmlp,187,190,2026-11-13T05:22:08+00:00
