@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:55:55+00:00",
+ "generated_at": "2026-11-17T16:04:58+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -136,30 +136,36 @@
   },
   {
    "day": "2026-11-17",
-   "snapshots": 1,
-   "distinct_stories": 100,
-   "avg_score": 181.8,
-   "avg_comments": 92.0
+   "snapshots": 2,
+   "distinct_stories": 143,
+   "avg_score": 199.5,
+   "avg_comments": 105.0
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 164,
-   "avg_peak_score": 140.3,
-   "total_comments": 8246
+   "stories": 168,
+   "avg_peak_score": 138.2,
+   "total_comments": 8344
+  },
+  {
+   "domain": "nytimes.com",
+   "stories": 38,
+   "avg_peak_score": 191.0,
+   "total_comments": 3398
   },
   {
    "domain": "twitter.com",
    "stories": 37,
-   "avg_peak_score": 118.3,
-   "total_comments": 2512
+   "avg_peak_score": 124.1,
+   "total_comments": 2594
   },
   {
-   "domain": "nytimes.com",
-   "stories": 36,
-   "avg_peak_score": 183.9,
-   "total_comments": 3071
+   "domain": "reuters.com",
+   "stories": 31,
+   "avg_peak_score": 102.7,
+   "total_comments": 2093
   },
   {
    "domain": "theguardian.com",
@@ -168,28 +174,16 @@
    "total_comments": 1953
   },
   {
-   "domain": "reuters.com",
-   "stories": 29,
-   "avg_peak_score": 106.1,
-   "total_comments": 2042
-  },
-  {
    "domain": "arstechnica.com",
    "stories": 27,
-   "avg_peak_score": 105.4,
-   "total_comments": 2018
+   "avg_peak_score": 110.1,
+   "total_comments": 2134
   },
   {
    "domain": "youtube.com",
    "stories": 19,
-   "avg_peak_score": 97.6,
-   "total_comments": 1303
-  },
-  {
-   "domain": "tomshardware.com",
-   "stories": 16,
-   "avg_peak_score": 92.3,
-   "total_comments": 563
+   "avg_peak_score": 98.5,
+   "total_comments": 1308
   },
   {
    "domain": "bbc.com",
@@ -200,8 +194,14 @@
   {
    "domain": "wired.com",
    "stories": 15,
-   "avg_peak_score": 315.7,
-   "total_comments": 3426
+   "avg_peak_score": 317.3,
+   "total_comments": 3446
+  },
+  {
+   "domain": "tomshardware.com",
+   "stories": 15,
+   "avg_peak_score": 68.3,
+   "total_comments": 412
   },
   {
    "domain": "bloomberg.com",
@@ -212,8 +212,8 @@
   {
    "domain": "theregister.com",
    "stories": 14,
-   "avg_peak_score": 96.9,
-   "total_comments": 810
+   "avg_peak_score": 108.4,
+   "total_comments": 934
   },
   {
    "domain": "arxiv.org",
@@ -237,98 +237,98 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 64,
-   "avg_peak_score": 99.6
+   "stories": 65,
+   "avg_peak_score": 103.5
   },
   {
    "posted_hour_utc": 1,
-   "stories": 59,
-   "avg_peak_score": 112.6
+   "stories": 60,
+   "avg_peak_score": 114.2
   },
   {
    "posted_hour_utc": 2,
-   "stories": 65,
-   "avg_peak_score": 120.9
+   "stories": 66,
+   "avg_peak_score": 123.1
   },
   {
    "posted_hour_utc": 3,
-   "stories": 60,
-   "avg_peak_score": 84.7
+   "stories": 61,
+   "avg_peak_score": 83.7
   },
   {
    "posted_hour_utc": 4,
    "stories": 46,
-   "avg_peak_score": 103.2
+   "avg_peak_score": 104.7
   },
   {
    "posted_hour_utc": 5,
-   "stories": 45,
-   "avg_peak_score": 102.6
+   "stories": 46,
+   "avg_peak_score": 102.2
   },
   {
    "posted_hour_utc": 6,
    "stories": 31,
-   "avg_peak_score": 140.6
+   "avg_peak_score": 141.1
   },
   {
    "posted_hour_utc": 7,
-   "stories": 44,
-   "avg_peak_score": 210.8
+   "stories": 46,
+   "avg_peak_score": 205.7
   },
   {
    "posted_hour_utc": 8,
-   "stories": 32,
-   "avg_peak_score": 121.4
+   "stories": 33,
+   "avg_peak_score": 118.2
   },
   {
    "posted_hour_utc": 9,
-   "stories": 46,
-   "avg_peak_score": 145.9
+   "stories": 47,
+   "avg_peak_score": 143.3
   },
   {
    "posted_hour_utc": 10,
-   "stories": 51,
-   "avg_peak_score": 204.0
+   "stories": 53,
+   "avg_peak_score": 199.0
   },
   {
    "posted_hour_utc": 11,
-   "stories": 73,
-   "avg_peak_score": 160.5
+   "stories": 75,
+   "avg_peak_score": 166.1
   },
   {
    "posted_hour_utc": 12,
-   "stories": 83,
-   "avg_peak_score": 221.2
+   "stories": 84,
+   "avg_peak_score": 219.8
   },
   {
    "posted_hour_utc": 13,
-   "stories": 97,
-   "avg_peak_score": 192.6
+   "stories": 101,
+   "avg_peak_score": 192.1
   },
   {
    "posted_hour_utc": 14,
-   "stories": 153,
-   "avg_peak_score": 154.5
+   "stories": 158,
+   "avg_peak_score": 152.5
   },
   {
    "posted_hour_utc": 15,
-   "stories": 186,
-   "avg_peak_score": 132.8
+   "stories": 195,
+   "avg_peak_score": 128.6
   },
   {
    "posted_hour_utc": 16,
    "stories": 150,
-   "avg_peak_score": 138.6
+   "avg_peak_score": 140.4
   },
   {
    "posted_hour_utc": 17,
-   "stories": 158,
-   "avg_peak_score": 161.9
+   "stories": 161,
+   "avg_peak_score": 161.2
   },
   {
    "posted_hour_utc": 18,
-   "stories": 151,
-   "avg_peak_score": 183.6
+   "stories": 152,
+   "avg_peak_score": 183.4
   },
   {
    "posted_hour_utc": 19,
@@ -338,324 +338,324 @@
   {
    "posted_hour_utc": 20,
    "stories": 130,
-   "avg_peak_score": 104.2
+   "avg_peak_score": 115.5
   },
   {
    "posted_hour_utc": 21,
-   "stories": 125,
-   "avg_peak_score": 158.9
+   "stories": 126,
+   "avg_peak_score": 163.2
   },
   {
    "posted_hour_utc": 22,
-   "stories": 104,
-   "avg_peak_score": 146.3
+   "stories": 105,
+   "avg_peak_score": 149.1
   },
   {
    "posted_hour_utc": 23,
-   "stories": 79,
-   "avg_peak_score": 133.5
+   "stories": 80,
+   "avg_peak_score": 138.8
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50522980,
-   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-   "domain": "cs.cmu.edu",
-   "score": 906,
-   "comments": 144,
-   "author": "pcompeau",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50532086,
+   "title": "We don't need more apps. We need better open source",
+   "domain": "jordankrueger.com",
+   "score": 176,
+   "comments": 86,
+   "author": "pandemicsoul",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 2,
-   "story_id": 50524736,
-   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-   "domain": "xusheng.dev",
-   "score": 330,
-   "comments": 199,
-   "author": "cwaffles",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50531761,
+   "title": "Loopholes Are for Assholes",
+   "domain": "actsofvolition.com",
+   "score": 93,
+   "comments": 50,
+   "author": "speckx",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 3,
-   "story_id": 50523601,
-   "title": "BugMeNot has closed",
-   "domain": "bugmenot.com",
-   "score": 381,
-   "comments": 192,
-   "author": "lode",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50532385,
+   "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+   "domain": "alloyhtml.com",
+   "score": 31,
+   "comments": 5,
+   "author": "prafandy",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 4,
-   "story_id": 50526152,
-   "title": "Running coding agents without handing them my credentials",
-   "domain": "blog.antonio.cx",
-   "score": 51,
-   "comments": 20,
-   "author": "antoniomika",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50530163,
+   "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+   "domain": "nytimes.com",
+   "score": 619,
+   "comments": 316,
+   "author": "donohoe",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 5,
-   "story_id": 50524767,
-   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-   "domain": "blog.report-uri.com",
-   "score": 159,
-   "comments": 83,
-   "author": "kristjansson",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50518328,
+   "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+   "domain": "nautil.us",
+   "score": 44,
+   "comments": 9,
+   "author": "dustfinger",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 6,
-   "story_id": 50526560,
-   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-   "domain": "support.apple.com",
-   "score": 27,
-   "comments": 13,
-   "author": "jshier",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50522980,
+   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+   "domain": "cs.cmu.edu",
+   "score": 2000,
+   "comments": 272,
+   "author": "pcompeau",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 7,
-   "story_id": 50523459,
-   "title": "OpenCode Browse",
-   "domain": "opencode.ai",
-   "score": 154,
-   "comments": 70,
-   "author": "mfiguiere",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50532191,
+   "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+   "domain": "runta.com",
+   "score": 19,
+   "comments": 2,
+   "author": "Edward40",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 8,
-   "story_id": 50522643,
-   "title": "Chemistry is Actually Geometry",
-   "domain": "chillphysicsenjoyer.substack.com",
-   "score": 144,
-   "comments": 68,
-   "author": "sebg",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50511874,
+   "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+   "domain": "visualbasic.world",
+   "score": 155,
+   "comments": 57,
+   "author": "broast",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 9,
-   "story_id": 50519354,
-   "title": "Frame \u2013 31.5\" color ePaper display",
-   "domain": "trmnl.com",
-   "score": 333,
-   "comments": 236,
-   "author": "geerlingguy",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50470523,
+   "title": "Rows vs. Columns: How different are they, really?",
+   "domain": "spiraldb.com",
+   "score": 88,
+   "comments": 34,
+   "author": "eatonphil",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 10,
-   "story_id": 50526537,
-   "title": "Mem Is Shutting Down",
-   "domain": "get.mem.ai",
-   "score": 21,
-   "comments": 20,
-   "author": "qainsights",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50532315,
+   "title": "Pentagon fails 9th financial audit in a row",
+   "domain": "thehill.com",
+   "score": 55,
+   "comments": 31,
+   "author": "zootedjordan",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 11,
-   "story_id": 50519744,
-   "title": "Jiff 1.0: A datetime library for Rust",
-   "domain": "burntsushi.net",
-   "score": 333,
-   "comments": 77,
-   "author": "burntsushi",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50532849,
+   "title": "Highly classified US national security communications network goes down",
+   "domain": "cnn.com",
+   "score": 27,
+   "comments": 5,
+   "author": "monkeydust",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 12,
-   "story_id": 50524225,
-   "title": "How to Break into Security, Ptacek Edition (2012)",
-   "domain": "krebsonsecurity.com",
-   "score": 88,
-   "comments": 21,
-   "author": "ronfriedhaber",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50524767,
+   "title": "Optimizely compromised, served malware on Zoom, GitLab",
+   "domain": "blog.report-uri.com",
+   "score": 527,
+   "comments": 209,
+   "author": "kristjansson",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 13,
-   "story_id": 50497621,
-   "title": "Formal Verification Is Not Verifiable",
-   "domain": "alperenkeles.com",
-   "score": 83,
-   "comments": 21,
-   "author": "zdw",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50509456,
+   "title": "Turbo Pascal Compiler Written in Turbo Pascal",
+   "domain": "turbo51.com",
+   "score": 61,
+   "comments": 25,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 14,
-   "story_id": 50520182,
-   "title": "Grazing sheep in fields with solar arrays",
-   "domain": "news.cornell.edu",
-   "score": 234,
-   "comments": 233,
-   "author": "PaulHoule",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50531751,
+   "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+   "domain": "scmp.com",
+   "score": 117,
+   "comments": 121,
+   "author": "larrysalibra",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 15,
-   "story_id": 50516689,
-   "title": "Do Repeat Yourself",
-   "domain": "arcentry.com",
-   "score": 44,
-   "comments": 14,
-   "author": "max_sendfeld",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50523601,
+   "title": "BugMeNot has closed",
+   "domain": "bugmenot.com",
+   "score": 662,
+   "comments": 298,
+   "author": "lode",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 16,
-   "story_id": 50521045,
-   "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-   "domain": "apnews.com",
-   "score": 735,
-   "comments": 609,
-   "author": "samk3nny",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50515603,
+   "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
+   "domain": "github.com",
+   "score": 21,
+   "comments": 1,
+   "author": "gdcbe",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 17,
-   "story_id": 50514680,
-   "title": "Atomic Nuked Veteran",
-   "domain": "armscontrolwonk.com",
-   "score": 27,
-   "comments": 5,
-   "author": "hubraumhugo",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50497656,
+   "title": "Too Many Stadiums with Roofs",
+   "domain": "sharptext.net",
+   "score": 29,
+   "comments": 25,
+   "author": "colinprince",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 18,
-   "story_id": 50526621,
-   "title": "The most expensive bargaining chip in history",
-   "domain": "unrelatedfindings.com",
-   "score": 9,
-   "comments": 6,
-   "author": "vext_cwm_fly",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50532786,
+   "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+   "domain": "nytimes.com",
+   "score": 17,
+   "comments": 7,
+   "author": "doener",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 19,
-   "story_id": 50515151,
-   "title": "Squircles",
-   "domain": "linebender.org",
-   "score": 148,
-   "comments": 45,
-   "author": "raphlinus",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50512779,
+   "title": "Nimony: A New Compiler for Nim",
+   "domain": "nimony.org",
+   "score": 136,
+   "comments": 66,
+   "author": "Fervicus",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 20,
-   "story_id": 50525052,
-   "title": "Show HN: Sutra-OS \u2013 A self-hosted ontology platform",
-   "domain": "github.com",
-   "score": 41,
-   "comments": 16,
-   "author": "0nelight",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50529612,
+   "title": "How the Claude Code team thinks about verification",
+   "domain": "claude.dev",
+   "score": 126,
+   "comments": 128,
+   "author": "craigmart",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 21,
-   "story_id": 50507870,
-   "title": "New open source C4 Diagram tool",
-   "domain": "youtube.com",
-   "score": 24,
-   "comments": 6,
-   "author": "oliveralbertini",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50526560,
+   "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+   "domain": "support.apple.com",
+   "score": 192,
+   "comments": 103,
+   "author": "jshier",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 22,
-   "story_id": 50517321,
-   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-   "domain": "theregister.com",
-   "score": 246,
-   "comments": 178,
-   "author": "Bender",
-   "snapshot_at": "2026-11-17T03:55:48"
-  },
-  {
-   "rank": 23,
    "story_id": 50525575,
    "title": "Why 3dfx 1 cards had such a washed out color output?",
    "domain": "twitter.com",
-   "score": 20,
-   "comments": 0,
+   "score": 235,
+   "comments": 82,
    "author": "mfiguiere",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "snapshot_at": "2026-11-17T16:04:52"
+  },
+  {
+   "rank": 23,
+   "story_id": 50522643,
+   "title": "Chemistry is Actually Geometry",
+   "domain": "chillphysicsenjoyer.substack.com",
+   "score": 293,
+   "comments": 125,
+   "author": "sebg",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 24,
-   "story_id": 50522776,
-   "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
-   "domain": "news.ycombinator.com",
-   "score": 31,
-   "comments": 11,
-   "author": "arshpatankar",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50523025,
+   "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+   "domain": "arstechnica.com",
+   "score": 210,
+   "comments": 180,
+   "author": "jaredwiener",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 25,
-   "story_id": 50522563,
-   "title": "Rust changed me as a developer",
-   "domain": "blog.startifact.com",
-   "score": 208,
-   "comments": 132,
-   "author": "speckx",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50519354,
+   "title": "Frame \u2013 31.5\" color ePaper display",
+   "domain": "trmnl.com",
+   "score": 492,
+   "comments": 353,
+   "author": "geerlingguy",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 26,
-   "story_id": 50523291,
-   "title": "My Quest to push native Three.js quality match AAA Game Engines",
-   "domain": "ben3d.ca",
-   "score": 106,
-   "comments": 42,
-   "author": "bhouston",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50531484,
+   "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+   "domain": "apnews.com",
+   "score": 50,
+   "comments": 52,
+   "author": "parksb",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 27,
-   "story_id": 50524165,
-   "title": "United Airlines experiencing a widespread system outage, airline says",
-   "domain": "cnn.com",
-   "score": 203,
-   "comments": 106,
-   "author": "bearsyankees",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50517321,
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "domain": "theregister.com",
+   "score": 407,
+   "comments": 302,
+   "author": "Bender",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 28,
-   "story_id": 50525658,
-   "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-   "domain": "reuters.com",
-   "score": 67,
-   "comments": 15,
-   "author": "petethomas",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50519744,
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "domain": "burntsushi.net",
+   "score": 419,
+   "comments": 91,
+   "author": "burntsushi",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 29,
-   "story_id": 50520270,
-   "title": "Aristotle Expands into Rust",
-   "domain": "harmonic.fun",
-   "score": 109,
-   "comments": 57,
-   "author": "maufl",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50520182,
+   "title": "Grazing sheep in fields with solar arrays",
+   "domain": "news.cornell.edu",
+   "score": 311,
+   "comments": 313,
+   "author": "PaulHoule",
+   "snapshot_at": "2026-11-17T16:04:52"
   },
   {
    "rank": 30,
-   "story_id": 50526527,
-   "title": "Show HN: A free interactive course on AI agent governance",
-   "domain": "studio.sinapsdata.com.br",
-   "score": 11,
-   "comments": 5,
-   "author": "sadrk",
-   "snapshot_at": "2026-11-17T03:55:48"
+   "story_id": 50517602,
+   "title": "What is w2rt6byl5nf1opmc-a.com?",
+   "domain": "jack.cab",
+   "score": 390,
+   "comments": 155,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-11-17T16:04:52"
   }
  ],
  "quality": {
@@ -672,10 +672,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 8122,
-   "fct_stories": 2181
+   "stg_snapshots": 8222,
+   "fct_stories": 2220
   },
-  "newest_snapshot_at": "2026-11-17T03:55:48+00:00",
+  "newest_snapshot_at": "2026-11-17T16:04:52+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
