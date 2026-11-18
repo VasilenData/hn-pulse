@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:59:14+00:00",
+ "generated_at": "2026-11-18T11:47:28+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -143,18 +143,18 @@
   },
   {
    "day": "2026-11-18",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 207.0,
-   "avg_comments": 102.8
+   "snapshots": 2,
+   "distinct_stories": 139,
+   "avg_score": 209.6,
+   "avg_comments": 100.0
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 171,
-   "avg_peak_score": 138.2,
-   "total_comments": 8508
+   "stories": 175,
+   "avg_peak_score": 137.4,
+   "total_comments": 8617
   },
   {
    "domain": "twitter.com",
@@ -165,8 +165,8 @@
   {
    "domain": "nytimes.com",
    "stories": 38,
-   "avg_peak_score": 204.9,
-   "total_comments": 3657
+   "avg_peak_score": 207.4,
+   "total_comments": 3704
   },
   {
    "domain": "reuters.com",
@@ -188,15 +188,15 @@
   },
   {
    "domain": "youtube.com",
-   "stories": 19,
-   "avg_peak_score": 98.5,
-   "total_comments": 1308
+   "stories": 20,
+   "avg_peak_score": 94.5,
+   "total_comments": 1328
   },
   {
    "domain": "arxiv.org",
-   "stories": 17,
-   "avg_peak_score": 87.3,
-   "total_comments": 408
+   "stories": 20,
+   "avg_peak_score": 77.3,
+   "total_comments": 447
   },
   {
    "domain": "bbc.com",
@@ -231,8 +231,8 @@
   {
    "domain": "openai.com",
    "stories": 13,
-   "avg_peak_score": 285.2,
-   "total_comments": 2537
+   "avg_peak_score": 302.6,
+   "total_comments": 2662
   },
   {
    "domain": "wsj.com",
@@ -244,63 +244,63 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 67,
-   "avg_peak_score": 101.4
+   "stories": 69,
+   "avg_peak_score": 111.0
   },
   {
    "posted_hour_utc": 1,
-   "stories": 60,
-   "avg_peak_score": 115.0
+   "stories": 61,
+   "avg_peak_score": 114.7
   },
   {
    "posted_hour_utc": 2,
-   "stories": 66,
-   "avg_peak_score": 123.8
+   "stories": 67,
+   "avg_peak_score": 123.1
   },
   {
    "posted_hour_utc": 3,
-   "stories": 61,
-   "avg_peak_score": 83.7
+   "stories": 66,
+   "avg_peak_score": 78.9
   },
   {
    "posted_hour_utc": 4,
-   "stories": 47,
-   "avg_peak_score": 102.8
+   "stories": 51,
+   "avg_peak_score": 98.0
   },
   {
    "posted_hour_utc": 5,
-   "stories": 46,
-   "avg_peak_score": 102.2
+   "stories": 54,
+   "avg_peak_score": 96.2
   },
   {
    "posted_hour_utc": 6,
-   "stories": 31,
-   "avg_peak_score": 141.1
+   "stories": 33,
+   "avg_peak_score": 144.1
   },
   {
    "posted_hour_utc": 7,
-   "stories": 46,
-   "avg_peak_score": 206.1
+   "stories": 49,
+   "avg_peak_score": 194.5
   },
   {
    "posted_hour_utc": 8,
-   "stories": 34,
-   "avg_peak_score": 117.0
+   "stories": 37,
+   "avg_peak_score": 109.9
   },
   {
    "posted_hour_utc": 9,
-   "stories": 47,
-   "avg_peak_score": 143.7
+   "stories": 48,
+   "avg_peak_score": 141.1
   },
   {
    "posted_hour_utc": 10,
-   "stories": 53,
-   "avg_peak_score": 201.5
+   "stories": 55,
+   "avg_peak_score": 197.1
   },
   {
    "posted_hour_utc": 11,
    "stories": 75,
-   "avg_peak_score": 173.4
+   "avg_peak_score": 174.8
   },
   {
    "posted_hour_utc": 12,
@@ -309,18 +309,18 @@
   },
   {
    "posted_hour_utc": 13,
-   "stories": 103,
-   "avg_peak_score": 189.9
+   "stories": 104,
+   "avg_peak_score": 188.6
   },
   {
    "posted_hour_utc": 14,
    "stories": 158,
-   "avg_peak_score": 155.5
+   "avg_peak_score": 155.9
   },
   {
    "posted_hour_utc": 15,
-   "stories": 197,
-   "avg_peak_score": 131.3
+   "stories": 198,
+   "avg_peak_score": 131.7
   },
   {
    "posted_hour_utc": 16,
@@ -329,340 +329,340 @@
   },
   {
    "posted_hour_utc": 17,
-   "stories": 166,
-   "avg_peak_score": 170.3
+   "stories": 167,
+   "avg_peak_score": 172.5
   },
   {
    "posted_hour_utc": 18,
    "stories": 161,
-   "avg_peak_score": 180.1
+   "avg_peak_score": 182.6
   },
   {
    "posted_hour_utc": 19,
    "stories": 155,
-   "avg_peak_score": 159.9
+   "avg_peak_score": 161.5
   },
   {
    "posted_hour_utc": 20,
    "stories": 139,
-   "avg_peak_score": 113.8
+   "avg_peak_score": 115.0
   },
   {
    "posted_hour_utc": 21,
-   "stories": 132,
-   "avg_peak_score": 160.8
+   "stories": 133,
+   "avg_peak_score": 165.4
   },
   {
    "posted_hour_utc": 22,
-   "stories": 113,
-   "avg_peak_score": 142.5
+   "stories": 114,
+   "avg_peak_score": 145.2
   },
   {
    "posted_hour_utc": 23,
-   "stories": 84,
-   "avg_peak_score": 136.1
+   "stories": 85,
+   "avg_peak_score": 139.9
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50538240,
-   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-   "domain": "calif.io",
-   "score": 469,
-   "comments": 124,
-   "author": "werrett",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50544261,
+   "title": "Codeberg.org Not Reachable",
+   "domain": "social.anoxinon.de",
+   "score": 133,
+   "comments": 68,
+   "author": "hans_castorp",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 2,
-   "story_id": 50535230,
-   "title": "GPT\u20116.2 Astra and Sol",
-   "domain": "openai.com",
-   "score": 1064,
-   "comments": 677,
-   "author": "jasondavies",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50538240,
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "domain": "calif.io",
+   "score": 964,
+   "comments": 246,
+   "author": "werrett",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 3,
-   "story_id": 50538994,
-   "title": "Quad9's withdrawal from France: A canary in the coal mine",
-   "domain": "blog.cloudflare.com",
-   "score": 234,
-   "comments": 66,
-   "author": "subset",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 4,
-   "story_id": 50539747,
-   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-   "domain": "wiki.archiveteam.org",
-   "score": 45,
-   "comments": 11,
-   "author": "digitaldragon",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 5,
-   "story_id": 50534631,
-   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-   "domain": "ft.com",
-   "score": 377,
-   "comments": 181,
-   "author": "louiereederson",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 6,
-   "story_id": 50537156,
-   "title": "jQuery 4.1.0",
-   "domain": "github.com",
-   "score": 244,
-   "comments": 133,
-   "author": "petecooper",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 7,
-   "story_id": 50539610,
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "domain": "github.com",
-   "score": 85,
-   "comments": 16,
-   "author": "nvader",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 8,
-   "story_id": 50535885,
-   "title": "MAI Code 2 and Code 2 Flash",
-   "domain": "microsoft.ai",
-   "score": 277,
-   "comments": 130,
-   "author": "lemonish97",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 9,
-   "story_id": 50532849,
-   "title": "Highly classified US national security communications network goes down",
-   "domain": "cnn.com",
-   "score": 455,
-   "comments": 538,
-   "author": "monkeydust",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 10,
-   "story_id": 50535992,
-   "title": "Phrack 73 Released",
-   "domain": "phrack.org",
-   "score": 262,
-   "comments": 29,
-   "author": "notmine1337",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 11,
-   "story_id": 50536813,
-   "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
-   "domain": "sciencenorway.no",
-   "score": 231,
-   "comments": 72,
-   "author": "dxs",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 12,
    "story_id": 50540178,
    "title": "Google's AI answers reducing search traffic by 40%",
    "domain": "revscope.co",
-   "score": 13,
-   "comments": 3,
+   "score": 425,
+   "comments": 311,
    "author": "slashdev",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 4,
+   "story_id": 50540437,
+   "title": "ID.me terms required for IRS sign-in",
+   "domain": "consumerrights.wiki",
+   "score": 371,
+   "comments": 166,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 5,
+   "story_id": 50538994,
+   "title": "Quad9's withdrawal from France: A canary in the coal mine",
+   "domain": "blog.cloudflare.com",
+   "score": 634,
+   "comments": 221,
+   "author": "subset",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 6,
+   "story_id": 50543989,
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "domain": "energy-based-reasoners.github.io",
+   "score": 19,
+   "comments": 2,
+   "author": "frenchmajesty",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 7,
+   "story_id": 50534631,
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "domain": "ft.com",
+   "score": 558,
+   "comments": 249,
+   "author": "louiereederson",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 8,
+   "story_id": 50541790,
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "domain": "kernel.dev",
+   "score": 110,
+   "comments": 54,
+   "author": "deenadz",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 9,
+   "story_id": 50543343,
+   "title": "Talos Linux",
+   "domain": "siderolabs.com",
+   "score": 48,
+   "comments": 22,
+   "author": "SweetSoftPillow",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 10,
+   "story_id": 50539610,
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "domain": "github.com",
+   "score": 340,
+   "comments": 73,
+   "author": "nvader",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 11,
+   "story_id": 50532849,
+   "title": "Highly classified US national security communications network goes down",
+   "domain": "cnn.com",
+   "score": 593,
+   "comments": 679,
+   "author": "monkeydust",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 12,
+   "story_id": 50539747,
+   "title": "Archive Team is archiving the Apple Support Community",
+   "domain": "wiki.archiveteam.org",
+   "score": 201,
+   "comments": 72,
+   "author": "digitaldragon",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 13,
-   "story_id": 50536387,
-   "title": "Solid 2.0",
-   "domain": "solidjs.com",
-   "score": 214,
-   "comments": 56,
-   "author": "pier25",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50542705,
+   "title": "AI is killing All About Berlin",
+   "domain": "nicolasbouliane.com",
+   "score": 375,
+   "comments": 346,
+   "author": "grey-area",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 14,
-   "story_id": 50536468,
-   "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
-   "domain": "starsling.dev",
-   "score": 51,
-   "comments": 28,
-   "author": "yonasb",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50541619,
+   "title": "Claude was trained on protein sequences at scale",
+   "domain": "xinmingtu.cn",
+   "score": 66,
+   "comments": 26,
+   "author": "gmays",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 15,
-   "story_id": 50537290,
-   "title": "Web Browser Engineering (2021)",
-   "domain": "browser.engineering",
-   "score": 115,
-   "comments": 20,
-   "author": "ibobev",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50517929,
+   "title": "My Emacs 31 contributions",
+   "domain": "xenodium.com",
+   "score": 17,
+   "comments": 0,
+   "author": "xenodium",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 16,
-   "story_id": 50532191,
-   "title": "What is the best harness for each model?",
-   "domain": "runta.com",
-   "score": 332,
-   "comments": 114,
-   "author": "Edward40",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50536813,
+   "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+   "domain": "sciencenorway.no",
+   "score": 339,
+   "comments": 108,
+   "author": "dxs",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 17,
-   "story_id": 50535238,
-   "title": "Apple Services Down",
-   "domain": "developer.apple.com",
-   "score": 619,
-   "comments": 342,
-   "author": "willy_k",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50535885,
+   "title": "MAI Code 2 and Code 2 Flash",
+   "domain": "microsoft.ai",
+   "score": 367,
+   "comments": 155,
+   "author": "lemonish97",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 18,
-   "story_id": 50538184,
-   "title": "Tencent Hy4 Flash",
-   "domain": "hy.tencent.ai",
-   "score": 40,
-   "comments": 8,
-   "author": "lyra1337",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50537156,
+   "title": "jQuery 4.1.0",
+   "domain": "github.com",
+   "score": 329,
+   "comments": 167,
+   "author": "petecooper",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 19,
-   "story_id": 50537120,
-   "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-   "domain": "arxiv.org",
-   "score": 72,
-   "comments": 43,
-   "author": "PaulHoule",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50535992,
+   "title": "Phrack 73",
+   "domain": "phrack.org",
+   "score": 390,
+   "comments": 53,
+   "author": "notmine1337",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 20,
    "story_id": 50538303,
    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
    "domain": "complexdiscovery.com",
-   "score": 30,
-   "comments": 59,
+   "score": 193,
+   "comments": 270,
    "author": "judahmeek",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 21,
-   "story_id": 50504105,
-   "title": "Munich Laser Emits a Beam of Matter Waves (1999)",
-   "domain": "sciencedaily.com",
-   "score": 7,
-   "comments": 2,
-   "author": "peter_d_sherman",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50542264,
+   "title": "Why Fibonacci?",
+   "domain": "evilgeniuslabs.org",
+   "score": 39,
+   "comments": 5,
+   "author": "_Microft",
+   "snapshot_at": "2026-11-18T11:47:21"
+  },
+  {
+   "rank": 22,
+   "story_id": 50542863,
+   "title": "Australia's full national topographic library at your fingertips",
+   "domain": "ga.gov.au",
+   "score": 23,
+   "comments": 11,
+   "author": "bryanrasmussen",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 23,
-   "story_id": 50535208,
-   "title": "Who Builds the Machines That Build the Machines?",
-   "domain": "read.corematter.com",
-   "score": 90,
-   "comments": 28,
-   "author": "gmays",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50535230,
+   "title": "GPT\u20116.2 Astra and Sol",
+   "domain": "openai.com",
+   "score": 1283,
+   "comments": 798,
+   "author": "jasondavies",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 24,
-   "story_id": 50535740,
-   "title": "Not Everything Needs an LLM",
-   "domain": "newsletter.posthog.com",
-   "score": 88,
-   "comments": 36,
-   "author": "speckx",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50536387,
+   "title": "Solid 2.0",
+   "domain": "solidjs.com",
+   "score": 319,
+   "comments": 98,
+   "author": "pier25",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 25,
-   "story_id": 50497872,
-   "title": "Mouse Party",
-   "domain": "aboard.com",
-   "score": 58,
-   "comments": 9,
-   "author": "bookofjoe",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50536468,
+   "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
+   "domain": "news.ycombinator.com",
+   "score": 81,
+   "comments": 39,
+   "author": "yonasb",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 26,
-   "story_id": 50539039,
-   "title": "Latent Lattice Language Models",
-   "domain": "shivamduggal4.github.io",
-   "score": 15,
-   "comments": 3,
-   "author": "E-Reverance",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50517410,
+   "title": "Show HN: Unref \u2013 A Python dead code finder built on Ruff's parser",
+   "domain": "github.com",
+   "score": 31,
+   "comments": 5,
+   "author": "McAvey",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 27,
-   "story_id": 50529612,
-   "title": "How the Claude Code team thinks about verification",
-   "domain": "claude.dev",
-   "score": 261,
-   "comments": 202,
-   "author": "craigmart",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50532191,
+   "title": "What is the best harness for each model?",
+   "domain": "runta.com",
+   "score": 379,
+   "comments": 128,
+   "author": "Edward40",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 28,
-   "story_id": 50530163,
-   "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-   "domain": "nytimes.com",
-   "score": 1148,
-   "comments": 575,
-   "author": "donohoe",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50540472,
+   "title": "Cerebras Disaggregated Inference",
+   "domain": "cerebras.ai",
+   "score": 85,
+   "comments": 19,
+   "author": "emschwartz",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 29,
-   "story_id": 50532385,
-   "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-   "domain": "alloyhtml.com",
-   "score": 176,
-   "comments": 31,
-   "author": "prafandy",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50503492,
+   "title": "Fun with Constrained Programming (2012)",
+   "domain": "blog.cmpxchg8b.com",
+   "score": 76,
+   "comments": 3,
+   "author": "colejohnson66",
+   "snapshot_at": "2026-11-18T11:47:21"
   },
   {
    "rank": 30,
-   "story_id": 50537962,
-   "title": "Human.md",
-   "domain": "human-md.ai",
-   "score": 63,
-   "comments": 47,
-   "author": "ray__",
-   "snapshot_at": "2026-11-18T00:59:07"
-  },
-  {
-   "rank": 31,
-   "story_id": 50511657,
-   "title": "Zoltraak and the Dynamics of Military Innovation",
-   "domain": "jgeekstudies.org",
-   "score": 44,
-   "comments": 11,
-   "author": "zdw",
-   "snapshot_at": "2026-11-18T00:59:07"
+   "story_id": 50503899,
+   "title": "Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training",
+   "domain": "arxiv.org",
+   "score": 5,
+   "comments": 1,
+   "author": "gmays",
+   "snapshot_at": "2026-11-18T11:47:21"
   }
  ],
  "quality": {
@@ -679,10 +679,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 8321,
-   "fct_stories": 2276
+   "stg_snapshots": 8420,
+   "fct_stories": 2314
   },
-  "newest_snapshot_at": "2026-11-18T00:59:07+00:00",
+  "newest_snapshot_at": "2026-11-18T11:47:21+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
