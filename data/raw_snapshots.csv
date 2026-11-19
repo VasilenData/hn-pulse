@@ -8518,3 +8518,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-18T20:35:25+00:00,98,50511874,VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012,https://visualbasic.world/,broast,224,99,2026-11-15T23:08:30+00:00
 2026-11-18T20:35:25+00:00,99,50535230,GPT‑6.2 Astra and Sol,https://openai.com/index/introducing-gpt-6-2-astra-sol/,jasondavies,1332,844,2026-11-17T17:46:43+00:00
 2026-11-18T20:35:25+00:00,100,50536387,Solid 2.0,https://www.solidjs.com/blog/solid-2-0-the-long-hold/,pier25,368,115,2026-11-17T18:56:17+00:00
+2026-11-19T02:36:18+00:00,1,50552424,Gemini 4 Neon,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/,yigitdemirag,494,454,2026-11-18T21:34:07+00:00
+2026-11-19T02:36:18+00:00,2,50555093,AI Will Not Make You Rich (2025),https://colossus.com/article/ai-will-not-make-you-rich/,madars,35,16,2026-11-19T01:51:28+00:00
+2026-11-19T02:36:18+00:00,3,50547374,Unauthenticated remote code execution in Nginx,https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities,speedping,1167,514,2026-11-18T15:19:55+00:00
+2026-11-19T02:36:18+00:00,4,50554374,Gemini 4 Neon looks like an Opus 5.5 competitor,https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/,seizethecheese,89,28,2026-11-19T00:29:45+00:00
+2026-11-19T02:36:18+00:00,5,50554038,Multiple vulnerabilities in Regexp and String case conversion,https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/,runesoerensen,92,19,2026-11-18T23:52:50+00:00
+2026-11-19T02:36:18+00:00,6,50548021,Seven new models at scalable price-performance,https://microsoft.ai/news/microsoft-ignite-2026/,gmays,458,321,2026-11-18T16:08:24+00:00
+2026-11-19T02:36:18+00:00,7,50553225,LLM assisted reverse engineering,https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering,ioma8,79,14,2026-11-18T22:29:13+00:00
+2026-11-19T02:36:18+00:00,8,50547777,AI agents ask better questions than KPMG accountants in audit trial,https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/,Betelbuddy,372,165,2026-11-18T15:49:34+00:00
+2026-11-19T02:36:18+00:00,9,50547620,Inside Deutsche Bank,https://www.inside-db.com/,gyre007,567,190,2026-11-18T15:38:33+00:00
+2026-11-19T02:36:18+00:00,10,50545958,DNS resolvers are the wrong place to fight piracy,https://techstackups.com/articles/quad9-leaves-france-dns-blocking/,ritzaco,610,224,2026-11-18T13:18:02+00:00
+2026-11-19T02:36:18+00:00,11,50553843,Anthropic prices initial public offering,https://www.anthropic.com/news/anthropic-prices-initial-public-offering,surprisetalk,83,42,2026-11-18T23:30:09+00:00
+2026-11-19T02:36:18+00:00,12,50554269,"Fable: Written, painted and directed by Claude Fable 5.2",https://claudia.gallery/fable/,CharlesW,46,39,2026-11-19T00:18:18+00:00
+2026-11-19T02:36:18+00:00,13,50551046,DaisyRose-27B,https://www.radixark.com/blog/daisyrose-27b,de_sty,149,41,2026-11-18T19:39:16+00:00
+2026-11-19T02:36:18+00:00,14,50554941,FailTrace – Reproduce a failed GitHub Actions run locally from its URL,https://github.com/Ri4dH/failtrace,ri4dh,8,0,2026-11-19T01:30:43+00:00
+2026-11-19T02:36:18+00:00,15,50554908,Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction,https://arxiv.org/abs/2607.29378,dalmo3,9,3,2026-11-19T01:27:02+00:00
+2026-11-19T02:36:18+00:00,16,50525260,Dumping an AES key from a MyQ garage opener to stop rebooting when offline,https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/,kusha,48,16,2026-11-16T23:47:26+00:00
+2026-11-19T02:36:18+00:00,17,50554045,We need smart people who give a shit,https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/,ExMachina73,251,130,2026-11-18T23:53:49+00:00
+2026-11-19T02:36:18+00:00,18,50549493,Advancing chip design with OpenAI models,https://openai.com/index/advancing-chip-design-with-our-models/,vighneshiyer,166,105,2026-11-18T17:45:47+00:00
+2026-11-19T02:36:18+00:00,19,50550415,Genie 4 is now available,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/,leumon,198,143,2026-11-18T18:49:51+00:00
+2026-11-19T02:36:18+00:00,20,50546914,The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026,https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026,DeepLogin,242,173,2026-11-18T14:43:52+00:00
+2026-11-19T02:36:18+00:00,21,50510385,Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon,https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/,acossta,45,9,2026-11-15T20:30:42+00:00
+2026-11-19T02:36:18+00:00,22,50554973,Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools,https://adeindex.com,jonnyasmar,6,2,2026-11-19T01:33:52+00:00
+2026-11-19T02:36:18+00:00,23,50547980,"Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",https://exitpath-ruddy.vercel.app/,zerocool0101,172,50,2026-11-18T16:04:43+00:00
+2026-11-19T02:36:18+00:00,24,50554009,Palo Alto Networks to Acquire Applied Compute for $4.5B,https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open,alpb,15,2,2026-11-18T23:49:13+00:00
+2026-11-19T02:36:18+00:00,25,50526087,Collisions in Hash Functions,https://collisions.zksecurity.xyz/,baby,6,0,2026-11-17T01:11:09+00:00
+2026-11-19T02:36:18+00:00,26,50554935,Unreal Tournament 2004 in the Browser,https://ut2004.dev/,TheAceOfHearts,17,4,2026-11-19T01:29:29+00:00
+2026-11-19T02:36:18+00:00,27,50523377,"Show HN: Open-source, real-time object tracking for live video feeds",https://github.com/aryamandarda/tamserve,aryaman_darda,49,2,2026-11-16T21:14:39+00:00
+2026-11-19T02:36:18+00:00,28,50548161,"Show HN: Take Voyager 1 apart, down to a single memory chip",https://rshekhar.com/voyager/,raj-shekhar,158,34,2026-11-18T16:18:51+00:00
+2026-11-19T02:36:18+00:00,29,50524227,A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover,https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/,wawayanda,34,2,2026-11-16T22:19:31+00:00
+2026-11-19T02:36:18+00:00,30,50549188,Launch HN: Maritime (YC F26) – A managed cloud for production AI agents,,ashriv,44,35,2026-11-18T17:26:28+00:00
+2026-11-19T02:36:18+00:00,31,50554010,Software companies are trying to kill home computing?,https://lateblt.livejournal.com/526188.html,sammatilda,128,80,2026-11-18T23:49:18+00:00
+2026-11-19T02:36:18+00:00,32,50554759,Recurrent Interface Networks,https://arxiv.org/abs/2212.11972,E-Reverance,4,0,2026-11-19T01:13:16+00:00
+2026-11-19T02:36:18+00:00,33,50554641,Black high school students sue after AI mistakes Doritos bag for gun,https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/,DeepLogin,25,0,2026-11-19T00:57:20+00:00
+2026-11-19T02:36:18+00:00,34,50546967,The x86 CPU: From 4004 to 486,https://pikuma.com/blog/history-of-x86-4004-to-486,ibobev,149,46,2026-11-18T14:47:53+00:00
+2026-11-19T02:36:18+00:00,36,50548004,KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312),https://www.cve.org/CVERecord?id=CVE-2026-99312,Kozmik1,177,116,2026-11-18T16:06:21+00:00
+2026-11-19T02:36:18+00:00,37,50550096,The Magic of Partial Evaluation,https://jimmyhmiller.com/magic-of-partial-evaluation,aray07,98,25,2026-11-18T18:29:03+00:00
+2026-11-19T02:36:18+00:00,38,50543989,Energy-Based Reasoners: 385x more efficient inference,https://energy-based-reasoners.github.io/,frenchmajesty,303,52,2026-11-18T09:29:32+00:00
+2026-11-19T02:36:18+00:00,39,50554076,Pushing WireGuard on macOS to 5 Gbit/s,https://www.firezone.dev/blog/apple-client-performance,wh33zle,10,0,2026-11-18T23:57:01+00:00
+2026-11-19T02:36:18+00:00,40,50548991,CrossPoint Reader,https://crosspointreader.com,kristianpaul,106,57,2026-11-18T17:14:31+00:00
+2026-11-19T02:36:18+00:00,41,50546922,A Primer on Fourier Series (2025),https://arxiv.org/abs/2510.18203,teleforce,112,32,2026-11-18T14:44:33+00:00
+2026-11-19T02:36:18+00:00,42,50548660,"Show HN: Mastra Factory, the open-source software factory we use to build Mastra",,codekarate,82,31,2026-11-18T16:53:42+00:00
+2026-11-19T02:36:18+00:00,43,50551398,Search Browser – Minimalist WebKit browser with Chrome extension support,https://searchbrowser.app/,rsaz,52,33,2026-11-18T20:04:31+00:00
+2026-11-19T02:36:18+00:00,44,50551359,Sexp Matrix,https://lisper.cc/ideas/entangle.html,todsacerdoti,37,11,2026-11-18T20:01:50+00:00
+2026-11-19T02:36:18+00:00,45,50553964,Oops All Shells – Stupid Vulnerability Name Generator,https://oops-all-shells.netlify.app/,mister_mort,7,1,2026-11-18T23:44:59+00:00
+2026-11-19T02:36:18+00:00,46,50505310,The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter,https://americanhandgunner.com/handguns/revolvers/the-first-revolver/,bushwart,58,43,2026-11-15T09:12:55+00:00
+2026-11-19T02:36:18+00:00,47,50547583,F-22 Next-Generation micro–Data Transfer Cartridge (mDTC),https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view,birdboat00,146,104,2026-11-18T15:35:44+00:00
+2026-11-19T02:36:18+00:00,48,50551509,Horizon Labs Report,https://horizon-labs.ai/,gmays,23,6,2026-11-18T20:12:34+00:00
+2026-11-19T02:36:18+00:00,49,50555247,I banned Roku from my internet to try to save my Roku Express,https://manualdousuario.net/en/roku-block-ads/,rpgbr,4,0,2026-11-19T02:18:15+00:00
+2026-11-19T02:36:18+00:00,50,50544821,Show HN: Type Fighter 2,https://typefighter2.com/,torumitch,127,57,2026-11-18T11:11:53+00:00
+2026-11-19T02:36:18+00:00,51,50553852,Ergodicity: What Does It Mean?,https://leonlins.com/writing/ergodicity,AlinaFilomena,5,0,2026-11-18T23:32:11+00:00
+2026-11-19T02:36:18+00:00,52,50509980,A live service duress prototype,https://github.com/Ymsniper/vault-share,Ymsniper,14,2,2026-11-15T19:42:59+00:00
+2026-11-19T02:36:18+00:00,53,50554107,"Hackers Hijack Websites of CNN, BBC and Major Banks",https://www.thedailybeast.com/hackers-hijack-websites-of-cnn-bbc-and-major-banks,madihaa,18,3,2026-11-19T00:01:15+00:00
+2026-11-19T02:36:18+00:00,54,50541790,Why is Gemini 4 Carbon taking so long?,https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/,deenadz,265,138,2026-11-18T04:14:04+00:00
+2026-11-19T02:36:18+00:00,55,50550461,"Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",https://tin.computer/blog/fake-ai-crawler-secrets-scanners,demegire,27,6,2026-11-18T18:53:17+00:00
+2026-11-19T02:36:18+00:00,56,50552140,"Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",https://springcraft-ai.github.io/springrep/,atomarch,21,2,2026-11-18T21:08:47+00:00
+2026-11-19T02:36:18+00:00,57,50538240,Java4Shell: RCE in OpenJDK when processing Base64,https://calif.io/java4shell/,werrett,1156,321,2026-11-17T21:11:28+00:00
+2026-11-19T02:36:18+00:00,58,50551503,"When Everything Has Changed, What Do We Do Next?",https://css-tricks.com/when-everything-has-changed/,dxs,22,6,2026-11-18T20:12:23+00:00
+2026-11-19T02:36:18+00:00,59,50553931,Identity Verification Built for Devs,https://www.idswyft.app/,mooreds,3,1,2026-11-18T23:41:00+00:00
+2026-11-19T02:36:18+00:00,60,50548038,SuperEMeans: Making e-means 3× faster,https://www.lkuffo.com/superemeans/,lkuffo2,50,0,2026-11-18T16:09:50+00:00
+2026-11-19T02:36:18+00:00,61,50555064,"Microsoft kills To Do. It paid up 200M for Wunderlist, later killed it",https://www.windowslatest.com/2026/11/19/microsoft-is-killing-to-do-and-telling-you-to-choose-another-app-after-it-reportedly-paid-up-to-200-million-for-wunderlist-and-killed-it-for-to-do/,nutellathekille,6,2,2026-11-19T01:47:38+00:00
+2026-11-19T02:36:18+00:00,62,50538994,Quad9's withdrawal from France: A canary in the coal mine,https://blog.cloudflare.com/quad9-withdrawal-from-france/,subset,883,432,2026-11-17T22:13:34+00:00
+2026-11-19T02:36:18+00:00,63,50541619,Claude was trained on protein sequences at scale,http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/,gmays,165,71,2026-11-18T03:47:43+00:00
+2026-11-19T02:36:18+00:00,64,50550829,VB Harness – Make local coding agents verify their own work,https://github.com/Viktotovich/vb-harness-for-agentic-building,vova2k,9,0,2026-11-18T19:24:35+00:00
+2026-11-19T02:36:18+00:00,65,50508356,New FreeBSD Pkgbase(8) Tool,https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/,vermaden,48,21,2026-11-15T16:46:13+00:00
+2026-11-19T02:36:18+00:00,66,50517929,My Emacs 31 contributions,https://xenodium.com/my-emacs-31-contributions,xenodium,118,19,2026-11-16T14:26:10+00:00
+2026-11-19T02:36:18+00:00,67,50554381,Ask HN: Cheapest CPU Vms,,mrkn1,6,6,2026-11-19T00:30:18+00:00
+2026-11-19T02:36:18+00:00,68,50504373,A Perfect SimCity,https://www.jeffquast.com/post/a-perfect-simcity/,mariuz,223,122,2026-11-15T05:54:22+00:00
+2026-11-19T02:36:18+00:00,69,50554620,Hollywood Freeway Chickens,https://en.wikipedia.org/wiki/Hollywood_Freeway_chickens,thunderbong,6,0,2026-11-19T00:54:53+00:00
+2026-11-19T02:36:18+00:00,70,50554686,Ask HN: When does your app need its own UI vs. using it via MCP?,,amoorthy,3,2,2026-11-19T01:04:20+00:00
+2026-11-19T02:36:18+00:00,71,50540178,Google's AI answers reducing search traffic by 40%,https://revscope.co/blog/search-seo-geo-2026/,slashdev,691,539,2026-11-18T00:17:58+00:00
+2026-11-19T02:36:18+00:00,72,50534631,Nvidia stopped disclosing Singapore sales as revenues hit $104B,https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf,louiereederson,658,295,2026-11-17T17:12:06+00:00
+2026-11-19T02:36:18+00:00,73,50540437,ID.me terms required for IRS sign-in,https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in,DeepLogin,493,259,2026-11-18T00:51:45+00:00
+2026-11-19T02:36:18+00:00,74,50536468,Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos,,yonasb,87,48,2026-11-17T19:01:43+00:00
+2026-11-19T02:36:18+00:00,75,50551397,The Where's Waldo of the 1500s,https://blog.alexbeals.com/posts/il-civetta,speckx,7,2,2026-11-18T20:04:28+00:00
+2026-11-19T02:36:18+00:00,76,50546900,Can Universities Survive? AI vs. Higher Education [audio],https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education,frereubu,29,38,2026-11-18T14:42:25+00:00
+2026-11-19T02:36:18+00:00,77,50506430,What is the randomart image for? (2023),https://bytes.zone/posts/what-is-the-randomart-image-for/,TuringTux,21,2,2026-11-15T12:27:07+00:00
+2026-11-19T02:36:18+00:00,78,50554179,Thomas Nagel says that it's criminal to build AI that feigns consciousness,https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/,eph0m0ral,8,2,2026-11-19T00:08:35+00:00
+2026-11-19T02:36:18+00:00,79,50548491,M.C. Escher's Art Creates Mathematical Worlds,https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/,baruchel,23,5,2026-11-18T16:41:57+00:00
+2026-11-19T02:36:18+00:00,80,50549758,The Codex Sandbox,https://openai.com/index/inside-the-codex-sandbox/,bolinfest,9,1,2026-11-18T18:04:04+00:00
+2026-11-19T02:36:18+00:00,81,50522980,Carnegie Mellon is putting computer science courses on YouTube for free,https://www.cs.cmu.edu/learn/,pcompeau,2351,325,2026-11-16T20:43:36+00:00
+2026-11-19T02:36:18+00:00,82,50517840,Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck,https://github.com/mr-anjaneyam/Emittr,mr-anjaneyam,53,50,2026-11-16T14:18:15+00:00
+2026-11-19T02:36:18+00:00,83,50542705,AI is killing All About Berlin,https://nicolasbouliane.com/blog/death-by-ai,grey-area,760,685,2026-11-18T06:47:26+00:00
+2026-11-19T02:36:18+00:00,84,50538184,Tencent Hy4 Flash,https://hy.tencent.ai/research/hy4-flash,lyra1337,166,26,2026-11-17T21:06:08+00:00
+2026-11-19T02:36:18+00:00,85,50549438,Lakegres: Vector search on existing Open/Hudi/Iceberg tables,https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats,cloud8bits,40,8,2026-11-18T17:41:48+00:00
+2026-11-19T02:36:18+00:00,86,50550062,Scottish HTTP Codes,https://underwood.network/http/scots.html,mooreds,236,54,2026-11-18T18:26:19+00:00
+2026-11-19T02:36:18+00:00,87,50553817,Eagles preying on human-sized baboons upend existing evolutionary defense theory,https://phys.org/news/2026-11-eagles-preying-human-sized-baboons.html,hackernj,9,2,2026-11-18T23:27:35+00:00
+2026-11-19T02:36:18+00:00,88,50554891,Complex Systems Won't Survive the Competence Crisis (2023),https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/,rsyring,3,1,2026-11-19T01:25:06+00:00
+2026-11-19T02:36:18+00:00,89,50551614,Show HN: PocketOps for SigNoz: The Open Source Datadog Alternative,https://github.com/avens19/pocketops,avens19,6,0,2026-11-18T20:21:50+00:00
+2026-11-19T02:36:18+00:00,90,50549788,Steve Jobs Core Animation Demo from WWDC 2007,https://lucas.love/100/058,coryalthoff,10,1,2026-11-18T18:06:14+00:00
+2026-11-19T02:36:18+00:00,91,50532849,Highly classified US national security communications network goes down,https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down,monkeydust,664,748,2026-11-17T15:38:28+00:00
+2026-11-19T02:36:18+00:00,92,50530163,New Evidence Shows School Phone Bans Are Gradually Improving Test Scores,https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html,donohoe,1288,642,2026-11-17T11:45:51+00:00
+2026-11-19T02:36:18+00:00,93,50551356,Show HN: Beat – a to-do list that completes its own tasks,https://gobeat.ai/auth/login,brdo,12,5,2026-11-18T20:01:45+00:00
+2026-11-19T02:36:18+00:00,94,50500863,Demazure Operators for Beginners,https://webspace.science.uu.nl/~kalle101/Demazure.html,marysminefnuf,9,1,2026-11-14T21:11:46+00:00
+2026-11-19T02:36:18+00:00,95,50554767,"Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/,cdrnsf,3,0,2026-11-19T01:14:02+00:00
+2026-11-19T02:36:18+00:00,96,50509141,"IPv6 delegation, an unusually subtle failure mode",https://savyasacheejha.com/posts/why-odhcpd/,genghizkhan,65,45,2026-11-15T18:06:13+00:00
+2026-11-19T02:36:18+00:00,97,50552169,"Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/,Sigmazero60,7,0,2026-11-18T21:11:10+00:00
+2026-11-19T02:36:18+00:00,98,50537290,Web Browser Engineering (2021),https://browser.engineering/,ibobev,194,29,2026-11-17T20:01:35+00:00
+2026-11-19T02:36:18+00:00,99,50539610,Microsoft's ONNX Runtime has disappeared from GitHub,https://github.com/microsoft/onnxruntime,nvader,450,98,2026-11-17T23:18:49+00:00
+2026-11-19T02:36:18+00:00,100,50552632,Amazon vows to fight the company's first NA union contract at a CAN warehouse,https://apnews.com/article/amazon-unifor-union-workers-1e0626c31c857ad54aa9b20d8c83b54d,Teever,16,1,2026-11-18T21:48:11+00:00
