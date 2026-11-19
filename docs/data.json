@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:36:25+00:00",
+ "generated_at": "2026-11-19T11:44:03+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -150,30 +150,30 @@
   },
   {
    "day": "2026-11-19",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 189.6,
-   "avg_comments": 86.2
+   "snapshots": 2,
+   "distinct_stories": 129,
+   "avg_score": 220.0,
+   "avg_comments": 103.1
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 182,
-   "avg_peak_score": 133.7,
-   "total_comments": 8737
+   "stories": 184,
+   "avg_peak_score": 133.0,
+   "total_comments": 8759
   },
   {
    "domain": "twitter.com",
-   "stories": 40,
-   "avg_peak_score": 117.3,
+   "stories": 41,
+   "avg_peak_score": 114.6,
    "total_comments": 2644
   },
   {
    "domain": "nytimes.com",
    "stories": 38,
-   "avg_peak_score": 208.6,
-   "total_comments": 3724
+   "avg_peak_score": 208.8,
+   "total_comments": 3725
   },
   {
    "domain": "reuters.com",
@@ -183,8 +183,8 @@
   },
   {
    "domain": "theguardian.com",
-   "stories": 30,
-   "avg_peak_score": 88.8,
+   "stories": 31,
+   "avg_peak_score": 86.2,
    "total_comments": 1953
   },
   {
@@ -196,8 +196,8 @@
   {
    "domain": "arxiv.org",
    "stories": 24,
-   "avg_peak_score": 70.6,
-   "total_comments": 492
+   "avg_peak_score": 73.0,
+   "total_comments": 499
   },
   {
    "domain": "youtube.com",
@@ -219,9 +219,9 @@
   },
   {
    "domain": "openai.com",
-   "stories": 15,
-   "avg_peak_score": 277.2,
-   "total_comments": 2814
+   "stories": 16,
+   "avg_peak_score": 262.9,
+   "total_comments": 2860
   },
   {
    "domain": "tomshardware.com",
@@ -244,20 +244,20 @@
   {
    "domain": "ft.com",
    "stories": 14,
-   "avg_peak_score": 95.3,
+   "avg_peak_score": 95.7,
    "total_comments": 789
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 76,
-   "avg_peak_score": 108.8
+   "stories": 77,
+   "avg_peak_score": 110.9
   },
   {
    "posted_hour_utc": 1,
    "stories": 72,
-   "avg_peak_score": 98.5
+   "avg_peak_score": 102.6
   },
   {
    "posted_hour_utc": 2,
@@ -267,22 +267,22 @@
   {
    "posted_hour_utc": 3,
    "stories": 66,
-   "avg_peak_score": 80.4
+   "avg_peak_score": 80.6
   },
   {
    "posted_hour_utc": 4,
-   "stories": 51,
-   "avg_peak_score": 101.0
+   "stories": 53,
+   "avg_peak_score": 97.6
   },
   {
    "posted_hour_utc": 5,
-   "stories": 55,
-   "avg_peak_score": 99.4
+   "stories": 58,
+   "avg_peak_score": 100.6
   },
   {
    "posted_hour_utc": 6,
-   "stories": 33,
-   "avg_peak_score": 155.8
+   "stories": 34,
+   "avg_peak_score": 153.4
   },
   {
    "posted_hour_utc": 7,
@@ -291,23 +291,23 @@
   },
   {
    "posted_hour_utc": 8,
-   "stories": 37,
-   "avg_peak_score": 110.2
+   "stories": 42,
+   "avg_peak_score": 100.9
   },
   {
    "posted_hour_utc": 9,
-   "stories": 49,
-   "avg_peak_score": 145.2
+   "stories": 52,
+   "avg_peak_score": 140.9
   },
   {
    "posted_hour_utc": 10,
-   "stories": 55,
-   "avg_peak_score": 197.1
+   "stories": 58,
+   "avg_peak_score": 190.3
   },
   {
    "posted_hour_utc": 11,
    "stories": 76,
-   "avg_peak_score": 174.8
+   "avg_peak_score": 175.0
   },
   {
    "posted_hour_utc": 12,
@@ -317,359 +317,359 @@
   {
    "posted_hour_utc": 13,
    "stories": 107,
-   "avg_peak_score": 190.0
+   "avg_peak_score": 190.5
   },
   {
    "posted_hour_utc": 14,
-   "stories": 164,
-   "avg_peak_score": 155.5
+   "stories": 165,
+   "avg_peak_score": 155.2
   },
   {
    "posted_hour_utc": 15,
-   "stories": 210,
-   "avg_peak_score": 138.1
+   "stories": 211,
+   "avg_peak_score": 140.0
   },
   {
    "posted_hour_utc": 16,
-   "stories": 162,
-   "avg_peak_score": 138.2
+   "stories": 164,
+   "avg_peak_score": 138.3
   },
   {
    "posted_hour_utc": 17,
    "stories": 174,
-   "avg_peak_score": 168.8
+   "avg_peak_score": 169.3
   },
   {
    "posted_hour_utc": 18,
    "stories": 171,
-   "avg_peak_score": 176.9
+   "avg_peak_score": 177.5
   },
   {
    "posted_hour_utc": 19,
    "stories": 161,
-   "avg_peak_score": 157.3
+   "avg_peak_score": 157.8
   },
   {
    "posted_hour_utc": 20,
-   "stories": 148,
-   "avg_peak_score": 109.8
+   "stories": 149,
+   "avg_peak_score": 109.5
   },
   {
    "posted_hour_utc": 21,
    "stories": 138,
-   "avg_peak_score": 165.9
+   "avg_peak_score": 169.3
   },
   {
    "posted_hour_utc": 22,
    "stories": 116,
-   "avg_peak_score": 145.9
+   "avg_peak_score": 147.5
   },
   {
    "posted_hour_utc": 23,
    "stories": 96,
-   "avg_peak_score": 132.4
+   "avg_peak_score": 142.9
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50552424,
-   "title": "Gemini 4 Neon",
-   "domain": "blog.google",
-   "score": 494,
-   "comments": 454,
-   "author": "yigitdemirag",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50557870,
+   "title": "What's New in PHP 8.6",
+   "domain": "php.net",
+   "score": 79,
+   "comments": 38,
+   "author": "netol",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 2,
-   "story_id": 50555093,
-   "title": "AI Will Not Make You Rich (2025)",
-   "domain": "colossus.com",
-   "score": 35,
-   "comments": 16,
-   "author": "madars",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50556287,
+   "title": "Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+   "domain": "verialabs.com",
+   "score": 172,
+   "comments": 65,
+   "author": "jdns",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 3,
-   "story_id": 50547374,
-   "title": "Unauthenticated remote code execution in Nginx",
-   "domain": "wiz.io",
-   "score": 1167,
-   "comments": 514,
-   "author": "speedping",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50557537,
+   "title": "Distributed, high-performance blob storage on SQLite",
+   "domain": "zerodha.tech",
+   "score": 75,
+   "comments": 10,
+   "author": "ghostfoxgod",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 4,
-   "story_id": 50554374,
-   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-   "domain": "micjm.com",
-   "score": 89,
-   "comments": 28,
-   "author": "seizethecheese",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50552424,
+   "title": "Gemini 4 Neon",
+   "domain": "blog.google",
+   "score": 862,
+   "comments": 684,
+   "author": "yigitdemirag",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 5,
-   "story_id": 50554038,
-   "title": "Multiple vulnerabilities in Regexp and String case conversion",
-   "domain": "ruby-lang.org",
-   "score": 92,
-   "comments": 19,
-   "author": "runesoerensen",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50557716,
+   "title": "SSD prices will start going down the second half of next year",
+   "domain": "drivevault.io",
+   "score": 94,
+   "comments": 64,
+   "author": "illidan1000",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 6,
-   "story_id": 50548021,
-   "title": "Seven new models at scalable price-performance",
-   "domain": "microsoft.ai",
-   "score": 458,
-   "comments": 321,
-   "author": "gmays",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50556533,
+   "title": "15M web servers on one VM \u2013 smoltcp, DPDK, AF_XDP",
+   "domain": "kapteko.com",
+   "score": 184,
+   "comments": 24,
+   "author": "fessguid",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 7,
-   "story_id": 50553225,
-   "title": "LLM assisted reverse engineering",
-   "domain": "slowchronicle.com",
-   "score": 79,
-   "comments": 14,
-   "author": "ioma8",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50547374,
+   "title": "Unauthenticated remote code execution in Nginx",
+   "domain": "wiz.io",
+   "score": 1410,
+   "comments": 605,
+   "author": "speedping",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 8,
-   "story_id": 50547777,
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "domain": "europeanbusinessmagazine.com",
-   "score": 372,
-   "comments": 165,
-   "author": "Betelbuddy",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50557661,
+   "title": "Do not buy RAM, compress",
+   "domain": "curiousbits.nl",
+   "score": 50,
+   "comments": 33,
+   "author": "Ecno92",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 9,
-   "story_id": 50547620,
-   "title": "Inside Deutsche Bank",
-   "domain": "inside-db.com",
-   "score": 567,
-   "comments": 190,
-   "author": "gyre007",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50519231,
+   "title": "Garage Door Spam",
+   "domain": "blog.harrison.page",
+   "score": 23,
+   "comments": 4,
+   "author": "harrisonpage",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 10,
-   "story_id": 50545958,
-   "title": "DNS resolvers are the wrong place to fight piracy",
-   "domain": "techstackups.com",
-   "score": 610,
-   "comments": 224,
-   "author": "ritzaco",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50558533,
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "domain": "element.io",
+   "score": 7,
+   "comments": 0,
+   "author": "liotier",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 11,
-   "story_id": 50553843,
-   "title": "Anthropic prices initial public offering",
-   "domain": "anthropic.com",
-   "score": 83,
-   "comments": 42,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50554038,
+   "title": "Multiple vulnerabilities in Regexp and String case conversion",
+   "domain": "ruby-lang.org",
+   "score": 281,
+   "comments": 96,
+   "author": "runesoerensen",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 12,
-   "story_id": 50554269,
-   "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-   "domain": "claudia.gallery",
-   "score": 46,
-   "comments": 39,
-   "author": "CharlesW",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50512280,
+   "title": "The first ping from Tonga (1997)",
+   "domain": "colo.to",
+   "score": 44,
+   "comments": 6,
+   "author": "Eric_Gullichsen",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 13,
-   "story_id": 50551046,
-   "title": "DaisyRose-27B",
-   "domain": "radixark.com",
-   "score": 149,
-   "comments": 41,
-   "author": "de_sty",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50553843,
+   "title": "Anthropic prices initial public offering",
+   "domain": "anthropic.com",
+   "score": 259,
+   "comments": 456,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 14,
-   "story_id": 50554941,
-   "title": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
-   "domain": "github.com",
-   "score": 8,
-   "comments": 0,
-   "author": "ri4dh",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50548021,
+   "title": "Seven new models at scalable price-performance",
+   "domain": "microsoft.ai",
+   "score": 548,
+   "comments": 355,
+   "author": "gmays",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 15,
-   "story_id": 50554908,
-   "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-   "domain": "arxiv.org",
-   "score": 9,
-   "comments": 3,
-   "author": "dalmo3",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50547620,
+   "title": "Inside Deutsche Bank",
+   "domain": "inside-db.com",
+   "score": 710,
+   "comments": 241,
+   "author": "gyre007",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 16,
-   "story_id": 50525260,
-   "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-   "domain": "kusha.me",
-   "score": 48,
-   "comments": 16,
-   "author": "kusha",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50553225,
+   "title": "LLM assisted reverse engineering",
+   "domain": "slowchronicle.com",
+   "score": 234,
+   "comments": 58,
+   "author": "ioma8",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 17,
-   "story_id": 50554045,
-   "title": "We need smart people who give a shit",
-   "domain": "violetpixel.com",
-   "score": 251,
-   "comments": 130,
-   "author": "ExMachina73",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50541774,
+   "title": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
+   "domain": "kottke.org",
+   "score": 10,
+   "comments": 1,
+   "author": "sammatilda",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 18,
-   "story_id": 50549493,
-   "title": "Advancing chip design with OpenAI models",
-   "domain": "openai.com",
-   "score": 166,
-   "comments": 105,
-   "author": "vighneshiyer",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50519778,
+   "title": "Logitech Harmony IR code online database archive",
+   "domain": "github.com",
+   "score": 34,
+   "comments": 3,
+   "author": "cf100clunk",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 19,
-   "story_id": 50550415,
-   "title": "Genie 4 is now available",
-   "domain": "blog.google",
-   "score": 198,
-   "comments": 143,
-   "author": "leumon",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50551046,
+   "title": "DaisyRose-27B",
+   "domain": "radixark.com",
+   "score": 222,
+   "comments": 81,
+   "author": "de_sty",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 20,
-   "story_id": 50546914,
-   "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
-   "domain": "cam.ac.uk",
-   "score": 242,
-   "comments": 173,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50550415,
+   "title": "Genie 4 is now available",
+   "domain": "blog.google",
+   "score": 263,
+   "comments": 170,
+   "author": "leumon",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 21,
-   "story_id": 50510385,
-   "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-   "domain": "engineering.fb.com",
-   "score": 45,
-   "comments": 9,
-   "author": "acossta",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50525260,
+   "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+   "domain": "kusha.me",
+   "score": 136,
+   "comments": 50,
+   "author": "kusha",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 22,
-   "story_id": 50554973,
-   "title": "Show HN: ADE Index \u2013 a sourced and ranked index of 975 agentic coding tools",
-   "domain": "adeindex.com",
-   "score": 6,
+   "story_id": 50518303,
+   "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+   "domain": "futurumgroup.com",
+   "score": 38,
    "comments": 2,
-   "author": "jonnyasmar",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "author": "muxamilian",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 23,
-   "story_id": 50547980,
-   "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
-   "domain": "exitpath-ruddy.vercel.app",
-   "score": 172,
-   "comments": 50,
-   "author": "zerocool0101",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50548660,
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "domain": "news.ycombinator.com",
+   "score": 105,
+   "comments": 36,
+   "author": "codekarate",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 24,
-   "story_id": 50554009,
-   "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-   "domain": "investors.paloaltonetworks.com",
-   "score": 15,
-   "comments": 2,
-   "author": "alpb",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50542441,
+   "title": "Mosquitoes are Ladakh's latest tourists",
+   "domain": "ruralindiaonline.org",
+   "score": 53,
+   "comments": 14,
+   "author": "akbarnama",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 25,
-   "story_id": 50526087,
-   "title": "Collisions in Hash Functions",
-   "domain": "collisions.zksecurity.xyz",
-   "score": 6,
-   "comments": 0,
-   "author": "baby",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50557885,
+   "title": "DeepMind Employees Are Unionising",
+   "domain": "gdmunion.co.uk",
+   "score": 29,
+   "comments": 20,
+   "author": "nervai",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 26,
-   "story_id": 50554935,
-   "title": "Unreal Tournament 2004 in the Browser",
-   "domain": "ut2004.dev",
-   "score": 17,
-   "comments": 4,
-   "author": "TheAceOfHearts",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50546914,
+   "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+   "domain": "cam.ac.uk",
+   "score": 281,
+   "comments": 214,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 27,
-   "story_id": 50523377,
-   "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-   "domain": "github.com",
-   "score": 49,
-   "comments": 2,
-   "author": "aryaman_darda",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50547980,
+   "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
+   "domain": "exitpath-ruddy.vercel.app",
+   "score": 223,
+   "comments": 73,
+   "author": "zerocool0101",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 28,
-   "story_id": 50548161,
-   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-   "domain": "rshekhar.com",
-   "score": 158,
-   "comments": 34,
-   "author": "raj-shekhar",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50554009,
+   "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+   "domain": "investors.paloaltonetworks.com",
+   "score": 64,
+   "comments": 21,
+   "author": "alpb",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 29,
-   "story_id": 50524227,
-   "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
-   "domain": "science.nasa.gov",
-   "score": 34,
-   "comments": 2,
-   "author": "wawayanda",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50547583,
+   "title": "F-22 Next-Generation micro\u2013Data Transfer Cartridge (mDTC)",
+   "domain": "sam.gov",
+   "score": 184,
+   "comments": 118,
+   "author": "birdboat00",
+   "snapshot_at": "2026-11-19T11:43:55"
   },
   {
    "rank": 30,
-   "story_id": 50549188,
-   "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
-   "domain": "news.ycombinator.com",
-   "score": 44,
-   "comments": 35,
-   "author": "ashriv",
-   "snapshot_at": "2026-11-19T02:36:18"
+   "story_id": 50548161,
+   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+   "domain": "rshekhar.com",
+   "score": 210,
+   "comments": 50,
+   "author": "raj-shekhar",
+   "snapshot_at": "2026-11-19T11:43:55"
   }
  ],
  "quality": {
@@ -686,10 +686,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 8618,
-   "fct_stories": 2419
+   "stg_snapshots": 8717,
+   "fct_stories": 2442
   },
-  "newest_snapshot_at": "2026-11-19T02:36:18+00:00",
+  "newest_snapshot_at": "2026-11-19T11:43:55+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
