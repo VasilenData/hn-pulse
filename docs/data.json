@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:08:05+00:00",
+ "generated_at": "2026-11-21T19:19:31+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -164,24 +164,24 @@
   },
   {
    "day": "2026-11-21",
-   "snapshots": 2,
-   "distinct_stories": 127,
-   "avg_score": 224.8,
-   "avg_comments": 118.3
+   "snapshots": 3,
+   "distinct_stories": 154,
+   "avg_score": 236.2,
+   "avg_comments": 125.3
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 194,
-   "avg_peak_score": 134.7,
-   "total_comments": 9519
+   "stories": 197,
+   "avg_peak_score": 133.4,
+   "total_comments": 9550
   },
   {
    "domain": "twitter.com",
-   "stories": 41,
-   "avg_peak_score": 114.6,
-   "total_comments": 2644
+   "stories": 43,
+   "avg_peak_score": 109.7,
+   "total_comments": 2649
   },
   {
    "domain": "nytimes.com",
@@ -191,15 +191,15 @@
   },
   {
    "domain": "reuters.com",
-   "stories": 34,
-   "avg_peak_score": 127.8,
-   "total_comments": 4373
+   "stories": 35,
+   "avg_peak_score": 124.9,
+   "total_comments": 4374
   },
   {
    "domain": "theguardian.com",
    "stories": 34,
-   "avg_peak_score": 88.9,
-   "total_comments": 2555
+   "avg_peak_score": 93.1,
+   "total_comments": 2769
   },
   {
    "domain": "arstechnica.com",
@@ -210,8 +210,8 @@
   {
    "domain": "arxiv.org",
    "stories": 25,
-   "avg_peak_score": 87.2,
-   "total_comments": 627
+   "avg_peak_score": 89.2,
+   "total_comments": 644
   },
   {
    "domain": "youtube.com",
@@ -222,8 +222,8 @@
   {
    "domain": "bbc.com",
    "stories": 19,
-   "avg_peak_score": 69.4,
-   "total_comments": 1502
+   "avg_peak_score": 75.8,
+   "total_comments": 1574
   },
   {
    "domain": "wired.com",
@@ -245,9 +245,9 @@
   },
   {
    "domain": "tomshardware.com",
-   "stories": 15,
-   "avg_peak_score": 68.3,
-   "total_comments": 412
+   "stories": 16,
+   "avg_peak_score": 92.3,
+   "total_comments": 563
   },
   {
    "domain": "bloomberg.com",
@@ -266,57 +266,57 @@
   {
    "posted_hour_utc": 0,
    "stories": 86,
-   "avg_peak_score": 102.4
+   "avg_peak_score": 102.5
   },
   {
    "posted_hour_utc": 1,
    "stories": 78,
-   "avg_peak_score": 100.9
+   "avg_peak_score": 101.0
   },
   {
    "posted_hour_utc": 2,
-   "stories": 75,
-   "avg_peak_score": 122.0
+   "stories": 76,
+   "avg_peak_score": 121.7
   },
   {
    "posted_hour_utc": 3,
    "stories": 74,
-   "avg_peak_score": 83.7
+   "avg_peak_score": 84.4
   },
   {
    "posted_hour_utc": 4,
    "stories": 56,
-   "avg_peak_score": 102.9
+   "avg_peak_score": 103.0
   },
   {
    "posted_hour_utc": 5,
    "stories": 63,
-   "avg_peak_score": 111.2
+   "avg_peak_score": 112.7
   },
   {
    "posted_hour_utc": 6,
    "stories": 37,
-   "avg_peak_score": 154.1
+   "avg_peak_score": 156.2
   },
   {
    "posted_hour_utc": 7,
    "stories": 51,
-   "avg_peak_score": 195.7
+   "avg_peak_score": 196.1
   },
   {
    "posted_hour_utc": 8,
    "stories": 47,
-   "avg_peak_score": 101.5
+   "avg_peak_score": 105.2
   },
   {
    "posted_hour_utc": 9,
    "stories": 64,
-   "avg_peak_score": 157.1
+   "avg_peak_score": 158.3
   },
   {
    "posted_hour_utc": 10,
-   "stories": 64,
-   "avg_peak_score": 197.8
+   "stories": 65,
+   "avg_peak_score": 202.0
   },
   {
    "posted_hour_utc": 11,
@@ -325,48 +325,48 @@
   },
   {
    "posted_hour_utc": 12,
-   "stories": 91,
-   "avg_peak_score": 209.9
+   "stories": 93,
+   "avg_peak_score": 206.2
   },
   {
    "posted_hour_utc": 13,
-   "stories": 116,
-   "avg_peak_score": 185.5
+   "stories": 121,
+   "avg_peak_score": 183.9
   },
   {
    "posted_hour_utc": 14,
-   "stories": 177,
-   "avg_peak_score": 167.9
+   "stories": 181,
+   "avg_peak_score": 168.8
   },
   {
    "posted_hour_utc": 15,
-   "stories": 223,
-   "avg_peak_score": 141.6
+   "stories": 227,
+   "avg_peak_score": 143.3
   },
   {
    "posted_hour_utc": 16,
    "stories": 181,
-   "avg_peak_score": 151.6
+   "avg_peak_score": 152.4
   },
   {
    "posted_hour_utc": 17,
-   "stories": 186,
-   "avg_peak_score": 177.4
+   "stories": 192,
+   "avg_peak_score": 173.8
   },
   {
    "posted_hour_utc": 18,
-   "stories": 186,
-   "avg_peak_score": 181.4
+   "stories": 190,
+   "avg_peak_score": 179.9
   },
   {
    "posted_hour_utc": 19,
    "stories": 173,
-   "avg_peak_score": 150.6
+   "avg_peak_score": 150.8
   },
   {
    "posted_hour_utc": 20,
    "stories": 166,
-   "avg_peak_score": 113.8
+   "avg_peak_score": 115.8
   },
   {
    "posted_hour_utc": 21,
@@ -376,314 +376,314 @@
   {
    "posted_hour_utc": 22,
    "stories": 134,
-   "avg_peak_score": 136.2
+   "avg_peak_score": 136.8
   },
   {
    "posted_hour_utc": 23,
    "stories": 112,
-   "avg_peak_score": 137.7
+   "avg_peak_score": 140.8
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50579568,
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "domain": "math216.wordpress.com",
-   "score": 2115,
-   "comments": 978,
-   "author": "jasondavies",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50591853,
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "domain": "github.com",
+   "score": 80,
+   "comments": 7,
+   "author": "k__",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 2,
-   "story_id": 50574968,
-   "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "domain": "alpo.ge",
-   "score": 2662,
-   "comments": 1843,
-   "author": "iamronaldo",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50588982,
+   "title": "Detonating a pile of lead azide",
+   "domain": "science.org",
+   "score": 384,
+   "comments": 244,
+   "author": "beginning_end",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 3,
-   "story_id": 50581260,
-   "title": "Inkling 2 Mini",
-   "domain": "thinkingmachines.ai",
-   "score": 1031,
-   "comments": 194,
-   "author": "jasondavies",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50532613,
+   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+   "domain": "gov.br",
+   "score": 530,
+   "comments": 171,
+   "author": "dvaplima",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 4,
-   "story_id": 50586292,
-   "title": "ClawDOS \u2013 An AI coding agent for DOS",
-   "domain": "ricapar.net",
-   "score": 74,
-   "comments": 21,
-   "author": "Ricapar",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50589618,
+   "title": "Lean verification of the Riemann Hypothesis",
+   "domain": "leanprover-community.github.io",
+   "score": 517,
+   "comments": 407,
+   "author": "g-b-r",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 5,
-   "story_id": 50579331,
-   "title": "We promoted developers into architects without informing them",
-   "domain": "manidoraisamy.com",
-   "score": 445,
-   "comments": 245,
-   "author": "QueensGambit",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50591260,
+   "title": "PostgreSQL Extensions in Go",
+   "domain": "jespino.github.io",
+   "score": 61,
+   "comments": 2,
+   "author": "valyala",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 6,
-   "story_id": 50583274,
-   "title": "NINLIVE: The Nine Inch Nails live archive",
-   "domain": "ninlive.com",
-   "score": 268,
-   "comments": 70,
-   "author": "CharlesW",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50587875,
+   "title": "My monitor was cutting my download speed by 75%",
+   "domain": "blog.tymscar.com",
+   "score": 326,
+   "comments": 163,
+   "author": "soheilpro",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 7,
-   "story_id": 50585376,
-   "title": "Clojure will affect the way you think about programming (2017)",
-   "domain": "eli.thegreenplace.net",
-   "score": 106,
-   "comments": 32,
-   "author": "sammatilda",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50579568,
+   "title": "Hurried Announcement: Alessandro Masullo GRH",
+   "domain": "math216.wordpress.com",
+   "score": 2328,
+   "comments": 1120,
+   "author": "jasondavies",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 8,
-   "story_id": 50586648,
-   "title": "Surprisingly Adorable Insect Portraits",
-   "domain": "amateurphotographer.com",
-   "score": 52,
-   "comments": 11,
-   "author": "NordStreamYacht",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50590441,
+   "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+   "domain": "math.mit.edu",
+   "score": 38,
+   "comments": 8,
+   "author": "Bluestein",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 9,
-   "story_id": 50578358,
-   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-   "domain": "terrytao.wordpress.com",
-   "score": 453,
-   "comments": 186,
-   "author": "archon1410",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50574968,
+   "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "domain": "alpo.ge",
+   "score": 2831,
+   "comments": 2001,
+   "author": "iamronaldo",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 10,
-   "story_id": 50587208,
-   "title": "RCE in Gnupg",
-   "domain": "lists.gnupg.org",
-   "score": 19,
-   "comments": 2,
-   "author": "gdgghhhhh",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50581260,
+   "title": "Inkling 2 Mini",
+   "domain": "thinkingmachines.ai",
+   "score": 1270,
+   "comments": 257,
+   "author": "jasondavies",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 11,
-   "story_id": 50583761,
-   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-   "domain": "news.ycombinator.com",
-   "score": 220,
-   "comments": 169,
-   "author": "LetThingsBeDiff",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50577991,
+   "title": "I'm quite pleased by the tech architecture of my art website",
+   "domain": "klauria.tech",
+   "score": 89,
+   "comments": 16,
+   "author": "evakhoury",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 12,
-   "story_id": 50577265,
-   "title": "Language Models Can Rewrite Their Own Weights",
-   "domain": "arxiv.org",
-   "score": 416,
-   "comments": 123,
-   "author": "lwhsiao",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50587208,
+   "title": "RCE in Gnupg",
+   "domain": "lists.gnupg.org",
+   "score": 186,
+   "comments": 62,
+   "author": "gdgghhhhh",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 13,
-   "story_id": 50583768,
-   "title": "Sir Brian May adds new dimension to Hera asteroid",
-   "domain": "esa.int",
-   "score": 117,
-   "comments": 25,
-   "author": "mooreds",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50535228,
+   "title": "The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU",
+   "domain": "8bitarchitect.net",
+   "score": 36,
+   "comments": 9,
+   "author": "andrewstuart",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 14,
-   "story_id": 50587859,
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "domain": "bbc.com",
-   "score": 20,
-   "comments": 0,
-   "author": "theanonymousone",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50591835,
+   "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+   "domain": "economist.com",
+   "score": 97,
+   "comments": 144,
+   "author": "andsoitis",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 15,
-   "story_id": 50534387,
-   "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
-   "domain": "valkey.io",
-   "score": 141,
-   "comments": 48,
-   "author": "reconditerose",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50550015,
+   "title": "How I made a custom game engine for Satelital",
+   "domain": "spectralorbit.com",
+   "score": 10,
+   "comments": 1,
+   "author": "todsacerdoti",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 16,
-   "story_id": 50556482,
-   "title": "Fewer slides, more dragons",
-   "domain": "breakingchange.blog",
-   "score": 37,
-   "comments": 13,
-   "author": "firloop",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50546587,
+   "title": "LLMs can read and write executables byte by byte from a hex dump",
+   "domain": "sgiannopoulos.github.io",
+   "score": 120,
+   "comments": 84,
+   "author": "fortran77",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 17,
-   "story_id": 50581110,
-   "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-   "domain": "masteringemacs.org",
-   "score": 224,
-   "comments": 73,
-   "author": "facundo_olano",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50574264,
+   "title": "Deterministic Simulation Testing Is for Everyone",
+   "domain": "outdata.net",
+   "score": 54,
+   "comments": 6,
+   "author": "pgraug",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 18,
-   "story_id": 50576232,
-   "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
-   "domain": "github.com",
-   "score": 292,
-   "comments": 92,
-   "author": "trotro",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50583761,
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "domain": "news.ycombinator.com",
+   "score": 492,
+   "comments": 540,
+   "author": "LetThingsBeDiff",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 19,
-   "story_id": 50549753,
-   "title": "Acoustic parameters of bird vocalizations&their perceived pleasantness by humans",
-   "domain": "frontiersin.org",
-   "score": 3,
+   "story_id": 50532417,
+   "title": "Tropical Rainforests Species may be surprisingly young",
+   "domain": "phys.org",
+   "score": 4,
    "comments": 0,
-   "author": "bookofjoe",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "author": "PaulHoule",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 20,
-   "story_id": 50574383,
-   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
-   "domain": "theguardian.com",
-   "score": 326,
-   "comments": 600,
-   "author": "cdrnsf",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50579331,
+   "title": "We promoted developers into architects without informing them",
+   "domain": "manidoraisamy.com",
+   "score": 544,
+   "comments": 297,
+   "author": "QueensGambit",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 21,
-   "story_id": 50543887,
-   "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
-   "domain": "rockpapershotgun.com",
-   "score": 14,
-   "comments": 3,
-   "author": "Tomte",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50541047,
+   "title": "Show HN: An ASCII cell aquarium for your terminal",
+   "domain": "github.com",
+   "score": 25,
+   "comments": 10,
+   "author": "kborer",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 22,
-   "story_id": 50557025,
-   "title": "Engineer's Guide to Career Growth \u2013 Advice from My Time at Stripe and Facebook",
-   "domain": "review.firstround.com",
-   "score": 9,
-   "comments": 1,
-   "author": "kurinikku",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50588916,
+   "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+   "domain": "simple-bench.com",
+   "score": 136,
+   "comments": 121,
+   "author": "algoth1",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 23,
-   "story_id": 50587205,
-   "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
-   "domain": "alcf.anl.gov",
-   "score": 4,
-   "comments": 0,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50590279,
+   "title": "Show HN: Zero C#, Power of C# without any GC",
+   "domain": "onurgumus.github.io",
+   "score": 64,
+   "comments": 45,
+   "author": "reverseblade2",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 24,
-   "story_id": 50540342,
-   "title": "3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards",
-   "domain": "news.mongabay.com",
-   "score": 25,
-   "comments": 6,
-   "author": "rguiscard",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50578358,
+   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+   "domain": "terrytao.wordpress.com",
+   "score": 515,
+   "comments": 223,
+   "author": "archon1410",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 25,
-   "story_id": 50576012,
-   "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
-   "domain": "slopstrap.mikelacher.com",
-   "score": 289,
-   "comments": 51,
-   "author": "mlacher",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50583274,
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "domain": "ninlive.com",
+   "score": 337,
+   "comments": 92,
+   "author": "CharlesW",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 26,
-   "story_id": 50541568,
-   "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-   "domain": "trynotched.com",
-   "score": 181,
-   "comments": 116,
-   "author": "brianrhea",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50586292,
+   "title": "ClawDOS \u2013 An AI coding agent for DOS",
+   "domain": "ricapar.net",
+   "score": 138,
+   "comments": 43,
+   "author": "Ricapar",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 27,
-   "story_id": 50579297,
-   "title": "Vibecoding an inference chip",
-   "domain": "ankitg.me",
-   "score": 150,
-   "comments": 62,
-   "author": "ankitvgupta",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50585376,
+   "title": "Clojure will affect the way you think about programming (2017)",
+   "domain": "eli.thegreenplace.net",
+   "score": 179,
+   "comments": 81,
+   "author": "sammatilda",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 28,
-   "story_id": 50583856,
-   "title": "Serious cyberattack thought backed by wealthy operators",
-   "domain": "ruv.is",
-   "score": 93,
-   "comments": 46,
-   "author": "Bender",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50576012,
+   "title": "Slopstrap \u2013 Make your site look hastily vibecoded",
+   "domain": "slopstrap.mikelacher.com",
+   "score": 569,
+   "comments": 112,
+   "author": "mlacher",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 29,
-   "story_id": 50495392,
-   "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-   "domain": "simpleflying.com",
-   "score": 123,
-   "comments": 88,
-   "author": "edward",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50586648,
+   "title": "Surprisingly Adorable Insect Portraits",
+   "domain": "amateurphotographer.com",
+   "score": 129,
+   "comments": 27,
+   "author": "NordStreamYacht",
+   "snapshot_at": "2026-11-21T19:19:26"
   },
   {
    "rank": 30,
-   "story_id": 50580536,
-   "title": "Winedroid \u2013 run Android apps without Android (WASM demo)",
-   "domain": "winedroid.soham.sh",
-   "score": 152,
-   "comments": 42,
-   "author": "sohzm",
-   "snapshot_at": "2026-11-21T11:07:58"
+   "story_id": 50577265,
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "domain": "arxiv.org",
+   "score": 467,
+   "comments": 140,
+   "author": "lwhsiao",
+   "snapshot_at": "2026-11-21T19:19:26"
   }
  ],
  "quality": {
@@ -700,10 +700,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 9313,
-   "fct_stories": 2662
+   "stg_snapshots": 9413,
+   "fct_stories": 2689
   },
-  "newest_snapshot_at": "2026-11-21T11:07:58+00:00",
+  "newest_snapshot_at": "2026-11-21T19:19:26+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }

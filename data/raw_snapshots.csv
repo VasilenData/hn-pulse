@@ -9312,3 +9312,103 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-21T11:07:58+00:00,98,50585735,Muse Spark 1.3,https://dev.meta.ai/models/muse-spark,ankitg12,4,0,2026-11-21T03:49:41+00:00
 2026-11-21T11:07:58+00:00,99,50564366,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],https://www.youtube.com/watch?v=lwfewYL7X0o,sandslash,114,246,2026-11-19T18:47:16+00:00
 2026-11-21T11:07:58+00:00,100,50535504,Replacing implicit optionals with a None type in TypeDB,https://typedb.com/blog/replacing-implicit-optionals-with-a-none-type-in-typedb,flyingsilverfin,9,2,2026-11-17T18:03:18+00:00
+2026-11-21T19:19:26+00:00,1,50591853,Inkling-2-Mini in 5.4 GB Memory,https://github.com/ShinMegamiBoson/lookatmyquant,k__,80,7,2026-11-21T18:02:19+00:00
+2026-11-21T19:19:26+00:00,2,50588982,Detonating a pile of lead azide,https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really,beginning_end,384,244,2026-11-21T13:23:14+00:00
+2026-11-21T19:19:26+00:00,3,50532613,Brazil's tax authority open-sources its tax calculator on GitHub under MIT,https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria,dvaplima,530,171,2026-11-17T15:22:57+00:00
+2026-11-21T19:19:26+00:00,4,50589618,Lean verification of the Riemann Hypothesis,https://leanprover-community.github.io/blog/posts/riemann-hypothesis/,g-b-r,517,407,2026-11-21T14:36:45+00:00
+2026-11-21T19:19:26+00:00,5,50591260,PostgreSQL Extensions in Go,https://jespino.github.io/gopgext/,valyala,61,2,2026-11-21T17:08:04+00:00
+2026-11-21T19:19:26+00:00,6,50587875,My monitor was cutting my download speed by 75%,https://blog.tymscar.com/posts/studiodisplayethernet/,soheilpro,326,163,2026-11-21T10:36:32+00:00
+2026-11-21T19:19:26+00:00,7,50579568,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,jasondavies,2328,1120,2026-11-20T18:33:14+00:00
+2026-11-21T19:19:26+00:00,8,50590441,Verification files for the Lean proof of the Riemann Hypothesis,https://math.mit.edu/~drew/grh/,Bluestein,38,8,2026-11-21T15:54:34+00:00
+2026-11-21T19:19:26+00:00,9,50574968,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,iamronaldo,2831,2001,2026-11-20T14:16:21+00:00
+2026-11-21T19:19:26+00:00,10,50581260,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,jasondavies,1270,257,2026-11-20T20:12:19+00:00
+2026-11-21T19:19:26+00:00,11,50577991,I'm quite pleased by the tech architecture of my art website,https://klauria.tech/klauria-art/,evakhoury,89,16,2026-11-20T17:03:39+00:00
+2026-11-21T19:19:26+00:00,12,50587208,RCE in Gnupg,https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html,gdgghhhhh,186,62,2026-11-21T08:32:58+00:00
+2026-11-21T19:19:26+00:00,13,50535228,The Soviet Elektronika BK-0010 home computer built on a clone of the PDP-11 CPU,https://8bitarchitect.net/machines/elektronika-bk-0010/,andrewstuart,36,9,2026-11-17T17:46:37+00:00
+2026-11-21T19:19:26+00:00,14,50591835,Jensen Huang's fall is bad news for Silicon Valley's accelerationists,https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists,andsoitis,97,144,2026-11-21T17:59:59+00:00
+2026-11-21T19:19:26+00:00,15,50550015,How I made a custom game engine for Satelital,https://spectralorbit.com/blog/satelital_game_engine,todsacerdoti,10,1,2026-11-18T18:23:03+00:00
+2026-11-21T19:19:26+00:00,16,50546587,LLMs can read and write executables byte by byte from a hex dump,https://sgiannopoulos.github.io/blog/machine-code-programming/,fortran77,120,84,2026-11-18T14:15:58+00:00
+2026-11-21T19:19:26+00:00,17,50574264,Deterministic Simulation Testing Is for Everyone,https://outdata.net/blog/261120,pgraug,54,6,2026-11-20T13:19:48+00:00
+2026-11-21T19:19:26+00:00,18,50583761,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",,LetThingsBeDiff,492,540,2026-11-20T23:18:32+00:00
+2026-11-21T19:19:26+00:00,19,50532417,Tropical Rainforests Species may be surprisingly young,https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html,PaulHoule,4,0,2026-11-17T15:08:54+00:00
+2026-11-21T19:19:26+00:00,20,50579331,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,QueensGambit,544,297,2026-11-20T18:17:51+00:00
+2026-11-21T19:19:26+00:00,21,50541047,Show HN: An ASCII cell aquarium for your terminal,https://github.com/kborer/cells/,kborer,25,10,2026-11-18T02:18:29+00:00
+2026-11-21T19:19:26+00:00,22,50588916,Astra 6.2 and Sol 6.2 flop at Simple Bench,https://simple-bench.com/,algoth1,136,121,2026-11-21T13:16:12+00:00
+2026-11-21T19:19:26+00:00,23,50590279,"Show HN: Zero C#, Power of C# without any GC",https://onurgumus.github.io/zero-csharp/index.html,reverseblade2,64,45,2026-11-21T15:39:09+00:00
+2026-11-21T19:19:26+00:00,24,50578358,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/,archon1410,515,223,2026-11-20T17:21:36+00:00
+2026-11-21T19:19:26+00:00,25,50583274,NINLIVE: The Nine Inch Nails live archive,https://ninlive.com/,CharlesW,337,92,2026-11-20T22:30:47+00:00
+2026-11-21T19:19:26+00:00,26,50586292,ClawDOS – An AI coding agent for DOS,http://ricapar.net/ClawDOS/,Ricapar,138,43,2026-11-21T05:38:01+00:00
+2026-11-21T19:19:26+00:00,27,50585376,Clojure will affect the way you think about programming (2017),https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/,sammatilda,179,81,2026-11-21T02:40:39+00:00
+2026-11-21T19:19:26+00:00,28,50576012,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,mlacher,569,112,2026-11-20T15:24:11+00:00
+2026-11-21T19:19:26+00:00,29,50586648,Surprisingly Adorable Insect Portraits,https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/,NordStreamYacht,129,27,2026-11-21T06:44:14+00:00
+2026-11-21T19:19:26+00:00,30,50577265,Language Models Can Rewrite Their Own Weights,https://arxiv.org/abs/2611.21885,lwhsiao,467,140,2026-11-20T16:29:06+00:00
+2026-11-21T19:19:26+00:00,31,50574383,Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day,https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off,cdrnsf,470,814,2026-11-20T13:29:59+00:00
+2026-11-21T19:19:26+00:00,32,50583768,Sir Brian May adds new dimension to Hera asteroid,https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid,mooreds,150,38,2026-11-20T23:19:44+00:00
+2026-11-21T19:19:26+00:00,33,50592134,Countries open path towards 'killer robots' pact,https://www.afp.com/en/countries-open-path-towards-killer-robots-pact,geox,6,0,2026-11-21T18:32:56+00:00
+2026-11-21T19:19:26+00:00,34,50534387,"Valkey kills the skiplist, cuts sorted set overhead by up to 43%",https://valkey.io/blog/from-skiplist-to-b+tree/,reconditerose,188,66,2026-11-17T16:58:30+00:00
+2026-11-21T19:19:26+00:00,35,50581110,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,https://www.masteringemacs.org/article/announcing-dreamcoder,facundo_olano,265,109,2026-11-20T20:03:59+00:00
+2026-11-21T19:19:26+00:00,36,50546873,Defcon 5's California Caravan Program/Zine,https://netninja.com/2026/06/08/defcon-5s-california-caravan-program-zine/,speckx,27,2,2026-11-18T14:40:07+00:00
+2026-11-21T19:19:26+00:00,37,50576232,Finite-time blow-up for the Navier–Stokes equations,https://github.com/tristanbuckmaster/navier-stokes/,trotro,310,99,2026-11-20T15:34:31+00:00
+2026-11-21T19:19:26+00:00,38,50587859,FBI reportedly investigating apparent hack of its criminal database,https://www.bbc.com/news/articles/cvze7de86pk3o,theanonymousone,142,72,2026-11-21T10:33:57+00:00
+2026-11-21T19:19:26+00:00,39,50589184,Show HN: I made a PS1 style racing game,https://outpostracer.com,shash7,12,6,2026-11-21T13:47:45+00:00
+2026-11-21T19:19:26+00:00,40,50556482,"Fewer slides, more dragons",https://www.breakingchange.blog/p/fewer-slides-more-dragons,firloop,64,25,2026-11-19T05:46:36+00:00
+2026-11-21T19:19:26+00:00,41,50541568,Show HN: Tinnitus frequency finder and audio notch tool,https://trynotched.com/find,brianrhea,207,131,2026-11-18T03:40:01+00:00
+2026-11-21T19:19:26+00:00,42,50495392,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/,edward,135,104,2026-11-14T09:13:24+00:00
+2026-11-21T19:19:26+00:00,43,50583856,Serious cyberattack thought backed by wealthy operators,https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411,Bender,136,73,2026-11-20T23:29:30+00:00
+2026-11-21T19:19:26+00:00,44,50579297,Vibecoding an inference chip,https://ankitg.me/blog/vibecoding-inference-chip/,ankitvgupta,169,70,2026-11-20T18:15:16+00:00
+2026-11-21T19:19:26+00:00,45,50580536,Winedroid – run Android apps without Android (WASM demo),https://winedroid.soham.sh/demo/,sohzm,175,46,2026-11-20T19:30:16+00:00
+2026-11-21T19:19:26+00:00,46,50521550,I can’t believe it’s 1,https://aperiodical.com/2026/11/i-cant-believe-its-1/,ColinWright,76,75,2026-11-16T19:07:13+00:00
+2026-11-21T19:19:26+00:00,47,50591875,FBI Criminal Database Hacked,https://www.france24.com/en/fbi-criminal-database-hacked,Betelbuddy,7,0,2026-11-21T18:05:09+00:00
+2026-11-21T19:19:26+00:00,48,50589452,Battery storage in Great Britain: how a grid battery makes money,https://a115.co.uk/battery-storage-revenues/,a115ltd,5,0,2026-11-21T14:18:51+00:00
+2026-11-21T19:19:26+00:00,49,50526023,Show HN: I made an audio-to-MIDI model 60x more efficient,https://kobi.music/research/dettato,hidude562,290,65,2026-11-17T01:03:05+00:00
+2026-11-21T19:19:26+00:00,50,50581084,The stochastic parrots have apparently proved the Riemann Hypothesis,https://scottaaronson.blog/?p=10344,stratos123,333,304,2026-11-20T20:03:07+00:00
+2026-11-21T19:19:26+00:00,51,50589235,Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code,https://github.com/natsu0529/agent-mcts,natsu529,7,0,2026-11-21T13:53:08+00:00
+2026-11-21T19:19:26+00:00,52,50572355,"If you can't explain something in simple terms, you don't understand it (2017)",https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it,sammatilda,689,316,2026-11-20T09:43:19+00:00
+2026-11-21T19:19:26+00:00,53,50572503,"Frostbite: A new CPU architecture discovered, designed and verified by AI",https://architectlabs.com/blog/frostbite,shioyama,663,351,2026-11-20T10:01:41+00:00
+2026-11-21T19:19:26+00:00,54,50591185,K-I-L-L-M-E-N-O-W,https://twitter.com/GrapheneOS/status/2124155903729639818,miohtama,12,4,2026-11-21T17:00:05+00:00
+2026-11-21T19:19:26+00:00,55,50587205,Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize,https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize,rbanffy,11,0,2026-11-21T08:32:34+00:00
+2026-11-21T19:19:26+00:00,56,50563148,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,cybermango,565,273,2026-11-19T17:30:44+00:00
+2026-11-21T19:19:26+00:00,57,50577613,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",,proberts,121,178,2026-11-20T16:45:25+00:00
+2026-11-21T19:19:26+00:00,58,50540342,3-legged Persian leopard's 150-mile journey highlights Caucasus border hazards,https://news.mongabay.com/short-article/2026/11/three-legged-persian-leopards-150-mile-journey-highlights-caucasus-border-hazards/,rguiscard,31,6,2026-11-18T00:39:18+00:00
+2026-11-21T19:19:26+00:00,59,50572822,The Making of Oxygene,https://jeanmicheljarre.com/aaa/the-making-of-oxygene,hggh,216,77,2026-11-20T10:41:10+00:00
+2026-11-21T19:19:26+00:00,60,50572348,Restricting AI agents in mobile operating systems platforms from capturing data,https://signal.org/blog/protecting-your-privacy/,dotcoma,566,333,2026-11-20T09:42:16+00:00
+2026-11-21T19:19:26+00:00,61,50591780,GrapheneOS made a proof of concept RCS messaging app without Google Messages,https://twitter.com/GrapheneOS/status/2124158267123233056,iloveyoutwo,5,1,2026-11-21T17:54:38+00:00
+2026-11-21T19:19:26+00:00,62,50583117,The Hungry Butler Effect: Concealed Commercial Incentives in LLMs,https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models,undefinedmethod,50,19,2026-11-20T22:18:20+00:00
+2026-11-21T19:19:26+00:00,63,50560595,Floppy3.5: A portable 3.5-inch floppy WiFi NAS,https://github.com/bigcrimping/floppy3.5,fortran77,151,61,2026-11-19T14:29:49+00:00
+2026-11-21T19:19:26+00:00,64,50543887,Microsoft's SideWinder Strategic Commander was a failed attempt,https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it,Tomte,25,9,2026-11-18T09:18:11+00:00
+2026-11-21T19:19:26+00:00,65,50549753,Acoustic parameters of bird vocalizations&their perceived pleasantness by humans,https://www.frontiersin.org/journals/bird-science/articles/10.3389/fbirs.2026.1794594/full,bookofjoe,7,0,2026-11-18T18:03:35+00:00
+2026-11-21T19:19:26+00:00,66,50585593,Backblaze Notice at Collection and Privacy Policy,https://www.backblaze.com/company/policy/privacy,meysamazad,223,80,2026-11-21T03:23:16+00:00
+2026-11-21T19:19:26+00:00,67,50527444,The G1 Garbage Collector,https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/,ejboy,114,73,2026-11-17T04:29:07+00:00
+2026-11-21T19:19:26+00:00,68,50569998,FFmpeg 9.1 'Gauss',https://ffmpeg.org/download.html#release_9.1,gyan,302,36,2026-11-20T04:02:39+00:00
+2026-11-21T19:19:26+00:00,69,50581438,US SEC's Nvidia probe is examining potential accounting issues – sources,https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627,ftchd,297,162,2026-11-20T20:22:41+00:00
+2026-11-21T19:19:26+00:00,70,50572448,"What people are building, discovered through new domains",https://startups.novumsignals.com/,walterschnitzel,167,76,2026-11-20T09:54:33+00:00
+2026-11-21T19:19:26+00:00,71,50559116,Worlds largest beaver dam in Northern Alberta,https://substack.com/@canadianreturnee/note/c-319574497,bookofjoe,38,9,2026-11-19T12:14:27+00:00
+2026-11-21T19:19:26+00:00,72,50581403,Show HN: OpenComputer – an open source alternative to Devin,https://github.com/diggerhq/opencomputer,iacguy,112,36,2026-11-20T20:19:56+00:00
+2026-11-21T19:19:26+00:00,73,50577872,AI is giving everyone the same advice,https://a90.com/experiments/same-advice/,amin,110,45,2026-11-20T16:58:05+00:00
+2026-11-21T19:19:26+00:00,74,50581177,"And yet, it moves",https://signoregalilei.com/2026/11/20/and-yet-it-moves/,notfried,164,112,2026-11-20T20:07:55+00:00
+2026-11-21T19:19:26+00:00,75,50570628,Jujutsu Primer,https://ethanlowman.com/posts/jj-primer/,renehsz,205,188,2026-11-20T05:46:01+00:00
+2026-11-21T19:19:26+00:00,76,50588647,Anthropic's IPO bank closed position meant to stabilize stock,https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20,anon373839,26,1,2026-11-21T12:43:24+00:00
+2026-11-21T19:19:26+00:00,77,50557025,Engineer's Guide to Career Growth – Advice from My Time at Stripe and Facebook,https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/,kurinikku,30,11,2026-11-19T07:25:57+00:00
+2026-11-21T19:19:26+00:00,78,50561199,Show HN: Fast deterministic natural language search for OpenStreetMap data,https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935,vihren,136,40,2026-11-19T15:16:02+00:00
+2026-11-21T19:19:26+00:00,79,50564684,"Show HN: LZ0 -An asymmetric LZ compressor with ultra minimal, 0-alloc decoder",https://github.com/seb3773/lz0,seb3773,20,5,2026-11-19T19:07:04+00:00
+2026-11-21T19:19:26+00:00,80,50588396,"Anyone can easily use private, open weight models",https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/,DeepLogin,25,7,2026-11-21T12:11:54+00:00
+2026-11-21T19:19:26+00:00,81,50569516,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,craigkerstiens,180,29,2026-11-20T02:43:49+00:00
+2026-11-21T19:19:26+00:00,82,50576855,I'll never buy Framework hardware again,https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/,unchar1,813,612,2026-11-20T16:06:30+00:00
+2026-11-21T19:19:26+00:00,83,50572116,Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019),https://ecohustler.com/article/one-corporation-to-pollute-them-all/,sammatilda,538,337,2026-11-20T09:13:09+00:00
+2026-11-21T19:19:26+00:00,84,50578233,Running two PSP emulators on one Switch 2 and sharing one via GameShare,https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md,khalidkhair,60,0,2026-11-20T17:14:03+00:00
+2026-11-21T19:19:26+00:00,85,50562320,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,D_R_Farrell,125,85,2026-11-19T16:34:04+00:00
+2026-11-21T19:19:26+00:00,86,50545818,µ-Wire – USB on an ATtiny 10,https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/,mofosyne,126,20,2026-11-18T13:02:08+00:00
+2026-11-21T19:19:26+00:00,87,50532515,"Show HN: An API for word timestamps from speech, 75% within 20ms",https://quebec.yarn.so,jasperstory,78,11,2026-11-17T15:16:45+00:00
+2026-11-21T19:19:26+00:00,88,50557661,"Do not buy RAM, compress",https://curiousbits.nl/blog/do-not-buy-ram-compress/,Ecno92,333,271,2026-11-19T08:56:47+00:00
+2026-11-21T19:19:26+00:00,89,50567209,Synology Security Advisory,https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21,choult,187,147,2026-11-19T22:13:40+00:00
+2026-11-21T19:19:26+00:00,90,50559749,Show HN: Foolscap – a writing app that reads your book and never writes for you,https://foolscap.works/,atugard,124,94,2026-11-19T13:21:20+00:00
+2026-11-21T19:19:26+00:00,91,50569519,What Comes After AGI?,https://institute.deepmind.com/essays/what-comes-after-agi/,jdkee,171,336,2026-11-20T02:44:13+00:00
+2026-11-21T19:19:26+00:00,92,50578117,PostgreSQL 19: A hands-on tour with runnable browser examples,https://certuvia.com/blog/postgres-19,petrpravda,49,4,2026-11-20T17:08:56+00:00
+2026-11-21T19:19:26+00:00,93,50573886,"If you stop writing code, you also get worse at reviewing it",https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/,theanonymousone,371,177,2026-11-20T12:41:38+00:00
+2026-11-21T19:19:26+00:00,94,50584429,I Don't Trust Visual Recordings Anymore. But One Day I Will Again,https://spectrum.ieee.org/fighting-back-against-deep-fakes,jnord,35,12,2026-11-21T00:33:40+00:00
+2026-11-21T19:19:26+00:00,95,50575644,Why there are still no non-WebKit browsers on iOS,https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/,lapcat,365,219,2026-11-20T15:03:31+00:00
+2026-11-21T19:19:26+00:00,96,50519231,Garage Door Spam,https://blog.harrison.page/garage-door-spam/,harrisonpage,917,401,2026-11-16T16:13:36+00:00
+2026-11-21T19:19:26+00:00,97,50569890,PostgreSQL 19,https://www.postgresql.org/docs/release/19.0/,linzhangrun,390,30,2026-11-20T03:45:45+00:00
+2026-11-21T19:19:26+00:00,98,50583134,Merkle Tree Certificates,https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/,mooreds,36,9,2026-11-20T22:19:23+00:00
+2026-11-21T19:19:26+00:00,99,50551619,How to Bypass Rust's Orphan Rule,https://edvong.com/bypass-orphan-rule/,todsacerdoti,40,6,2026-11-18T20:22:06+00:00
+2026-11-21T19:19:26+00:00,100,50568861,Vint Cerf on why TCP/IP was never patented,https://seremot.com/p/vint-cerf-on-why-tcpip-was-never,emot,162,95,2026-11-20T01:06:12+00:00
