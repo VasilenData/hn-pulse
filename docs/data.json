@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T01:22:24+00:00",
+ "generated_at": "2026-11-22T11:29:57+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -171,18 +171,18 @@
   },
   {
    "day": "2026-11-22",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 269.3,
-   "avg_comments": 143.4
+   "snapshots": 2,
+   "distinct_stories": 124,
+   "avg_score": 275.6,
+   "avg_comments": 145.8
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 198,
-   "avg_peak_score": 134.5,
-   "total_comments": 9655
+   "stories": 204,
+   "avg_peak_score": 133.2,
+   "total_comments": 9882
   },
   {
    "domain": "twitter.com",
@@ -199,8 +199,8 @@
   {
    "domain": "theguardian.com",
    "stories": 36,
-   "avg_peak_score": 105.7,
-   "total_comments": 2964
+   "avg_peak_score": 119.4,
+   "total_comments": 3107
   },
   {
    "domain": "reuters.com",
@@ -216,21 +216,21 @@
   },
   {
    "domain": "arxiv.org",
-   "stories": 25,
-   "avg_peak_score": 89.7,
-   "total_comments": 645
+   "stories": 26,
+   "avg_peak_score": 87.0,
+   "total_comments": 648
   },
   {
    "domain": "youtube.com",
-   "stories": 22,
-   "avg_peak_score": 104.5,
-   "total_comments": 1691
+   "stories": 23,
+   "avg_peak_score": 101.5,
+   "total_comments": 1703
   },
   {
    "domain": "bbc.com",
    "stories": 20,
-   "avg_peak_score": 74.5,
-   "total_comments": 1599
+   "avg_peak_score": 75.0,
+   "total_comments": 1608
   },
   {
    "domain": "wired.com",
@@ -272,58 +272,58 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 88,
-   "avg_peak_score": 100.4
+   "stories": 90,
+   "avg_peak_score": 103.2
   },
   {
    "posted_hour_utc": 1,
    "stories": 79,
-   "avg_peak_score": 99.9
+   "avg_peak_score": 100.0
   },
   {
    "posted_hour_utc": 2,
-   "stories": 76,
-   "avg_peak_score": 122.2
+   "stories": 78,
+   "avg_peak_score": 122.4
   },
   {
    "posted_hour_utc": 3,
-   "stories": 74,
-   "avg_peak_score": 84.7
+   "stories": 78,
+   "avg_peak_score": 81.9
   },
   {
    "posted_hour_utc": 4,
-   "stories": 56,
-   "avg_peak_score": 103.1
+   "stories": 58,
+   "avg_peak_score": 110.0
   },
   {
    "posted_hour_utc": 5,
-   "stories": 63,
-   "avg_peak_score": 113.1
+   "stories": 64,
+   "avg_peak_score": 112.4
   },
   {
    "posted_hour_utc": 6,
-   "stories": 37,
-   "avg_peak_score": 156.7
+   "stories": 38,
+   "avg_peak_score": 153.8
   },
   {
    "posted_hour_utc": 7,
    "stories": 52,
-   "avg_peak_score": 192.4
+   "avg_peak_score": 192.5
   },
   {
    "posted_hour_utc": 8,
-   "stories": 47,
-   "avg_peak_score": 106.3
+   "stories": 49,
+   "avg_peak_score": 105.9
   },
   {
    "posted_hour_utc": 9,
-   "stories": 64,
-   "avg_peak_score": 158.8
+   "stories": 65,
+   "avg_peak_score": 157.0
   },
   {
    "posted_hour_utc": 10,
-   "stories": 65,
-   "avg_peak_score": 205.0
+   "stories": 66,
+   "avg_peak_score": 204.2
   },
   {
    "posted_hour_utc": 11,
@@ -332,38 +332,38 @@
   },
   {
    "posted_hour_utc": 12,
-   "stories": 93,
-   "avg_peak_score": 206.2
+   "stories": 94,
+   "avg_peak_score": 204.1
   },
   {
    "posted_hour_utc": 13,
-   "stories": 121,
-   "avg_peak_score": 185.7
+   "stories": 122,
+   "avg_peak_score": 185.5
   },
   {
    "posted_hour_utc": 14,
-   "stories": 182,
-   "avg_peak_score": 170.5
+   "stories": 183,
+   "avg_peak_score": 171.7
   },
   {
    "posted_hour_utc": 15,
    "stories": 227,
-   "avg_peak_score": 145.9
+   "avg_peak_score": 147.0
   },
   {
    "posted_hour_utc": 16,
-   "stories": 183,
-   "avg_peak_score": 151.3
+   "stories": 184,
+   "avg_peak_score": 150.7
   },
   {
    "posted_hour_utc": 17,
-   "stories": 192,
-   "avg_peak_score": 174.8
+   "stories": 193,
+   "avg_peak_score": 174.4
   },
   {
    "posted_hour_utc": 18,
    "stories": 191,
-   "avg_peak_score": 181.5
+   "avg_peak_score": 182.7
   },
   {
    "posted_hour_utc": 19,
@@ -372,325 +372,325 @@
   },
   {
    "posted_hour_utc": 20,
-   "stories": 167,
-   "avg_peak_score": 116.1
+   "stories": 168,
+   "avg_peak_score": 116.2
   },
   {
    "posted_hour_utc": 21,
-   "stories": 145,
-   "avg_peak_score": 168.8
+   "stories": 146,
+   "avg_peak_score": 171.5
   },
   {
    "posted_hour_utc": 22,
-   "stories": 139,
-   "avg_peak_score": 133.5
+   "stories": 140,
+   "avg_peak_score": 134.5
   },
   {
    "posted_hour_utc": 23,
-   "stories": 115,
-   "avg_peak_score": 138.7
+   "stories": 116,
+   "avg_peak_score": 138.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50582069,
-   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-   "domain": "theguardian.com",
-   "score": 583,
-   "comments": 140,
-   "author": "rafaelc",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50596133,
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "domain": "caranddriver.com",
+   "score": 556,
+   "comments": 343,
+   "author": "zdw",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 2,
-   "story_id": 50589618,
-   "title": "Lean verification of the Riemann Hypothesis",
-   "domain": "leanprover-community.github.io",
-   "score": 822,
-   "comments": 664,
-   "author": "g-b-r",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50582069,
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "domain": "theguardian.com",
+   "score": 1046,
+   "comments": 224,
+   "author": "rafaelc",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 3,
-   "story_id": 50591853,
-   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "story_id": 50533945,
+   "title": "A real Linux kernel, compiled to WebAssembly",
    "domain": "github.com",
-   "score": 349,
-   "comments": 91,
-   "author": "k__",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "score": 28,
+   "comments": 5,
+   "author": "DonAtimator",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 4,
-   "story_id": 50532613,
-   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-   "domain": "gov.br",
-   "score": 745,
-   "comments": 239,
-   "author": "dvaplima",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50589618,
+   "title": "Lean verification of the Riemann Hypothesis",
+   "domain": "leanprover-community.github.io",
+   "score": 1054,
+   "comments": 877,
+   "author": "g-b-r",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 5,
-   "story_id": 50588982,
-   "title": "Detonating a pile of lead azide",
-   "domain": "science.org",
-   "score": 515,
-   "comments": 345,
-   "author": "beginning_end",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 6,
-   "story_id": 50594132,
-   "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-   "domain": "github.com",
-   "score": 50,
-   "comments": 5,
-   "author": "sebaandrada",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 7,
-   "story_id": 50583028,
-   "title": "Getting the mind to steer the body to steer you",
-   "domain": "notnottalmud.substack.com",
-   "score": 143,
-   "comments": 52,
-   "author": "jger15",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 8,
-   "story_id": 50587875,
-   "title": "My monitor was cutting my download speed by 75%",
-   "domain": "blog.tymscar.com",
-   "score": 482,
-   "comments": 231,
-   "author": "soheilpro",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 9,
-   "story_id": 50593737,
-   "title": "Advice for the next 100 Rust GUIs",
-   "domain": "linebender.org",
-   "score": 78,
-   "comments": 7,
-   "author": "raphlinus",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 10,
-   "story_id": 50591260,
-   "title": "PostgreSQL Extensions in Go",
-   "domain": "jespino.github.io",
-   "score": 117,
-   "comments": 20,
-   "author": "valyala",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 11,
-   "story_id": 50593481,
-   "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-   "domain": "pandex.io",
-   "score": 27,
-   "comments": 4,
-   "author": "vasie",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 12,
-   "story_id": 50593637,
-   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-   "domain": "jna.uni-kiel.de",
-   "score": 26,
-   "comments": 11,
-   "author": "marojejian",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 13,
-   "story_id": 50581260,
-   "title": "Inkling 2 Mini",
-   "domain": "thinkingmachines.ai",
-   "score": 1384,
-   "comments": 280,
-   "author": "jasondavies",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 15,
-   "story_id": 50560203,
-   "title": "Windows has two settings that bring work back after restart, both off by default",
-   "domain": "makeuseof.com",
-   "score": 34,
-   "comments": 31,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 16,
-   "story_id": 50592097,
-   "title": "Upload2Shell (CVE-2026-125396)",
-   "domain": "pwn.ai",
-   "score": 77,
-   "comments": 29,
-   "author": "f311a",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 17,
-   "story_id": 50532417,
-   "title": "Tropical Rainforests Species may be surprisingly young",
-   "domain": "phys.org",
-   "score": 40,
-   "comments": 18,
-   "author": "PaulHoule",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 18,
-   "story_id": 50590279,
-   "title": "Show HN: Zero C# \u2013 C# without a runtime or GC",
-   "domain": "onurgumus.github.io",
-   "score": 126,
-   "comments": 96,
-   "author": "reverseblade2",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 19,
-   "story_id": 50533517,
-   "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-   "domain": "geoawesome.com",
-   "score": 31,
-   "comments": 37,
-   "author": "chippy",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 20,
-   "story_id": 50590441,
-   "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-   "domain": "math.mit.edu",
-   "score": 92,
-   "comments": 36,
-   "author": "Bluestein",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 21,
-   "story_id": 50546495,
-   "title": "Exponential Behavior in Magic: The Gathering",
-   "domain": "levineuwirth.org",
-   "score": 89,
-   "comments": 62,
-   "author": "neuwirth",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 22,
-   "story_id": 50553223,
-   "title": "Shaping the Loops, Closing the Loops",
-   "domain": "revyl.com",
-   "score": 3,
-   "comments": 2,
-   "author": "based0x10",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 23,
    "story_id": 50594911,
    "title": "Sandwich Simulator",
    "domain": "stulle.app",
-   "score": 6,
-   "comments": 0,
+   "score": 287,
+   "comments": 93,
    "author": "subdomain",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 6,
+   "story_id": 50597743,
+   "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+   "domain": "arxiv.org",
+   "score": 13,
+   "comments": 1,
+   "author": "rzk",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 7,
+   "story_id": 50591853,
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "domain": "github.com",
+   "score": 477,
+   "comments": 119,
+   "author": "k__",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 8,
+   "story_id": 50596664,
+   "title": "Show HN: The Riemann Proof Handbook",
+   "domain": "github.com",
+   "score": 55,
+   "comments": 23,
+   "author": "tamnd",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 9,
+   "story_id": 50595554,
+   "title": "Data Processing Incidents on Inference Providers",
+   "domain": "openrouter.ai",
+   "score": 166,
+   "comments": 65,
+   "author": "sdko",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 10,
+   "story_id": 50588982,
+   "title": "Detonating a pile of lead azide",
+   "domain": "science.org",
+   "score": 622,
+   "comments": 391,
+   "author": "beginning_end",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 11,
+   "story_id": 50596960,
+   "title": "Notes on the discrete Fourier transform (DFT)",
+   "domain": "eli.thegreenplace.net",
+   "score": 35,
+   "comments": 5,
+   "author": "kouosi",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 12,
+   "story_id": 50583028,
+   "title": "Getting the mind to steer the body to steer you",
+   "domain": "notnottalmud.substack.com",
+   "score": 288,
+   "comments": 98,
+   "author": "jger15",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 13,
+   "story_id": 50569846,
+   "title": "If tiny 'primordial' black holes exist",
+   "domain": "phys.org",
+   "score": 38,
+   "comments": 16,
+   "author": "wglb",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 14,
+   "story_id": 50596155,
+   "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+   "domain": "github.com",
+   "score": 44,
+   "comments": 27,
+   "author": "BaselAshraf81",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 15,
+   "story_id": 50587875,
+   "title": "My monitor was cutting my download speed by 75%",
+   "domain": "blog.tymscar.com",
+   "score": 595,
+   "comments": 277,
+   "author": "soheilpro",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 16,
+   "story_id": 50559820,
+   "title": "Is 'fork' missing operation in sandboxes?",
+   "domain": "avrea.com",
+   "score": 9,
+   "comments": 5,
+   "author": "damezumari",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 17,
+   "story_id": 50594132,
+   "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+   "domain": "github.com",
+   "score": 122,
+   "comments": 18,
+   "author": "sebaandrada",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 18,
+   "story_id": 50597612,
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "domain": "betterdatacenterproject.com",
+   "score": 162,
+   "comments": 213,
+   "author": "happosai",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 19,
+   "story_id": 50566495,
+   "title": "Self-hosted library branch over public web OPDS",
+   "domain": "joinmayberry.com",
+   "score": 4,
+   "comments": 0,
+   "author": "philips",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 20,
+   "story_id": 50554572,
+   "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+   "domain": "devsh0.github.io",
+   "score": 13,
+   "comments": 0,
+   "author": "todsacerdoti",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 21,
+   "story_id": 50593481,
+   "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
+   "domain": "pandex.io",
+   "score": 99,
+   "comments": 24,
+   "author": "vasie",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 22,
+   "story_id": 50595537,
+   "title": "The Mythology of Conscious AI",
+   "domain": "noemamag.com",
+   "score": 76,
+   "comments": 157,
+   "author": "Anon84",
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 23,
+   "story_id": 50560314,
+   "title": "Split Radiance Cascades",
+   "domain": "jacktollenaar.top",
+   "score": 38,
+   "comments": 0,
+   "author": "ibobev",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 24,
-   "story_id": 50587208,
-   "title": "RCE in Gnupg",
-   "domain": "lists.gnupg.org",
-   "score": 231,
-   "comments": 93,
-   "author": "gdgghhhhh",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50593737,
+   "title": "Advice for the next 100 Rust GUIs",
+   "domain": "linebender.org",
+   "score": 176,
+   "comments": 74,
+   "author": "raphlinus",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 25,
-   "story_id": 50546587,
-   "title": "LLMs can read and write executables byte by byte from a hex dump",
-   "domain": "sgiannopoulos.github.io",
-   "score": 190,
-   "comments": 123,
-   "author": "fortran77",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50592097,
+   "title": "Upload2Shell (CVE-2026-125396)",
+   "domain": "pwn.ai",
+   "score": 125,
+   "comments": 61,
+   "author": "f311a",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 26,
-   "story_id": 50575644,
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "domain": "blog.mozilla.org",
-   "score": 481,
-   "comments": 269,
-   "author": "lapcat",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50546587,
+   "title": "LLMs can read and write executables byte by byte from a hex dump",
+   "domain": "sgiannopoulos.github.io",
+   "score": 257,
+   "comments": 160,
+   "author": "fortran77",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 27,
-   "story_id": 50583761,
-   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-   "domain": "news.ycombinator.com",
-   "score": 609,
-   "comments": 679,
-   "author": "LetThingsBeDiff",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50587208,
+   "title": "GnuPG Security Advisory for GPGME",
+   "domain": "lists.gnupg.org",
+   "score": 257,
+   "comments": 106,
+   "author": "gdgghhhhh",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 28,
-   "story_id": 50577991,
-   "title": "I'm quite pleased by the tech architecture of my art website",
-   "domain": "klauria.tech",
-   "score": 147,
-   "comments": 33,
-   "author": "evakhoury",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 29,
    "story_id": 50579568,
    "title": "Hurried Announcement: Alessandro Masullo GRH",
    "domain": "math216.wordpress.com",
-   "score": 2389,
-   "comments": 1160,
+   "score": 2424,
+   "comments": 1178,
    "author": "jasondavies",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "snapshot_at": "2026-11-22T11:29:52"
+  },
+  {
+   "rank": 29,
+   "story_id": 50487155,
+   "title": "Show HN: Compile the same source for GPUs and CPUs",
+   "domain": "github.com",
+   "score": 16,
+   "comments": 2,
+   "author": "spacedcowboy",
+   "snapshot_at": "2026-11-22T11:29:52"
   },
   {
    "rank": 30,
-   "story_id": 50548136,
-   "title": "Context-Generic Programming v0.8.0 \u2013 Pluggable trait implementations for Rust",
-   "domain": "contextgeneric.dev",
-   "score": 19,
-   "comments": 0,
-   "author": "maybevoid",
-   "snapshot_at": "2026-11-22T01:22:19"
-  },
-  {
-   "rank": 31,
-   "story_id": 50594564,
-   "title": "International UN talks on controlling use of autonomous weapons collapse",
-   "domain": "theguardian.com",
-   "score": 32,
-   "comments": 5,
-   "author": "nephihaha",
-   "snapshot_at": "2026-11-22T01:22:19"
+   "story_id": 50591260,
+   "title": "PostgreSQL Extensions in Go",
+   "domain": "jespino.github.io",
+   "score": 154,
+   "comments": 25,
+   "author": "valyala",
+   "snapshot_at": "2026-11-22T11:29:52"
   }
  ],
  "quality": {
@@ -707,10 +707,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 9512,
-   "fct_stories": 2711
+   "stg_snapshots": 9611,
+   "fct_stories": 2736
   },
-  "newest_snapshot_at": "2026-11-22T01:22:19+00:00",
+  "newest_snapshot_at": "2026-11-22T11:29:52+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
