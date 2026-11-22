@@ -9610,3 +9610,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-22T11:29:52+00:00,98,50562320,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,D_R_Farrell,125,85,2026-11-19T16:34:04+00:00
 2026-11-22T11:29:52+00:00,99,50569516,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,craigkerstiens,181,29,2026-11-20T02:43:49+00:00
 2026-11-22T11:29:52+00:00,100,50589452,Battery storage in Great Britain: how a grid battery makes money,https://a115.co.uk/battery-storage-revenues/,a115ltd,17,2,2026-11-21T14:18:51+00:00
+2026-11-22T19:44:03+00:00,1,50601525,Perplexity and Intelligence,https://openai.com/index/perplexity-and-intelligence/,acossta,240,166,2026-11-22T17:06:27+00:00
+2026-11-22T19:44:03+00:00,2,50596133,"Toyota, Nissan, and Honda to standardize parts to lower costs",https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/,zdw,1044,621,2026-11-22T04:04:56+00:00
+2026-11-22T19:44:03+00:00,3,50599762,Show HN: I built a game where you are an LLM's subagent,https://github.com/gulivan/worker755,ivantgam,182,46,2026-11-22T13:56:58+00:00
+2026-11-22T19:44:03+00:00,4,50600511,Open Social Web Alliance,https://osw-alliance.net/en/,doener,156,157,2026-11-22T15:24:32+00:00
+2026-11-22T19:44:03+00:00,5,50600622,"I joined the NTP Pool, but not with my Stratum 1 Pi",https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/,fortran77,66,18,2026-11-22T15:35:24+00:00
+2026-11-22T19:44:03+00:00,6,50582069,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib,rafaelc,1293,276,2026-11-20T21:03:12+00:00
+2026-11-22T19:44:03+00:00,7,50594182,A Better Vocabulary for Testing,https://alperenkeles.com/posts/vocab-for-testing/,alpaylan,67,18,2026-11-21T22:15:39+00:00
+2026-11-22T19:44:03+00:00,8,50562207,Inside PyPy: First Contact with RPython,https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/,lumpa,29,4,2026-11-19T16:26:51+00:00
+2026-11-22T19:44:03+00:00,9,50600521,Fascism and Monopoly,https://repository.law.umich.edu/mlr/vol118/iss7/2/,doener,31,8,2026-11-22T15:25:29+00:00
+2026-11-22T19:44:03+00:00,10,50559441,The Transvoxel Algorithm,https://transvoxel.org/,klaussilveira,24,1,2026-11-19T12:50:25+00:00
+2026-11-22T19:44:03+00:00,11,50602660,Dirac's Theorem at a Dinner Party,https://prideout.net/blog/dirac-dinner-party/,prideout,3,0,2026-11-22T18:50:27+00:00
+2026-11-22T19:44:03+00:00,12,50602847,Canada recommits to federal funding for news,https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/,DeepLogin,66,29,2026-11-22T19:10:38+00:00
+2026-11-22T19:44:03+00:00,13,50594911,Sandwich Simulator,https://stulle.app/,subdomain,504,175,2026-11-22T00:07:59+00:00
+2026-11-22T19:44:03+00:00,14,50599309,Testing Terraform with AWS Emulator,https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/,meysamazad,33,4,2026-11-22T13:00:36+00:00
+2026-11-22T19:44:03+00:00,15,50597612,87% of the Anthropic power will come from gas and 11% from coal in 2028,https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/,happosai,657,717,2026-11-22T08:57:34+00:00
+2026-11-22T19:44:03+00:00,16,50566495,Self-hosted library branch over public web OPDS,https://joinmayberry.com/,philips,95,28,2026-11-19T21:15:47+00:00
+2026-11-22T19:44:03+00:00,17,50600677,Europe weakens chemical rules as science links them to 'lifestyle diseases',https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html,atmosx,117,99,2026-11-22T15:42:40+00:00
+2026-11-22T19:44:03+00:00,18,50591853,Inkling-2-Mini in 5.4 GB Memory,https://github.com/ShinMegamiBoson/lookatmyquant,k__,551,132,2026-11-21T18:02:19+00:00
+2026-11-22T19:44:03+00:00,19,50600435,Backblaze customers worried of personal data sale/sharing after policy update,https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/,cube00,86,43,2026-11-22T15:16:02+00:00
+2026-11-22T19:44:03+00:00,20,50597959,Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator,https://simonwillison.net/2026/Nov/21/muru/,joshcsimmons,57,9,2026-11-22T09:57:01+00:00
+2026-11-22T19:44:03+00:00,21,50566886,What Makes UltraSMR Different?,https://blog.westerndigital.com/what-is-ultrasmr-technology/,bluedino,20,22,2026-11-19T21:44:50+00:00
+2026-11-22T19:44:03+00:00,22,50556249,Agentics: Mushy Software,https://12gramsofcarbon.com/p/agentics-mushy-software,theahura,4,0,2026-11-19T05:02:09+00:00
+2026-11-22T19:44:03+00:00,23,50595554,Data Processing Incidents on Inference Providers,https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/,sdko,260,88,2026-11-22T02:14:14+00:00
+2026-11-22T19:44:03+00:00,24,50596960,Notes on the discrete Fourier transform (DFT),https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/,kouosi,85,11,2026-11-22T06:52:25+00:00
+2026-11-22T19:44:03+00:00,25,50596155,Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow,https://github.com/EL4CTEO/fast-anything,BaselAshraf81,161,121,2026-11-22T04:10:09+00:00
+2026-11-22T19:44:03+00:00,26,50555002,Ask HN: Tips for transitioning from web development to embedded/firmware?,,llmblockchain,71,52,2026-11-19T01:37:45+00:00
+2026-11-22T19:44:03+00:00,27,50583028,Getting the mind to steer the body to steer you,https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body,jger15,381,149,2026-11-20T22:11:05+00:00
+2026-11-22T19:44:03+00:00,28,50551397,The Where's Waldo of the 1500s,https://blog.alexbeals.com/posts/il-civetta,speckx,56,9,2026-11-18T20:04:28+00:00
+2026-11-22T19:44:03+00:00,29,50573870,Field Mice on Drugs,https://ambrook.com/offrange/livestock/field-mice-on-drugs,surprisetalk,31,11,2026-11-20T12:40:06+00:00
+2026-11-22T19:44:03+00:00,30,50589618,Lean verification of the Riemann Hypothesis,https://leanprover-community.github.io/blog/posts/riemann-hypothesis/,g-b-r,1189,985,2026-11-21T14:36:45+00:00
+2026-11-22T19:44:03+00:00,31,50594132,PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors,https://github.com/sebaandrada-cell/PcapAnalyzer,sebaandrada,158,20,2026-11-21T22:09:58+00:00
+2026-11-22T19:44:03+00:00,32,50595537,The Mythology of Conscious AI,https://www.noemamag.com/the-mythology-of-conscious-ai/,Anon84,144,413,2026-11-22T02:10:02+00:00
+2026-11-22T19:44:03+00:00,33,50602947,What Happened to Silicon Valley?,https://www.oreilly.com/radar/what-happened-to-silicon-valley/,greenyouse,3,0,2026-11-22T19:20:15+00:00
+2026-11-22T19:44:03+00:00,34,50593481,"Pandex – Official European Law for AI Agents, over MCP",https://www.pandex.io,vasie,135,31,2026-11-21T20:47:41+00:00
+2026-11-22T19:44:03+00:00,35,50593737,Advice for the next 100 Rust GUIs,https://linebender.org/blog/next-100-guis/,raphlinus,245,141,2026-11-21T21:17:53+00:00
+2026-11-22T19:44:03+00:00,36,50600838,C++26 is done (again): November 2026 ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,dverlaeckt80,3,0,2026-11-22T15:59:59+00:00
+2026-11-22T19:44:03+00:00,37,50560314,Split Radiance Cascades,https://www.jacktollenaar.top/articles/split-rc.html,ibobev,63,2,2026-11-19T14:08:33+00:00
+2026-11-22T19:44:03+00:00,38,50592097,Upload2Shell (CVE-2026-125396),https://pwn.ai/upload2shell,f311a,148,75,2026-11-21T18:29:29+00:00
+2026-11-22T19:44:03+00:00,39,50574968,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,iamronaldo,2898,2079,2026-11-20T14:16:21+00:00
+2026-11-22T19:44:03+00:00,40,50588982,Detonating a pile of lead azide,https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really,beginning_end,688,420,2026-11-21T13:23:14+00:00
+2026-11-22T19:44:03+00:00,42,50559820,Is 'fork' missing operation in sandboxes?,https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable,damezumari,24,16,2026-11-19T13:28:43+00:00
+2026-11-22T19:44:03+00:00,43,50576012,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,mlacher,760,140,2026-11-20T15:24:11+00:00
+2026-11-22T19:44:03+00:00,44,50598961,AI is becoming a disaster for the climate,https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the,Brajeshwar,73,28,2026-11-22T12:19:46+00:00
+2026-11-22T19:44:03+00:00,45,50554572,Reversing the Next-Page Prefetcher in Skylake-X,"https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",todsacerdoti,23,0,2026-11-19T00:50:05+00:00
+2026-11-22T19:44:03+00:00,46,50567493,Celliad – a daily Excel game (French),https://celliad.com/,didir98,21,1,2026-11-19T22:37:16+00:00
+2026-11-22T19:44:03+00:00,47,50591260,PostgreSQL Extensions in Go,https://jespino.github.io/gopgext/,valyala,165,31,2026-11-21T17:08:04+00:00
+2026-11-22T19:44:03+00:00,48,50590441,Verification files for the Lean proof of the Riemann Hypothesis,https://math.mit.edu/~drew/grh/,Bluestein,124,46,2026-11-21T15:54:34+00:00
+2026-11-22T19:44:03+00:00,49,50590279,Show HN: Zero C# – C# without a runtime or GC,https://onurgumus.github.io/zero-csharp/index.html,reverseblade2,171,120,2026-11-21T15:39:09+00:00
+2026-11-22T19:44:03+00:00,50,50587875,My monitor was cutting my download speed by 75%,https://blog.tymscar.com/posts/studiodisplayethernet/,soheilpro,675,312,2026-11-21T10:36:32+00:00
+2026-11-22T19:44:03+00:00,51,50581260,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,jasondavies,1442,292,2026-11-20T20:12:19+00:00
+2026-11-22T19:44:03+00:00,52,50546495,Exponential Behavior in Magic: The Gathering,https://levineuwirth.org/essays/exponential-magic/,neuwirth,115,73,2026-11-18T14:07:09+00:00
+2026-11-22T19:44:03+00:00,53,50544428,Reaktiv Workbook – A spreadsheet where every cell is Python,https://workbook.bui.app/,buibuibui,40,11,2026-11-18T10:24:42+00:00
+2026-11-22T19:44:03+00:00,54,50577991,I'm quite pleased by the tech architecture of my art website,https://klauria.tech/klauria-art/,evakhoury,178,35,2026-11-20T17:03:39+00:00
+2026-11-22T19:44:03+00:00,55,50553223,"Shaping the Loops, Closing the Loops",https://revyl.com/blog/pattern-engineering/,based0x10,29,10,2026-11-18T22:29:04+00:00
+2026-11-22T19:44:03+00:00,56,50586292,ClawDOS – An AI coding agent for DOS,http://ricapar.net/ClawDOS/,Ricapar,170,52,2026-11-21T05:38:01+00:00
+2026-11-22T19:44:03+00:00,57,50595940,Current Efforts Aren't Enough to Slow the AI Cyber Virus,https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus,DenisM,23,7,2026-11-22T03:28:48+00:00
+2026-11-22T19:44:03+00:00,58,50553496,Pion Interceptor: WebRTC for Hackers,https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/,Sean-Der,22,6,2026-11-18T22:51:11+00:00
+2026-11-22T19:44:03+00:00,59,50596664,Show HN: The Riemann Proof Handbook,https://github.com/tamnd/riemann-handbook,tamnd,82,56,2026-11-22T05:46:30+00:00
+2026-11-22T19:44:03+00:00,60,50586648,Surprisingly Adorable Insect Portraits,https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/,NordStreamYacht,172,38,2026-11-21T06:44:14+00:00
+2026-11-22T19:44:03+00:00,61,50575644,Why there are still no non-WebKit browsers on iOS,https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/,lapcat,579,317,2026-11-20T15:03:31+00:00
+2026-11-22T19:44:03+00:00,62,50546587,LLMs can read and write executables byte by byte from a hex dump,https://sgiannopoulos.github.io/blog/machine-code-programming/,fortran77,308,179,2026-11-18T14:15:58+00:00
+2026-11-22T19:44:03+00:00,63,50579568,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,jasondavies,2445,1195,2026-11-20T18:33:14+00:00
+2026-11-22T19:44:03+00:00,64,50583761,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",,LetThingsBeDiff,713,815,2026-11-20T23:18:32+00:00
+2026-11-22T19:44:03+00:00,65,50595816,Together.ai: Prompt Leakage for Requests,https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026,Fe2O3,43,10,2026-11-22T03:07:27+00:00
+2026-11-22T19:44:03+00:00,66,50574264,Deterministic Simulation Testing Is for Everyone,https://outdata.net/blog/261120,pgraug,86,17,2026-11-20T13:19:48+00:00
+2026-11-22T19:44:03+00:00,67,50602781,Mexico's President Flew 21 Hours to China in Economy (In a Middle Seat),https://onemileatatime.com/news/mexico-president-flew-china-economy-middle-seat/,prmph,6,1,2026-11-22T19:03:14+00:00
+2026-11-22T19:44:03+00:00,68,50541047,Show HN: An ASCII cell aquarium for your terminal,https://github.com/kborer/cells/,kborer,63,22,2026-11-18T02:18:29+00:00
+2026-11-22T19:44:03+00:00,69,50595168,Leonida – PC Recompilation of the Xbox Version of GTA 6,https://github.com/ItsNotRexed/Leonida,ebrahimh,205,156,2026-11-22T00:57:26+00:00
+2026-11-22T19:44:03+00:00,70,50599583,U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels,https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html,neom,92,111,2026-11-22T13:37:10+00:00
+2026-11-22T19:44:03+00:00,71,50599444,South Korea education minister resigns over exam cheating scandal,https://www.bbc.com/news/articles/cw3dgk29d37no,Betelbuddy,22,5,2026-11-22T13:19:47+00:00
+2026-11-22T19:44:03+00:00,72,50601579,Apple says it will shut down its Apple Support Community forums after 28 years,https://mashable.com/tech/apple-shutting-down-support-community-forums,taubek,5,3,2026-11-22T17:10:30+00:00
+2026-11-22T19:44:03+00:00,73,50569846,If tiny 'primordial' black holes exist,https://phys.org/news/2026-11-tiny-primordial-black-holes.html,wglb,56,45,2026-11-20T03:37:41+00:00
+2026-11-22T19:44:03+00:00,74,50579331,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,QueensGambit,609,330,2026-11-20T18:17:51+00:00
+2026-11-22T19:44:03+00:00,75,50587208,GnuPG Security Advisory for GPGME,https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html,gdgghhhhh,264,115,2026-11-21T08:32:58+00:00
+2026-11-22T19:44:03+00:00,76,50593637,The Emergence of Inequality in the Czech Corded Ware Culture,https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746,marojejian,42,20,2026-11-21T21:06:14+00:00
+2026-11-22T19:44:03+00:00,77,50579297,Vibecoding an inference chip,https://ankitg.me/blog/vibecoding-inference-chip/,ankitvgupta,176,76,2026-11-20T18:15:16+00:00
+2026-11-22T19:44:03+00:00,78,50563148,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,cybermango,574,274,2026-11-19T17:30:44+00:00
+2026-11-22T19:44:03+00:00,79,50602615,Boeing leaves open possibility of more layoffs amid stalled production plans,https://www.reuters.com/legal/litigation/boeing-leaves-open-possibility-more-layoffs-amid-stalled-production-plans-2026-11-20/,frank_clover,5,0,2026-11-22T18:46:05+00:00
+2026-11-22T19:44:03+00:00,80,50597156,A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence,https://morethanamachine.com/posts/slinky-escalator-benchmark/,reddmachine,19,5,2026-11-22T07:31:41+00:00
+2026-11-22T19:44:03+00:00,81,50578358,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/,archon1410,547,243,2026-11-20T17:21:36+00:00
+2026-11-22T19:44:03+00:00,82,50580536,Winedroid – run Android apps without Android (WASM demo),https://winedroid.soham.sh/demo/,sohzm,186,52,2026-11-20T19:30:16+00:00
+2026-11-22T19:44:03+00:00,83,50588916,Astra 6.2 and Sol 6.2 flop at Simple Bench,https://simple-bench.com/,algoth1,179,167,2026-11-21T13:16:12+00:00
+2026-11-22T19:44:03+00:00,84,50598277,AI People Are Extremely Rich,https://www.noahpinion.blog/p/ai-people-are-very-very-very-very,A_D_E_P_T,22,3,2026-11-22T10:35:49+00:00
+2026-11-22T19:44:03+00:00,85,50602030,Climate change talks fall apart in final hours over fossil fuels,https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment,blinding-streak,6,0,2026-11-22T17:51:23+00:00
+2026-11-22T19:44:03+00:00,86,50572355,"If you can't explain something in simple terms, you don't understand it (2017)",https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it,sammatilda,713,333,2026-11-20T09:43:19+00:00
+2026-11-22T19:44:03+00:00,87,50549457,String Art Font (2017),https://erikdemaine.org/fonts/stringart/,akkartik,19,2,2026-11-18T17:42:57+00:00
+2026-11-22T19:44:03+00:00,88,50583856,Serious cyberattack thought backed by wealthy operators,https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411,Bender,149,84,2026-11-20T23:29:30+00:00
+2026-11-22T19:44:03+00:00,89,50559295,Unit-testing in the Ü programming language,https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html,Panzerschrek,13,3,2026-11-19T12:34:54+00:00
+2026-11-22T19:44:03+00:00,90,50572503,"Frostbite: A new CPU architecture discovered, designed and verified by AI",https://architectlabs.com/blog/frostbite,shioyama,675,362,2026-11-20T10:01:41+00:00
+2026-11-22T19:44:03+00:00,91,50574383,Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day,https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off,cdrnsf,525,918,2026-11-20T13:29:59+00:00
+2026-11-22T19:44:03+00:00,92,50599667,Blackberry releases secure browser for Windows,https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows,telefunken_u47,16,12,2026-11-22T13:46:12+00:00
+2026-11-22T19:44:03+00:00,93,50581084,The stochastic parrots have apparently proved the Riemann Hypothesis,https://scottaaronson.blog/?p=10344,stratos123,355,354,2026-11-20T20:03:07+00:00
+2026-11-22T19:44:03+00:00,94,50550015,How I made a custom game engine for Satelital,https://spectralorbit.com/blog/satelital_game_engine,todsacerdoti,40,7,2026-11-18T18:23:03+00:00
+2026-11-22T19:44:03+00:00,95,50556482,"Fewer slides, more dragons",https://www.breakingchange.blog/p/fewer-slides-more-dragons,firloop,75,31,2026-11-19T05:46:36+00:00
+2026-11-22T19:44:03+00:00,96,50548136,Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust,https://contextgeneric.dev/blog/v0.8.0-release/,maybevoid,26,0,2026-11-18T16:17:41+00:00
+2026-11-22T19:44:03+00:00,97,50577265,Language Models Can Rewrite Their Own Weights,https://arxiv.org/abs/2611.21885,lwhsiao,489,144,2026-11-20T16:29:06+00:00
+2026-11-22T19:44:03+00:00,98,50572822,The Making of Oxygene,https://jeanmicheljarre.com/aaa/the-making-of-oxygene,hggh,227,78,2026-11-20T10:41:10+00:00
+2026-11-22T19:44:03+00:00,99,50583274,NINLIVE: The Nine Inch Nails live archive,https://ninlive.com/,CharlesW,378,110,2026-11-20T22:30:47+00:00
+2026-11-22T19:44:03+00:00,100,50577613,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",,proberts,131,176,2026-11-20T16:45:25+00:00
