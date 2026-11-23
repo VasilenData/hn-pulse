@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:46:41+00:00",
+ "generated_at": "2026-11-23T12:50:53+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -178,36 +178,36 @@
   },
   {
    "day": "2026-11-23",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 250.5,
-   "avg_comments": 133.3
+   "snapshots": 2,
+   "distinct_stories": 126,
+   "avg_score": 272.3,
+   "avg_comments": 141.8
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 206,
-   "avg_peak_score": 135.0,
-   "total_comments": 10158
+   "stories": 209,
+   "avg_peak_score": 135.9,
+   "total_comments": 10392
   },
   {
    "domain": "twitter.com",
-   "stories": 44,
-   "avg_peak_score": 108.2,
-   "total_comments": 2652
+   "stories": 45,
+   "avg_peak_score": 106.7,
+   "total_comments": 2662
   },
   {
    "domain": "nytimes.com",
    "stories": 42,
-   "avg_peak_score": 193.8,
-   "total_comments": 3881
+   "avg_peak_score": 194.3,
+   "total_comments": 3890
   },
   {
    "domain": "theguardian.com",
-   "stories": 37,
-   "avg_peak_score": 124.7,
-   "total_comments": 3205
+   "stories": 38,
+   "avg_peak_score": 123.3,
+   "total_comments": 3224
   },
   {
    "domain": "reuters.com",
@@ -223,9 +223,9 @@
   },
   {
    "domain": "arxiv.org",
-   "stories": 26,
-   "avg_peak_score": 87.1,
-   "total_comments": 649
+   "stories": 27,
+   "avg_peak_score": 86.0,
+   "total_comments": 658
   },
   {
    "domain": "youtube.com",
@@ -235,9 +235,9 @@
   },
   {
    "domain": "bbc.com",
-   "stories": 21,
-   "avg_peak_score": 72.4,
-   "total_comments": 1613
+   "stories": 22,
+   "avg_peak_score": 69.7,
+   "total_comments": 1617
   },
   {
    "domain": "wired.com",
@@ -248,8 +248,8 @@
   {
    "domain": "openai.com",
    "stories": 17,
-   "avg_peak_score": 276.2,
-   "total_comments": 3209
+   "avg_peak_score": 284.1,
+   "total_comments": 3281
   },
   {
    "domain": "wsj.com",
@@ -260,444 +260,444 @@
   {
    "domain": "theregister.com",
    "stories": 16,
-   "avg_peak_score": 100.6,
-   "total_comments": 969
-  },
-  {
-   "domain": "tomshardware.com",
-   "stories": 16,
-   "avg_peak_score": 92.3,
-   "total_comments": 563
+   "avg_peak_score": 101.3,
+   "total_comments": 971
   },
   {
    "domain": "apnews.com",
    "stories": 15,
-   "avg_peak_score": 346.1,
-   "total_comments": 4255
+   "avg_peak_score": 357.9,
+   "total_comments": 4341
+  },
+  {
+   "domain": "tomshardware.com",
+   "stories": 15,
+   "avg_peak_score": 68.3,
+   "total_comments": 412
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 91,
-   "avg_peak_score": 106.1
+   "stories": 92,
+   "avg_peak_score": 105.8
   },
   {
    "posted_hour_utc": 1,
-   "stories": 82,
-   "avg_peak_score": 97.9
+   "stories": 84,
+   "avg_peak_score": 105.1
   },
   {
    "posted_hour_utc": 2,
-   "stories": 78,
-   "avg_peak_score": 125.1
+   "stories": 80,
+   "avg_peak_score": 123.0
   },
   {
    "posted_hour_utc": 3,
-   "stories": 78,
-   "avg_peak_score": 82.4
+   "stories": 80,
+   "avg_peak_score": 86.2
   },
   {
    "posted_hour_utc": 4,
-   "stories": 58,
-   "avg_peak_score": 123.2
+   "stories": 61,
+   "avg_peak_score": 123.7
   },
   {
    "posted_hour_utc": 5,
-   "stories": 65,
-   "avg_peak_score": 111.9
+   "stories": 66,
+   "avg_peak_score": 112.5
   },
   {
    "posted_hour_utc": 6,
-   "stories": 38,
-   "avg_peak_score": 155.7
+   "stories": 39,
+   "avg_peak_score": 152.2
   },
   {
    "posted_hour_utc": 7,
-   "stories": 53,
-   "avg_peak_score": 189.2
+   "stories": 54,
+   "avg_peak_score": 186.5
   },
   {
    "posted_hour_utc": 8,
-   "stories": 49,
-   "avg_peak_score": 120.9
+   "stories": 50,
+   "avg_peak_score": 120.6
   },
   {
    "posted_hour_utc": 9,
-   "stories": 66,
-   "avg_peak_score": 155.7
+   "stories": 67,
+   "avg_peak_score": 154.4
   },
   {
    "posted_hour_utc": 10,
-   "stories": 68,
-   "avg_peak_score": 200.3
+   "stories": 70,
+   "avg_peak_score": 202.0
   },
   {
    "posted_hour_utc": 11,
-   "stories": 81,
-   "avg_peak_score": 172.4
+   "stories": 82,
+   "avg_peak_score": 170.5
   },
   {
    "posted_hour_utc": 12,
-   "stories": 97,
-   "avg_peak_score": 199.8
+   "stories": 99,
+   "avg_peak_score": 196.5
   },
   {
    "posted_hour_utc": 13,
-   "stories": 128,
-   "avg_peak_score": 181.8
+   "stories": 129,
+   "avg_peak_score": 181.5
   },
   {
    "posted_hour_utc": 14,
-   "stories": 185,
-   "avg_peak_score": 171.4
+   "stories": 186,
+   "avg_peak_score": 171.0
   },
   {
    "posted_hour_utc": 15,
    "stories": 234,
-   "avg_peak_score": 146.8
+   "avg_peak_score": 148.1
   },
   {
    "posted_hour_utc": 16,
-   "stories": 185,
-   "avg_peak_score": 150.3
+   "stories": 186,
+   "avg_peak_score": 149.8
   },
   {
    "posted_hour_utc": 17,
-   "stories": 197,
-   "avg_peak_score": 173.5
+   "stories": 198,
+   "avg_peak_score": 173.7
   },
   {
    "posted_hour_utc": 18,
    "stories": 196,
-   "avg_peak_score": 179.2
+   "avg_peak_score": 179.6
   },
   {
    "posted_hour_utc": 19,
-   "stories": 182,
-   "avg_peak_score": 149.4
+   "stories": 183,
+   "avg_peak_score": 152.4
   },
   {
    "posted_hour_utc": 20,
-   "stories": 172,
-   "avg_peak_score": 116.1
+   "stories": 173,
+   "avg_peak_score": 117.0
   },
   {
    "posted_hour_utc": 21,
    "stories": 155,
-   "avg_peak_score": 167.7
+   "avg_peak_score": 171.2
   },
   {
    "posted_hour_utc": 22,
    "stories": 147,
-   "avg_peak_score": 130.9
+   "avg_peak_score": 131.9
   },
   {
    "posted_hour_utc": 23,
    "stories": 122,
-   "avg_peak_score": 135.0
+   "avg_peak_score": 137.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50603845,
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "domain": "gpupartner.com",
-   "score": 220,
-   "comments": 76,
-   "author": "Retell15",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50609685,
+   "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+   "domain": "z.ai",
+   "score": 255,
+   "comments": 112,
+   "author": "foohis",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 2,
-   "story_id": 50602843,
-   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-   "domain": "audubon.org",
-   "score": 351,
-   "comments": 157,
-   "author": "gaws",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 3,
-   "story_id": 50547698,
-   "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-   "domain": "apnews.com",
-   "score": 98,
-   "comments": 5,
-   "author": "graemep",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 4,
-   "story_id": 50605045,
-   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-   "domain": "claude.ai",
-   "score": 149,
-   "comments": 117,
-   "author": "Qision",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 5,
-   "story_id": 50604988,
-   "title": "GL.iNet Security Notice 2026-11-20",
-   "domain": "gl-inet.com",
-   "score": 81,
-   "comments": 33,
-   "author": "gregsadetsky",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 6,
-   "story_id": 50603589,
-   "title": "A miniature San Francisco with live buses, planes and boats",
-   "domain": "smallsf.com",
-   "score": 143,
-   "comments": 55,
-   "author": "dutilh",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 7,
-   "story_id": 50604472,
-   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-   "domain": "ias.edu",
-   "score": 59,
-   "comments": 11,
-   "author": "hectormauer",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 8,
-   "story_id": 50603465,
-   "title": "Nyx, the Oldest Internet Service Provider",
-   "domain": "nyx.net",
-   "score": 95,
-   "comments": 9,
-   "author": "o_-_o",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 9,
-   "story_id": 50604123,
-   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-   "domain": "fosscomics.com",
-   "score": 46,
-   "comments": 11,
-   "author": "joonehur",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 10,
-   "story_id": 50605426,
-   "title": "What should AAA game devs do",
-   "domain": "gamethoughts.bearblog.dev",
-   "score": 20,
-   "comments": 30,
-   "author": "TuckerBMorgan",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 11,
-   "story_id": 50601525,
-   "title": "Perplexity and Intelligence",
-   "domain": "openai.com",
-   "score": 482,
-   "comments": 334,
-   "author": "acossta",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 12,
-   "story_id": 50603143,
-   "title": "Assume People Are Not Interested in Your Blog Post",
-   "domain": "danielsada.tech",
-   "score": 56,
-   "comments": 31,
-   "author": "dshacker",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 13,
-   "story_id": 50602947,
-   "title": "What Happened to Silicon Valley?",
-   "domain": "oreilly.com",
-   "score": 422,
-   "comments": 244,
-   "author": "greenyouse",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 14,
-   "story_id": 50599762,
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "domain": "github.com",
-   "score": 272,
-   "comments": 64,
-   "author": "ivantgam",
-   "snapshot_at": "2026-11-23T01:46:35"
-  },
-  {
-   "rank": 15,
    "story_id": 50606192,
    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
    "domain": "spelunkr.tv",
-   "score": 9,
-   "comments": 1,
+   "score": 621,
+   "comments": 110,
    "author": "SockThief",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
-   "rank": 16,
-   "story_id": 50546124,
-   "title": "Advice for Young Researchers",
-   "domain": "togelius.blogspot.com",
-   "score": 51,
-   "comments": 19,
-   "author": "tcumulus",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "rank": 3,
+   "story_id": 50607261,
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "domain": "github.com",
+   "score": 405,
+   "comments": 186,
+   "author": "mmastrac",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
-   "rank": 17,
-   "story_id": 50575007,
-   "title": "How the World Draws the World",
-   "domain": "googlemapsmania.blogspot.com",
-   "score": 5,
+   "rank": 4,
+   "story_id": 50610334,
+   "title": "The next circle of security hell",
+   "domain": "blogs.gentoo.org",
+   "score": 18,
+   "comments": 1,
+   "author": "qtqtqt",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 5,
+   "story_id": 50607668,
+   "title": "Yes, 17M lines of Lean is a lot",
+   "domain": "micjm.com",
+   "score": 141,
+   "comments": 162,
+   "author": "seizethecheese",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 6,
+   "story_id": 50587750,
+   "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
+   "domain": "allaboutcircuits.com",
+   "score": 10,
    "comments": 0,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "author": "giuliomagnifico",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
-   "rank": 18,
+   "rank": 7,
+   "story_id": 50603845,
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "domain": "gpupartner.com",
+   "score": 575,
+   "comments": 239,
+   "author": "Retell15",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 8,
+   "story_id": 50584526,
+   "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
+   "domain": "github.com",
+   "score": 46,
+   "comments": 0,
+   "author": "kristianpaul",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 9,
+   "story_id": 50602843,
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "domain": "audubon.org",
+   "score": 539,
+   "comments": 288,
+   "author": "gaws",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 10,
+   "story_id": 50601525,
+   "title": "Perplexity and Intelligence",
+   "domain": "openai.com",
+   "score": 616,
+   "comments": 406,
+   "author": "acossta",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 11,
    "story_id": 50598441,
    "title": "Masullo on the Riemann Hypothesis",
    "domain": "johncarlosbaez.wordpress.com",
-   "score": 10,
-   "comments": 0,
+   "score": 252,
+   "comments": 232,
    "author": "xiaoyu2006",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 12,
+   "story_id": 50547698,
+   "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+   "domain": "apnews.com",
+   "score": 275,
+   "comments": 91,
+   "author": "graemep",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 13,
+   "story_id": 50607627,
+   "title": "A Partial Evaluator for C",
+   "domain": "phoenix.labri.fr",
+   "score": 80,
+   "comments": 20,
+   "author": "measurablefunc",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 14,
+   "story_id": 50581961,
+   "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+   "domain": "elementdigital.com.au",
+   "score": 35,
+   "comments": 31,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 15,
+   "story_id": 50603143,
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "domain": "danielsada.tech",
+   "score": 233,
+   "comments": 116,
+   "author": "dshacker",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 16,
+   "story_id": 50604988,
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "domain": "gl-inet.com",
+   "score": 224,
+   "comments": 104,
+   "author": "gregsadetsky",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 18,
+   "story_id": 50606499,
+   "title": "Treemap of the Riemann Hypothesis Lean Proof",
+   "domain": "pengowray.github.io",
+   "score": 110,
+   "comments": 40,
+   "author": "pengowray",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 19,
-   "story_id": 50604540,
-   "title": "Localcode, open source agentic coding on your Mac with one command",
-   "domain": "github.com",
-   "score": 20,
-   "comments": 3,
-   "author": "mjwsolo",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50603589,
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "domain": "smallsf.com",
+   "score": 298,
+   "comments": 97,
+   "author": "dutilh",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 20,
-   "story_id": 50606072,
-   "title": "What we learned operating auth for 1k APIs",
-   "domain": "nango.dev",
-   "score": 3,
-   "comments": 1,
-   "author": "fagnerbrack",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50604123,
+   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+   "domain": "fosscomics.com",
+   "score": 131,
+   "comments": 45,
+   "author": "joonehur",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 21,
-   "story_id": 50600622,
-   "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-   "domain": "jeffgeerling.com",
-   "score": 126,
-   "comments": 37,
-   "author": "fortran77",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50604472,
+   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+   "domain": "ias.edu",
+   "score": 140,
+   "comments": 28,
+   "author": "hectormauer",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 22,
-   "story_id": 50600511,
-   "title": "Open Social Web Alliance",
-   "domain": "osw-alliance.net",
-   "score": 223,
-   "comments": 216,
-   "author": "doener",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50607194,
+   "title": "The New Docker: Built to Run on Trust",
+   "domain": "docker.com",
+   "score": 57,
+   "comments": 120,
+   "author": "peer2pay",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 23,
-   "story_id": 50603962,
-   "title": "Will the first approved psychedelic become a blockbuster?",
-   "domain": "pharmavoice.com",
-   "score": 25,
-   "comments": 23,
-   "author": "randycupertino",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50569505,
+   "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+   "domain": "arxiv.org",
+   "score": 57,
+   "comments": 9,
+   "author": "kakadu",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 24,
-   "story_id": 50605479,
-   "title": "Nespresso's project to reduce grams of coffee per capsule",
-   "domain": "alvinbunk.wordpress.com",
-   "score": 83,
-   "comments": 78,
-   "author": "bobbiechen",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50603465,
+   "title": "Nyx, the Oldest Internet Service Provider",
+   "domain": "nyx.net",
+   "score": 145,
+   "comments": 24,
+   "author": "o_-_o",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 25,
-   "story_id": 50596133,
-   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-   "domain": "caranddriver.com",
-   "score": 1190,
-   "comments": 680,
-   "author": "zdw",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50599762,
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "domain": "github.com",
+   "score": 332,
+   "comments": 79,
+   "author": "ivantgam",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 26,
-   "story_id": 50594182,
-   "title": "A Better Vocabulary for Testing",
-   "domain": "alperenkeles.com",
-   "score": 114,
-   "comments": 29,
-   "author": "alpaylan",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50560563,
+   "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+   "domain": "gameboymuseum.com",
+   "score": 57,
+   "comments": 39,
+   "author": "speckx",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 27,
-   "story_id": 50602153,
-   "title": "Harvard CS 2881R AI Safety",
-   "domain": "boazbk.github.io",
-   "score": 39,
-   "comments": 5,
-   "author": "enjoyyourlife",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50602947,
+   "title": "What Happened to Silicon Valley?",
+   "domain": "oreilly.com",
+   "score": 720,
+   "comments": 388,
+   "author": "greenyouse",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 28,
-   "story_id": 50604314,
-   "title": "Agent swarm trying to solve P vs. NP",
-   "domain": "pequalnp.com",
-   "score": 110,
-   "comments": 101,
-   "author": "bananaflag",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50596133,
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "domain": "caranddriver.com",
+   "score": 1329,
+   "comments": 710,
+   "author": "zdw",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 29,
-   "story_id": 50555002,
-   "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-   "domain": "news.ycombinator.com",
-   "score": 117,
-   "comments": 71,
-   "author": "llmblockchain",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50610830,
+   "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
+   "domain": "theverge.com",
+   "score": 6,
+   "comments": 2,
+   "author": "teekert",
+   "snapshot_at": "2026-11-23T12:50:48"
   },
   {
    "rank": 30,
-   "story_id": 50562207,
-   "title": "Inside PyPy: First Contact with RPython",
-   "domain": "bernsteinbear.com",
-   "score": 61,
-   "comments": 9,
-   "author": "lumpa",
-   "snapshot_at": "2026-11-23T01:46:35"
+   "story_id": 50560120,
+   "title": "De-fanging dangerous triggers in GitHub Actions across an organization",
+   "domain": "alpha-omega.dev",
+   "score": 21,
+   "comments": 8,
+   "author": "miketheman",
+   "snapshot_at": "2026-11-23T12:50:48"
+  },
+  {
+   "rank": 31,
+   "story_id": 50577353,
+   "title": "Verifying formal models of Raft implementations",
+   "domain": "antithesis.com",
+   "score": 50,
+   "comments": 1,
+   "author": "alpaylan",
+   "snapshot_at": "2026-11-23T12:50:48"
   }
  ],
  "quality": {
@@ -714,10 +714,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 9809,
-   "fct_stories": 2807
+   "stg_snapshots": 9908,
+   "fct_stories": 2833
   },
-  "newest_snapshot_at": "2026-11-23T01:46:35+00:00",
+  "newest_snapshot_at": "2026-11-23T12:50:48+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
