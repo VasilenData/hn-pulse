@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:39:49+00:00",
+ "generated_at": "2026-11-25T19:19:22+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -192,24 +192,24 @@
   },
   {
    "day": "2026-11-25",
-   "snapshots": 1,
-   "distinct_stories": 99,
-   "avg_score": 226.4,
-   "avg_comments": 132.3
+   "snapshots": 2,
+   "distinct_stories": 133,
+   "avg_score": 248.7,
+   "avg_comments": 146.6
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 233,
-   "avg_peak_score": 137.9,
-   "total_comments": 12523
+   "stories": 237,
+   "avg_peak_score": 139.9,
+   "total_comments": 13245
   },
   {
    "domain": "twitter.com",
    "stories": 50,
-   "avg_peak_score": 145.4,
-   "total_comments": 4375
+   "avg_peak_score": 147.7,
+   "total_comments": 4484
   },
   {
    "domain": "nytimes.com",
@@ -219,15 +219,15 @@
   },
   {
    "domain": "theguardian.com",
-   "stories": 39,
-   "avg_peak_score": 129.8,
-   "total_comments": 3367
+   "stories": 40,
+   "avg_peak_score": 126.9,
+   "total_comments": 3369
   },
   {
    "domain": "reuters.com",
-   "stories": 39,
-   "avg_peak_score": 119.7,
-   "total_comments": 4615
+   "stories": 40,
+   "avg_peak_score": 117.2,
+   "total_comments": 4626
   },
   {
    "domain": "arstechnica.com",
@@ -237,9 +237,9 @@
   },
   {
    "domain": "arxiv.org",
-   "stories": 29,
-   "avg_peak_score": 85.7,
-   "total_comments": 703
+   "stories": 30,
+   "avg_peak_score": 84.6,
+   "total_comments": 775
   },
   {
    "domain": "youtube.com",
@@ -262,8 +262,8 @@
   {
    "domain": "openai.com",
    "stories": 19,
-   "avg_peak_score": 276.5,
-   "total_comments": 3422
+   "avg_peak_score": 281.2,
+   "total_comments": 3440
   },
   {
    "domain": "wired.com",
@@ -284,434 +284,434 @@
    "total_comments": 971
   },
   {
-   "domain": "bloomberg.com",
+   "domain": "tomshardware.com",
    "stories": 16,
-   "avg_peak_score": 77.9,
-   "total_comments": 1767
+   "avg_peak_score": 92.3,
+   "total_comments": 563
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
    "stories": 101,
-   "avg_peak_score": 103.2
+   "avg_peak_score": 104.8
   },
   {
    "posted_hour_utc": 1,
    "stories": 90,
-   "avg_peak_score": 111.4
+   "avg_peak_score": 115.6
   },
   {
    "posted_hour_utc": 2,
-   "stories": 93,
-   "avg_peak_score": 126.3
+   "stories": 94,
+   "avg_peak_score": 127.7
   },
   {
    "posted_hour_utc": 3,
    "stories": 95,
-   "avg_peak_score": 86.8
+   "avg_peak_score": 99.5
   },
   {
    "posted_hour_utc": 4,
    "stories": 67,
-   "avg_peak_score": 122.8
+   "avg_peak_score": 130.1
   },
   {
    "posted_hour_utc": 5,
-   "stories": 71,
-   "avg_peak_score": 110.3
+   "stories": 72,
+   "avg_peak_score": 112.3
   },
   {
    "posted_hour_utc": 6,
-   "stories": 44,
-   "avg_peak_score": 159.7
+   "stories": 45,
+   "avg_peak_score": 159.3
   },
   {
    "posted_hour_utc": 7,
-   "stories": 55,
-   "avg_peak_score": 183.3
+   "stories": 56,
+   "avg_peak_score": 182.6
   },
   {
    "posted_hour_utc": 8,
-   "stories": 54,
-   "avg_peak_score": 123.6
+   "stories": 55,
+   "avg_peak_score": 122.7
   },
   {
    "posted_hour_utc": 9,
-   "stories": 73,
-   "avg_peak_score": 153.5
+   "stories": 74,
+   "avg_peak_score": 152.3
   },
   {
    "posted_hour_utc": 10,
    "stories": 75,
-   "avg_peak_score": 208.4
+   "avg_peak_score": 208.8
   },
   {
    "posted_hour_utc": 11,
-   "stories": 91,
-   "avg_peak_score": 173.3
+   "stories": 93,
+   "avg_peak_score": 173.9
   },
   {
    "posted_hour_utc": 12,
    "stories": 106,
-   "avg_peak_score": 197.7
+   "avg_peak_score": 199.1
   },
   {
    "posted_hour_utc": 13,
-   "stories": 136,
-   "avg_peak_score": 182.1
+   "stories": 139,
+   "avg_peak_score": 183.1
   },
   {
    "posted_hour_utc": 14,
-   "stories": 193,
-   "avg_peak_score": 182.4
+   "stories": 197,
+   "avg_peak_score": 180.4
   },
   {
    "posted_hour_utc": 15,
-   "stories": 243,
-   "avg_peak_score": 145.5
+   "stories": 248,
+   "avg_peak_score": 146.5
   },
   {
    "posted_hour_utc": 16,
-   "stories": 195,
-   "avg_peak_score": 161.9
+   "stories": 196,
+   "avg_peak_score": 162.3
   },
   {
    "posted_hour_utc": 17,
-   "stories": 205,
-   "avg_peak_score": 182.9
+   "stories": 213,
+   "avg_peak_score": 178.3
   },
   {
    "posted_hour_utc": 18,
-   "stories": 202,
-   "avg_peak_score": 178.8
+   "stories": 204,
+   "avg_peak_score": 177.1
   },
   {
    "posted_hour_utc": 19,
-   "stories": 193,
-   "avg_peak_score": 154.4
+   "stories": 195,
+   "avg_peak_score": 153.3
   },
   {
    "posted_hour_utc": 20,
    "stories": 186,
-   "avg_peak_score": 115.4
+   "avg_peak_score": 115.9
   },
   {
    "posted_hour_utc": 21,
    "stories": 170,
-   "avg_peak_score": 166.5
+   "avg_peak_score": 167.4
   },
   {
    "posted_hour_utc": 22,
-   "stories": 159,
-   "avg_peak_score": 131.7
+   "stories": 160,
+   "avg_peak_score": 131.4
   },
   {
    "posted_hour_utc": 23,
    "stories": 133,
-   "avg_peak_score": 133.3
+   "avg_peak_score": 133.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50637220,
-   "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-   "domain": "github.com",
-   "score": 561,
-   "comments": 274,
-   "author": "E-Reverance",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50644817,
+   "title": "1Password Security Incident",
+   "domain": "1password.com",
+   "score": 396,
+   "comments": 178,
+   "author": "lxhrstn",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 2,
-   "story_id": 50638032,
-   "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-   "domain": "buttons.joshwcomeau.com",
-   "score": 305,
-   "comments": 33,
-   "author": "gaurang_tandon",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50643129,
+   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "domain": "vox.com",
+   "score": 327,
+   "comments": 84,
+   "author": "gumby",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 3,
-   "story_id": 50637686,
-   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-   "domain": "lesswrong.com",
-   "score": 199,
-   "comments": 76,
-   "author": "gmays",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50642086,
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "domain": "github.com",
+   "score": 351,
+   "comments": 266,
+   "author": "rgwohlbold",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 4,
-   "story_id": 50638503,
-   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-   "domain": "gpu-demo-gallery.pages.dev",
-   "score": 87,
-   "comments": 20,
-   "author": "arkits",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50641171,
+   "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+   "domain": "github.com",
+   "score": 261,
+   "comments": 154,
+   "author": "ThrowNotAway",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 5,
-   "story_id": 50633922,
-   "title": "Ternary Bonsai 2.5 27B",
-   "domain": "prismml.com",
-   "score": 437,
-   "comments": 137,
-   "author": "b0m",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50642939,
+   "title": "I checked Clojure's core with Lean and found unreported bugs",
+   "domain": "s.conao3.com",
+   "score": 99,
+   "comments": 35,
+   "author": "encyclopedism",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 6,
-   "story_id": 50637890,
-   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-   "domain": "rida.dev",
-   "score": 143,
-   "comments": 53,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50635783,
+   "title": "Predicting LoRA size for any dataset",
+   "domain": "engram.com",
+   "score": 65,
+   "comments": 5,
+   "author": "jxmorris12",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 7,
-   "story_id": 50637056,
-   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-   "domain": "greydanus.github.io",
-   "score": 222,
-   "comments": 39,
-   "author": "smusamashah",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50645074,
+   "title": "Britain's ghost stations",
+   "domain": "spectator.com",
+   "score": 21,
+   "comments": 1,
+   "author": "translocator",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 8,
-   "story_id": 50638478,
-   "title": "Taking over US Treasury subdomains for $3 each",
-   "domain": "intruder.io",
-   "score": 65,
+   "story_id": 50644814,
+   "title": "Deriving Black-Scholes",
+   "domain": "david.alvarezrosa.com",
+   "score": 21,
    "comments": 10,
-   "author": "negura",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "author": "meysamazad",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 9,
-   "story_id": 50623866,
-   "title": "The algebra of dependent types (2025)",
-   "domain": "dotat.at",
-   "score": 17,
-   "comments": 1,
-   "author": "todsacerdoti",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50624446,
+   "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+   "domain": "jayd.ml",
+   "score": 121,
+   "comments": 59,
+   "author": "jaydenmilne",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 10,
-   "story_id": 50634658,
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "domain": "openai.com",
-   "score": 252,
-   "comments": 76,
-   "author": "acossta",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50638032,
+   "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+   "domain": "buttons.joshwcomeau.com",
+   "score": 755,
+   "comments": 120,
+   "author": "gaurang_tandon",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 11,
-   "story_id": 50638220,
-   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-   "domain": "marginalia.nu",
-   "score": 93,
-   "comments": 37,
-   "author": "Curiositry",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50637220,
+   "title": "The matrix multiplication exponent is nine fourths [pdf]",
+   "domain": "github.com",
+   "score": 928,
+   "comments": 523,
+   "author": "E-Reverance",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 12,
-   "story_id": 50627079,
-   "title": "The Shapes of Rivers",
-   "domain": "dominicroye.github.io",
-   "score": 52,
-   "comments": 5,
-   "author": "joexov",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50646108,
+   "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+   "domain": "scottaaronson.blog",
+   "score": 4,
+   "comments": 1,
+   "author": "Kotlopou",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 13,
-   "story_id": 50634426,
-   "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
-   "domain": "news.ycombinator.com",
-   "score": 84,
-   "comments": 67,
-   "author": "harshithl1777",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50643720,
+   "title": "Investigating degraded experiences across GitHub products",
+   "domain": "githubstatus.com",
+   "score": 158,
+   "comments": 81,
+   "author": "pinjasaur",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 14,
-   "story_id": 50637871,
-   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-   "domain": "proofatlas.ai",
-   "score": 46,
-   "comments": 12,
-   "author": "ijidak",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50643065,
+   "title": "Rumors swirling that labs might have cracked Factoring in P",
+   "domain": "reddit.com",
+   "score": 299,
+   "comments": 208,
+   "author": "lilytweed",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 15,
-   "story_id": 50613769,
-   "title": "When in Doubt, Flail About",
-   "domain": "seangoedecke.com",
-   "score": 24,
-   "comments": 3,
-   "author": "zdw",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50631791,
+   "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+   "domain": "joonoo.art",
+   "score": 7,
+   "comments": 0,
+   "author": "cyberviso",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 16,
-   "story_id": 50598555,
-   "title": "The Spray Bottle",
-   "domain": "mechanical-pencil.com",
-   "score": 467,
-   "comments": 108,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50643199,
+   "title": "In C++, = default and {} are not the same constructor",
+   "domain": "lemire.me",
+   "score": 55,
+   "comments": 118,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 17,
-   "story_id": 50637891,
-   "title": "Macrohistory in Six Facts",
-   "domain": "basilhalperin.com",
-   "score": 61,
-   "comments": 25,
-   "author": "tptacek",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50639929,
+   "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+   "domain": "arxiv.org",
+   "score": 50,
+   "comments": 70,
+   "author": "pseudohadamard",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 18,
-   "story_id": 50638075,
-   "title": "A faster algorithm for extracting hexadecimal digits of \u03c0",
-   "domain": "stylewarning.com",
-   "score": 34,
-   "comments": 0,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50637686,
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "domain": "lesswrong.com",
+   "score": 408,
+   "comments": 175,
+   "author": "gmays",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 19,
-   "story_id": 50627726,
-   "title": "Getting old Java phones online again",
-   "domain": "antcating.github.io",
-   "score": 4,
-   "comments": 0,
-   "author": "waximabbax",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50625654,
+   "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+   "domain": "repubblica.it",
+   "score": 51,
+   "comments": 7,
+   "author": "simonebrunozzi",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 20,
-   "story_id": 50638070,
-   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-   "domain": "noahbuilt.it",
-   "score": 60,
-   "comments": 10,
-   "author": "octember",
-   "snapshot_at": "2026-11-25T08:39:41"
-  },
-  {
-   "rank": 21,
-   "story_id": 50630594,
-   "title": "Active intrusion campaign against Check Point security management servers",
-   "domain": "greynoise.io",
-   "score": 282,
-   "comments": 140,
-   "author": "louiereederson",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50645978,
+   "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+   "domain": "cnbc.com",
+   "score": 14,
+   "comments": 3,
+   "author": "johnyzee",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 22,
-   "story_id": 50637888,
-   "title": "Lua for data representation (2025)",
-   "domain": "citrons.xyz",
-   "score": 49,
-   "comments": 16,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50637448,
+   "title": "How did pinwheel calculators work?",
+   "domain": "blog.coredump.cx",
+   "score": 8,
+   "comments": 0,
+   "author": "surprisetalk",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 23,
-   "story_id": 50626430,
-   "title": "New rewritable antimony selenide display shows an image for months without power",
-   "domain": "tmos.org.au",
-   "score": 31,
-   "comments": 18,
-   "author": "giuliomagnifico",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50639698,
+   "title": "Smart people who give a shit use tools",
+   "domain": "iankduncan.com",
+   "score": 139,
+   "comments": 135,
+   "author": "matthewsinclair",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 24,
-   "story_id": 50637874,
-   "title": "I've been drinking wine in my kitchen",
-   "domain": "scottaaronson.blog",
-   "score": 172,
-   "comments": 146,
-   "author": "nill0",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50638503,
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "domain": "gpu-demo-gallery.pages.dev",
+   "score": 296,
+   "comments": 65,
+   "author": "arkits",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 25,
-   "story_id": 50610820,
-   "title": "An Italian folding bicycle design that fits into a suitcase",
-   "domain": "core77.com",
-   "score": 172,
-   "comments": 117,
-   "author": "surprisetalk",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50607849,
+   "title": "The short age of dragon riders",
+   "domain": "atilloy.com",
+   "score": 246,
+   "comments": 159,
+   "author": "synapsomorphy",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 26,
-   "story_id": 50625265,
-   "title": "G\u00f6del Enigma",
-   "domain": "helsinki.fi",
-   "score": 122,
-   "comments": 40,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50637890,
+   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+   "domain": "rida.dev",
+   "score": 400,
+   "comments": 132,
+   "author": "vinhnx",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 27,
-   "story_id": 50630809,
-   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-   "domain": "news.ycombinator.com",
-   "score": 261,
-   "comments": 199,
-   "author": "weli",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50627625,
+   "title": "Show HN: Ribbon Architect \u2013 Endless ways to tie a gift ribbon",
+   "domain": "ribbonarchitect.com",
+   "score": 13,
+   "comments": 1,
+   "author": "permute",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 28,
-   "story_id": 50627783,
-   "title": "GTA 6 Running on Windows",
-   "domain": "twitter.com",
-   "score": 376,
-   "comments": 462,
-   "author": "andrem",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50633922,
+   "title": "Ternary Bonsai 2.5 27B",
+   "domain": "prismml.com",
+   "score": 518,
+   "comments": 171,
+   "author": "b0m",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 29,
-   "story_id": 50638320,
-   "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-   "domain": "comentr.com",
-   "score": 162,
-   "comments": 106,
-   "author": "hoodied",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50627726,
+   "title": "Getting old Java phones online again",
+   "domain": "antcating.github.io",
+   "score": 149,
+   "comments": 66,
+   "author": "waximabbax",
+   "snapshot_at": "2026-11-25T19:19:16"
   },
   {
    "rank": 30,
-   "story_id": 50636925,
-   "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
-   "domain": "literaryreview.co.uk",
-   "score": 51,
-   "comments": 7,
-   "author": "lermontov",
-   "snapshot_at": "2026-11-25T08:39:41"
+   "story_id": 50637891,
+   "title": "Macrohistory in Six Facts",
+   "domain": "basilhalperin.com",
+   "score": 150,
+   "comments": 80,
+   "author": "tptacek",
+   "snapshot_at": "2026-11-25T19:19:16"
+  },
+  {
+   "rank": 31,
+   "story_id": 50634426,
+   "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+   "domain": "news.ycombinator.com",
+   "score": 103,
+   "comments": 99,
+   "author": "harshithl1777",
+   "snapshot_at": "2026-11-25T19:19:16"
   }
  ],
  "quality": {
@@ -728,10 +728,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 10304,
-   "fct_stories": 3030
+   "stg_snapshots": 10403,
+   "fct_stories": 3064
   },
-  "newest_snapshot_at": "2026-11-25T08:39:41+00:00",
+  "newest_snapshot_at": "2026-11-25T19:19:16+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
