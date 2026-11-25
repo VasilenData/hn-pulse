@@ -10204,3 +10204,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-24T23:55:06+00:00,98,50610170,New material gets stronger the more it bends,https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/,giuliomagnifico,48,24,2026-11-23T11:12:33+00:00
 2026-11-24T23:55:06+00:00,99,50574412,Show HN: Drive around my village in 3D,https://cherwellvalleymotorclub.app,johnwards,128,91,2026-11-20T13:32:42+00:00
 2026-11-24T23:55:06+00:00,100,50632962,CEO Colette Kress was left in the dark about Jensen Huang's return,https://finance.yahoo.com/markets/stocks/article/nvidias-longtime-cfo-and-now-former-interim-ceo-colette-kress-was-left-in-the-dark-about-jensen-huangs-return-report-144057460.html,Betelbuddy,15,4,2026-11-24T19:09:20+00:00
+2026-11-25T08:39:41+00:00,1,50637220,Matrix Multiplication is Θ(n^2.25) [pdf],https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf,E-Reverance,561,274,2026-11-25T01:19:26+00:00
+2026-11-25T08:39:41+00:00,2,50638032,Button Sounds – collection of professionally-recorded button clicks and presses,https://buttons.joshwcomeau.com/,gaurang_tandon,305,33,2026-11-25T03:23:07+00:00
+2026-11-25T08:39:41+00:00,3,50637686,Models Can Communicate via Inference Servers Despite Being Sandboxed,https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being,gmays,199,76,2026-11-25T02:34:21+00:00
+2026-11-25T08:39:41+00:00,4,50638503,"Show HN: Old Nvidia and ATI tech demos, running again in the browser",https://gpu-demo-gallery.pages.dev/,arkits,87,20,2026-11-25T04:31:48+00:00
+2026-11-25T08:39:41+00:00,5,50633922,Ternary Bonsai 2.5 27B,https://prismml.com/news/bonsai-2-5-27b,b0m,437,137,2026-11-24T20:08:03+00:00
+2026-11-25T08:39:41+00:00,6,50637890,Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native,https://rida.dev/blog/bypassing-ios-safari-60-fps-limit,vinhnx,143,53,2026-11-25T03:04:37+00:00
+2026-11-25T08:39:41+00:00,7,50637056,PenGPT: A Generative Transformer for Handwriting and Sketches,https://greydanus.github.io/2026/11/12/pengpt/,smusamashah,222,39,2026-11-25T00:54:49+00:00
+2026-11-25T08:39:41+00:00,8,50638478,Taking over US Treasury subdomains for $3 each,https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each,negura,65,10,2026-11-25T04:27:55+00:00
+2026-11-25T08:39:41+00:00,9,50623866,The algebra of dependent types (2025),https://dotat.at/@/2025-05-28-types.html,todsacerdoti,17,1,2026-11-24T04:49:58+00:00
+2026-11-25T08:39:41+00:00,10,50634658,GPT-6 models demonstrate intrinsic protein-design capabilities,https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/,acossta,252,76,2026-11-24T21:02:22+00:00
+2026-11-25T08:39:41+00:00,11,50638220,"Marginalia Search, Money, C++, Rust, AI, Stuff",https://www.marginalia.nu/log/a_141_marginalia_update/,Curiositry,93,37,2026-11-25T03:47:42+00:00
+2026-11-25T08:39:41+00:00,12,50627079,The Shapes of Rivers,https://dominicroye.github.io/shapes-of-rivers/,joexov,52,5,2026-11-24T12:14:25+00:00
+2026-11-25T08:39:41+00:00,13,50634426,Launch HN: Versine (YC F26) – MCP to send and receive money,,harshithl1777,84,67,2026-11-24T20:44:15+00:00
+2026-11-25T08:39:41+00:00,14,50637871,Top open problems in mathematics ranked by LLM-assessed importance,https://www.proofatlas.ai/open-problems/,ijidak,46,12,2026-11-25T03:01:36+00:00
+2026-11-25T08:39:41+00:00,15,50613769,"When in Doubt, Flail About",https://www.seangoedecke.com/when-in-doubt-flail-about/,zdw,24,3,2026-11-23T15:45:11+00:00
+2026-11-25T08:39:41+00:00,16,50598555,The Spray Bottle,https://mechanical-pencil.com/products/spray-bottle,vinhnx,467,108,2026-11-22T11:16:30+00:00
+2026-11-25T08:39:41+00:00,17,50637891,Macrohistory in Six Facts,https://basilhalperin.com/essays/macrohistory.html,tptacek,61,25,2026-11-25T03:04:46+00:00
+2026-11-25T08:39:41+00:00,18,50638075,A faster algorithm for extracting hexadecimal digits of π,https://www.stylewarning.com/posts/faster-digit-extraction/,vinhnx,34,0,2026-11-25T03:28:42+00:00
+2026-11-25T08:39:41+00:00,19,50627726,Getting old Java phones online again,https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html,waximabbax,4,0,2026-11-24T13:14:37+00:00
+2026-11-25T08:39:41+00:00,20,50638070,Serving Qwen via AWS Lambdas for fun and 80x negative profit,https://noahbuilt.it/writing/qwen-on-5600-lambdas,octember,60,10,2026-11-25T03:28:06+00:00
+2026-11-25T08:39:41+00:00,21,50630594,Active intrusion campaign against Check Point security management servers,https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign,louiereederson,282,140,2026-11-24T16:32:17+00:00
+2026-11-25T08:39:41+00:00,22,50637888,Lua for data representation (2025),https://citrons.xyz/journal/2025-07-23,vinhnx,49,16,2026-11-25T03:04:12+00:00
+2026-11-25T08:39:41+00:00,23,50626430,New rewritable antimony selenide display shows an image for months without power,https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/,giuliomagnifico,31,18,2026-11-24T10:52:12+00:00
+2026-11-25T08:39:41+00:00,24,50637874,I've been drinking wine in my kitchen,https://scottaaronson.blog/?p=10362,nill0,172,146,2026-11-25T03:02:10+00:00
+2026-11-25T08:39:41+00:00,25,50610820,An Italian folding bicycle design that fits into a suitcase,https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase,surprisetalk,172,117,2026-11-23T12:40:08+00:00
+2026-11-25T08:39:41+00:00,26,50625265,Gödel Enigma,https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description,benbreen,122,40,2026-11-24T08:16:02+00:00
+2026-11-25T08:39:41+00:00,27,50630809,Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?,,weli,261,199,2026-11-24T16:45:44+00:00
+2026-11-25T08:39:41+00:00,28,50627783,GTA 6 Running on Windows,https://twitter.com/raul_bs3/status/2125213756238291075,andrem,376,462,2026-11-24T13:19:31+00:00
+2026-11-25T08:39:41+00:00,29,50638320,Gemini refused to give me the lyrics to Twinkle Twinkle Little Star,https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F,hoodied,162,106,2026-11-25T04:03:33+00:00
+2026-11-25T08:39:41+00:00,30,50636925,"Here in the World: Letters of Albert Camus, 1944–1959",https://literaryreview.co.uk/here-in-the-world,lermontov,51,7,2026-11-25T00:36:43+00:00
+2026-11-25T08:39:41+00:00,31,50639156,Swift Death of Statelessness,https://bexx.io/post/swift-death-of-statelessness/,bexxmodd,8,0,2026-11-25T06:23:09+00:00
+2026-11-25T08:39:41+00:00,32,50627891,Adding some funk to an old Vtech toy,https://boyesm.ca/vtech,PennRobotics,13,2,2026-11-24T13:28:03+00:00
+2026-11-25T08:39:41+00:00,33,50609483,Calculate how many mesh radio nodes your city needs,https://meshcoveragecalculator.lalala.ing/,joshcsimmons,101,24,2026-11-23T09:46:57+00:00
+2026-11-25T08:39:41+00:00,34,50629231,"A training engine for your local model, using your idle compute",https://github.com/sous-labs/songe,bluepeter,211,65,2026-11-24T15:03:40+00:00
+2026-11-25T08:39:41+00:00,35,50630462,Jetty Pro,http://hypercritical.co/2026/11/23/jetty-pro,zdw,301,133,2026-11-24T16:23:02+00:00
+2026-11-25T08:39:41+00:00,37,50635698,Fable 5.2 tries less on some hard tasks when a shortcut is available,https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available,atlun,58,49,2026-11-24T22:26:41+00:00
+2026-11-25T08:39:41+00:00,38,50633424,From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver,https://andlukyane.com/blog/cayley-graphs-and-torchtpu,Artgor,82,2,2026-11-24T19:40:43+00:00
+2026-11-25T08:39:41+00:00,39,50604355,Cento fine foods has been sued for “tomato fraud”,https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html,ncr100,148,203,2026-11-22T21:59:09+00:00
+2026-11-25T08:39:41+00:00,40,50606655,Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility,https://statwonk.com/hierarchical-bayesian-neural-network.html,RA_Fisher,38,2,2026-11-23T02:10:39+00:00
+2026-11-25T08:39:41+00:00,41,50635271,Heart attack and stroke risk detectable decades in advance,https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance,gmays,222,102,2026-11-24T21:51:21+00:00
+2026-11-25T08:39:41+00:00,42,50637936,Show HN: Sliding-panes React UI library (inspired by WebOS Enyo),https://vcarl.com/sashay/,vcarl,26,5,2026-11-25T03:10:18+00:00
+2026-11-25T08:39:41+00:00,43,50629106,Splitting USB-C: USB 3 and USB 2 on one port,https://www.frankchiarulli.com/blog/splitting-usb-c/,fcjr,146,94,2026-11-24T14:54:10+00:00
+2026-11-25T08:39:41+00:00,44,50611576,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,jaz,2817,3749,2026-11-23T14:00:18+00:00
+2026-11-25T08:39:41+00:00,45,50636286,"Get in, friends, the Atmosphere is happening",https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9,Kye,54,60,2026-11-24T23:23:35+00:00
+2026-11-25T08:39:41+00:00,46,50626413,Worshipping at the altar of Brendan Gregg,https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg,kqr,235,47,2026-11-24T10:50:14+00:00
+2026-11-25T08:39:41+00:00,47,50599458,How a Mechanical Watch Keeps Time,https://martincmartin.github.io/slidev-stem/watches/article/1/,martincmartin,250,60,2026-11-22T13:21:25+00:00
+2026-11-25T08:39:41+00:00,48,50622638,GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school,https://github.com/ItsNotRexed/Leonida/issues,smuhakg,363,643,2026-11-24T02:08:09+00:00
+2026-11-25T08:39:41+00:00,49,50637995,"Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",https://carry.md/,iankit17,15,7,2026-11-25T03:19:02+00:00
+2026-11-25T08:39:41+00:00,50,50637863,Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III,https://github.com/mawlicious/bo3mac,mawlicious,28,3,2026-11-25T03:00:12+00:00
+2026-11-25T08:39:41+00:00,51,50627340,"LLM agents work for their parent companies, not for you",https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/,surprisetalk,966,401,2026-11-24T12:40:15+00:00
+2026-11-25T08:39:41+00:00,52,50624497,2035 came early,https://fzakaria.com/2026/11/23/2035-came-early,setheron,994,371,2026-11-24T06:30:33+00:00
+2026-11-25T08:39:41+00:00,53,50639781,Ghost strikes: the new drone superpowers raining death from above,https://www.theguardian.com/global-development/ng-interactive/2026/nov/25/ghost-strikes-the-rise-of-drone-superpowers-fuelling-remote-killing-of-thousands-of-civilians-with-impunity,xyzal,6,0,2026-11-25T08:00:07+00:00
+2026-11-25T08:39:41+00:00,54,50591024,"Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",https://github.com/PQCrypta/pqcrypta-proxy,pqpdf,41,20,2026-11-21T16:46:43+00:00
+2026-11-25T08:39:41+00:00,55,50634734,Working with AI,https://www.anthropic.com/research/working-with-ai,kagaherk,70,65,2026-11-24T21:07:38+00:00
+2026-11-25T08:39:41+00:00,56,50627836,Anthropic breaks below $83 IPO price,https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading,Betelbuddy,387,758,2026-11-24T13:23:47+00:00
+2026-11-25T08:39:41+00:00,57,50637344,"How PyTorch's autograd works, rebuilt in 60 lines of Python",https://farid-alexander.github.io/autograd-from-scratch/,ariaomarzadapar,9,1,2026-11-25T01:40:39+00:00
+2026-11-25T08:39:41+00:00,58,50614249,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,janvdberg,2400,602,2026-11-23T16:13:12+00:00
+2026-11-25T08:39:41+00:00,59,50605361,The new set of problems for engineers to solve,https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve,ot,141,119,2026-11-22T23:42:53+00:00
+2026-11-25T08:39:41+00:00,60,50630423,Camillo Sitte made the blueprint for beautiful cities,https://www.worksinprogress.news/p/how-to-make-a-lovable-city,crescit_eundo,98,83,2026-11-24T16:19:55+00:00
+2026-11-25T08:39:41+00:00,61,50598094,An anti-slavery sugar bowl (2024),https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl,leonry,121,77,2026-11-22T10:12:22+00:00
+2026-11-25T08:39:41+00:00,62,50624061,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,zdw,223,132,2026-11-24T05:15:22+00:00
+2026-11-25T08:39:41+00:00,63,50606192,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,SockThief,1075,181,2026-11-23T01:13:51+00:00
+2026-11-25T08:39:41+00:00,64,50620831,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,apophatic,68,63,2026-11-23T23:12:40+00:00
+2026-11-25T08:39:41+00:00,65,50637887,Show HN: Mergeon – A native desktop Git client written in Rust with GPUI,https://github.com/Spilveru/mergeon,Spilveru,9,1,2026-11-25T03:03:53+00:00
+2026-11-25T08:39:41+00:00,66,50637866,Network Researchers Nail Down Theory of 'Perfect Resilience',https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/,ibobev,10,0,2026-11-25T03:00:39+00:00
+2026-11-25T08:39:41+00:00,67,50633159,"Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",https://grafana.com/grafana/download,petecooper,151,25,2026-11-24T19:23:44+00:00
+2026-11-25T08:39:41+00:00,68,50626620,The Artificial Monkey Mind,https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/,eamonnsullivan,13,1,2026-11-24T11:19:00+00:00
+2026-11-25T08:39:41+00:00,69,50629962,"The KL Divergence Is Never Negative, Except in PyTorch",https://arxiv.org/abs/2611.30835,Anon84,92,38,2026-11-24T15:50:22+00:00
+2026-11-25T08:39:41+00:00,70,50625953,Just a Few Bugs,https://www.justafewbugs.xyz/,jjjegly,145,56,2026-11-24T09:47:59+00:00
+2026-11-25T08:39:41+00:00,71,50637661,A 1:1 replica of the London DLR,https://jabza.github.io/labs/dlr-rider/,jabza,13,6,2026-11-25T02:31:49+00:00
+2026-11-25T08:39:41+00:00,72,50638885,GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend,https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort,croes,15,3,2026-11-25T05:31:55+00:00
+2026-11-25T08:39:41+00:00,73,50630294,"Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",https://masondata.ai/,tagspace,95,18,2026-11-24T16:11:52+00:00
+2026-11-25T08:39:41+00:00,74,50625384,Quad9 pulled their DNS service from France,https://quad9.net/news/blog/quad9-service-deactivation-in-france/,farrokhi,371,242,2026-11-24T08:33:14+00:00
+2026-11-25T08:39:41+00:00,75,50638940,Pop Goes the Bubble,https://paulkrugman.substack.com/p/pop-goes-the-bubble,rammy1234,15,0,2026-11-25T05:40:37+00:00
+2026-11-25T08:39:41+00:00,76,50634933,An unclassified CIA system was breached in a cyberattack,https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77,armcat,127,45,2026-11-24T21:24:27+00:00
+2026-11-25T08:39:41+00:00,77,50608343,SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance,https://dl.acm.org/doi/10.1145/3828523.3857112,shraddhaag,73,5,2026-11-23T06:54:08+00:00
+2026-11-25T08:39:41+00:00,78,50639142,T3code Backslash,https://twitter.com/realchendahuang/status/2125153472450527440,krehwell,13,1,2026-11-25T06:19:22+00:00
+2026-11-25T08:39:41+00:00,79,50632883,Cloudflare hides shortcomings of the underlying infrastructure,https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/,fishcharlie,158,99,2026-11-24T19:03:55+00:00
+2026-11-25T08:39:41+00:00,80,50620349,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,shaunpud,695,344,2026-11-23T22:32:29+00:00
+2026-11-25T08:39:41+00:00,81,50631157,"Microsoft declares 'Code Red' after historic outage, internal memos show",https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/,thm,239,225,2026-11-24T17:07:41+00:00
+2026-11-25T08:39:41+00:00,82,50623515,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,uptrails,173,73,2026-11-24T04:00:28+00:00
+2026-11-25T08:39:41+00:00,83,50620530,The Beauty of Artists' Studios,https://spectator.com/article/the-beauty-of-artists-studios/,promulgator,18,2,2026-11-23T22:48:33+00:00
+2026-11-25T08:39:41+00:00,84,50622774,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,DeepLogin,793,419,2026-11-24T02:27:02+00:00
+2026-11-25T08:39:41+00:00,85,50622854,Declare is a UI language for you and your AI,https://davidtemkin.github.io/declarelang/,ilamont,111,93,2026-11-24T02:36:56+00:00
+2026-11-25T08:39:41+00:00,86,50632756,OpenAI reveals they solved VP ≠ VNP before Anthropic,https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026,iamronaldo,90,92,2026-11-24T18:55:12+00:00
+2026-11-25T08:39:41+00:00,87,50634369,Claude artifacts can now be installed as desktop apps on Mac and Windows,https://claude.com/resources/articles/install-as-app,WillieCubed,18,0,2026-11-24T20:39:15+00:00
+2026-11-25T08:39:41+00:00,88,50622934,Making a dumb TV just smart enough,https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/,andai,171,57,2026-11-24T02:46:54+00:00
+2026-11-25T08:39:41+00:00,89,50598679,Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88,https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html,bookofjoe,70,23,2026-11-22T11:35:03+00:00
+2026-11-25T08:39:41+00:00,90,50629936,Show HN: Brickie – Deploy sandboxes in your own AWS account,https://github.com/hatchet-dev/brickie,abelanger,31,7,2026-11-24T15:48:34+00:00
+2026-11-25T08:39:41+00:00,91,50592307,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,grep_it,99,12,2026-11-21T18:49:45+00:00
+2026-11-25T08:39:41+00:00,92,50605479,Nespresso's project to reduce grams of coffee per capsule,https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/,bobbiechen,350,383,2026-11-22T23:57:45+00:00
+2026-11-25T08:39:41+00:00,93,50609685,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,foohis,1173,382,2026-11-23T10:06:43+00:00
+2026-11-25T08:39:41+00:00,94,50604710,Modernizing iperf/iperf3 and introducing fireperf,https://blog.daniel-baumann.ch/posts/20261122-1.html,edward,151,13,2026-11-22T22:37:51+00:00
+2026-11-25T08:39:41+00:00,95,50636257,Thoughts on making (and selling) retrocomputing hardware devices,https://www.colino.net/wordpress/archives/2026/11/19/thoughts-on-making-and-selling-retrocomputing-hardware-devices/,ibobev,8,0,2026-11-24T23:20:25+00:00
+2026-11-25T08:39:41+00:00,96,50638839,New York Times Prohibits Photographers from Using Photoshop 2027,https://petapixel.com/2026/11/24/new-york-times-prohibits-photographers-from-using-photoshop-2027/,colinprince,10,0,2026-11-25T05:25:04+00:00
+2026-11-25T08:39:41+00:00,97,50611613,Gnomon: Git for Postgres Data,https://gnomon.bitsinfra.com/,lucasluitjes,40,6,2026-11-23T14:03:38+00:00
+2026-11-25T08:39:41+00:00,98,50637140,Gea HTML Renderer: Up to 109x as fast as Chrome and 118x as fast as Playwright,https://geastack.com/blog-html-renderer,arbayi,7,0,2026-11-25T01:06:58+00:00
+2026-11-25T08:39:41+00:00,99,50634780,"Why Is TikTok a National Security Threat, but Jensen Huang Is Fine?",https://www.techdirt.com/2026/11/24/ive-been-under-a-rock-why-is-tiktok-a-national-security-threat-but-jensen-huang-is-fine/,hn_acker,63,27,2026-11-24T21:10:55+00:00
+2026-11-25T08:39:41+00:00,100,50611402,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,toebee,193,36,2026-11-23T13:42:38+00:00
