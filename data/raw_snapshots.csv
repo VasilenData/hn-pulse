@@ -10402,3 +10402,102 @@ snapshot_at,rank,story_id,title,url,author,score,comments,posted_at
 2026-11-25T19:19:16+00:00,98,50630294,"Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",https://masondata.ai/,tagspace,99,21,2026-11-24T16:11:52+00:00
 2026-11-25T19:19:16+00:00,99,50622854,Declare is a UI language for you and your AI,https://davidtemkin.github.io/declarelang/,ilamont,114,94,2026-11-24T02:36:56+00:00
 2026-11-25T19:19:16+00:00,100,50637995,"Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own",https://carry.md/,iankit17,26,18,2026-11-25T03:19:02+00:00
+2026-11-26T03:36:17+00:00,1,50644817,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,lxhrstn,1235,520,2026-11-25T17:18:26+00:00
+2026-11-26T03:36:17+00:00,2,50646108,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,https://scottaaronson.blog/?p=10379,Kotlopou,1015,865,2026-11-25T19:11:27+00:00
+2026-11-26T03:36:17+00:00,3,50648050,Much shorter version of GRH Lean verification from Anthropic,https://github.com/lsernau/grh-lean,nb-t,323,152,2026-11-25T21:48:10+00:00
+2026-11-26T03:36:17+00:00,4,50649864,Tell HN: Lots of Ask HNs again,,dang,127,57,2026-11-26T00:43:34+00:00
+2026-11-26T03:36:17+00:00,5,50601280,GPT-6.2 Astra is the first model to beat Googlers' code golf records,https://bjin.github.io/go-codegolf-benchmark/#leaderboard,bjin,275,80,2026-11-22T16:44:48+00:00
+2026-11-26T03:36:17+00:00,6,50647181,Slow Ubuntu security response times,https://www.openwall.com/lists/oss-security/2026/11/25/9,gslin,171,83,2026-11-25T20:38:00+00:00
+2026-11-26T03:36:17+00:00,7,50643129,A few questions for the guy who went snorkeling in a Home Depot retention pond,https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts,gumby,449,111,2026-11-25T15:14:32+00:00
+2026-11-26T03:36:17+00:00,8,50647673,The New York Times warns photographers not to update Photoshop over AI features,https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features,rmason,242,195,2026-11-25T21:18:02+00:00
+2026-11-26T03:36:17+00:00,9,50637448,How did pinwheel calculators work?,https://blog.coredump.cx/p/how-did-pinwheel-calculators-work,surprisetalk,32,3,2026-11-25T02:00:08+00:00
+2026-11-26T03:36:17+00:00,10,50648365,Bare Metal Qwen,https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os,miohtama,79,16,2026-11-25T22:15:34+00:00
+2026-11-26T03:36:17+00:00,11,50647161,Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server,https://opensec.in/blog/nfs2root-cve-2026-99362,dm,99,32,2026-11-25T20:35:50+00:00
+2026-11-26T03:36:17+00:00,12,50649834,Collection of preserved UI style guides,https://aresluna.org/ui-style-guides/,sohkamyung,23,2,2026-11-26T00:40:00+00:00
+2026-11-26T03:36:17+00:00,13,50589784,SSH is a GUI framework,https://zydra.sh/articles/ssh-is-a-gui-framework/,teledream,147,77,2026-11-21T14:52:41+00:00
+2026-11-26T03:36:17+00:00,14,50648323,Deploying a payphone on a tiny Pacific Island,https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/,qzervaas,52,5,2026-11-25T22:12:25+00:00
+2026-11-26T03:36:17+00:00,15,50644980,The polynomial Hirsch conjecture is false [pdf],https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf,acossta,133,37,2026-11-25T17:34:34+00:00
+2026-11-26T03:36:17+00:00,16,50620991,Hkust 3D Prints a Titanium Alloy That Keeps Hardening,https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/,rbanffy,8,0,2026-11-23T23:25:26+00:00
+2026-11-26T03:36:17+00:00,17,50623020,Hacking radiators,https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/,andai,42,14,2026-11-24T02:56:41+00:00
+2026-11-26T03:36:17+00:00,18,50648823,Jev is probably Qwen3.5-35B-A3B,https://modaic.dev/blog/latency-doesnt-lie,csoham,251,71,2026-11-25T22:57:04+00:00
+2026-11-26T03:36:17+00:00,19,50642086,"Google releases Cogentic papers on integer factorization, discrete logs and more",https://github.com/google-research/google-research/tree/master/cogentic_research_papers,rgwohlbold,457,340,2026-11-25T13:33:07+00:00
+2026-11-26T03:36:17+00:00,20,50610682,A beer brewer's noise estimation,https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation,surprisetalk,17,1,2026-11-23T12:20:15+00:00
+2026-11-26T03:36:17+00:00,21,50641171,"Windows Loudness Equalization, reverse-engineered and ported to PipeWire",https://github.com/xoxorwr/pw-loudness-eq,ThrowNotAway,324,181,2026-11-25T11:34:25+00:00
+2026-11-26T03:36:17+00:00,22,50616473,The trouble with serendipity: Scientific discoveries don't happen how you think,https://www.worksinprogress.news/p/the-trouble-with-serendipity,crescit_eundo,25,7,2026-11-23T18:18:08+00:00
+2026-11-26T03:36:17+00:00,23,50642939,I checked Clojure's core with Lean and found unreported bugs,https://s.conao3.com/blog/2026/e4f733,encyclopedism,196,67,2026-11-25T14:56:52+00:00
+2026-11-26T03:36:17+00:00,24,50624446,Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs,https://jayd.ml/2026/11/14/rockbox-on-yp3.html,jaydenmilne,234,95,2026-11-24T06:22:36+00:00
+2026-11-26T03:36:17+00:00,25,50645074,Britain's ghost stations,https://spectator.com/article/britains-ghost-stations-are-fascinating/,translocator,103,21,2026-11-25T17:43:46+00:00
+2026-11-26T03:36:17+00:00,26,50648035,Defang Security Incident,https://defang.io/blog/post/security-incident-november-2026/,gregsadetsky,67,20,2026-11-25T21:47:16+00:00
+2026-11-26T03:36:17+00:00,27,50635783,Predicting LoRA size for any dataset,https://engram.com/blog/lora-size,jxmorris12,117,11,2026-11-24T22:34:29+00:00
+2026-11-26T03:36:17+00:00,28,50611593,Show HN: An agent skill that optimizes code with falsifiable hypotheses,https://chszlab.github.io/AgenticAlgorithmEngineering/,0x23,88,10,2026-11-23T14:02:15+00:00
+2026-11-26T03:36:17+00:00,29,50639698,Smart people who give a shit use tools,https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools,matthewsinclair,292,234,2026-11-25T07:46:43+00:00
+2026-11-26T03:36:17+00:00,30,50624684,"Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",https://www.rchive.computer/,kevinsync,39,25,2026-11-24T07:03:33+00:00
+2026-11-26T03:36:17+00:00,31,50619073,The undocumented 249-file limit for Googlebot rendering,https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit,franze,40,16,2026-11-23T20:50:20+00:00
+2026-11-26T03:36:17+00:00,32,50647158,"72-hour fasting can reset your immune system, USC study shows",https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/,handfuloflight,192,148,2026-11-25T20:35:39+00:00
+2026-11-26T03:36:17+00:00,33,50650842,Proving a Fixed Upper Bound on Jensen's Affairs,https://bitbanter.com/posts/2026-11-25/proving-a-fixed-upper-bound-on-jensens-affairs/,gmays,11,2,2026-11-26T02:51:40+00:00
+2026-11-26T03:36:17+00:00,34,50616937,Why “all different” Sets take longer to find,https://setdaily.app/blog/spotting-sets,samoht625,19,1,2026-11-23T18:48:15+00:00
+2026-11-26T03:36:17+00:00,35,50643199,"In C++, = default and {} are not the same constructor",https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/,surprisetalk,111,168,2026-11-25T15:20:15+00:00
+2026-11-26T03:36:17+00:00,37,50638503,"Show HN: Old Nvidia and ATI tech demos, running again in the browser",https://gpu-demo-gallery.pages.dev/,arkits,341,77,2026-11-25T04:31:48+00:00
+2026-11-26T03:36:17+00:00,38,50637890,Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native,https://rida.dev/blog/bypassing-ios-safari-60-fps-limit,vinhnx,443,144,2026-11-25T03:04:37+00:00
+2026-11-26T03:36:17+00:00,39,50623028,A fast CAS with a focus on resolution of singularities,https://github.com/pportilla/atlas,furstenheim,17,1,2026-11-24T02:57:22+00:00
+2026-11-26T03:36:17+00:00,40,50634426,Launch HN: Versine (YC F26) – MCP to send and receive money,,harshithl1777,103,103,2026-11-24T20:44:15+00:00
+2026-11-26T03:36:17+00:00,41,50637220,The matrix multiplication exponent is nine fourths [pdf],https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf,E-Reverance,1028,581,2026-11-25T01:19:26+00:00
+2026-11-26T03:36:17+00:00,42,50638032,Button Sounds – collection of professionally-recorded button clicks and presses,https://buttons.joshwcomeau.com/,gaurang_tandon,851,132,2026-11-25T03:23:07+00:00
+2026-11-26T03:36:17+00:00,43,50637056,PenGPT: A Generative Transformer for Handwriting and Sketches,https://greydanus.github.io/2026/11/12/pengpt/,smusamashah,394,77,2026-11-25T00:54:49+00:00
+2026-11-26T03:36:17+00:00,44,50645541,Multiagent coding is the future,https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/,akalin,54,44,2026-11-25T18:20:11+00:00
+2026-11-26T03:36:17+00:00,45,50625654,"Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/,simonebrunozzi,70,13,2026-11-24T09:06:47+00:00
+2026-11-26T03:36:17+00:00,46,50637891,Macrohistory in Six Facts,https://basilhalperin.com/essays/macrohistory.html,tptacek,170,88,2026-11-25T03:04:46+00:00
+2026-11-26T03:36:17+00:00,47,50638478,Taking over US Treasury subdomains for $3 each,https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each,negura,232,49,2026-11-25T04:27:55+00:00
+2026-11-26T03:36:17+00:00,48,50643065,Rumors swirling that labs might have cracked Factoring in P,https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/,lilytweed,471,345,2026-11-25T15:08:44+00:00
+2026-11-26T03:36:17+00:00,49,50639929,The industrialization of noise: Automated proof-solving is the same old dead end [pdf],https://arxiv.org/abs/2611.31286,pseudohadamard,68,109,2026-11-25T08:23:34+00:00
+2026-11-26T03:36:17+00:00,50,50627726,Getting old Java phones online again,https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html,waximabbax,163,70,2026-11-24T13:14:37+00:00
+2026-11-26T03:36:17+00:00,51,50648822,Duran Duran guitarist Andy Taylor dies aged 65,https://www.bbc.co.uk/news/articles/cmp3vk6vr44po,iamben,43,10,2026-11-25T22:57:01+00:00
+2026-11-26T03:36:17+00:00,52,50643720,Investigating degraded experiences across GitHub products,https://www.githubstatus.com/incidents/qn8mfv6q5hlx,pinjasaur,179,98,2026-11-25T15:59:23+00:00
+2026-11-26T03:36:17+00:00,53,50607849,The short age of dragon riders,https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/,synapsomorphy,273,181,2026-11-23T05:33:34+00:00
+2026-11-26T03:36:17+00:00,54,50634658,GPT-6 models demonstrate intrinsic protein-design capabilities,https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/,acossta,353,97,2026-11-24T21:02:22+00:00
+2026-11-26T03:36:17+00:00,55,50646357,Migrating Our Messages API to Rust,https://www.anthropic.com/research/migrating-api-to-rust,WalterSobchak,21,5,2026-11-25T19:33:10+00:00
+2026-11-26T03:36:17+00:00,56,50628517,Is your DNS ready for a bigger namespace?,https://www.akamai.com/blog/security/2026/nov/1615-new-tlds-dns-ready-for-bigger-namespace,ksec,61,79,2026-11-24T14:14:47+00:00
+2026-11-26T03:36:17+00:00,57,50630809,Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?,,weli,445,340,2026-11-24T16:45:44+00:00
+2026-11-26T03:36:17+00:00,58,50638220,"Marginalia Search, Money, C++, Rust, AI, Stuff",https://www.marginalia.nu/log/a_141_marginalia_update/,Curiositry,219,82,2026-11-25T03:47:42+00:00
+2026-11-26T03:36:17+00:00,59,50642300,Show HN: Turned a $5 AliExpress clock into a desk Clawd pet(+usage),https://github.com/click6067-ship-it/token-tv,click6067,39,1,2026-11-25T13:51:44+00:00
+2026-11-26T03:36:17+00:00,60,50627079,The Shapes of Rivers,https://dominicroye.github.io/shapes-of-rivers/,joexov,138,33,2026-11-24T12:14:25+00:00
+2026-11-26T03:36:17+00:00,61,50637686,Models Can Communicate via Inference Servers Despite Being Sandboxed,https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being,gmays,454,197,2026-11-25T02:34:21+00:00
+2026-11-26T03:36:17+00:00,62,50646073,"When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html,datas,16,7,2026-11-25T19:08:28+00:00
+2026-11-26T03:36:17+00:00,63,50627783,GTA 6 Running on Windows,https://twitter.com/raul_bs3/status/2125213756238291075,andrem,499,587,2026-11-24T13:19:31+00:00
+2026-11-26T03:36:17+00:00,64,50613769,"When in Doubt, Flail About",https://www.seangoedecke.com/when-in-doubt-flail-about/,zdw,128,57,2026-11-23T15:45:11+00:00
+2026-11-26T03:36:17+00:00,65,50611576,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,jaz,2840,3801,2026-11-23T14:00:18+00:00
+2026-11-26T03:36:17+00:00,66,50637871,Top open problems in mathematics ranked by LLM-assessed importance,https://www.proofatlas.ai/open-problems/,ijidak,102,52,2026-11-25T03:01:36+00:00
+2026-11-26T03:36:17+00:00,67,50623866,The algebra of dependent types (2025),https://dotat.at/@/2025-05-28-types.html,todsacerdoti,108,18,2026-11-24T04:49:58+00:00
+2026-11-26T03:36:17+00:00,68,50638070,Serving Qwen via AWS Lambdas for fun and 80x negative profit,https://noahbuilt.it/writing/qwen-on-5600-lambdas,octember,132,20,2026-11-25T03:28:06+00:00
+2026-11-26T03:36:17+00:00,69,50633922,Ternary Bonsai 2.5 27B,https://prismml.com/news/bonsai-2-5-27b,b0m,531,176,2026-11-24T20:08:03+00:00
+2026-11-26T03:36:17+00:00,70,50648699,Play /Bin/Sh Invaders,https://invaders.now/,jrmg,4,0,2026-11-25T22:44:48+00:00
+2026-11-26T03:36:17+00:00,71,50610820,An Italian folding bicycle design that fits into a suitcase,https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase,surprisetalk,213,164,2026-11-23T12:40:08+00:00
+2026-11-26T03:36:17+00:00,72,50622638,GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school,https://github.com/ItsNotRexed/Leonida/issues,smuhakg,385,711,2026-11-24T02:08:09+00:00
+2026-11-26T03:36:17+00:00,73,50604355,Cento fine foods has been sued for “tomato fraud”,https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html,ncr100,171,236,2026-11-22T21:59:09+00:00
+2026-11-26T03:36:17+00:00,74,50629231,"A training engine for your local model, using your idle compute",https://github.com/sous-labs/songe,bluepeter,231,75,2026-11-24T15:03:40+00:00
+2026-11-26T03:36:17+00:00,75,50606192,Free alternative TV network built from the Internet Archive's forgotten videos,https://spelunkr.tv,SockThief,1089,186,2026-11-23T01:13:51+00:00
+2026-11-26T03:36:17+00:00,76,50637888,Lua for data representation (2025),https://citrons.xyz/journal/2025-07-23,vinhnx,100,52,2026-11-25T03:04:12+00:00
+2026-11-26T03:36:17+00:00,77,50625265,Gödel Enigma,https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description,benbreen,144,49,2026-11-24T08:16:02+00:00
+2026-11-26T03:36:17+00:00,78,50649002,Macy's Thanksgiving Day Parade Postponed Until Saturday,https://www.nytimes.com/live/2026/11/25/nyregion/macys-thanksgiving-parade-postponed,jdboyd,14,3,2026-11-25T23:12:12+00:00
+2026-11-26T03:36:17+00:00,79,50614249,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,janvdberg,2434,624,2026-11-23T16:13:12+00:00
+2026-11-26T03:36:17+00:00,80,50641072,Remote software jobs that show which countries can apply,https://jobs.codemind.site/remote-jobs,josephzhang0602,25,1,2026-11-25T11:20:43+00:00
+2026-11-26T03:36:17+00:00,81,50649360,Treasury CIO Is Vibe Coding a Civilization Clone During Treasury Department Hack,https://www.404media.co/sam-corcos-legatum-treasury-cio-is-vibe-coding-a-civilization-clone-during-treasury-department-hack/,cdrnsf,12,2,2026-11-25T23:47:19+00:00
+2026-11-26T03:36:17+00:00,82,50630462,Jetty Pro,http://hypercritical.co/2026/11/23/jetty-pro,zdw,311,144,2026-11-24T16:23:02+00:00
+2026-11-26T03:36:17+00:00,83,50599458,How a Mechanical Watch Keeps Time,https://martincmartin.github.io/slidev-stem/watches/article/1/,martincmartin,272,61,2026-11-22T13:21:25+00:00
+2026-11-26T03:36:17+00:00,84,50644814,Deriving Black-Scholes,https://david.alvarezrosa.com/posts/deriving-black-scholes/,meysamazad,55,44,2026-11-25T17:18:15+00:00
+2026-11-26T03:36:17+00:00,85,50598555,The Spray Bottle,https://mechanical-pencil.com/products/spray-bottle,vinhnx,606,147,2026-11-22T11:16:30+00:00
+2026-11-26T03:36:17+00:00,86,50650099,Nvidia Replaces Enron On S&P 500 (2001),https://www.gamedeveloper.com/game-platforms/nvidia-replaces-enron-on-s-p-500,_DeadFred_,7,0,2026-11-26T01:13:36+00:00
+2026-11-26T03:36:17+00:00,87,50624497,2035 came early,https://fzakaria.com/2026/11/23/2035-came-early,setheron,1021,374,2026-11-24T06:30:33+00:00
+2026-11-26T03:36:17+00:00,88,50627625,Show HN: Ribbon Architect – Endless ways to tie a gift ribbon,https://ribbonarchitect.com,permute,23,1,2026-11-24T13:06:17+00:00
+2026-11-26T03:36:17+00:00,89,50638075,A faster algorithm for extracting hexadecimal digits of π,https://www.stylewarning.com/posts/faster-digit-extraction/,vinhnx,75,5,2026-11-25T03:28:42+00:00
+2026-11-26T03:36:17+00:00,90,50646726,What does a software factory cost?,https://zarar.dev/software-factory/,recroad,8,0,2026-11-25T20:01:20+00:00
+2026-11-26T03:36:17+00:00,91,50609483,Calculate how many mesh radio nodes your city needs,https://meshcoveragecalculator.lalala.ing/,joshcsimmons,110,25,2026-11-23T09:46:57+00:00
+2026-11-26T03:36:17+00:00,92,50626430,New rewritable antimony selenide display shows an image for months without power,https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/,giuliomagnifico,61,40,2026-11-24T10:52:12+00:00
+2026-11-26T03:36:17+00:00,93,50632832,Canada's median health-care wait time hits 30.7 weeks–longest ever recorded,https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026,nradov,100,137,2026-11-24T19:00:26+00:00
+2026-11-26T03:36:17+00:00,94,50629106,Splitting USB-C: USB 3 and USB 2 on one port,https://www.frankchiarulli.com/blog/splitting-usb-c/,fcjr,153,109,2026-11-24T14:54:10+00:00
+2026-11-26T03:36:17+00:00,95,50628600,A Clock Made of Branches,https://fzakaria.com/2026/11/01/a-clock-made-of-branches,surprisetalk,13,2,2026-11-24T14:20:08+00:00
+2026-11-26T03:36:17+00:00,96,50635055,"Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra",https://github.com/cerulion-inc/cerulion#harness-results,lakshays,8,2,2026-11-24T21:33:44+00:00
+2026-11-26T03:36:17+00:00,97,50627340,"LLM agents work for their parent companies, not for you",https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/,surprisetalk,1006,410,2026-11-24T12:40:15+00:00
+2026-11-26T03:36:17+00:00,98,50633424,From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver,https://andlukyane.com/blog/cayley-graphs-and-torchtpu,Artgor,88,2,2026-11-24T19:40:43+00:00
+2026-11-26T03:36:17+00:00,99,50644909,"New York bans AI toys, including those using internet to talk to children",https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys,nephihaha,47,9,2026-11-25T17:27:05+00:00
+2026-11-26T03:36:17+00:00,100,50624061,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,zdw,232,132,2026-11-24T05:15:22+00:00
