@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:57:33+00:00",
+ "generated_at": "2026-11-27T01:45:08+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -203,26 +203,33 @@
    "distinct_stories": 139,
    "avg_score": 275.7,
    "avg_comments": 159.1
+  },
+  {
+   "day": "2026-11-27",
+   "snapshots": 1,
+   "distinct_stories": 99,
+   "avg_score": 253.7,
+   "avg_comments": 159.0
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 243,
-   "avg_peak_score": 143.7,
-   "total_comments": 14142
+   "stories": 248,
+   "avg_peak_score": 143.9,
+   "total_comments": 14742
   },
   {
    "domain": "twitter.com",
-   "stories": 51,
-   "avg_peak_score": 153.6,
-   "total_comments": 4749
+   "stories": 52,
+   "avg_peak_score": 152.4,
+   "total_comments": 4795
   },
   {
    "domain": "nytimes.com",
-   "stories": 44,
-   "avg_peak_score": 187.4,
-   "total_comments": 3916
+   "stories": 45,
+   "avg_peak_score": 184.5,
+   "total_comments": 3965
   },
   {
    "domain": "theguardian.com",
@@ -237,16 +244,16 @@
    "total_comments": 4626
   },
   {
+   "domain": "arxiv.org",
+   "stories": 33,
+   "avg_peak_score": 85.2,
+   "total_comments": 901
+  },
+  {
    "domain": "arstechnica.com",
    "stories": 32,
    "avg_peak_score": 96.0,
    "total_comments": 2216
-  },
-  {
-   "domain": "arxiv.org",
-   "stories": 32,
-   "avg_peak_score": 85.0,
-   "total_comments": 863
   },
   {
    "domain": "youtube.com",
@@ -256,9 +263,9 @@
   },
   {
    "domain": "bbc.com",
-   "stories": 22,
-   "avg_peak_score": 69.7,
-   "total_comments": 1617
+   "stories": 23,
+   "avg_peak_score": 66.8,
+   "total_comments": 1619
   },
   {
    "domain": "wsj.com",
@@ -281,8 +288,8 @@
   {
    "domain": "theregister.com",
    "stories": 18,
-   "avg_peak_score": 97.5,
-   "total_comments": 1031
+   "avg_peak_score": 104.1,
+   "total_comments": 1102
   },
   {
    "domain": "apnews.com",
@@ -291,16 +298,16 @@
    "total_comments": 4433
   },
   {
-   "domain": "bloomberg.com",
+   "domain": "tomshardware.com",
    "stories": 16,
-   "avg_peak_score": 79.8,
-   "total_comments": 1797
+   "avg_peak_score": 92.3,
+   "total_comments": 563
   }
  ],
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 106,
+   "stories": 108,
    "avg_peak_score": 107.4
   },
   {
@@ -310,33 +317,33 @@
   },
   {
    "posted_hour_utc": 2,
-   "stories": 96,
-   "avg_peak_score": 127.2
+   "stories": 97,
+   "avg_peak_score": 126.0
   },
   {
    "posted_hour_utc": 3,
-   "stories": 99,
-   "avg_peak_score": 106.2
+   "stories": 100,
+   "avg_peak_score": 107.1
   },
   {
    "posted_hour_utc": 4,
-   "stories": 69,
+   "stories": 70,
    "avg_peak_score": 129.6
   },
   {
    "posted_hour_utc": 5,
    "stories": 74,
-   "avg_peak_score": 114.2
+   "avg_peak_score": 116.4
   },
   {
    "posted_hour_utc": 6,
    "stories": 47,
-   "avg_peak_score": 161.0
+   "avg_peak_score": 163.0
   },
   {
    "posted_hour_utc": 7,
-   "stories": 58,
-   "avg_peak_score": 181.1
+   "stories": 59,
+   "avg_peak_score": 183.8
   },
   {
    "posted_hour_utc": 8,
@@ -346,379 +353,379 @@
   {
    "posted_hour_utc": 9,
    "stories": 75,
-   "avg_peak_score": 151.8
+   "avg_peak_score": 153.8
   },
   {
    "posted_hour_utc": 10,
    "stories": 77,
-   "avg_peak_score": 210.1
+   "avg_peak_score": 212.3
   },
   {
    "posted_hour_utc": 11,
    "stories": 97,
-   "avg_peak_score": 172.5
+   "avg_peak_score": 173.8
   },
   {
    "posted_hour_utc": 12,
-   "stories": 107,
-   "avg_peak_score": 197.7
+   "stories": 108,
+   "avg_peak_score": 196.0
   },
   {
    "posted_hour_utc": 13,
-   "stories": 141,
-   "avg_peak_score": 183.9
+   "stories": 142,
+   "avg_peak_score": 183.7
   },
   {
    "posted_hour_utc": 14,
-   "stories": 202,
-   "avg_peak_score": 180.2
+   "stories": 204,
+   "avg_peak_score": 180.3
   },
   {
    "posted_hour_utc": 15,
-   "stories": 251,
+   "stories": 252,
    "avg_peak_score": 146.7
   },
   {
    "posted_hour_utc": 16,
-   "stories": 203,
+   "stories": 205,
    "avg_peak_score": 159.4
   },
   {
    "posted_hour_utc": 17,
-   "stories": 214,
-   "avg_peak_score": 184.8
+   "stories": 219,
+   "avg_peak_score": 184.5
   },
   {
    "posted_hour_utc": 18,
-   "stories": 207,
-   "avg_peak_score": 175.1
+   "stories": 212,
+   "avg_peak_score": 172.5
   },
   {
    "posted_hour_utc": 19,
-   "stories": 197,
-   "avg_peak_score": 161.3
+   "stories": 202,
+   "avg_peak_score": 158.9
   },
   {
    "posted_hour_utc": 20,
-   "stories": 192,
-   "avg_peak_score": 117.2
+   "stories": 194,
+   "avg_peak_score": 117.1
   },
   {
    "posted_hour_utc": 21,
-   "stories": 175,
-   "avg_peak_score": 169.5
+   "stories": 181,
+   "avg_peak_score": 168.6
   },
   {
    "posted_hour_utc": 22,
    "stories": 166,
-   "avg_peak_score": 131.6
+   "avg_peak_score": 131.7
   },
   {
    "posted_hour_utc": 23,
-   "stories": 136,
-   "avg_peak_score": 131.1
+   "stories": 140,
+   "avg_peak_score": 128.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50654289,
-   "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-   "domain": "nextcloud.com",
-   "score": 308,
-   "comments": 129,
-   "author": "e12e",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50660180,
+   "title": "AI made self-hosting fun again",
+   "domain": "janlukas.blog",
+   "score": 302,
+   "comments": 157,
+   "author": "jlelse",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 2,
-   "story_id": 50646108,
-   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-   "domain": "scottaaronson.blog",
-   "score": 1838,
-   "comments": 1685,
-   "author": "Kotlopou",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50659841,
+   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "domain": "worksinprogress.co",
+   "score": 233,
+   "comments": 48,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 3,
-   "story_id": 50653667,
-   "title": "Intel One Mono font",
+   "story_id": 50657530,
+   "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
    "domain": "github.com",
-   "score": 318,
-   "comments": 191,
-   "author": "saikatsg",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "score": 268,
+   "comments": 335,
+   "author": "iantongeorge",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 4,
-   "story_id": 50655664,
-   "title": "Tell HN: Happy Thanksgiving",
-   "domain": "news.ycombinator.com",
-   "score": 313,
-   "comments": 89,
-   "author": "ericmay",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50657265,
+   "title": "AMD-specific fork of llama.cpp",
+   "domain": "devnull.land",
+   "score": 284,
+   "comments": 71,
+   "author": "julianlam",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 5,
-   "story_id": 50636931,
-   "title": "Curiosity Is No Solo Act",
-   "domain": "thereader.mitpress.mit.edu",
-   "score": 54,
-   "comments": 14,
-   "author": "Petiver",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50657645,
+   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+   "domain": "krebsonsecurity.com",
+   "score": 211,
+   "comments": 93,
+   "author": "Bender",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 6,
-   "story_id": 50656862,
-   "title": "Kagi Watch",
-   "domain": "kagi.com",
-   "score": 21,
-   "comments": 20,
-   "author": "Shortness8",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50660273,
+   "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+   "domain": "kendell.dev",
+   "score": 39,
+   "comments": 6,
+   "author": "leafingensemble",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 7,
-   "story_id": 50644817,
-   "title": "1Password Security Incident",
-   "domain": "1password.com",
-   "score": 1586,
-   "comments": 687,
-   "author": "lxhrstn",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50653667,
+   "title": "Intel One Mono font (2023)",
+   "domain": "github.com",
+   "score": 466,
+   "comments": 238,
+   "author": "saikatsg",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 8,
-   "story_id": 50619466,
-   "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
-   "domain": "phys.org",
-   "score": 58,
-   "comments": 36,
-   "author": "PaulHoule",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50658632,
+   "title": "Rvoip: VoIP stack in Rust",
+   "domain": "github.com",
+   "score": 86,
+   "comments": 17,
+   "author": "zerosegfaults",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 9,
-   "story_id": 50647673,
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "domain": "theverge.com",
-   "score": 537,
-   "comments": 456,
-   "author": "rmason",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50651099,
+   "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+   "domain": "olumino.app",
+   "score": 74,
+   "comments": 36,
+   "author": "Wiyseful",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 10,
-   "story_id": 50651719,
-   "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-   "domain": "fosscomics.com",
-   "score": 195,
-   "comments": 41,
-   "author": "joonehur",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50658193,
+   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+   "domain": "bui.preetham.top",
+   "score": 57,
+   "comments": 10,
+   "author": "ppmpreetham",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 11,
-   "story_id": 50644839,
-   "title": "The Engineering of Smartphone Cameras",
-   "domain": "pencilofrays.com",
-   "score": 5,
-   "comments": 1,
-   "author": "nbernard",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50657936,
+   "title": "George Whitesides, 1939-2026",
+   "domain": "science.org",
+   "score": 63,
+   "comments": 7,
+   "author": "dverlaeckt80",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 12,
-   "story_id": 50655278,
-   "title": "45\u00b0C inlets just killed the chiller. Most people haven't noticed yet",
-   "domain": "theregister.com",
-   "score": 131,
-   "comments": 60,
-   "author": "magoghm",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50659640,
+   "title": "Company Culture = Slack Emoji \u00f7 \u221aHeadcount",
+   "domain": "lia.mg",
+   "score": 86,
+   "comments": 18,
+   "author": "liamg",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 13,
-   "story_id": 50656036,
-   "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-   "domain": "michidk.github.io",
-   "score": 21,
-   "comments": 7,
-   "author": "michidk",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50653477,
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "domain": "techstackups.com",
+   "score": 240,
+   "comments": 204,
+   "author": "ritzaco",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 14,
-   "story_id": 50650892,
-   "title": "Minipg: PostgreSQL as a Single Executable",
-   "domain": "progrium.github.io",
-   "score": 239,
-   "comments": 35,
-   "author": "rguiscard",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50661218,
+   "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+   "domain": "the-decoder.com",
+   "score": 22,
+   "comments": 2,
+   "author": "geox",
+   "snapshot_at": "2026-11-27T01:45:03"
+  },
+  {
+   "rank": 15,
+   "story_id": 50636931,
+   "title": "Curiosity Is No Solo Act",
+   "domain": "thereader.mitpress.mit.edu",
+   "score": 130,
+   "comments": 33,
+   "author": "Petiver",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 16,
-   "story_id": 50652184,
-   "title": "Moat: Your OpenRouter Replacement",
-   "domain": "commandcode.ai",
-   "score": 168,
-   "comments": 103,
-   "author": "amanverasia",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50658910,
+   "title": "Top-cited AI scientists at four US companies compared",
+   "domain": "topcitedscientists.com",
+   "score": 36,
+   "comments": 22,
+   "author": "kkk4seis",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 17,
-   "story_id": 50649834,
-   "title": "Collection of preserved UI style guides",
-   "domain": "aresluna.org",
-   "score": 334,
-   "comments": 64,
-   "author": "sohkamyung",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50651430,
+   "title": "NormalScript: A perfectly normal scripting language",
+   "domain": "psychoscript.com",
+   "score": 76,
+   "comments": 17,
+   "author": "hn-aarvin",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 18,
-   "story_id": 50647181,
-   "title": "Slow Ubuntu security response times",
-   "domain": "openwall.com",
-   "score": 375,
-   "comments": 224,
-   "author": "gslin",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50652527,
+   "title": "OpenAI may be in cost control mode",
+   "domain": "micjm.com",
+   "score": 274,
+   "comments": 269,
+   "author": "seizethecheese",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 19,
-   "story_id": 50649864,
-   "title": "Tell HN: Lots of Ask HNs again",
-   "domain": "news.ycombinator.com",
-   "score": 355,
-   "comments": 143,
-   "author": "dang",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50649040,
+   "title": "The USAID Files",
+   "domain": "reclaimthenet.org",
+   "score": 132,
+   "comments": 147,
+   "author": "MassPikeMike",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 20,
-   "story_id": 50626466,
-   "title": "What VP \u2260 VNP Means (In 3 Minutes)",
-   "domain": "friedgil.com",
-   "score": 196,
-   "comments": 75,
-   "author": "vinhnx",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50650860,
+   "title": "The Naturalist's Library",
+   "domain": "c82.net",
+   "score": 7,
+   "comments": 0,
+   "author": "rafael859",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 21,
-   "story_id": 50601280,
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "domain": "bjin.github.io",
-   "score": 437,
-   "comments": 124,
-   "author": "bjin",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50646108,
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+   "domain": "scottaaronson.blog",
+   "score": 1986,
+   "comments": 1815,
+   "author": "Kotlopou",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 22,
-   "story_id": 50656763,
-   "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+   "story_id": 50655664,
+   "title": "Tell HN: Happy Thanksgiving",
    "domain": "news.ycombinator.com",
-   "score": 15,
-   "comments": 6,
-   "author": "akudha",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "score": 599,
+   "comments": 136,
+   "author": "ericmay",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 23,
-   "story_id": 50634381,
-   "title": "The history of civilization is the history of wheat",
-   "domain": "asteriskmag.com",
-   "score": 100,
-   "comments": 57,
-   "author": "NaOH",
-   "snapshot_at": "2026-11-26T16:57:26"
-  },
-  {
-   "rank": 24,
-   "story_id": 50623232,
-   "title": "Show HN: Synth Patch Hero",
-   "domain": "swarkentin.github.io",
-   "score": 111,
-   "comments": 23,
-   "author": "kaidon",
-   "snapshot_at": "2026-11-26T16:57:26"
-  },
-  {
-   "rank": 25,
    "story_id": 50651863,
    "title": "An algebraic quantization of gravity from the null cone",
    "domain": "arxiv.org",
-   "score": 128,
-   "comments": 37,
+   "score": 212,
+   "comments": 75,
    "author": "hecmmm",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "snapshot_at": "2026-11-27T01:45:03"
+  },
+  {
+   "rank": 24,
+   "story_id": 50655868,
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "domain": "themouseless.dev",
+   "score": 58,
+   "comments": 20,
+   "author": "thanato0s",
+   "snapshot_at": "2026-11-27T01:45:03"
+  },
+  {
+   "rank": 25,
+   "story_id": 50652184,
+   "title": "Moat: OpenRouter replacement",
+   "domain": "commandcode.ai",
+   "score": 247,
+   "comments": 141,
+   "author": "amanverasia",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 26,
-   "story_id": 50651627,
-   "title": "Unconditional Integer Factorization in Subexponential Time",
+   "story_id": 50657070,
+   "title": "Show HN: SimDrop \u2013 Running iOS simulators in the macOS Finder sidebar",
    "domain": "github.com",
-   "score": 115,
-   "comments": 15,
-   "author": "_alternator_",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "score": 39,
+   "comments": 8,
+   "author": "rxliuli",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 27,
-   "story_id": 50647161,
-   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-   "domain": "opensec.in",
-   "score": 192,
-   "comments": 80,
-   "author": "dm",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50654289,
+   "title": "Nextcloud Office Desktop app",
+   "domain": "nextcloud.com",
+   "score": 397,
+   "comments": 203,
+   "author": "e12e",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 28,
-   "story_id": 50648365,
-   "title": "Bare Metal Qwen",
-   "domain": "github.com",
-   "score": 213,
-   "comments": 52,
-   "author": "miohtama",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50656036,
+   "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+   "domain": "michidk.github.io",
+   "score": 113,
+   "comments": 26,
+   "author": "michidk",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 29,
-   "story_id": 50648050,
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "domain": "github.com",
-   "score": 514,
-   "comments": 327,
-   "author": "nb-t",
-   "snapshot_at": "2026-11-26T16:57:26"
-  },
-  {
-   "rank": 30,
-   "story_id": 50598636,
-   "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-   "domain": "gwern.net",
-   "score": 135,
-   "comments": 50,
-   "author": "Michelangelo11",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50658498,
+   "title": "An introduction to uncertainty in machine learning",
+   "domain": "chrhenning.com",
+   "score": 7,
+   "comments": 0,
+   "author": "chrhenning",
+   "snapshot_at": "2026-11-27T01:45:03"
   },
   {
    "rank": 31,
-   "story_id": 50651117,
-   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-   "domain": "twitter.com",
-   "score": 423,
-   "comments": 233,
-   "author": "Herrera",
-   "snapshot_at": "2026-11-26T16:57:26"
+   "story_id": 50659918,
+   "title": "A man in Denver has been throwing eggs at Waymo vehicles",
+   "domain": "nytimes.com",
+   "score": 58,
+   "comments": 49,
+   "author": "cisc",
+   "snapshot_at": "2026-11-27T01:45:03"
   }
  ],
  "quality": {
@@ -735,10 +742,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 10601,
-   "fct_stories": 3135
+   "stg_snapshots": 10700,
+   "fct_stories": 3175
   },
-  "newest_snapshot_at": "2026-11-26T16:57:26+00:00",
+  "newest_snapshot_at": "2026-11-27T01:45:03+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
