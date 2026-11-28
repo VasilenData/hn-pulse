@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:29:27+00:00",
+ "generated_at": "2026-11-28T07:53:17+00:00",
  "mart_daily_summary": [
   {
    "day": "2026-10-29",
@@ -210,20 +210,27 @@
    "distinct_stories": 176,
    "avg_score": 280.5,
    "avg_comments": 171.0
+  },
+  {
+   "day": "2026-11-28",
+   "snapshots": 1,
+   "distinct_stories": 99,
+   "avg_score": 238.3,
+   "avg_comments": 147.2
   }
  ],
  "mart_top_domains": [
   {
    "domain": "github.com",
-   "stories": 251,
-   "avg_peak_score": 145.4,
-   "total_comments": 15237
+   "stories": 253,
+   "avg_peak_score": 144.9,
+   "total_comments": 15320
   },
   {
    "domain": "twitter.com",
-   "stories": 53,
-   "avg_peak_score": 160.5,
-   "total_comments": 5085
+   "stories": 55,
+   "avg_peak_score": 157.5,
+   "total_comments": 5119
   },
   {
    "domain": "nytimes.com",
@@ -234,20 +241,20 @@
   {
    "domain": "theguardian.com",
    "stories": 42,
-   "avg_peak_score": 125.4,
-   "total_comments": 3422
+   "avg_peak_score": 127.1,
+   "total_comments": 3490
   },
   {
    "domain": "reuters.com",
-   "stories": 40,
-   "avg_peak_score": 117.2,
-   "total_comments": 4626
+   "stories": 41,
+   "avg_peak_score": 115.0,
+   "total_comments": 4631
   },
   {
    "domain": "arstechnica.com",
    "stories": 33,
-   "avg_peak_score": 98.5,
-   "total_comments": 2270
+   "avg_peak_score": 99.4,
+   "total_comments": 2279
   },
   {
    "domain": "arxiv.org",
@@ -268,6 +275,12 @@
    "total_comments": 1619
   },
   {
+   "domain": "wired.com",
+   "stories": 20,
+   "avg_peak_score": 241.0,
+   "total_comments": 3467
+  },
+  {
    "domain": "wsj.com",
    "stories": 20,
    "avg_peak_score": 113.7,
@@ -278,12 +291,6 @@
    "stories": 19,
    "avg_peak_score": 281.8,
    "total_comments": 3443
-  },
-  {
-   "domain": "wired.com",
-   "stories": 19,
-   "avg_peak_score": 253.3,
-   "total_comments": 3466
   },
   {
    "domain": "theregister.com",
@@ -307,38 +314,38 @@
  "mart_hourly_activity": [
   {
    "posted_hour_utc": 0,
-   "stories": 108,
-   "avg_peak_score": 108.5
+   "stories": 110,
+   "avg_peak_score": 106.9
   },
   {
    "posted_hour_utc": 1,
-   "stories": 93,
-   "avg_peak_score": 120.2
+   "stories": 95,
+   "avg_peak_score": 119.9
   },
   {
    "posted_hour_utc": 2,
-   "stories": 97,
-   "avg_peak_score": 126.2
+   "stories": 98,
+   "avg_peak_score": 126.7
   },
   {
    "posted_hour_utc": 3,
-   "stories": 102,
-   "avg_peak_score": 108.8
+   "stories": 103,
+   "avg_peak_score": 110.3
   },
   {
    "posted_hour_utc": 4,
-   "stories": 72,
-   "avg_peak_score": 130.2
+   "stories": 73,
+   "avg_peak_score": 129.2
   },
   {
    "posted_hour_utc": 5,
-   "stories": 76,
-   "avg_peak_score": 122.7
+   "stories": 80,
+   "avg_peak_score": 117.4
   },
   {
    "posted_hour_utc": 6,
-   "stories": 48,
-   "avg_peak_score": 175.7
+   "stories": 51,
+   "avg_peak_score": 166.3
   },
   {
    "posted_hour_utc": 7,
@@ -348,17 +355,17 @@
   {
    "posted_hour_utc": 8,
    "stories": 57,
-   "avg_peak_score": 129.8
+   "avg_peak_score": 132.2
   },
   {
    "posted_hour_utc": 9,
    "stories": 76,
-   "avg_peak_score": 154.6
+   "avg_peak_score": 154.7
   },
   {
    "posted_hour_utc": 10,
    "stories": 77,
-   "avg_peak_score": 213.9
+   "avg_peak_score": 214.0
   },
   {
    "posted_hour_utc": 11,
@@ -367,365 +374,365 @@
   },
   {
    "posted_hour_utc": 12,
-   "stories": 114,
-   "avg_peak_score": 193.6
+   "stories": 115,
+   "avg_peak_score": 192.9
   },
   {
    "posted_hour_utc": 13,
-   "stories": 143,
-   "avg_peak_score": 183.6
+   "stories": 144,
+   "avg_peak_score": 182.6
   },
   {
    "posted_hour_utc": 14,
    "stories": 207,
-   "avg_peak_score": 180.6
+   "avg_peak_score": 181.0
   },
   {
    "posted_hour_utc": 15,
    "stories": 257,
-   "avg_peak_score": 148.4
+   "avg_peak_score": 150.1
   },
   {
    "posted_hour_utc": 16,
-   "stories": 206,
-   "avg_peak_score": 159.1
+   "stories": 208,
+   "avg_peak_score": 158.1
   },
   {
    "posted_hour_utc": 17,
-   "stories": 226,
-   "avg_peak_score": 183.0
+   "stories": 228,
+   "avg_peak_score": 183.6
   },
   {
    "posted_hour_utc": 18,
-   "stories": 220,
-   "avg_peak_score": 168.2
+   "stories": 221,
+   "avg_peak_score": 168.4
   },
   {
    "posted_hour_utc": 19,
    "stories": 207,
-   "avg_peak_score": 159.3
+   "avg_peak_score": 161.5
   },
   {
    "posted_hour_utc": 20,
-   "stories": 203,
-   "avg_peak_score": 115.3
+   "stories": 204,
+   "avg_peak_score": 115.7
   },
   {
    "posted_hour_utc": 21,
-   "stories": 184,
+   "stories": 185,
    "avg_peak_score": 172.6
   },
   {
    "posted_hour_utc": 22,
    "stories": 168,
-   "avg_peak_score": 130.4
+   "avg_peak_score": 130.7
   },
   {
    "posted_hour_utc": 23,
-   "stories": 141,
-   "avg_peak_score": 128.6
+   "stories": 145,
+   "avg_peak_score": 128.5
   }
  ],
  "mart_front_page_now": [
   {
    "rank": 1,
-   "story_id": 50643158,
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "domain": "generativehistory.substack.com",
-   "score": 221,
-   "comments": 152,
-   "author": "dr_red_dog",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50674218,
+   "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+   "domain": "unkernel.dev",
+   "score": 192,
+   "comments": 29,
+   "author": "nreece",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 2,
-   "story_id": 50668145,
-   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-   "domain": "infohawk.com",
-   "score": 380,
-   "comments": 199,
-   "author": "scanr",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50632052,
+   "title": "Loom seamlessly combines weaving, knitting and braiding",
+   "domain": "news.cornell.edu",
+   "score": 50,
+   "comments": 2,
+   "author": "PaulHoule",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 3,
-   "story_id": 50669765,
-   "title": "Convex skills send the user's app idea to a remote server without telling them",
-   "domain": "github.com",
-   "score": 201,
-   "comments": 57,
-   "author": "MickyTheMouse",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50672565,
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "domain": "research.google",
+   "score": 325,
+   "comments": 134,
+   "author": "ComputedCamp995",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 4,
-   "story_id": 50672142,
-   "title": "Source Control from Hell",
-   "domain": "frantic.im",
-   "score": 27,
-   "comments": 10,
-   "author": "emschwartz",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50657346,
+   "title": "The Balatro Timeline",
+   "domain": "localthunk.com",
+   "score": 284,
+   "comments": 63,
+   "author": "sheepscreek",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 5,
-   "story_id": 50672008,
-   "title": "9/UX: a Macintosh-inspired desktop for 9front",
-   "domain": "progrium.github.io",
-   "score": 34,
-   "comments": 7,
-   "author": "rbanffy",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50643158,
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "domain": "generativehistory.substack.com",
+   "score": 421,
+   "comments": 260,
+   "author": "dr_red_dog",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 6,
-   "story_id": 50662313,
-   "title": "Citro\u00ebn Hydraulic System",
-   "domain": "citroenet.org.uk",
-   "score": 112,
-   "comments": 38,
-   "author": "o4c",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50666724,
+   "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+   "domain": "worldofinteriors.com",
+   "score": 36,
+   "comments": 5,
+   "author": "robtherobber",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 7,
-   "story_id": 50670841,
-   "title": "The AT&T Unix PC (3B1) VM",
-   "domain": "virtuallyfun.com",
-   "score": 46,
-   "comments": 7,
-   "author": "ok123456",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50668145,
+   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+   "domain": "infohawk.com",
+   "score": 503,
+   "comments": 260,
+   "author": "scanr",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 8,
-   "story_id": 50667726,
-   "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-   "domain": "bouncemarket.minhanhday.com",
-   "score": 314,
-   "comments": 106,
-   "author": "mday404",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50650253,
+   "title": "Sydney Fire Ant Infestation",
+   "domain": "abc.net.au",
+   "score": 42,
+   "comments": 17,
+   "author": "altilunium",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 9,
-   "story_id": 50670757,
-   "title": "Michael Nielsen took down his book on neural nets",
-   "domain": "neuralnetworksanddeeplearning.com",
-   "score": 310,
-   "comments": 195,
-   "author": "brandonb",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50669765,
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "domain": "github.com",
+   "score": 289,
+   "comments": 92,
+   "author": "MickyTheMouse",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 10,
-   "story_id": 50670855,
-   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-   "domain": "oag.state.va.us",
-   "score": 195,
-   "comments": 102,
-   "author": "DeepLogin",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50662313,
+   "title": "Citro\u00ebn Hydraulic System",
+   "domain": "citroenet.org.uk",
+   "score": 180,
+   "comments": 57,
+   "author": "o4c",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 11,
-   "story_id": 50657392,
-   "title": "First images of the impact of DART asteroid deflection experiment",
-   "domain": "arstechnica.com",
-   "score": 178,
-   "comments": 54,
-   "author": "Bender",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 12,
-   "story_id": 50671275,
-   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-   "domain": "github.com",
-   "score": 20,
-   "comments": 3,
-   "author": "ingve",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 13,
-   "story_id": 50663595,
-   "title": "Group chat where your AI talks behind your back",
-   "domain": "construct22.com",
-   "score": 672,
-   "comments": 279,
-   "author": "utiiiD",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 14,
-   "story_id": 50667989,
-   "title": "False computer-checked proofs",
-   "domain": "cr.yp.to",
-   "score": 167,
-   "comments": 73,
-   "author": "_tk_",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 15,
-   "story_id": 50669673,
-   "title": "Show HN: DragDropMath \u2013 Learn math by feel",
-   "domain": "dragdropmath.com",
-   "score": 75,
-   "comments": 19,
-   "author": "ziofill",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 16,
-   "story_id": 50638593,
-   "title": "Lydian Chromatic Concept of Tonal Organization",
-   "domain": "en.wikipedia.org",
-   "score": 32,
-   "comments": 2,
-   "author": "benbreen",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 17,
-   "story_id": 50647400,
-   "title": "Atlantic 1866: information and shipping in the age of the telegraph",
-   "domain": "atlantic-1866.com",
-   "score": 18,
-   "comments": 1,
-   "author": "libraryofbabel",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 18,
-   "story_id": 50660180,
-   "title": "AI made self-hosting fun again",
-   "domain": "janlukas.blog",
-   "score": 1088,
-   "comments": 501,
-   "author": "jlelse",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 19,
-   "story_id": 50633531,
-   "title": "Show HN: Analysis of Hacker News predictions since 2008",
-   "domain": "hnpredictions.com",
-   "score": 39,
-   "comments": 47,
-   "author": "mv4",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 20,
-   "story_id": 50671301,
-   "title": "I am scared: Careless People \u2013 Sarah Wynn-Williams on living under a gag order",
-   "domain": "theguardian.com",
-   "score": 116,
-   "comments": 43,
-   "author": "Lio",
-   "snapshot_at": "2026-11-27T23:29:19"
-  },
-  {
-   "rank": 21,
    "story_id": 50631823,
    "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
    "domain": "guitarworld.com",
-   "score": 4,
-   "comments": 0,
+   "score": 80,
+   "comments": 18,
    "author": "gregsadetsky",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
-   "rank": 22,
-   "story_id": 50670340,
-   "title": "Scrapheap America",
-   "domain": "dansinker.com",
-   "score": 36,
-   "comments": 12,
-   "author": "only_in_america",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "rank": 12,
+   "story_id": 50667726,
+   "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+   "domain": "bouncemarket.minhanhday.com",
+   "score": 366,
+   "comments": 124,
+   "author": "mday404",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
-   "rank": 23,
+   "rank": 13,
+   "story_id": 50672008,
+   "title": "9/UX: a Macintosh-inspired desktop for 9front",
+   "domain": "progrium.github.io",
+   "score": 116,
+   "comments": 27,
+   "author": "rbanffy",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 14,
+   "story_id": 50672521,
+   "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+   "domain": "tabernet.es",
+   "score": 99,
+   "comments": 33,
+   "author": "mmcclure",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 15,
+   "story_id": 50644341,
+   "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+   "domain": "quantamagazine.org",
+   "score": 4,
+   "comments": 1,
+   "author": "ibobev",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 16,
+   "story_id": 50657392,
+   "title": "First images of the impact of DART asteroid deflection experiment",
+   "domain": "arstechnica.com",
+   "score": 209,
+   "comments": 63,
+   "author": "Bender",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 17,
    "story_id": 50667371,
    "title": "Rayshader 1.0: Exit the Matrix",
    "domain": "tylermw.com",
-   "score": 56,
-   "comments": 10,
+   "score": 117,
+   "comments": 14,
    "author": "tylermw",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 18,
+   "story_id": 50644213,
+   "title": "Cyberpunk Television Shows",
+   "domain": "shellzine.net",
+   "score": 93,
+   "comments": 83,
+   "author": "zdw",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 19,
+   "story_id": 50670855,
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "domain": "oag.state.va.us",
+   "score": 364,
+   "comments": 209,
+   "author": "DeepLogin",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 20,
+   "story_id": 50654773,
+   "title": "How WinHelp Files Work",
+   "domain": "quin.fyi",
+   "score": 30,
+   "comments": 23,
+   "author": "frostbyte7",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 21,
+   "story_id": 50671275,
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "domain": "github.com",
+   "score": 57,
+   "comments": 21,
+   "author": "ingve",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 22,
+   "story_id": 50633531,
+   "title": "Show HN: Analysis of Hacker News predictions since 2008",
+   "domain": "hnpredictions.com",
+   "score": 85,
+   "comments": 69,
+   "author": "mv4",
+   "snapshot_at": "2026-11-28T07:53:10"
+  },
+  {
+   "rank": 23,
+   "story_id": 50673688,
+   "title": "Atari Homebrew Awards Cancelled",
+   "domain": "forums.atariage.com",
+   "score": 178,
+   "comments": 177,
+   "author": "bpierre",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 24,
-   "story_id": 50671651,
-   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
-   "domain": "sessiongraph.ai",
-   "score": 11,
-   "comments": 4,
-   "author": "arvindell",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50670757,
+   "title": "Michael Nielsen took down his book on neural nets",
+   "domain": "neuralnetworksanddeeplearning.com",
+   "score": 498,
+   "comments": 306,
+   "author": "brandonb",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 25,
-   "story_id": 50663089,
-   "title": "The need for a formally verifiable mainstream programming language",
-   "domain": "blainehansen.me",
-   "score": 303,
-   "comments": 297,
-   "author": "todsacerdoti",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50669673,
+   "title": "Show HN: DragDropMath \u2013 Learn math by feel",
+   "domain": "dragdropmath.com",
+   "score": 126,
+   "comments": 37,
+   "author": "ziofill",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 26,
-   "story_id": 50670443,
-   "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
-   "domain": "runtimenotes.com",
-   "score": 22,
-   "comments": 4,
-   "author": "runtimenotes",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50667989,
+   "title": "False computer-checked proofs",
+   "domain": "cr.yp.to",
+   "score": 218,
+   "comments": 84,
+   "author": "_tk_",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 27,
-   "story_id": 50667062,
-   "title": "Making a 3D fantasy map like a 16th-Century atlas",
-   "domain": "spritefusion.com",
-   "score": 89,
-   "comments": 10,
-   "author": "HugoDz",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50670841,
+   "title": "The AT&T Unix PC (3B1) VM",
+   "domain": "virtuallyfun.com",
+   "score": 78,
+   "comments": 13,
+   "author": "ok123456",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 28,
-   "story_id": 50670088,
-   "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
-   "domain": "github.com",
-   "score": 27,
-   "comments": 7,
-   "author": "pfdietz",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50671651,
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "domain": "sessiongraph.ai",
+   "score": 47,
+   "comments": 23,
+   "author": "arvindell",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 29,
-   "story_id": 50667452,
-   "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
-   "domain": "webosarchive.org",
-   "score": 66,
-   "comments": 21,
-   "author": "codepoet80",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "story_id": 50657300,
+   "title": "fplotlib \u2013 Fortran Plotting Library",
+   "domain": "github.com",
+   "score": 11,
+   "comments": 1,
+   "author": "AlexeyBrin",
+   "snapshot_at": "2026-11-28T07:53:10"
   },
   {
    "rank": 30,
    "story_id": 50664325,
    "title": "Claude sabotaging ML research tasks?",
    "domain": "twitter.com",
-   "score": 537,
-   "comments": 274,
+   "score": 678,
+   "comments": 307,
    "author": "baobabKoodaa",
-   "snapshot_at": "2026-11-27T23:29:19"
+   "snapshot_at": "2026-11-28T07:53:10"
   }
  ],
  "quality": {
@@ -742,10 +749,10 @@
   "contracts_enforced": 6,
   "models_total": 6,
   "rows": {
-   "stg_snapshots": 10898,
-   "fct_stories": 3240
+   "stg_snapshots": 10997,
+   "fct_stories": 3267
   },
-  "newest_snapshot_at": "2026-11-27T23:29:19+00:00",
+  "newest_snapshot_at": "2026-11-28T07:53:10+00:00",
   "newest_snapshot_age_hours": 0.0
  }
 }
